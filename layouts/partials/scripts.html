@@ -1,0 +1,13 @@
+{{/*  jQuery  */}}
+{{ $jQuery := "/js/jquery-3.5.1.min.js" | absURL }}
+<script src="{{ $jQuery }}"></script>
+{{/*  Bootstrap JS  */}}
+{{ $bootstrap := "/js/bootstrap.bundle.min.js" | absURL }}
+<script src="{{ $bootstrap }}"></script>
+{{/*  Custom JS  */}}
+{{ $mainScript := resources.Get "/js/main.js" | minify }}
+<script src="{{ $mainScript.Permalink }}"></script>
+{{ if .IsHome }}
+  {{ $homeScript := resources.Get "/js/home.js" | minify }}
+  <script src="{{ $homeScript.Permalink }}"></script>
+{{ end }}

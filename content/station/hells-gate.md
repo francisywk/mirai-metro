@@ -1,0 +1,17 @@
+---
+title: Hell's Gate Station
+station_code: [B8]
+station_name_en: Hell's Gate
+station_name_zh: 地獄門
+route_sign: [B]
+alternate_station_name_en: Mirai Nether Portal
+alternate_station_name_zh: 美拉下界傳送門
+location_en: Dark Forest
+location_zh: 黑森林
+jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:left 105px}
+address: [Hell's Gate, Dark Forest, City of Mirai, United Cities]
+nearby_attraction: [Mirai Nether Portal]
+connecting_station: false
+popular: false
+---
+

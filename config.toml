@@ -1,0 +1,34 @@
+baseURL = "https://miraimetro.netlify.app/"
+languageCode = "en"
+title = "Mirai Metro"
+copyright = "CART Corporation. All Rights Reserved."
+
+[params]
+  siteCreatedTime = "2018-08-18T22:16:50+08:00"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Network Map"
+    url = "/map"
+    weight = 2
+  [[menu.main]]
+    name = "Routes"
+    url = "/route"
+    weight = 3
+  [[menu.main]]
+    name = "Stations"
+    url = "/station"
+    weight = 4
+  [[menu.main]]
+    name = "Tickets"
+    url = "/tickets"
+    weight = 5
+  [[menu.main]]
+    name = "Wiki"
+    url = "/wiki"
+    weight = 6
+

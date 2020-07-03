@@ -1,0 +1,32 @@
+route:
+  - route_sign: [R]
+    name: Red Line
+    status: "Normal"
+  - route_sign: [G]
+    name: Green Line
+    status: "Normal"
+  - route_sign: [B]
+    name: Blue Line
+    status: "Normal"
+  - route_sign: [Ac]
+    name: Airport Line
+    status: "Normal"
+  - route_sign: [V]
+    name: Victory Line
+    status: "Normal"
+  - route_sign: [W]
+    name: Waterfall Line
+    status: "Normal"
+  - route_sign: [C]
+    name: City Loop Line
+    status: "Normal"
+  - route_sign: [D]
+    name: Diamond Line
+    status: "Normal"
+legend:
+  - name: "Normal"
+    description: Good service with no disruption
+  - name: "Limited"
+    description: Special service with partial disruption
+  - name: "No"
+    description: Service suspended or closure
