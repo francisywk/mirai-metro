@@ -2,15 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Mirai Metro</title>
-    <link>http://example.org/</link>
+    <link>https://miraimetro.netlify.app/</link>
     <description>Recent content in Home on Mirai Metro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>CART Corporation</copyright>
+    <copyright>CART Corporation. All Rights Reserved.</copyright>
     <lastBuildDate>Mon, 22 Jun 2020 18:02:45 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://miraimetro.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>List of tallest buildings and structures in Mirai</title>
+      <link>https://miraimetro.netlify.app/wiki/list-of-tallest-buildings-and-structures-in-mirai/</link>
+      <pubDate>Mon, 06 Jul 2020 21:10:59 +0800</pubDate>
+      
+      <guid>https://miraimetro.netlify.app/wiki/list-of-tallest-buildings-and-structures-in-mirai/</guid>
+      <description>The City of Mirai has dozens of completed tall structures, with the majority of it are located in City Loop, one of the CBDs of Mirai. The Mirai Tower located in Mugen currently holds the title of the tallest building in The Grid. Other prominent structures in Mirai&amp;rsquo;s skyline include Freedom Tower and The Void. This list ranks tallest buildings and structures in City of Mirai, United Cities by height.</description>
+    </item>
+    
+    <item>
+      <title>Mirai Metro</title>
+      <link>https://miraimetro.netlify.app/wiki/Mirai-Metro/</link>
+      <pubDate>Sat, 04 Jul 2020 01:07:40 +0800</pubDate>
+      
+      <guid>https://miraimetro.netlify.app/wiki/Mirai-Metro/</guid>
+      <description>The Mirai Metro (Chinese: 美拉地鐵, Cantonese Yale: Méihlāai Deihtit), formerly known as Mirai RGB, is a rapid transit system serving City of Mirai, United Cities. It is operated by CART Corporation, a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.</description>
+    </item>
+    
+    <item>
+      <title>Berryhills Station</title>
+      <link>https://miraimetro.netlify.app/station/berryhills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miraimetro.netlify.app/station/berryhills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue Line</title>
+      <link>https://miraimetro.netlify.app/route/blue-line/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miraimetro.netlify.app/route/blue-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hell&#39;s Gate Station</title>
+      <link>https://miraimetro.netlify.app/station/hells-gate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miraimetro.netlify.app/station/hells-gate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirai City Airport Station</title>
+      <link>https://miraimetro.netlify.app/station/mirai-city-airport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miraimetro.netlify.app/station/mirai-city-airport/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
