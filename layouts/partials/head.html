@@ -9,6 +9,13 @@
   {{ "-->" | safeHTML }}
   {{ hugo.Generator }}
   {{ $title := print .Title " | " .Site.Title }}
+  {{ if eq .Section "wiki" }}
+  {{ if eq .Kind "page" }}
+  {{ $title = print .Title " | " .Parent.Title }}
+  {{ else }}
+  {{ $title = print .Title ", " .Params.Description }}
+  {{ end }}
+  {{ end }}
   <meta charset="utf-8">
   <title>{{ $title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, shrink-to-fit=yes">
@@ -22,6 +29,11 @@
   {{/*  Custom CSS  */}}
   {{ $style := resources.Get "css/main.css" | minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{/*  Wiki-specified CSS  */}}
+  {{ if eq .Section "wiki" }}
+  {{ $wiki_style := resources.Get "css/wiki.css" | minify }}
+  <link rel="stylesheet" href="{{ $wiki_style.Permalink }}">
+  {{ end }}
   {{/*  Favicon  */}}
   {{ partial "head/favicon.html" . }}
 </head>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+<body>
+  {{ partial "navbar.html" . }}
+  <div class="container-fluid px-md-5 px-lg-3">
+    <div class="row">
+      <nav class="col-2 px-lg-0 px-xl-3 d-none d-lg-block bg-light">
+        <div class="sidebar-sticky">
+          <a href="/wiki" class="text-decoration-none">
+            <div class="text-center text-miraimetro pb-3">
+              <span class="fa-stack fa-3x">
+                <i class="far fa-circle fa-stack-2x text-mirai"></i>
+                <i class="fab fa-wikipedia-w fa-stack-1x text-miraimetro"></i>
+              </span>
+              <br>
+              <h5 class="m-0 mt-2 font-weight-bold text-uppercase">
+                Mirai Metro Wiki
+              </h5>
+            </div>
+          </a>
+          <ul class="nav flex-column">
+            {{ range .Site.Menus.main }}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ .URL }}">
+                  <i class="{{ .Pre }}"></i>
+                  {{ .Name }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+          <h5 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">Print/export</h5>
+          <hr class="my-0">
+          <ul class="nav flex-column mb-2">
+            <li class="nav-item">
+              <a class="nav-link" href="javascript:window.print()">
+                <i class="fas fa-print fa-fw"></i>
+                Print this page
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="col mx-lg-1 mt-lg-1 mb-5 px-xl-4">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="alert alert-secondary mb-0 rounded-0" role="alert">
+    <div class="container">
+      This page was last updated on <b>{{ .Lastmod.Format "2 March 2006, 3:04 PM" }}</b>.
+    </div>
+  </div>
+  {{ partial "footer.html" . }}
+  {{ partial "scripts.html" . }}
+</body>
+</html>

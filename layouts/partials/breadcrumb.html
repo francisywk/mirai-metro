@@ -1,13 +1,15 @@
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb arr-right small bg-transparent mt-2 mb-0 px-1">
-    {{ with .Parent }}
-    {{ if .IsHome }}
-    <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">Home</a></li>
-    {{ else }}
-    <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
-    <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{ end }}
-    {{ end }}
-    <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
-  </ol>
-</nav>
+<div class="d-lg-none">
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb arr-right small bg-transparent my-2 px-1">
+      {{ with .Parent }}
+      {{ if .IsHome }}
+      <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">Home</a></li>
+      {{ else }}
+      <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+      <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      {{ end }}
+      <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+    </ol>
+  </nav>
+</div>

@@ -2,33 +2,46 @@ baseURL = "https://miraimetro.netlify.app/"
 languageCode = "en"
 title = "Mirai Metro"
 copyright = "CART Corporation. All Rights Reserved."
+enableGitInfo = true
+disablePathToLower = true
 
 [params]
   siteCreatedTime = "2018-08-18T22:16:50+08:00"
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
   [[menu.main]]
     name = "Home"
+    pre = "fas fa-home fa-fw"
     url = "/"
     weight = 1
   [[menu.main]]
     name = "Network Map"
+    pre = "fas fa-map fa-fw"
     url = "/map"
     weight = 2
   [[menu.main]]
     name = "Routes"
+    pre = "fas fa-random fa-fw"
     url = "/route"
     weight = 3
   [[menu.main]]
     name = "Stations"
+    pre = "fas fa-subway fa-fw"
     url = "/station"
     weight = 4
-  [[menu.main]]
-    name = "Tickets"
-    url = "/tickets"
-    weight = 5
+  # [[menu.main]]
+  #   name = "Tickets"
+  #   url = "/tickets"
+  #   weight = 5
   [[menu.main]]
     name = "Wiki"
+    pre = "fab fa-wikipedia-w fa-fw"
     url = "/wiki"
     weight = 6
 

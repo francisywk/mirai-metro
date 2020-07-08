@@ -1,0 +1,61 @@
+{{ define "main" }}
+  {{ partial "breadcrumb.html" . }}
+  {{ with .Params }}
+    <div class="pt-lg-3">
+      <h3 class="wiki-title mb-1">{{ .Title }}</h3>
+      {{ with .Description }}
+        <p class="small mb-2">{{ . }}</p>
+      {{ end }}
+      <hr class="mt-0">
+      {{ with .notice }}
+        <p class="bg-miraimetro2 font-italic small p-2">
+          {{ . | markdownify }}
+        </p>
+      {{ end }}
+    </div>
+    {{ if .quickFacts }}
+      <div class="row">
+        <div class="col-lg-3 order-lg-12 mx-auto ml-lg-auto mr-lg-0 mb-4 mb-lg-0" id="infobar">
+          <button class="btn btn-block bg-miraimetro2 rounded-0 font-weight-bold text-left d-lg-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">Quick Facts: <span class="font-weight-normal text-secondary">Native name, Owner ...</span></button>
+          <div class="collapse d-lg-block" id="quickfacts">
+            <div class="container bg-light border">
+              <h6 class="text-center my-0 mt-2"><strong>{{ .Title }}</strong></h6>
+              {{ range .quickFacts }}
+                {{ with .image }}
+                  <img src="{{ . }}" class="brand-logo mx-auto my-2 d-block">
+                {{ end }}
+                {{ with .heading }}
+                  <p class="bg-miraimetro2 text-center font-weight-bold py-1 mb-2">{{ . }}</p>
+                {{ end }}
+                <div class="side-table">
+                  {{ range .cols_1 }}
+                    <div class="row mb-3">
+                      <div class="col">
+                        {{ .content | markdownify }}
+                      </div>
+                    </div>
+                  {{ end }}
+                  {{ range .cols_2 }}
+                    <div class="row mb-2">
+                      <div class="col-5 font-weight-bold">
+                        {{ .title | markdownify }}
+                      </div>
+                      <div class="col-7">
+                        {{ .content | markdownify }}
+                      </div>
+                    </div>
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-9 order-lg-1" id="wiki-content">
+          {{ with $.Content }}
+            {{ . }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}

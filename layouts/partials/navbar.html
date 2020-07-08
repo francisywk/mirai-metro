@@ -11,8 +11,8 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav mr-auto">
         {{ range .Site.Menus.main }}
-        <li class="nav-item {{ if eq $.Title .Name }}active{{ end }}">
-          <a class="nav-link {{ if eq $.Title .Name }}font-weight-bold{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+        <li class="nav-item {{ if or (eq $.Title .Name) (eq $.Slug .Name) }}active{{ end }}">
+          <a class="nav-link {{ if or (eq $.Title .Name) (eq $.Slug .Name) }}font-weight-bold{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
         </li>
         {{ end }}
       </ul>

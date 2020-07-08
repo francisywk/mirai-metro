@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="alert alert-info border border-info rounded-0 mt-3 px-2 px-md-3 py-3">
+  <div class="wiki-home-header mx-auto mx-md-0 text-center">
+    <h5>Welcome to <a href="/wiki/Mirai_Metro" class="alert-link" title="Mirai Metro">Mirai Metro</a> Wiki,</h5>
+    <p class="small m-0">the <a href="https://en.wikipedia.org/wiki/Official" class="alert-link" title="Official">official</a> <a href="https://en.wikipedia.org/wiki/Encyclopedia" class="alert-link" title="Encyclopedia">encyclopedia</a> for Mirai Metro and beyond.</p>
+    <p class="small mb-0">{{ len (where .Site.RegularPages "Section" "==" "wiki") }} articles in <a href="https://en.wikipedia.org/wiki/English_language" class="alert-link" title="English language">English</a></p>
+  </div>
+</div>
+<table class="table table-bordered align-top mt-3">
+  <thead>
+    <tr>
+      <th class="py-2 bg-miraimetro text-light border-0" colspan="2"><i class="fas fa-globe-africa">&nbsp;&nbsp;</i>Explore the wiki</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="align-top px-1 px-md-3">
+        <ul class="row m-0 pl-4">
+          {{ range .Pages }}
+          <li class="col-12 col-md-6 col-xl-4 px-0">
+            <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+{{ end }}
