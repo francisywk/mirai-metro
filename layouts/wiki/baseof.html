@@ -46,11 +46,13 @@
       </div>
     </div>
   </div>
-  <div class="alert alert-secondary mb-0 rounded-0" role="alert">
-    <div class="container">
-      This page was last updated on <b>{{ .Lastmod.Format "2 January 2006, 3:04 PM" }}</b>.
+  {{ if eq .Page.Kind "page" }}
+    <div class="alert alert-secondary mb-0 rounded-0" role="alert">
+      <div class="container">
+        <i class="fas fa-lg fa-history pr-2"></i>This page was last updated on <b>{{ dateFormat "2 January 2006, at 15:04 (MST)" .Lastmod.UTC }}</b>.
+      </div>
     </div>
-  </div>
+  {{ end }}
   {{ partial "footer.html" . }}
   {{ partial "scripts.html" . }}
 </body>

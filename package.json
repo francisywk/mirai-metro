@@ -1,0 +1,24 @@
+{
+  "name": "miraimetro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "hugo --gc && gulp beautify-html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/francisywk/mirai-metro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/francisywk/mirai-metro/issues"
+  },
+  "homepage": "https://gitlab.com/francisywk/mirai-metro#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-beautify": "^3.0.0"
+  }
+}

@@ -1,7 +1,7 @@
 # global context
 [build]
   publish = "public"
-  command = "hugo"
+  command = "npm rum build"
 
 [context.production.environment]
   HUGO_VERSION = "0.72.0"
