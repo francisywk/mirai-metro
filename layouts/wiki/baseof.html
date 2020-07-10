@@ -49,7 +49,7 @@
   {{ if eq .Page.Kind "page" }}
     <div class="alert alert-secondary mb-0 rounded-0" role="alert">
       <div class="container">
-        <i class="fas fa-lg fa-history pr-2"></i>This page was last updated on <b>{{ dateFormat "2 January 2006, at 15:04 (MST)" .Lastmod.UTC }}</b>.
+        <i class="fas fa-lg fa-history pr-2"></i>This page was last edited on <b>{{ dateFormat "2 January 2006, at 15:04 (MST)" .Lastmod.UTC }}</b>.
       </div>
     </div>
   {{ end }}

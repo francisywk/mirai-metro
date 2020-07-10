@@ -9,14 +9,31 @@
 <table class="table table-bordered align-top mt-3">
   <thead>
     <tr>
-      <th class="py-2 bg-miraimetro text-light border-0" colspan="2"><i class="fas fa-globe-africa">&nbsp;&nbsp;</i>Explore the wiki</th>
+      <th class="py-2 bg-miraimetro text-light border-0"><i class="fas fa-globe-africa pr-2"></i>Explore the wiki</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <th class="text-center py-1 bg-miraimetro2" scope="col">Mirai Metro Articles</th>
+    </tr>
+    <tr>
       <td class="align-top px-1 px-md-3">
         <ul class="row m-0 pl-4">
-          {{ range .Pages }}
+          {{ range where .Pages ".Params.category" "eq" "miraimetro" }}
+          <li class="col-12 col-md-6 col-xl-4 px-0">
+            <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th class="text-center py-1 bg-miraimetro2" scope="col" colspan="2">Other Articles</th>
+    </tr>
+    <tr>
+      <td class="align-top px-1 px-md-3">
+        <ul class="row m-0 pl-4">
+          {{ range where .Pages ".Params.category" "eq" "others" }}
           <li class="col-12 col-md-6 col-xl-4 px-0">
             <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
           </li>

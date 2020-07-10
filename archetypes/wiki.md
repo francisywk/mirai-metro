@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description: 
 date: {{ .Date }}
 draft: false
-notice: 
-quickFacts: 
+category:
+notice:
+quickFacts:
 ---

@@ -3,7 +3,8 @@ title: "Mirai Metro"
 description: Rapid transit system in Mirai, United Cities
 date: 2020-07-04T01:07:40+08:00
 draft: false
-notice: "This article is about the current rapid transit system in Mirai. For the system's former name, see [Mirai RGB](/wiki/Mirai-RGB 'Mirai RGB')."
+category: miraimetro
+notice: "This article is about the current rapid transit system in Mirai. For the system's former name, see [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB')."
 quickFacts:
   - image: "/img/mirai_metro.png"
   - heading: Overview
@@ -13,7 +14,7 @@ quickFacts:
     - title: Owner
       content: Mirai City Government
     - title: Locale
-      content: "[City of Mirai](/wiki/City-of-Mirai 'Mirai')"
+      content: "[City of Mirai](/wiki/city-of-mirai 'Mirai')"
     - title: Transit type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: Number of lines
@@ -23,9 +24,9 @@ quickFacts:
   - heading: Operation
   - cols_2:
     - title: Began operation
-      content: "7 June 2015<br>(as [Mirai RGB](/wiki/Mirai-RGB 'Mirai RGB'))"
+      content: "7 June 2015<br>(as [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB'))"
     - title: Operator
-      content: "[CART Corporation](/wiki/CART-Corporation 'CART Corporation')"
+      content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
   - heading: Technical
   - cols_2:
     - title: System length
@@ -45,9 +46,13 @@ quickFacts:
                 </a>"
 ---
 
-The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Deihtit*), formerly known as [Mirai RGB](/wiki/Mirai-RGB "Mirai RGB"), is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/United-Cities "United Cities"). It is operated by [CART Corporation](/wiki/CART-Corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
+The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"), is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
 
-Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/Mirai-Regional-Railway "Mirai Regional Railway"), the metro provides urban rail transportation service for the nation's capital.
+Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/mirai-regional-railway "Mirai Regional Railway"), the metro provides urban rail transportation service for the nation's capital.
+
+<br>
+
+{{< toc >}}
 
 <br>
 
@@ -55,8 +60,8 @@ Before Mirai Metro underwent rapid expansion, the network only consists of three
 
 ---
 
-- 7 June 2015 – Mirai RGB started operation with Zero Zero to Paradise Falls section of Blue Line enters service.
-- 5 October 2019 – Hell Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill sttaion") was opened on the Blue Line between Zero Zero and Spawn.
+- 7 June 2015: Mirai RGB started operation with Zero Zero to Paradise Falls section of Blue Line enters service.
+- 5 October 2019: Hell Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill sttaion") was opened on the Blue Line between Zero Zero and Spawn.
 
 <br>
 
@@ -64,7 +69,7 @@ Before Mirai Metro underwent rapid expansion, the network only consists of three
 
 ---
 
-###### **Network**
+##### Network
 
 Mirai Metro is made up of 8 lines that are currently operational on 8.1 kilometres (5.1 miles) of tracks. All lines on the network are manual operation lines except the Diamond Line, which is an automated line. An automated line requires no further input from the passengers after they have selected the travel direction. The minecart will stop at the station for a few seconds before launching the minecart along with the passenger to the following station in the same direction.
 
@@ -72,7 +77,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
 
 <br>
 
-###### **Stations**
+##### Stations
 
 <p class="pl-3 font-italic">
   See also: List of Mirai Metro stations
@@ -104,7 +109,7 @@ Other interchage stations connecting two Mirai Metro lines are:
 
 <br>
 
-###### **Rolling stock**
+##### Rolling stock
 
 Rolling stocks on the Mirai Metro are custom single unit minecarts called CommandCart, using activated powered rails for propulsion. The Cart Corporation CommandCart (CCC) is the second and newest series of rolling stock used on the Mirai Metro network. Each CommandCart features the name and colour of the metro line it serves.
 
@@ -116,5 +121,5 @@ The following table lists the rolling stock of the network:
 
 ---
 
-###### **Future lines**
+##### Future lines
 

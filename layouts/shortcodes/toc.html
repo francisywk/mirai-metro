@@ -1,0 +1,9 @@
+<div class="border bg-light p-3 mb-3 d-block" id="table-of-contents">
+  <button class="btn btn-block rounded-0 p-0 font-weight-bold text-left" id="btn-chevronupdown"
+    type="button" data-toggle="collapse" data-target="#contents" aria-expanded="false" aria-controls="contents">
+    <i class="fas fa-bars"></i>&nbsp;&nbsp;Contents&nbsp;&nbsp;
+  </button>
+  <div class="collapse show mt-2" id="contents">
+    {{ .Page.TableOfContents }}
+  </div>
+</div>

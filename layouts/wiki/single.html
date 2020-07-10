@@ -16,13 +16,30 @@
     {{ if .quickFacts }}
       <div class="row">
         <div class="col-lg-3 order-lg-12 mx-auto ml-lg-auto mr-lg-0 mb-4 mb-lg-0" id="infobar">
-          <button class="btn btn-block bg-miraimetro2 rounded-0 font-weight-bold text-left d-lg-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">Quick Facts: <span class="font-weight-normal text-secondary">Native name, Owner ...</span></button>
+          <button class="btn btn-block bg-miraimetro2 rounded-0 font-weight-bold text-left d-lg-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">
+            Quick Facts: <span class="font-weight-normal text-secondary">
+              {{ range .quickFacts }}
+                {{ with .cols_2 }}
+                  {{ range first 2 . }}
+                    {{ .title }},
+                  {{ end }}
+                {{ end }}
+              {{ end }} ...
+            </span>
+          </button>
           <div class="collapse d-lg-block" id="quickfacts">
             <div class="container bg-light border">
-              <h6 class="text-center my-0 mt-2"><strong>{{ .Title }}</strong></h6>
+              {{ range first 1 .quickFacts }}
+                <h6 class="text-center mt-2 mb-0" {{ with .title_style}}style="{{ . | safeCSS }}"{{ end }}><strong>{{ $.Title }}</strong></h6>
+              {{ end }}
               {{ range .quickFacts }}
                 {{ with .image }}
                   <img src="{{ . }}" class="brand-logo mx-auto my-2 d-block">
+                {{ end }}
+                {{ if .route_sign }}
+                  <div class="text-center py-2">
+                    {{ partial "route_sign/normal.html" . }}
+                  </div>
                 {{ end }}
                 {{ with .heading }}
                   <p class="bg-miraimetro2 text-center font-weight-bold py-1 mb-2">{{ . }}</p>
@@ -37,7 +54,7 @@
                   {{ end }}
                   {{ range .cols_2 }}
                     <div class="row mb-2">
-                      <div class="col-5 font-weight-bold">
+                      <div class="col-5 font-weight-bold pr-0">
                         {{ .title | markdownify }}
                       </div>
                       <div class="col-7">
@@ -56,6 +73,10 @@
           {{ end }}
         </div>
       </div>
+    {{ else }}
+      {{ with $.Content }}
+        {{ . }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
