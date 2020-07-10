@@ -19,12 +19,12 @@
           <button class="btn btn-block bg-miraimetro2 rounded-0 font-weight-bold text-left d-lg-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">
             Quick Facts: <span class="font-weight-normal text-secondary">
               {{ range .quickFacts }}
-                {{ with .cols_2 }}
-                  {{ range first 2 . }}
-                    {{ .title }},
-                  {{ end }}
+                {{ range .cols_2 }}
+                  {{ $titles := print .title ", " }}
+                  {{ $.Scratch.Add "summary" $titles }}
                 {{ end }}
-              {{ end }} ...
+              {{ end }}
+              {{ $.Scratch.Get "summary" | truncate 20 }}
             </span>
           </button>
           <div class="collapse d-lg-block" id="quickfacts">
