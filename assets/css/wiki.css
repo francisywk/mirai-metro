@@ -163,7 +163,7 @@ a.missing {
 #btn-chevronupdown:after {
   font-family: "Font Awesome 5 Free";
   content: "\f077";
-  float: right;
+  
 }
 
 #btn-chevronupdown.collapsed:after {

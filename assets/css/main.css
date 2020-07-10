@@ -145,8 +145,27 @@ body {
   width: 95%;
 }
 
-.py-25 {
+.p-25,
+.px-25,
+.pl-25 {
+  padding-left: .75rem !important;
+}
+
+.p-25,
+.px-25,
+.pr-25 {
+  padding-right: .75rem !important;
+}
+
+.p-25,
+.py-25,
+.pt-25 {
   padding-top: .75rem !important;
+}
+
+.p-25,
+.py-25,
+.pb-25 {
   padding-bottom: .75rem !important;
 }
 

@@ -10,17 +10,14 @@ The City of Mirai has dozens of completed tall structures, with the majority of 
 
 <br>
 
-{{< toc >}}
-
-<br>
-
 #### Tallest buildings and structures
 
 ---
 
 This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tall, based on standard height measurement. This includes spires and architectural details but does not include antenna masts. Existing structures are included for ranking purposes based on present height. This list includes under construction buildings that have already been topped out.
 
-{{< bootstrap-table "table table-bordered" >}}
+<div class="table-responsive">
+{{< bootstrap-table "table table-bordered table-700" >}}
 | Rank 	| Name                                                   	| Height (m/ft) 	| Primary use               	| Location           	|
 |------	|--------------------------------------------------------	|---------------	|---------------------------	|--------------------	|
 |   1  	| Mirai Tower<br>美拉中心大廈                            	| 189 / 620     	| Mixed                     	| Mugen              	|
@@ -36,3 +33,4 @@ This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tal
 |  11  	| Three Storey Pagoda<br>三重塔                          	| 21 / 69       	| Mixed                     	| Mugen              	|
 |  12  	| Grand Silo Tower<br>大筒倉塔                           	| 20 / 66       	| Grain elevator            	| Fhoenix Hill       	|
 {{< /bootstrap-table >}}
+</div>

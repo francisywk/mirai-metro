@@ -74,9 +74,11 @@
         </div>
       </div>
     {{ else }}
-      {{ with $.Content }}
-        {{ . }}
-      {{ end }}
+      <div id="wiki-content">
+        {{ with $.Content }}
+          {{ . }}
+        {{ end }}
+      </div>
     {{ end }}
   {{ end }}
 {{ end }}
