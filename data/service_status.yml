@@ -23,6 +23,8 @@ route:
   - route_sign: [D]
     name: Diamond Line
     status: "Normal"
+airport:
+  - status: "Normal"
 legend:
   - name: "Normal"
     description: Good service with no disruption

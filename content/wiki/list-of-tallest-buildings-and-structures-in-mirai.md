@@ -21,7 +21,7 @@ This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tal
 | Rank 	| Name                                                   	| Height (m/ft) 	| Primary use               	| Location           	|
 |------	|--------------------------------------------------------	|---------------	|---------------------------	|--------------------	|
 |   1  	| Mirai Tower<br>美拉中心大廈                            	| 189 / 620     	| Mixed                     	| Mugen              	|
-|   2  	| United Financial Centre<br>聯合金融中心                	| 157 / 515     	| Office                    	| Berryhills         	|
+|   2  	| One Union Trade Centre<br>聯合貿易中心                	| 157 / 515     	| Office                    	| Berryhills         	|
 |   3  	| Freedom Tower<br>自由大廈                              	| 144 / 472     	| Office                    	| Mugen              	|
 |   4  	| Paradise Tower<br>仙境大廈                             	| 114 / 374     	| Residential               	| Mugen              	|
 |   5  	| CT Centre<br>CT集團中心                                	| 89.5 / 294    	| Office                    	| Mugen              	|

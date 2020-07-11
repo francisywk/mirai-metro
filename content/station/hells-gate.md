@@ -4,6 +4,14 @@ station_code: [B8]
 station_name_en: Hell's Gate
 station_name_zh: 地獄門
 route_sign: [B]
+adjacent_stations:
+  - route_sign: [B]
+    preceding:
+      - station: B7-Zero Zero
+        towards: Victory Bay
+    following:
+      - station: B9-Spawn
+        towards: Spawn
 alternate_station_name_en: Mirai Nether Portal
 alternate_station_name_zh: 美拉下界傳送門
 location_en: Dark Forest

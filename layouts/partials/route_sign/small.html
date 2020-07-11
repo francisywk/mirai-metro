@@ -7,9 +7,9 @@
     {{ else if eq . "B" }}
       <div class="route-sign-sm blueline my-1" data-toggle="tooltip" data-placement="right" title="Blue Line 藍綫">&nbsp;B&nbsp;</div>
     {{ else if eq . "A" }}
-      <div class="route-sign-sm airportline my-1" data-toggle="tooltip" data-placement="right" title="Airport Line (Commuter) 空港綫(普通)">&nbsp;A&nbsp;</div>
+      <div class="route-sign-sm airportline my-1" data-toggle="tooltip" data-placement="right" data-html="true" title="Airport Line (Commuter)<br>空港綫(普通)">&nbsp;A&nbsp;</div>
     {{ else if eq . "Ax" }}
-      <div class="route-sign-sm airportexpress my-1" data-toggle="tooltip" data-placement="right" title="Airport Line (Express) 空港綫(直達)">&nbsp;A&nbsp;</div>
+      <div class="route-sign-sm airportexpress my-1" data-toggle="tooltip" data-placement="right" data-html="true" title="Airport Line (Express)<br>空港綫(直達)">&nbsp;A&nbsp;</div>
     {{ else if eq . "Ac" }}
       <div class="route-sign-sm airportcomposite my-1" data-toggle="tooltip" data-placement="right" title="Airport Line 空港綫">&nbsp;A&nbsp;</div>
     {{ else if eq . "V" }}

@@ -7,7 +7,7 @@
     <div class="container small">
       <ul class="nav nav-pills nav-fill nav-justified border font-weight-bold mb-2">
         <li class="nav-item pill">
-          <a class="nav-link active rounded-0 py-3" data-toggle="tab" href="#adjacent_station">Adjacent Station</a>
+          <a class="nav-link active rounded-0 py-3" data-toggle="tab" href="#adjacent_stations">Adjacent Stations</a>
         </li>
         {{ if .connecting_station }}
           <li class="nav-item pill border-left border-right">
@@ -19,26 +19,87 @@
         </li>
       </ul>
       <div class="tab-content">
-        <div id="adjacent_station" class="tab-pane fade show active text-center">
-          {{ range .route_sign }}
+        <div id="adjacent_stations" class="tab-pane fade show active text-center">
+          {{ range .adjacent_stations }}
             <div class="row border mx-0 mb-2 py-3 align-items-center">
-              <div class="col-3"></div>
+              {{ with .preceding }}
+                {{ range . }}
+                  <div class="col-3">
+                    {{ $stastr := split .station "-" }}
+                    <a href="/station/{{ index $stastr 1 | anchorize }}">
+                      <span>{{ index $stastr 0 }}</span>
+                      <p class="mb-0">{{ index $stastr 1 }}</p>
+                    </a>
+                  </div>
+                  <div class="col-2">
+                    <i class="fas fa-arrow-left fa-sm text-miraimetro2"></i>
+                    <div class="hide-on-mobile">
+                      <small>
+                        <i>towards</i>
+                        <br>
+                        <a href="/station/{{ anchorize .towards }}">{{ .towards }}</a>
+                      </small>
+                    </div>
+                  </div>
+                {{ end }}
+              {{ end }}
               <div class="col-2">
-                <i class="fas fa-arrow-left fa-sm text-miraimetro2"></i>
-                <div class="hide-on-mobile">
-                  <small>
-                    <i>towards</i>
-                    <br>
-                    <a href="Victory_Bay">Victory Bay</a>
-                  </small>
-                </div>
+                {{ if .route_sign }}
+                  {{ partial "route_sign/small.html" . }}
+                {{ end }}
               </div>
-              <div class="col-2">
-                {{ partial "route_sign/small.html" $.Params }}
+              {{ with .following }}
+                {{ range . }}
+                  <div class="col-2">
+                    <i class="fas fa-arrow-right fa-sm text-miraimetro2"></i>
+                      <div class="hide-on-mobile">
+                        <small>
+                          <i>towards</i>
+                          <br>
+                          <a href="/station/{{ anchorize .towards }}">{{ .towards }}</a>
+                        </small>
+                      </div>
+                  </div>
+                  <div class="col-3">
+                    {{ $stastr := split .station "-" }}
+                    <a href="/station/{{ index $stastr 1 | anchorize }}">
+                      <span>{{ index $stastr 0 }}</span>
+                      <p class="mb-0">{{ index $stastr 1 }}</p>
+                    </a>
+                  </div>
+                {{ end }}
+              {{ end }}
+              <div class="col-12 mt-2">
+                {{ $rs := .route_sign }}
+                {{ range $.Site.Data.service_status.route }}
+                  {{ if eq .route_sign $rs }}
+                    <small>
+                      {{ if eq .status "Limited" }}
+                        <i class="fas fa-circle text-warning"></i>
+                      {{ else if eq .status "No" }}
+                        <i class="fas fa-circle text-danger"></i>
+                      {{ else }}
+                        <i class="fas fa-circle text-success"></i>
+                      {{ end }}
+                      {{ .status }} service
+                    </small>
+                  {{ end }}
+                {{ end }}
+                {{ if (or (in $rs "A") (in $rs "Ax")) }}
+                  {{ range $.Site.Data.service_status.airport }}
+                    <small>
+                      {{ if eq .status "Limited" }}
+                        <i class="fas fa-circle text-warning"></i>
+                      {{ else if eq .status "No" }}
+                        <i class="fas fa-circle text-danger"></i>
+                      {{ else }}
+                        <i class="fas fa-circle text-success"></i>
+                      {{ end }}
+                      {{ .status }} service
+                    </small>
+                  {{ end }}
+                {{ end }}
               </div>
-              <div class="col-2"></div>
-              <div class="col-3"></div>
-              <div class="col-12 mt-2"></div>
             </div>
           {{ end }}
         </div>

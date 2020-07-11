@@ -11,3 +11,8 @@
   {{ $homeScript := resources.Get "/js/home.js" | minify }}
   <script src="{{ $homeScript.Permalink }}"></script>
 {{ end }}
+{{ if eq .Title "Stations" }}
+<script>
+  $("#searchInput").on("keyup", function () { var value = $(this).val().toLowerCase(); $("#stationTable tr").filter(function () { $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1) }) })
+</script>
+{{ end }}
