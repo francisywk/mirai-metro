@@ -22,16 +22,20 @@
         <div id="adjacent_stations" class="tab-pane fade show active text-center">
           {{ range .adjacent_stations }}
             <div class="row border mx-0 mb-2 py-3 align-items-center">
-              {{ with .preceding }}
-                {{ range . }}
-                  <div class="col-3">
+              <div class="col-3">
+                {{ with .preceding }}
+                  {{ range . }}
                     {{ $stastr := split .station "-" }}
                     <a href="/station/{{ index $stastr 1 | anchorize }}">
                       <span>{{ index $stastr 0 }}</span>
                       <p class="mb-0">{{ index $stastr 1 }}</p>
                     </a>
-                  </div>
-                  <div class="col-2">
+                  {{ end }}
+                {{ end }}
+              </div>
+              <div class="col-2">
+                {{ with .preceding }}
+                  {{ range . }}
                     <i class="fas fa-arrow-left fa-sm text-miraimetro2"></i>
                     <div class="hide-on-mobile">
                       <small>
@@ -40,35 +44,39 @@
                         <a href="/station/{{ anchorize .towards }}">{{ .towards }}</a>
                       </small>
                     </div>
-                  </div>
+                  {{ end }}
                 {{ end }}
-              {{ end }}
+              </div>
               <div class="col-2">
                 {{ if .route_sign }}
                   {{ partial "route_sign/small.html" . }}
                 {{ end }}
               </div>
-              {{ with .following }}
-                {{ range . }}
-                  <div class="col-2">
+              <div class="col-2">
+                {{ with .following }}
+                  {{ range . }}
                     <i class="fas fa-arrow-right fa-sm text-miraimetro2"></i>
-                      <div class="hide-on-mobile">
-                        <small>
-                          <i>towards</i>
-                          <br>
-                          <a href="/station/{{ anchorize .towards }}">{{ .towards }}</a>
-                        </small>
-                      </div>
-                  </div>
-                  <div class="col-3">
+                    <div class="hide-on-mobile">
+                      <small>
+                        <i>towards</i>
+                        <br>
+                        <a href="/station/{{ anchorize .towards }}">{{ .towards }}</a>
+                      </small>
+                    </div>
+                  {{ end }}
+                {{ end }}
+              </div>
+              <div class="col-3">
+                {{ with .following }}
+                  {{ range . }}
                     {{ $stastr := split .station "-" }}
                     <a href="/station/{{ index $stastr 1 | anchorize }}">
                       <span>{{ index $stastr 0 }}</span>
                       <p class="mb-0">{{ index $stastr 1 }}</p>
                     </a>
-                  </div>
+                  {{ end }}
                 {{ end }}
-              {{ end }}
+              </div>
               <div class="col-12 mt-2">
                 {{ $rs := .route_sign }}
                 {{ range $.Site.Data.service_status.route }}
@@ -104,7 +112,18 @@
           {{ end }}
         </div>
         {{ if .connecting_station }}
-
+          <div id="connecting_station" class="tab-pane fade text-center">
+            <div class="row border mx-0 mb-2 py-3">
+              <div class="col-12">
+                <p class="font-weight-bold mb-2">Walking distance to<br>&#x25B8; <a href="/station/mugen">Mugen</a></p>
+                <p class="mb-2">Available transfers:</p>
+                <div class="route-sign-sm blueline mr-1" data-toggle="tooltip" data-placement="bottom" title="Blue Line 藍綫">&nbsp;B&nbsp;</div>
+                <div class="route-sign-sm victoryline mr-1" data-toggle="tooltip" data-placement="bottom" title="Victory Line 勝利綫">&nbsp;V&nbsp;</div>
+                <div class="route-sign-sm waterfallline mr-1" data-toggle="tooltip" data-placement="bottom" title="Waterfall Line 瀑布綫">&nbsp;W&nbsp;</div>
+                <div class="route-sign-sm diamondline" data-toggle="tooltip" data-placement="bottom" title="Diamond Line 鑽石綫">&nbsp;D&nbsp;</div>
+              </div>
+            </div>
+          </div>
         {{ end }}
         <div id="information" class="tab-pane fade">
           <table class="table table-bordered border">

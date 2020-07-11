@@ -17,7 +17,7 @@ alternate_station_name_zh:
 location_en: 
 location_zh: 
 jumbotron_style: 
-address: [City of Mirai, United Cities]
+address: [{{ replace .Name "-" " " | title }}, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false
 popular: false
