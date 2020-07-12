@@ -20,7 +20,7 @@ quickFacts:
     - title: Number of lines
       content: 8
     - title: Number of stations
-      content: 30
+      content: 32
   - heading: Operation
   - cols_2:
     - title: Began operation

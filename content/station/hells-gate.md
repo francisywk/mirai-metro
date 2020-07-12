@@ -7,7 +7,7 @@ route_sign: [B]
 adjacent_stations:
   - route_sign: [B]
     preceding:
-      - station: B7-Zero Zero
+      - station: B6-Zero Zero
         towards: Victory Bay
     following:
       - station: B9-Spawn

@@ -18,7 +18,7 @@ quickFacts:
     - title: Termini
       content: Victory Bay<br>Spawn
     - title: Stations
-      content: 8
+      content: 9
   - heading: Operational
   - cols_2:
     - title: Opened

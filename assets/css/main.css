@@ -145,6 +145,11 @@ body {
   width: 95%;
 }
 
+.my-05 {
+  margin-top: .125rem;
+  margin-bottom: .125rem;
+}
+
 .p-25,
 .px-25,
 .pl-25 {
