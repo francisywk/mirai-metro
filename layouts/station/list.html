@@ -10,7 +10,7 @@
               <a href="{{ anchorize .station_name_en }}" class="text-dark">
                 <div class="station-banner text-center mx-auto shadow-none pb-0">
                   <div class="mb-2">
-                    {{ partial "station_code/small.html" . }}
+                    {{ partial "station_code/small/horizontal.html" . }}
                   </div>
                   <h4 class="station-name-en mb-0">{{ .station_name_en }}</h4>
                   <h5 class="station-name-zh mb-0">{{ .station_name_zh }}</h5>
@@ -34,7 +34,7 @@
           <tr>
             <th>Station Code<br><small>車站編號</small></th>
             <th>Station Name<br><small>車站名稱</small></th>
-            <th class="text-centers">Line<br><small>路綫</small></th>
+            <th class="text-center">Line<br><small>路綫</small></th>
             <th>Alternate Station Name<br><small>副站名</small></th>
             <th>Location<br><small>所在地</small></th>
           </tr>
@@ -51,8 +51,8 @@
                     {{ .station_name_en }}<br><span class="small text-dark">{{ .station_name_zh }}</span>
                   </a>
                 </td>
-                <td class="text-centers">
-                  {{ partial "route_sign/small.html" . }}
+                <td class="text-center">
+                  {{ partial "route_sign/small/vertical.html" . }}
                 </td>
                 <td>
                   {{ .alternate_station_name_en }}<br><small>{{ .alternate_station_name_zh }}</small>

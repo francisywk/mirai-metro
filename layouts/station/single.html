@@ -49,7 +49,7 @@
               </div>
               <div class="col-2">
                 {{ if .route_sign }}
-                  {{ partial "route_sign/small.html" . }}
+                  {{ partial "route_sign/small/horizontal.html" . }}
                 {{ end }}
               </div>
               <div class="col-2">
@@ -118,7 +118,7 @@
                 <div class="col-12">
                   <p class="font-weight-bold mb-2">Walking distance to<br>&#x25B8; <a href="/station/{{ anchorize .station }}">{{ .station }}</a></p>
                   <p class="mb-2">Available transfers:</p>
-                  {{ partial "route_sign/small.html" . }}
+                  {{ partial "route_sign/small/horizontal.html" . }}
                 </div>
               </div>
             </div>

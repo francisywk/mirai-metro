@@ -6,7 +6,7 @@
         <div class="col-4 col-md-3 col-lg text-center mr-lg-2 p-0 d-inline-flex">
           <a href="/route/{{ anchorize .name }}" class="btn btn-light rounded-0 border w-100 px-0 py-4"
             role="button">
-            {{ partial "route_sign/small.html" . }}
+            {{ partial "route_sign/small/horizontal.html" . }}
             <p class="small text-primary mt-1 mb-0"><i class="fas fa-angle-right d-none d-lg-inline">&nbsp;</i>{{ .name }}</p>
             {{ if eq .status "Limited" }}
               <i class="fas fa-circle fa-xs text-warning pt-3 d-none d-lg-block"></i>
@@ -103,3 +103,10 @@
     </div>
   </div>
 </div>
+<!-- Scroll Top Button-->
+<a href="#page-top" class="text-mirai js-scroll-trigger" id="btn-scroll-top">
+  <span class="fa-stack fa-1x">
+    <i class="fas fa-circle fa-stack-2x"></i>
+    <i class="fas fa-chevron-up fa-stack-1x text-white"></i>
+  </span>
+</a>
