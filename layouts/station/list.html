@@ -2,7 +2,7 @@
   <div class="container pt-5">
     {{ partial "header.html" . }}
     <h4 class="pt-5 pb-3 font-weight-bold text-center" id="popular_stations">Popular Stations</h4>
-    <div class="row text-center mx-xl-0 mt-0 pb-5" id="popular-stations">
+    <div class="row text-center mx-xl-0 mb-3" id="popular-stations">
       {{ range .Pages }}
         {{ with .Params }}
           {{ if .popular }}
@@ -34,7 +34,7 @@
           <tr>
             <th>Station Code<br><small>車站編號</small></th>
             <th>Station Name<br><small>車站名稱</small></th>
-            <th class="text-center">Line<br><small>路綫</small></th>
+            <th class="text-centers">Line<br><small>路綫</small></th>
             <th>Alternate Station Name<br><small>副站名</small></th>
             <th>Location<br><small>所在地</small></th>
           </tr>
@@ -51,7 +51,7 @@
                     {{ .station_name_en }}<br><span class="small text-dark">{{ .station_name_zh }}</span>
                   </a>
                 </td>
-                <td class="text-center">
+                <td class="text-centers">
                   {{ partial "route_sign/small.html" . }}
                 </td>
                 <td>

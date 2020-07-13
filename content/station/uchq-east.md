@@ -3,7 +3,7 @@ title: UCHQ East Station
 station_code: [A3]
 station_name_en: UCHQ East
 station_name_zh: 聯合城總部東
-route_sign: [A]
+route_sign: [Ac]
 adjacent_stations:
   - route_sign: [A]
     preceding:

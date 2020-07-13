@@ -37,7 +37,9 @@ location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png),url(/img/bg/waterfallline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px;background-position:0 85px,right 115px,0 145px,0 175px}
 address: [Mugen, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Mirai Central Park, Mirai Tower, Freedom Tower, CT Centre, Three Storey Pagoda, Paradise Tower, Central Clock Tower]
-connecting_station: true
+connecting_station:
+  - station: Mirai
+    route_sign: [G,Ac,C,D]
 popular: true
 ---
 
