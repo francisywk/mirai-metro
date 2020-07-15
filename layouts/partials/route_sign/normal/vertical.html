@@ -1,0 +1,28 @@
+{{ with .route_sign }}
+  {{ range . }}
+    {{ if eq . "R" }}
+      <div class="route-sign redline my-05" data-toggle="tooltip" data-placement="right" title="Red Line 紅綫">&nbsp;R&nbsp;</div>
+    {{ else if eq . "G" }}
+      <div class="route-sign greenline my-05" data-toggle="tooltip" data-placement="right" title="Green Line 綠綫">&nbsp;G&nbsp;</div>
+    {{ else if eq . "B" }}
+      <div class="route-sign blueline my-05" data-toggle="tooltip" data-placement="right" title="Blue Line 藍綫">&nbsp;B&nbsp;</div>
+    {{ else if eq . "A" }}
+      <div class="route-sign airportline my-05" data-toggle="tooltip" data-placement="right" title="Airport Line (Commuter) 空港綫(普通)">&nbsp;A&nbsp;</div>
+    {{ else if eq . "Ax" }}
+      <div class="route-sign airportexpress my-05" data-toggle="tooltip" data-placement="right" title="Airport Line (Express) 空港綫(直達)">&nbsp;A&nbsp;</div>
+    {{ else if eq . "Ac" }}
+      <div class="route-sign airportcomposite my-05" data-toggle="tooltip" data-placement="right" title="Airport Line 空港綫">&nbsp;A&nbsp;</div>
+    {{ else if eq . "V" }}
+      <div class="route-sign victoryline my-05" data-toggle="tooltip" data-placement="right" title="Victory Line 勝利綫">&nbsp;V&nbsp;</div>
+    {{ else if eq . "W" }}
+      <div class="route-sign waterfallline my-05" data-toggle="tooltip" data-placement="right" title="Waterfall Line 瀑布綫">&nbsp;W&nbsp;</div>
+    {{ else if eq . "C" }}
+      <div class="route-sign cityloopline my-05" data-toggle="tooltip" data-placement="right" title="City Loop Line 三環綫">&nbsp;C&nbsp;</div>
+    {{ else if eq . "D" }}
+      <div class="route-sign diamondline my-05" data-toggle="tooltip" data-placement="right" title="Diamond Line 鑽石綫">&nbsp;D&nbsp;</div>
+    {{ else if in . "P" }}
+      <div class="route-sign diamondline my-05" data-toggle="tooltip" data-placement="right" title="Diamond Line 鑽石綫">&nbsp;D&nbsp;</div>
+    {{ end }}
+    <br>
+  {{ end }}
+{{ end }}

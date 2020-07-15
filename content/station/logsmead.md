@@ -2,7 +2,7 @@
 title: Logsmead Station
 station_code: [V5]
 station_name_en: Logsmead
-station_name_zh: 樂米村
+station_name_zh: 樂米町
 route_sign: [V]
 adjacent_stations:
   - route_sign: [V]

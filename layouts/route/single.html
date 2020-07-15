@@ -2,4 +2,11 @@
 <div class="container">
   {{ partial "breadcrumb.html" . }}
 </div>
+  {{ with .Params }}
+    <div class="text-center py-3 py-lg-5">
+      {{ partial "route_sign/normal/horizontal.html" . }}
+      <h3 class="mt-1 mb-0 stylised-name-en-zh">{{ .Title }}</h3>
+      <h4 class="mb-0 stylised-name-en-zh">{{ .title_zh }}</h4>
+    </div>
+  {{ end }}
 {{ end }}
