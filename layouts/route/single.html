@@ -1,12 +1,70 @@
 {{ define "main" }}
 <div class="container">
   {{ partial "breadcrumb.html" . }}
-</div>
   {{ with .Params }}
-    <div class="text-center py-3 py-lg-5">
+    <div class="text-center mb-4">
       {{ partial "route_sign/normal/horizontal.html" . }}
       <h3 class="mt-1 mb-0 stylised-name-en-zh">{{ .Title }}</h3>
       <h4 class="mb-0 stylised-name-en-zh">{{ .title_zh }}</h4>
     </div>
+    <div class="alert alert-secondary small mb-4 py-2 rounded-0" role="alert">
+      <div class="row">
+        <div class="col-5 col-md-8 text-md-right order-md-last">
+          <b>Service Status:</b>&nbsp;<span class="d-none d-md-inline">Last updated on <span class="datetime"></span>&nbsp;&nbsp;<i class="fas fa-sm fa-sync-alt">&nbsp;</i><a href="javascript:history.go(0)" class="alert-link">Refresh</a></span>
+        </div>
+        <div class="col-7 col-md-4 order-lg-first">
+          {{ $rs := .route_sign }}
+          {{ range $.Site.Data.service_status.route }}
+            {{ if eq .name $.Title }}
+              {{ if eq .status "Limited" }}
+                <i class="fas fa-sm fa-circle text-warning"></i>
+              {{ else if eq .status "No" }}
+                <i class="fas fa-sm fa-circle text-danger"></i>
+              {{ else }}
+                <i class="fas fa-sm fa-circle text-success"></i>
+              {{ end }}
+              {{ .status }} service
+            {{ end }}
+          {{ end }}
+          {{ if (or (in $rs "A") (in $rs "Ax")) }}
+            {{ range $.Site.Data.service_status.airport }}
+              {{ if eq .status "Limited" }}
+                <i class="fas fa-sm fa-circle text-warning"></i>
+              {{ else if eq .status "No" }}
+                <i class="fas fa-sm fa-circle text-danger"></i>
+              {{ else }}
+                <i class="fas fa-sm fa-circle text-success"></i>
+              {{ end }}
+              {{ .status }} service
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-lg-8">
+        <div class="table-responsive">
+          <table class="table table-borderless border table-striped">
+            <thead class="thead-light text-center">
+              <tr>
+                <th scope="col" class="text-left" style="padding-left: 1.75rem;">Code<br><small>站號</small></th>
+                <th scope="col" class="text-left">Station<br><small>車站</small></th>
+                <th scope="col" class="text-right">Transfer<br><small>轉乘</small></th>
+                <th scope="col">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        {{ range .stations }}
+          {{ .code }} {{ .name }} {{ .name_zh }}
+        {{ end }}
+      </div>
+    </div>
   {{ end }}
+</div>
 {{ end }}

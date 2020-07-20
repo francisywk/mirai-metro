@@ -3,5 +3,8 @@
   {{ partial "header.html" . }}
   <h4 class="pt-5 pb-3 font-weight-bold text-center" id="{{ index .Params.submenu 0 }}">{{ trim (humanize (index .Params.submenu 0)) "#" | title }}
   </h4>
+  {{ range .Pages }}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{ end }}
 </div>
 {{ end }}

@@ -1,4 +1,4 @@
-<div class="d-lg-none">
+<div class="{{ if eq .Section "wiki" }}d-lg-none{{ end }}">
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb arr-right small bg-transparent my-2 px-1">
       {{ with .Parent }}

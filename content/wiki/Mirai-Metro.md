@@ -27,6 +27,8 @@ quickFacts:
       content: "7 June 2015<br>(as [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB'))"
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
+    - title: Character
+      content: Grade-separated
   - heading: Technical
   - cols_2:
     - title: System length
@@ -39,7 +41,7 @@ quickFacts:
       content: 28.8 km/h (18 mph)
     - title: Top speed
       content: 41 km/h (25 mph)
-  - heading: Network map
+  - heading: Official map
   - cols_1:
     - content: "<a href='/map' title='Mirai Metro Network Map'>
                   <img src='/img/network_map(wiki).jpg' class='img-fluid img-thumbnail'>

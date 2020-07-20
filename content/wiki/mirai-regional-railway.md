@@ -29,6 +29,8 @@ quickFacts:
       content: MRR Corporation
   - heading: Technical
   - cols_2:
+    - title: No. of tracks
+      content: 2
     - title: "[Track gauge](https://en.wikipedia.org/wiki/Track_gauge 'Track gauge')"
       content: "750 mm (2 ft ​5<sup>1</sup>/<sub>2</sub> in)<br>[narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Narrow-gauge railway')"
     - title: "[Electrification](https://en.wikipedia.org/wiki/Railway_electrification_system 'Railway electrification system')"
