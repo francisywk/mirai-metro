@@ -13,12 +13,12 @@
         </p>
       {{ end }}
     </div>
-    {{ if .quickFacts }}
+    {{ if .quick_facts }}
       <div class="row">
         <div class="col-lg-3 order-lg-12 mx-auto ml-lg-auto mr-lg-0 mb-4 mb-lg-0" id="infobar">
           <button class="btn btn-block bg-miraimetro2 rounded-0 font-weight-bold text-left d-lg-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">
             Quick Facts: <span class="font-weight-normal text-secondary">
-              {{ range .quickFacts }}
+              {{ range .quick_facts }}
                 {{ range .cols_2 }}
                   {{ $titles := print .title ", " }}
                   {{ $.Scratch.Add "summary" $titles }}
@@ -29,16 +29,22 @@
           </button>
           <div class="collapse d-lg-block" id="quickfacts">
             <div class="container bg-light border">
-              {{ range first 1 .quickFacts }}
-                <h6 class="text-center mt-2 mb-0" {{ with .title_style}}style="{{ . | safeCSS }}"{{ end }}><strong>{{ $.Title }}</strong></h6>
+              {{ range first 1 .quick_facts }}
+                <h6 class="text-center font-weight-bold mt-2 mb-0" {{ with .title_style}}style="{{ . | safeCSS }}"{{ end }}>
+                  {{ with $.LinkTitle }}
+                    {{ . }}
+                  {{ else }}
+                    {{ $.Title }}
+                  {{ end }}
+                </h6>
               {{ end }}
-              {{ range .quickFacts }}
+              {{ range .quick_facts }}
                 {{ with .image }}
                   <img src="{{ . }}" class="brand-logo mx-auto my-2 d-block">
                 {{ end }}
                 {{ if .route_sign }}
                   <div class="text-center py-2">
-                    {{ partial "route_sign/normal/vertical.html" . }}
+                    {{ partial "route_sign/normal/horizontal.html" . }}
                   </div>
                 {{ end }}
                 {{ with .heading }}
@@ -65,6 +71,57 @@
                 </div>
               {{ end }}
             </div>
+            {{ with .names_transcriptions }}
+              <div class="container bg-light border mt-3 p-2">
+                {{ range . }}
+                  {{ with .heading }}
+                    <h6 class="alert-info text-black text-center font-weight-bold py-1">{{ . }}</h6>
+                  {{ end }}
+                  {{ range .cols_2 }}
+                    <div class="row align-items-center mb-1">
+                      <div class="col-6">
+                        <p class="mb-0">
+                          {{ .title | markdownify }}
+                        </p>
+                      </div>
+                      <div class="col-6">{{ .content }}</div>
+                    </div>
+                  {{ end }}
+                  {{ with .transcriptions }}
+                    <div class="row align-items-center">
+                      <div class="col">
+                        <p class="alert-warning text-black font-weight-bold mb-0">
+                          Transcriptions
+                        </p>
+                      </div>
+                    </div>
+                    {{ range . }}
+                      <div class="row align-items-center">
+                        <div class="col text-center">
+                          <p class="alert-success font-weight-bold mb-1">
+                            {{ .language | markdownify }}
+                          </p>
+                        </div>
+                      </div>
+                      {{ range .cols_2 }}
+                        <div class="row align-items-center">
+                          <div class="col">
+                            <p class="mb-1">
+                              {{ .title | markdownify }}
+                            </p>
+                          </div>
+                          <div class="col">
+                            <p class="mb-1">
+                              {{ .content }}
+                            </p>
+                          </div>
+                        </div>
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+              </div>
+            {{ end }}
           </div>
         </div>
         <div class="col-lg-9 order-lg-1" id="wiki-content">

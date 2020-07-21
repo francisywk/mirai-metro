@@ -1,10 +1,12 @@
 ---
-title: "Blue Line"
+title: "Blue Line (Mirai Metro)"
+linktitle: Blue Line
 description: Hybrid suburban commuter railway line in Mirai Capital Area
 date: 2020-07-10T00:47:27+08:00
+slug: Blue Line (Mirai Metro)
 draft: false
 category: miraimetro
-quickFacts:
+quick_facts:
   - title_style: "border-top: 4px solid #0433ff;border-bottom: 4px solid #0433ff;"
   - route_sign: [B]
   - heading: Overview
@@ -41,6 +43,24 @@ quickFacts:
       content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
     - title: Operating speed
       content: 28.8 km/h (18 mph)
+names_transcriptions:
+  - heading: Blue Line
+  - cols_2:
+      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
+        content: 藍綫
+      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
+        content: 蓝线
+  - transcriptions:
+    - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
+    - cols_2:
+      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
+        content: Làahm sin
+      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
+        content: Laam4 sin3
+    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
+    - cols_2:
+      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
+        content: Lán xiàn
 ---
 
 The **Blue Line** (code **B**) is the first rapid transit line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It includes a total of 8 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and Spawn Chunk districts. At 1.7 km, it is the longest line of Mirai Metro.

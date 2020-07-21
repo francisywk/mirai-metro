@@ -5,7 +5,7 @@ date: 2020-07-04T01:07:40+08:00
 draft: false
 category: miraimetro
 notice: "This article is about the current rapid transit system in Mirai. For the system's former name, see [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB')."
-quickFacts:
+quick_facts:
   - image: "/img/mirai_metro.png"
   - heading: Overview
   - cols_2:
@@ -41,14 +41,32 @@ quickFacts:
       content: 28.8 km/h (18 mph)
     - title: Top speed
       content: 41 km/h (25 mph)
-  - heading: Official map
+  - heading: Network map
   - cols_1:
     - content: "<a href='/map' title='Mirai Metro Network Map'>
                   <img src='/img/network_map(wiki).jpg' class='img-fluid img-thumbnail'>
                 </a>"
+names_transcriptions:
+  - heading: Mirai Metro
+  - cols_2:
+      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
+        content: 美拉地鐵
+      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
+        content: 美拉地铁
+  - transcriptions:
+    - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
+    - cols_2:
+      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
+        content: Méihlāai deihtit
+      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
+        content: Mei5 laai1 dei6 tit3
+    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
+    - cols_2:
+      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
+        content: Měilā dìtiě
 ---
 
-The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"), is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
+The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"), is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
 
 Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/mirai-regional-railway "Mirai Regional Railway"), the metro provides urban rail transportation service for the nation's capital.
 
