@@ -17,6 +17,20 @@ enableGitInfo = true
     ordered = true
     startLevel = 4
 
+[related]
+  threshold = 1
+  includeNewer = true
+  toLower = false
+  [[related.indices]]
+      name = "keywords"
+      weight = 100
+  [[related.indices]]
+      name = "date"
+      weight = 10
+
+[taxonomies]
+  keyword = "keywords"
+
 [menu]
   [[menu.main]]
     name = "Home"

@@ -4,7 +4,9 @@ description: Rapid transit system in Mirai, United Cities
 date: 2020-07-04T01:07:40+08:00
 draft: false
 category: miraimetro
+keywords: [mirai,miraimetro]
 notice: "This article is about the current rapid transit system in Mirai. For the system's former name, see [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB')."
+see_also: true
 quick_facts:
   - image: "/img/mirai_metro.png"
   - heading: Overview
@@ -142,4 +144,10 @@ The following table lists the rolling stock of the network:
 ---
 
 ##### Future lines
+
+<br>
+
+#### See also
+
+---
 
