@@ -20,9 +20,9 @@
       <td class="align-top px-1 px-md-3">
         <ul class="row m-0 pl-4">
           {{ range where .Pages ".Params.category" "eq" "miraimetro" }}
-          <li class="col-12 col-md-6 col-xl-4 px-0">
-            <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
-          </li>
+            <li class="col-12 col-md-6 col-xl-4 px-0">
+              <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+            </li>
           {{ end }}
         </ul>
       </td>
@@ -34,9 +34,9 @@
       <td class="align-top px-1 px-md-3">
         <ul class="row m-0 pl-4">
           {{ range where .Pages ".Params.category" "eq" "others" }}
-          <li class="col-12 col-md-6 col-xl-4 px-0">
-            <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
-          </li>
+            <li class="col-12 col-md-6 col-xl-4 px-0">
+              <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+            </li>
           {{ end }}
         </ul>
       </td>

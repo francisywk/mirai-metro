@@ -2,7 +2,7 @@
 title: UCHQ West Station
 station_code: [G10]
 station_name_en: UCHQ West
-station_name_zh: 聯合城總部西
+station_name_zh: 聯總西
 route_sign: [G]
 adjacent_stations:
   - route_sign: [G]

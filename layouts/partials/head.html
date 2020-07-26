@@ -10,11 +10,11 @@
   {{ hugo.Generator }}
   {{ $title := print .Title " | " .Site.Title }}
   {{ if eq .Section "wiki" }}
-  {{ if eq .Kind "page" }}
-  {{ $title = print .Title " | " .Parent.Title }}
-  {{ else }}
-  {{ $title = print .Title ", " .Params.Description }}
-  {{ end }}
+    {{ if eq .Kind "page" }}
+      {{ $title = print .Title " | " .Parent.Title }}
+    {{ else }}
+      {{ $title = print .Title ", " .Params.Description }}
+    {{ end }}
   {{ end }}
   <meta charset="utf-8">
   <title>{{ $title }}</title>
@@ -29,10 +29,15 @@
   {{/*  Custom CSS  */}}
   {{ $style := resources.Get "css/main.css" | minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
-  {{/*  Wiki-specified CSS  */}}
+  {{/*  Routes section CSS  */}}
+  {{ if eq .Section "route" }}
+    {{ $route_style := resources.Get "css/route.css" | minify }}
+    <link rel="stylesheet" href="{{ $route_style.Permalink }}">
+  {{ end }}
+  {{/*  Wiki section CSS  */}}
   {{ if eq .Section "wiki" }}
-  {{ $wiki_style := resources.Get "css/wiki.css" | minify }}
-  <link rel="stylesheet" href="{{ $wiki_style.Permalink }}">
+    {{ $wiki_style := resources.Get "css/wiki.css" | minify }}
+    <link rel="stylesheet" href="{{ $wiki_style.Permalink }}">
   {{ end }}
   {{/*  Favicon  */}}
   {{ partial "head/favicon.html" . }}

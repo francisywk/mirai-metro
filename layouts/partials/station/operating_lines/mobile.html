@@ -2,91 +2,59 @@
   <div class="row mx-0 border">
     <div class="col-3 col-sm-2 px-0">
       <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-        <a href="#v-pills-redline" class="nav-link px-0 py-2 active btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill" aria-controls="v-pills-redline" aria-selected="true">
-          <div class="route-sign-sm redline mb-1">&nbsp;R&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Red Line</b><br>紅綫</p>
-        </a>
-        <a href="#v-pills-greenline" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill" aria-controls="v-pills-greenline" aria-selected="false">
-          <div class="route-sign-sm greenline mb-1">&nbsp;G&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Green Line</b><br>綠綫</p>
-        </a>
-        <a href="#v-pills-blueline" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill"
-          aria-controls="v-pills-blueline" aria-selected="false">
-          <div class="route-sign-sm blueline mb-1">&nbsp;B&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Blue Line</b><br>藍綫</p>
-        </a>
-        <a href="#v-pills-airportline" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill"
-          aria-controls="v-pills-airportline" aria-selected="false">
-          <div class="route-sign-sm airportcomposite mb-1">&nbsp;A&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Airport Line</b><br>空港綫</p>
-        </a>
-        <a href="#v-pills-victoryline" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill"
-          aria-controls="v-pills-victoryline" aria-selected="false">
-          <div class="route-sign-sm victoryline mb-1">&nbsp;V&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Victory Line</b><br>勝利綫</p>
-        </a>
-        <a href="#v-pills-waterfallline" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill"
-          aria-controls="v-pills-waterfallline" aria-selected="false">
-          <div class="route-sign-sm waterfallline mb-1">&nbsp;W&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Waterfall Line</b><br>瀑布綫</p>
-        </a>
-        <a href="#v-pills-cityloopline" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill"
-          aria-controls="v-pills-cityloopline" aria-selected="false">
-          <div class="route-sign-sm cityloopline mb-1">&nbsp;C&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>City Loop Line</b><br>三環綫</p>
-        </a>
-        <a href="#v-pills-diamondline" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill"
-          aria-controls="v-pills-diamondline" aria-selected="false">
-          <div class="route-sign-sm diamondline mb-1">&nbsp;D&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Diamond Line</b><br>鑽石綫</p>
-        </a>
-        <a href="#v-pills-pandaexpress" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right disabled" role="tab"
-          data-toggle="pill" aria-controls="v-pills-pandaexpress" aria-selected="false">
-          <div class="route-sign-sm pandaexpress mb-1">&nbsp;P&nbsp;</div>
-          <p class="small text-miraimetro m-0 lh-13"><b>Panda Express</b><br>熊貓快綫</p>
-        </a>
+        {{ range first 1 .Pages }}
+          {{ with .Params }}
+            {{ $title := replaceRE "(\\s)" "" .Title | lower }}
+            <a href="#v-pills-{{ $title }}" class="nav-link px-0 py-2 active btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill" aria-controls="v-pills-{{ $title }}" aria-selected="true">
+              {{ if .route_sign }}
+                {{ partial "route_sign/small/horizontal.html" . }}
+              {{ end }}
+              <p class="small text-miraimetro m-0 mt-1 lh-13"><b>{{ .Title }}</b><br>{{ .title_zh }}</p>
+            </a>
+          {{ end }}
+        {{ end }}
+        {{ range after 1 .Pages }}
+          {{ with .Params }}
+            {{ $title := replaceRE "(\\s)" "" .Title | lower }}
+            <a href="#v-pills-{{ $title }}" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill" aria-controls="v-pills-{{ $title }}" aria-selected="false">
+              {{ if .route_sign }}
+                {{ partial "route_sign/small/horizontal.html" . }}
+              {{ end }}
+              <p class="small text-miraimetro m-0 mt-1 lh-13"><b>{{ .Title }}</b><br>{{ .title_zh }}</p>
+            </a>
+          {{ end }}
+        {{ end }}
       </div>
     </div>
     <div class="col-9 col-sm-10">
       <div class="tab-content" id="v-pills-tabContent">
-        <div class="tab-pane fade show active" id="v-pills-redline" role="tabpanel" aria-labelledby="v-pills-redline-tab">
-          <div class="py-3 border-bottom">
-            <p class="d-inline font-weight-bold m-0">Red Line 紅綫</p>
-            <p class="small m-0">&#x25B8;&nbsp;<a href="/line/Red_Line">More information</a></p>
-          </div>
-          <table class="small mt-3">
-            <tr>
-              <th scope="row" class="station-code-vlist-first station-code-bg-rl px-2 py-25">
-                <span class="station-code station-code-sm station-code-rl rounded-circle">R1</span>
-              </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/Fhoenix_Hill">Fhoenix Hill<br><small class="station-name-zh-vlist-pl">飛力士山</small></a></td>
-            </tr>
-            <tr>
-              <th scope="row" class="station-code-vlist-middle station-code-bg-rl px-2"py-25 >
-                <span class="station-code station-code-sm station-code-rl rounded-circle">R2</span>
-              </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/Paradise_Falls">Paradise Falls<br><small class="station-name-zh-vlist-pl">仙境瀑布</small></a></td>
-            </tr>
-            <tr>
-              <th scope="row" class="station-code-vlist-middle station-code-bg-rl px-2"py-25 >
-                <span class="station-code station-code-sm station-code-rl rounded-circle">R3</span>
-              </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/Under_the_Falls">Under the Falls<br><small class="station-name-zh-vlist-pl">瀑布下</small></a></td>
-            </tr>
-            <tr>
-              <th scope="row" class="station-code-vlist-middle station-code-bg-rl px-2"py-25 >
-                <span class="station-code station-code-sm station-code-rl rounded-circle">R4</span>
-              </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/Downtown_Core">Downtown Core<br><small class="station-name-zh-vlist-pl">市中心</small></a></td>
-            </tr>
-            <tr>
-              <th scope="row" class="station-code-vlist-last station-code-bg-rl px-2"py-25 >
-                <span class="station-code station-code-sm station-code-rl rounded-circle">R5</span>
-              </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/Portal_Hill">Portal Hill<br><small class="station-name-zh-vlist-pl">波打山</small></a></td>
-            </tr>
-          </table>
-        </div>
+        {{ range first 1 .Pages }}
+          {{ with .Params }}
+            {{ $title := replaceRE "(\\s)" "" .Title | lower }}
+            <div class="tab-pane fade show active" id="v-pills-{{ $title }}" role="tabpanel" aria-labelledby="v-pills-{{ $title }}-tab">
+              <div class="py-3 border-bottom">
+                <p class="d-inline font-weight-bold m-0">{{ .Title}}&nbsp;{{ .title_zh }}</p>
+                <p class="small m-0">&#x25B8;&nbsp;<a href="{{ anchorize .Title }}">More information</a></p>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+        {{ range after 1 .Pages }}
+          {{ with .Params }}
+            {{ $title := replaceRE "(\\s)" "" .Title | lower }}
+            <div class="tab-pane fade" id="v-pills-{{ $title }}" role="tabpanel" aria-labelledby="v-pills-{{ $title }}-tab">
+              <div class="py-3 border-bottom">
+                <p class="d-inline font-weight-bold m-0">{{ .Title}}&nbsp;{{ .title_zh }}</p>
+                <p class="small m-0">&#x25B8;&nbsp;<a href="{{ anchorize .Title }}">More information</a></p>
+              </div>
+              <table class="small mt-3">
+                <tr>
+                  <th scope="row" class="station-code-vlist-middle"></th>
+                </tr>
+              </table>
+            </div>
+          {{ end }}
+        {{ end }}
         <div class="tab-pane fade" id="v-pills-greenline" role="tabpanel" aria-labelledby="v-pills-greenline-tab">
           <div class="py-3 border-bottom">
             <p class="d-inline font-weight-bold m-0">Green Line 綠綫</p>
@@ -173,7 +141,7 @@
               <th scope="row" class="station-code-vlist-middle station-code-bg-bl px-2 py-25">
                 <span class="station-code station-code-sm station-code-bl rounded-circle">B2</span>
               </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/UCHQ_North">UCHQ North<br><small class="station-name-zh-vlist-pl">聯合城總部北</small></a></td>
+              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/UCHQ_North">UCHQ North<br><small class="station-name-zh-vlist-pl">聯總北</small></a></td>
             </tr>
             <tr>
               <td></td>
@@ -279,7 +247,7 @@
               <th scope="row" class="station-code-vlist-last station-code-bg-al px-2 py-25">
                 <span class="station-code station-code-sm station-code-al rounded-circle">A5</span>
               </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/UCHQ_North">UCHQ North<br><small class="station-name-zh-vlist-pl">聯合城總部北</small></a></td>
+              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/UCHQ_North">UCHQ North<br><small class="station-name-zh-vlist-pl">聯總北</small></a></td>
             </tr>
           </table>
         </div>
@@ -483,7 +451,7 @@
               <th scope="row" class="station-code-vlist-first station-code-bg-dl px-2 py-25">
                 <span class="station-code station-code-sm station-code-dl rounded-circle">D1</span>
               </th>
-              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/UCHQ_North">UCHQ North<br><small class="station-name-zh-vlist-pl">聯合城總部北</small></a></td>
+              <td class="px-2 py-25 lh-12">&#x25B8;&nbsp;<a href="/station/UCHQ_North">UCHQ North<br><small class="station-name-zh-vlist-pl">聯總北</small></a></td>
             </tr>
             <tr>
               <th scope="row" class="station-code-vlist-middle station-code-bg-dl px-2 py-25">

@@ -2,7 +2,7 @@
 title: UCHQ North Station
 station_code: [B2,A5,D1]
 station_name_en: UCHQ North
-station_name_zh: 聯合城總部北
+station_name_zh: 聯總北
 route_sign: [B,Ac,D]
 adjacent_stations:
   - route_sign: [B]

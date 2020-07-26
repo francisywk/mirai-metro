@@ -44,27 +44,54 @@
     <div class="row">
       <div class="col-12 col-lg-8">
         <div class="table-responsive">
-          <table class="table table-borderless border table-striped">
-            <thead class="thead-light text-center">
+          <table class="table table-borderless border table-striped table-700">
+            <thead class="text-center">
               <tr>
-                <th scope="col" class="text-left" style="padding-left: 1.75rem;">Code<br><small>站號</small></th>
+                <th scope="col" class="{{ if .branch_line }}text-left pl-5{{ end }}">Code<br><small>站號</small></th>
                 <th scope="col" class="text-left">Station<br><small>車站</small></th>
                 <th scope="col" class="text-right">Transfer<br><small>轉乘</small></th>
                 <th scope="col">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
               </tr>
             </thead>
             <tbody>
-              <tr>
-                
-              </tr>
+              {{ range .stations }}
+                <tr>
+                  {{ $style := "" }}
+                  {{ if .first_station }}
+                    {{ $style = "station-code-bg-first" }}
+                  {{ else if .last_station }}
+                    {{ $style = "station-code-bg-last" }}
+                  {{ else if .branch_first }}
+                    {{ $style = "station-code-bg-branch-first" }}
+                  {{ else if .branch_last }}
+                    {{ $style = "station-code-bg-branch-last" }}
+                  {{ else }}
+                    {{ $style = "station-code-bg" }}
+                  {{ end }}
+                  <td class="{{ $style }} {{ if ne $.Params.branch_line true }}text-center{{ else }}pl-5{{ end }}">
+                    {{ if .station_code }}
+                      {{ partial "station_code/normal/horizontal.html" . }}
+                    {{ end }}
+                  </td>
+                  <td>&#x25B8;&nbsp;<a href="/station/{{ anchorize .name }}">{{ .name }}<br><span class="pl-3 small text-dark">{{ .name_zh }}</span></a></td>
+                  <td class="text-right">
+                    {{ with .transfer }}
+                      {{ range . }}
+                        {{ partial "route_sign/small/horizontal.html" . }}
+                      {{ end }}
+                    {{ else }}
+                      <div class="routesign-sm redline invisible">&nbsp;R&nbsp;</div>
+                    {{ end }}
+                  </td>
+                  <td></td>
+                </tr>
+              {{ end }}
             </tbody>
           </table>
         </div>
-        {{ range .stations }}
-          {{ .code }} {{ .name }} {{ .name_zh }}
-        {{ end }}
       </div>
     </div>
   {{ end }}
 </div>
+<style>{{ .Params.custom_style | safeCSS }}</style>
 {{ end }}

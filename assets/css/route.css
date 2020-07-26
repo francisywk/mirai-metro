@@ -1,0 +1,166 @@
+#route-info-lg .nav-link {
+  border: none!important;
+  border-top: 5px solid #ffffff!important;
+  border-radius: 0;
+}
+
+#route-info-lg .nav-link:hover {
+  border-top: 5px solid #E2E6EA!important;
+  background-color: #E2E6EA;
+}
+
+#route-info-lg .nav-link.active {
+  background-color: #E2E6EA;
+  border-top: 5px solid #37AACF!important;
+}
+
+#routeList {
+  min-height: 245px!important;
+}
+
+#routeList .list-group-item {
+  background-color: transparent!important;
+}
+
+.station-code-first {
+  background-repeat: no-repeat;
+  background-size: 50% 7px;
+  background-position: right
+}
+
+.station-code-middle {
+  background-repeat: no-repeat;
+  background-size: 100% 7px;
+  background-position: center
+}
+
+.station-code-last {
+  background-repeat: no-repeat;
+  background-size: 50% 7px;
+  background-position: left
+}
+
+.station-code-bg-rl {
+  background-image: url(/img/bg/redline.png)
+}
+
+.station-code-bg-gl {
+  background-image: url(/img/bg/greenline.png)
+}
+
+.station-code-bg-bl {
+  background-image: url(/img/bg/blueline.png)
+}
+
+.station-code-bg-al {
+  background-image: url(/img/bg/airportline.png)
+}
+
+.station-code-bg-ax {
+  background-image: url(/img/bg/airportexpress.png)
+}
+
+.station-code-bg-vl {
+  background-image: url(/img/bg/victoryline.png)
+}
+
+.station-code-bg-wl {
+  background-image: url(/img/bg/waterfallline.png)
+}
+
+.station-code-bg-cl {
+  background-image: url(/img/bg/cityloopline.png)
+}
+
+.station-code-bg-dl {
+  background-image: url(/img/bg/diamondline.png)
+}
+
+.station-code-bg-pe {
+  background-image: url(/img/bg/pandaexpress.png)
+}
+
+.station-code-b6 {
+  background-image: url(/img/bg/blueline.png), url(/img/bg/blueline.png);
+  background-repeat: no-repeat;
+  background-size: 50% 7px, 7px 59%;
+  background-position: right, top
+}
+
+.station-code-w3 {
+  background-image: url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png);
+  background-repeat: no-repeat;
+  background-size: 50% 7px, 7px 59%;
+  background-position: right, top
+}
+
+.station-code-w8 {
+  background-image: url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png);
+  background-repeat: no-repeat;
+  background-size: 50% 7px, 7px 59%;
+  background-position: left, top
+}
+
+.station-code-vlist-first {
+  background-repeat: no-repeat;
+  background-size: 7px 51%;
+  background-position: 22px bottom
+}
+
+.station-code-vlist-middle {
+  background-repeat: no-repeat;
+  background-size: 7px 101%;
+  background-position: 22px center
+}
+
+.station-code-vlist-last {
+  background-repeat: no-repeat;
+  background-size: 7px 51%;
+  background-position: 22px top
+}
+
+.station-code-vlist-b6-left {
+  background-image: url(/img/bg/blueline.png), url(/img/bg/blueline.png);
+  background-repeat: no-repeat;
+  background-size: 57% 7px, 7px 51%;
+  background-position: right, bottom
+}
+
+.station-code-vlist-b6-right {
+  background-image: url(/img/bg/blueline.png), url(/img/bg/blueline.png), url(/img/bg/blueline.png);
+  background-repeat: no-repeat;
+  background-size: 7px 52%, 52% 7px, 7px 52%;
+  background-position: 22px top, left, 22px bottom
+}
+
+.station-code-vlist-b7 {
+  background-image: url(/img/bg/blueline.png), url(/img/bg/blueline.png);
+  background-repeat: no-repeat;
+  background-size: 7px 52%, 7px 101%;
+  background-position: top, 54px center
+}
+
+.station-code-vlist-w3-left {
+  background-image: url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png);
+  background-repeat: no-repeat;
+  background-size: 56% 7px, 7px 51%;
+  background-position: right, 22px bottom
+}
+
+.station-code-vlist-w8-left {
+  background-image: url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png);
+  background-repeat: no-repeat;
+  background-size: 56% 7px, 7px 51%;
+  background-position: right, 22px top
+}
+
+.station-code-vlist-w3-right, .station-code-vlist-w8-right {
+  background-image: url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png), url(/img/bg/waterfallline.png);
+  background-repeat: no-repeat;
+  background-size: 7px 51%, 51% 7px, 7px 51%;
+  background-position: 22px top, left, 22px bottom
+}
+
+.station-name-zh-vlist-pl {
+  padding-left: 1em!important;
+}
