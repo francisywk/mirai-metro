@@ -8,7 +8,7 @@ adjacent_stations:
   - route_sign: [P]
     following:
       - station: P2-Cavemouth
-        towards: Cavemouth
+        towards: Oasis Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: La Miraiya
@@ -18,6 +18,5 @@ address: [Mirai Panda Protected Area, La Miraiya, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false
 popular: false
-draft: true
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Mugen Station
-station_code: [B4,V1,W5,D4]
+station_code: [B4,V1,W4,D4,P3]
 station_name_en: Mugen
 station_name_zh: 無限
-route_sign: [B,V,W,D]
+route_sign: [B,V,W,D,P]
 adjacent_stations:
   - route_sign: [B]
     preceding:
@@ -21,7 +21,7 @@ adjacent_stations:
       - station: W3-Under the Falls
         towards: Under the Falls
     following:
-      - station: W6-Downtown East
+      - station: W5-Downtown East
         towards: Downtown East
   - route_sign: [D]
     preceding:
@@ -30,11 +30,18 @@ adjacent_stations:
     following:
       - station: D5-Downtown East
         towards: Diamond Hill
+  - route_sign: [P]
+    preceding:
+      - station: P2-Cavemouth
+        towards: Panda Museum
+    following:
+      - station: P4-Under the Falls
+        towards: Oasis Point
 alternate_station_name_en: Mirai Tower
 alternate_station_name_zh: 美拉大廈
 location_en: City Loop
 location_zh: 三環
-jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png),url(/img/bg/waterfallline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px;background-position:0 85px,right 115px,0 145px,0 175px}
+jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png),url(/img/bg/waterfallline.png),url(/img/bg/diamondline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px,100% 10px;background-position:0 70px,right 100px,0 130px,0 160px,0 190px}
 address: [Mugen, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Mirai Central Park, Mirai Tower, Freedom Tower, CT Centre, Three Storey Pagoda, Paradise Tower, Central Clock Tower]
 connecting_station:

@@ -7,7 +7,7 @@
             {{ $title := replaceRE "(\\s)" "" .Title | lower }}
             <a href="#v-pills-{{ $title }}" class="nav-link px-0 py-2 active btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill" aria-controls="v-pills-{{ $title }}" aria-selected="true">
               {{ if .route_sign }}
-                {{ partial "route_sign/small/horizontal.html" . }}
+                {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
               {{ end }}
               <p class="small text-miraimetro m-0 mt-1 lh-13"><b>{{ .Title }}</b><br>{{ .title_zh }}</p>
             </a>
@@ -18,7 +18,7 @@
             {{ $title := replaceRE "(\\s)" "" .Title | lower }}
             <a href="#v-pills-{{ $title }}" class="nav-link px-0 py-2 btn btn-light btn-sm rounded-0 border-right border-bottom" role="tab" data-toggle="pill" aria-controls="v-pills-{{ $title }}" aria-selected="false">
               {{ if .route_sign }}
-                {{ partial "route_sign/small/horizontal.html" . }}
+                {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
               {{ end }}
               <p class="small text-miraimetro m-0 mt-1 lh-13"><b>{{ .Title }}</b><br>{{ .title_zh }}</p>
             </a>

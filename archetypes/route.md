@@ -2,11 +2,9 @@
 title: {{ replace .Name "-" " " | title }}
 title_zh: 綫
 route_sign: [{{ substr .Name 0 1 | upper }}]
-terminus_start: 
-terminus_end: 
 branch_line: false
 stations:
-  - station_code: []
+  - station_code: [{{ substr .Name 0 1 | upper }}]
     name: 
     name_zh: 
     transfer:

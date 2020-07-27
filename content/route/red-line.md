@@ -2,8 +2,6 @@
 title: Red Line
 title_zh: 紅綫
 route_sign: [R]
-terminus_start: Fhoenix Hill
-terminus_end: Portal Hill
 branch_line: false
 stations:
   - station_code: [R1]
@@ -19,7 +17,7 @@ stations:
     name: Under the Falls
     name_zh: 瀑布下
     transfer: 
-      - route_sign: [W]
+      - route_sign: [W,P]
   - station_code: [R4]
     name: Downtown Core
     name_zh: 市中心

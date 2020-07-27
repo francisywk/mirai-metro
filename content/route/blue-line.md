@@ -2,8 +2,6 @@
 title: Blue Line
 title_zh: 藍綫
 route_sign: [B]
-terminus_start: Victory Bay
-terminus_end: Spawn
 branch_line: true
 stations:
   - station_code: [B1]
@@ -26,7 +24,7 @@ stations:
     name: Mugen
     name_zh: 無限
     transfer: 
-      - route_sign: [V,W,D]
+      - route_sign: [V,W,D,P]
   - station_code: [B5]
     name: Paradise Falls
     name_zh: 仙境瀑布
@@ -42,7 +40,7 @@ stations:
     name: City Farm
     name_zh: 城市農場
     transfer:
-      - route_sign: [G,W]
+      - route_sign: [G,P]
     branch_last: true
   - station_code: [B8]
     name: Hell's Gate

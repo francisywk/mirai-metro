@@ -1,13 +1,13 @@
 ---
 title: Library Station
-station_code: [W10]
+station_code: [W9]
 station_name_en: Library
 station_name_zh: 圖書館
 route_sign: [W]
 adjacent_stations:
   - route_sign: [W]
     preceding:
-      - station: W9-Zero Zero
+      - station: W8-Zero Zero
         towards: Oasis Point
     following:
       - station: W1-Winterland

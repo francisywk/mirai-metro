@@ -1,16 +1,16 @@
 ---
 title: Downtown East Station
-station_code: [W6,C4,D5]
+station_code: [W5,C4,D5]
 station_name_en: Downtown East
 station_name_zh: 市中心東
 route_sign: [W,C,D]
 adjacent_stations:
   - route_sign: [W]
     preceding:
-      - station: W5-Mugen
+      - station: W4-Mugen
         towards: Under the Falls
     following:
-      - station: W7-Downtown Core
+      - station: W6-Downtown Core
         towards: Oasis Point
   - route_sign: [C]
     preceding:

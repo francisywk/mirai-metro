@@ -1,6 +1,6 @@
 ---
 title: Zero Zero Station
-station_code: [B6,W9]
+station_code: [B6,W8]
 station_name_en: Zero Zero
 station_name_zh: 零零
 route_sign: [B,W]
@@ -18,10 +18,10 @@ adjacent_stations:
         towards: City Farm
   - route_sign: [W]
     preceding:
-      - station: W8-Oasis Point
+      - station: W7-Oasis Point
         towards: Oasis Point
     following:
-      - station: W10-Library
+      - station: W9-Library
         towards: Under the Falls
 alternate_station_name_en: Centre of The Grid
 alternate_station_name_zh: 世格中心

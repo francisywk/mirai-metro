@@ -23,6 +23,9 @@ route:
   - route_sign: [D]
     name: Diamond Line
     status: "Normal"
+  - route_sign: [P]
+    name: Panda Express
+    status: "Limited"
 airport:
   - status: "Normal"
 legend:

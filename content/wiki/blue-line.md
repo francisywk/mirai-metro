@@ -1,7 +1,7 @@
 ---
 title: "Blue Line (Mirai Metro)"
 linktitle: Blue Line
-description: Hybrid suburban commuter railway line in Mirai Capital Area
+description: Rapid transit line in Mirai
 date: 2020-07-10T00:47:27+08:00
 slug: Blue Line (Mirai Metro)
 draft: false
@@ -65,7 +65,7 @@ names_transcriptions:
         content: Lán xiàn
 ---
 
-The **Blue Line** (code **B**) is the first rapid transit line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It includes a total of 8 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and Spawn Chunk districts. At 1.7 km, it is the longest line of Mirai Metro.
+The **Blue Line** (code **B**) is the first rapid transit line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It includes a total of 9 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and Spawn Chunk districts. At 1.7 km, it is the longest line of Mirai Metro.
 
 <br>
 

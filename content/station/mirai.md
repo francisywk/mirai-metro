@@ -43,7 +43,7 @@ address: [Mirai, City Loop, City of Mirai, United Cities]
 nearby_attraction: [One Union Trade Centre (1UTC), Singbucks Coffee, Mirai Tower, Central Clock Tower, Fhoenix Hill Aviary]
 connecting_station:
   - station: Mugen
-    route_sign: [B,V,W,D]
+    route_sign: [B,V,W,D,P]
 popular: true
 ---
 

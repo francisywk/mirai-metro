@@ -84,6 +84,7 @@ Before Mirai Metro underwent rapid expansion, the network only consists of three
 
 - 7 June 2015: Mirai RGB started operation with Zero Zero to Paradise Falls section of Blue Line enters service.
 - 5 October 2019: Hell Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill sttaion") was opened on the Blue Line between Zero Zero and Spawn.
+- 27 July 2020: [Panda Express](/wiki/panda-express) line opened to the public.
 
 <br>
 

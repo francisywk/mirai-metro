@@ -6,5 +6,5 @@ draft: false
 category:
 notice:
 see_also: false
-quickFacts:
+quick_facts:
 ---

@@ -1,6 +1,6 @@
 ---
 title: Downtown Core Station
-station_code: [R4,G6,W7]
+station_code: [R4,G6,W6]
 station_name_en: Downtown Core
 station_name_zh: 市中心
 route_sign: [R,G,W]
@@ -21,10 +21,10 @@ adjacent_stations:
         towards: Mirai
   - route_sign: [W]
     preceding:
-      - station: W6-Downtown East
+      - station: W5-Downtown East
         towards: Downtown East
     following:
-      - station: W8-Oasis Point
+      - station: W7-Oasis Point
         towards: Oasis Point
 alternate_station_name_en: City Hall
 alternate_station_name_zh: 市政廳

@@ -12,15 +12,18 @@ adjacent_stations:
     following:
       - station: G8-Bottomvalley
         towards: Mirai
-  # - route_sign: [P]
-  #   preceding:
-  #     - station: P1-Panda Museum
-  #       towards: Panda Museum
+  - route_sign: [P]
+    preceding:
+      - station: P1-Panda Museum
+        towards: Panda Museum
+    following:
+      - station: P3-Mugen
+        towards: Oasis Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: La Miraiya
 location_zh: 南美拉雅
-jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,left 145px}
+jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [Cavemouth, La Miraiya, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false

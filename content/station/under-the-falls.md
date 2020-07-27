@@ -1,9 +1,9 @@
 ---
 title: Under the Falls Station
-station_code: [R3,W3]
+station_code: [R3,W3,P4]
 station_name_en: Under the Falls
 station_name_zh: 瀑布下
-route_sign: [R,W]
+route_sign: [R,W,P]
 adjacent_stations:
   - route_sign: [R]
     preceding:
@@ -17,17 +17,20 @@ adjacent_stations:
       - station: W2-Uptown Cross
         towards: Oasis Point
     following:
-      - station: W5-Mugen
+      - station: W4-Mugen
         towards: Downtown East
-  - route_sign: [W]
+  - route_sign: [P]
+    preceding:
+      - station: P3-Mugen
+        towards: Panda Museum
     following:
-      - station: W4-City Farm
-        towards: City Farm
+      - station: P5-City Farm
+        towards: Oasis Point
 alternate_station_name_en: Paradise Falls South
 alternate_station_name_zh: 仙境瀑布南
 location_en: City Loop
 location_zh: 三環
-jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/waterfallline.png),url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:100% 10px,100% 10px,50% 10px;background-position:0 100px,0 130px,right 160px}
+jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/waterfallline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Under the Falls, City Loop, City of Mirai, United Cities]
 nearby_attraction: [The Paradise Falls, Paradise Falls Residences, Up House, Central Market]
 connecting_station: false

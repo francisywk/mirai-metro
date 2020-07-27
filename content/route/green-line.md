@@ -2,8 +2,6 @@
 title: Green Line
 title_zh: 綠綫
 route_sign: [G]
-terminus_start: 
-terminus_end: 
 branch_line: false
 stations:
   - station_code: [G1]
@@ -25,7 +23,7 @@ stations:
     name: City Farm
     name_zh: 城市農場
     transfer:
-      - route_sign: [B,W]
+      - route_sign: [B,P]
   - station_code: [G5]
     name: Mount Austin
     name_zh: 柯士甸山
@@ -55,5 +53,5 @@ stations:
     name: UCHQ West
     name_zh: 聯總西
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/greenline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:55px}
-weight: 
+weight: 2
 ---
