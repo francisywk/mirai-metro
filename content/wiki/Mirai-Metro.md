@@ -20,9 +20,11 @@ quick_facts:
     - title: Transit type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: Number of lines
-      content: 8
+      content: 9
     - title: Number of stations
-      content: 32
+      content: 33
+    - title: Website
+      content: miraimetro.netlify.app
   - heading: Operation
   - cols_2:
     - title: Began operation
@@ -59,16 +61,16 @@ names_transcriptions:
     - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
     - cols_2:
       - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Méihlāai deihtit
+        content: Méihlāai Deihtit
       - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Mei5 laai1 dei6 tit3
+        content: Mei5laai1 Dei6tit3
     - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
     - cols_2:
       - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Měilā dìtiě
+        content: Měilā Dìtiě
 ---
 
-The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"), is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
+The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"), is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
 
 Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/mirai-regional-railway "Mirai Regional Railway"), the metro provides urban rail transportation service for the nation's capital.
 

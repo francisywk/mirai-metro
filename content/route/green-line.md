@@ -52,6 +52,6 @@ stations:
   - station_code: [G10]
     name: UCHQ West
     name_zh: 聯總西
-custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/greenline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:55px}
+custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/greenline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:56px}
 weight: 2
 ---

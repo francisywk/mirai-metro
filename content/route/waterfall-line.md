@@ -23,7 +23,7 @@ stations:
     name: Mugen
     name_zh: 無限
     transfer:
-      - route_sign: [B,V,W,D]
+      - route_sign: [B,V,D,P]
   - station_code: [W5]
     name: Downtown East
     name_zh: 市中心東
