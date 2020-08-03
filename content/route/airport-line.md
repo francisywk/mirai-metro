@@ -12,11 +12,13 @@ stations:
       - route_sign: [G,C,D]
     first_station: true
   - station_code: [A2]
+    station_code_2: [nil]
     name: UCHQ South
     name_zh: 聯總南
     transfer:
       - route_sign: [G,B]
   - station_code: [A3]
+    station_code_2: [nil]
     name: UCHQ East
     name_zh: 聯總東
   - station_code: [Acomu4]

@@ -48,5 +48,5 @@ stations:
     name: Library
     name_zh: 圖書館
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:50px}
-weight: 
+weight: 6
 ---

@@ -1,0 +1,121 @@
+<div class="d-none d-lg-block" id="route-info-lg">
+  <div class="container">
+    <ul class="nav nav-tabs nav-justified">
+      {{ range first 1 .Pages }}
+        {{ with .Params }}
+          <li class="nav-item text-center border d-inline-flex">
+            <a class="btn nav-link active py-3 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
+              {{ if .route_sign }}
+                {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
+              {{ end }}
+              <p class="small text-primary mt-1 mb-0">{{ .Title }}<br>{{ .title_zh }}</p>
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+      {{ range after 1 .Pages }}
+        {{ with .Params }}
+          <li class="nav-item text-center border border-left-0 d-inline-flex">
+            <a class="btn nav-link py-3 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
+              {{ if .route_sign }}
+                {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
+              {{ end }}
+              <p class="small text-primary mt-1 mb-0">{{ .Title }}<br>{{ .title_zh }}</p>
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    <div class="tab-content pt-4 border border-top-0" id="routeList">
+      {{ range first 1 .Pages }}
+        {{ with .Params }}
+          <div class="tab-pane fade show active" id="{{ anchorize .Title }}-tab">
+            <div class="pl-4">
+              <div class="d-inline-block align-middle mr-2">
+                {{ if .route_sign }}
+                  {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+                {{ end }}
+              </div>
+              <div class="d-inline-block align-middle">
+                {{ range .stations }}
+                  {{ $.Scratch.Add "station_count" (len .station_code) }}
+                {{ end }}
+                {{ $title := printf `%v %v (%v Stations)` .Title .title_zh ($.Scratch.Get "station_count") }}
+                {{ $.Scratch.Delete "station_count" }}
+                <p class="d-inline font-weight-bold m-0">{{ $title }}</p>
+                <p class="small m-0">&#x25B8; <a href="{{ anchorize .Title }}">More information</a></p>
+              </div>
+            </div>
+            <ul class="list-group list-group-horizontal text-center mt-26">
+              {{ range .stations }}
+                <li class="list-group-item border-0 w-100 px-0">
+                  {{ $class := "station-code-middle" }}
+                  {{ if .first_station }}
+                    {{ $class = "station-code-first" }}
+                  {{ else if .last_station }}
+                    {{ $class = "station-code-last" }}
+                  {{ end }}
+                  <div class="{{ $class }} station-code-bg-red-line">
+                    {{ with .station_code }}
+                      {{ partial "station_code/normal/horizontal.html" . }}
+                    {{ end }}
+                  </div>
+                  <p class="small m-0 mt-1"><a href="/station/{{ anchorize .name }}">{{ .name }}<br>{{ .name_zh }}</a></p>
+                </li>
+                {{ end }}
+              </ul>
+          </div>
+        {{ end }}
+      {{ end }}
+      {{ range after 1 .Pages }}
+        {{ with .Params }}
+          {{ $.Scratch.Add "line-title" (anchorize .Title) }}
+          <div class="tab-pane fade" id="{{ $.Scratch.Get "line-title" }}-tab">
+            <div class="pl-4">
+              <div class="d-inline-block align-middle mr-2">
+                {{ if .route_sign }}
+                  {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+                {{ end }}
+              </div>
+              <div class="d-inline-block align-middle">
+                {{ range .stations }}
+                  {{ $.Scratch.Add "station_count" (len .station_code) }}
+                {{ end }}
+                {{ $title := printf `%v %v (%v Stations)` .Title .title_zh ($.Scratch.Get "station_count") }}
+                {{ $.Scratch.Delete "station_count" }}
+                <p class="d-inline font-weight-bold m-0">{{ $title }}</p>
+                <p class="small m-0">&#x25B8; <a href="{{ anchorize .Title }}">More information</a></p>
+              </div>
+            </div>
+            <ul class="list-group list-group-horizontal text-center mt-26">
+              {{ range .stations }}
+                <li class="list-group-item border-0 w-100 px-0">
+                  {{ $class := "station-code-middle" }}
+                  {{ if .first_station }}
+                    {{ $class = "station-code-first" }}
+                  {{ else if .last_station }}
+                    {{ $class = "station-code-last" }}
+                  {{ end }}
+                  {{ if eq ($.Scratch.Get "line-title") "airport-line" }}
+                    <div class="{{ $class }} station-code-bg-airport-express">
+                      {{ with .station_code_2 }}
+                        {{ partial "station_code/normal/horizontal.html" . }}
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                  <div class="{{ $class }} station-code-bg-{{ $.Scratch.Get "line-title" }}">
+                    {{ with .station_code }}
+                      {{ partial "station_code/normal/horizontal.html" . }}
+                    {{ end }}
+                  </div>
+                  <p class="small m-0 mt-1"><a href="/station/{{ anchorize .name }}">{{ .name }}<br>{{ .name_zh }}</a></p>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ $.Scratch.Delete "line-title" }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>

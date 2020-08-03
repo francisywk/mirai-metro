@@ -30,7 +30,7 @@
 
 .station-code-middle {
   background-repeat: no-repeat;
-  background-size: 100% 7px;
+  background-size: 101% 7px;
   background-position: center
 }
 
@@ -40,43 +40,43 @@
   background-position: left
 }
 
-.station-code-bg-rl {
+.station-code-bg-red-line {
   background-image: url(/img/bg/redline.png)
 }
 
-.station-code-bg-gl {
+.station-code-bg-green-line {
   background-image: url(/img/bg/greenline.png)
 }
 
-.station-code-bg-bl {
+.station-code-bg-blue-line {
   background-image: url(/img/bg/blueline.png)
 }
 
-.station-code-bg-al {
+.station-code-bg-airport-line {
   background-image: url(/img/bg/airportline.png)
 }
 
-.station-code-bg-ax {
+.station-code-bg-airport-express {
   background-image: url(/img/bg/airportexpress.png)
 }
 
-.station-code-bg-vl {
+.station-code-bg-victory-line {
   background-image: url(/img/bg/victoryline.png)
 }
 
-.station-code-bg-wl {
+.station-code-bg-waterfall-line {
   background-image: url(/img/bg/waterfallline.png)
 }
 
-.station-code-bg-cl {
+.station-code-bg-city-loop-line {
   background-image: url(/img/bg/cityloopline.png)
 }
 
-.station-code-bg-dl {
+.station-code-bg-diamond-line {
   background-image: url(/img/bg/diamondline.png)
 }
 
-.station-code-bg-pe {
+.station-code-bg-panda-express {
   background-image: url(/img/bg/pandaexpress.png)
 }
 

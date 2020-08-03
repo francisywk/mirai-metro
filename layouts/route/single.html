@@ -91,8 +91,6 @@
                       <td class="{{ $style }} text-center">
                         {{ partial "station_code/normal/horizontal.html" . }}
                       </td>
-                    {{ else }}
-                      <td class="express-route-bypass"></td>
                     {{ end }}
                   {{ end }}
                   <td>&#x25B8;&nbsp;<a href="/station/{{ anchorize .name }}">{{ .name }}<br><span class="pl-3 small text-dark">{{ .name_zh }}</span></a></td>
