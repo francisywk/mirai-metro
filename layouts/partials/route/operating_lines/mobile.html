@@ -1,0 +1,21 @@
+<div class="container px-2 d-lg-none" id="route-info-mobile">
+  <div class="row mx-0 border">
+    {{ range .Site.Data.service_status.route }}
+      <div class="col-4 col-md-3 col-lg text-center mr-lg-2 p-0 d-inline-flex">
+        <a href="/route/{{ anchorize .name }}" class="btn btn-light rounded-0 border w-100 px-0 py-4"
+          role="button">
+          {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
+          <p class="small text-primary mt-1 mb-0"><i class="fas fa-angle-right d-none d-lg-inline">&nbsp;</i>{{ .name }}</p>
+          {{ if eq .status "Limited" }}
+            <i class="fas fa-circle fa-xs text-warning pt-3 d-none d-lg-block"></i>
+          {{ else if eq .status "No" }}
+            <i class="fas fa-circle fa-xs text-danger pt-3 d-none d-lg-block"></i>
+          {{ else }}
+            <i class="fas fa-circle fa-xs text-success pt-3 d-none d-lg-block"></i>
+          {{ end }}
+          <p class="small mb-0 d-none d-lg-block pt-1">{{ .status }} service</p>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</div>

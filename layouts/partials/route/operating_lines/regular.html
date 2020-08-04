@@ -87,9 +87,16 @@
                 <p class="small m-0">&#x25B8; <a href="{{ anchorize .Title }}">More information</a></p>
               </div>
             </div>
-            <ul class="list-group list-group-horizontal text-center mt-26">
+            {{ $margin := "mt-26" }}
+            {{ if eq ($.Scratch.Get "line-title") "blue-line" }}
+              {{ $margin = "mt-0" }}
+            {{ end }}
+            <ul class="list-group list-group-horizontal text-center {{ $margin }}">
               {{ range .stations }}
                 <li class="list-group-item border-0 w-100 px-0">
+                  {{ if eq ($.Scratch.Get "line-title") "blue-line" }}
+                    <p class="small m-0 mb-1 {{ if ne .name "Zero Zero" }}invisible{{ end }}"><a href="/station/{{ anchorize .name }}">{{ .name }}<br>{{ .name_zh }}</a></p>
+                  {{ end }}
                   {{ $class := "station-code-middle" }}
                   {{ if .first_station }}
                     {{ $class = "station-code-first" }}
@@ -103,12 +110,27 @@
                       {{ end }}
                     </div>
                   {{ end }}
-                  <div class="{{ $class }} station-code-bg-{{ $.Scratch.Get "line-title" }}">
-                    {{ with .station_code }}
-                      {{ partial "station_code/normal/horizontal.html" . }}
-                    {{ end }}
-                  </div>
-                  <p class="small m-0 mt-1"><a href="/station/{{ anchorize .name }}">{{ .name }}<br>{{ .name_zh }}</a></p>
+                  {{ if and (eq .name "City Farm") (eq ($.Scratch.Get "line-title") "blue-line") }}
+                    <div class="station-code-middle station-code-bg-blue-line">
+                      <span class="station-code station-code-bl rounded-circle invisible">B7</span>
+                    </div>
+                  {{ else }}
+                    <div class="{{ $class }} station-code-bg-{{ $.Scratch.Get "line-title" }}">
+                      {{ with .station_code }}
+                        {{ partial "station_code/normal/horizontal.html" . }}
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                  {{ if and (eq .name "Zero Zero") (eq ($.Scratch.Get "line-title") "blue-line") }}
+                    <div class="station-code-b6">
+                      <span class="station-code station-code-bl rounded-circle invisible">B6</span>
+                    </div>
+                  {{ else if and (eq .name "City Farm") (eq ($.Scratch.Get "line-title") "blue-line") }}
+                    <div class="station-code-last station-code-bg-blue-line">
+                      <span class="station-code station-code-bl rounded-circle">B7</span>
+                    </div>
+                  {{ end }}
+                  <p class="small m-0 mt-1 {{ if and (eq .name "Zero Zero") (eq ($.Scratch.Get "line-title") "blue-line") }}invisible{{ end }}"><a href="/station/{{ anchorize .name }}">{{ .name }}<br>{{ .name_zh }}</a></p>
                 </li>
               {{ end }}
             </ul>
