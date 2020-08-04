@@ -23,6 +23,8 @@
         <div class="route-sign diamondline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Diamond Line 鑽石綫"{{ end }}>&nbsp;D&nbsp;</div>
       {{ else if eq . "P" }}
         <div class="route-sign pandaexpress {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Panda Express 熊貓快綫"{{ end }}>&nbsp;P&nbsp;</div>
+      {{ else if eq . "S" }}
+        <div class="route-sign bigsnowline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Big Snow Line 大雪綫"{{ end }}>&nbsp;S&nbsp;</div>
       {{ end }}
       {{ with $.vertical }}<br>{{ end }}
     {{ end }}
