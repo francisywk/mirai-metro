@@ -1,5 +1,68 @@
 {{ define "main" }}
+  <div class="container-fluid py-5 text-center bg-miraimetro text-light" id="home-banner">
+    <div class="container" id="home-banner-container">
+      <h1 class="display-5 display-lg-4 font-weight-bold mb-0 pb-4">Welcome to Mirai Metro</h1>
+      <h5 class="font-weight-bold m-0 py-4">
+        <span class="invisible" id="currentTime">7 June 2015&nbsp;&nbsp;&nbsp;&nbsp;15:08:11</span>
+      </h5>
+      <div class="pb-4">
+        <div class="d-inline-block align-middle mr-3" style="width: 60px;">
+          <i id="weather-logo"></i>
+        </div>
+        <div class="d-inline-block align-middle" id="weather-description">
+          <h4 class="font-weight-bold mb-0">
+            <span class="invisible" id="tempC">00</span><sup>&deg;C</sup>
+            /
+            <span class="invisible" id="tempF">00</span><sup>&deg;F</sup>
+          </h4>
+          <h5 class="font-weight-bold mb-0">Mirai</h5>
+        </div>
+      </div>
+      <div>
+        <h5 class="pt-5 font-weight-bold">Popular Stations</h5>
+        <div class="nav-scroller">
+          <nav class="nav nav-justified">
+            {{ range where .Site.Pages "Section" "station" }}
+              {{ with .Params }}
+                {{ if .popular }}
+                  <a class="nav-link text-light pl-4 pr-1 px-lg-3" href="/station/{{ anchorize .station_name_en }}">
+                    <span class="fa-stack fa-2x">
+                      <i class="fas fa-circle fa-stack-2x"></i>
+                      <i class="fas fa-subway fa-stack-1x text-mirai"></i>
+                    </span>
+                    <p class="small font-weight-bold mb-0 pt-1">{{ .station_name_en }}</p>
+                  </a>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="container-fluid mt-4">
+    {{ with .Params.alert }}
+      {{ range . }}
+      <div class="container">
+        <div class="alert alert-warning border border-warning text-center rounded py-1 d-none d-md-block w-90 mx-auto" role="alert">
+          <span class="fa-stack fa-2x align-middle">
+            <i class="fas fa-certificate fa-stack-2x text-danger"></i>
+            <i class="fas fa-bullhorn fa-stack-1x fa-inverse rotate-350"></i>
+          </span>
+          <div class="d-inline-block align-middle text-left">
+            {{ with .line_1 }}
+              <p class="mb-0">
+                {{ markdownify . }}
+              </p>
+            {{ end }}
+            {{ with .line_2 }}
+              <small>{{ markdownify . }}</small>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
     <div class="row mx-md-0 text-center">
       {{ range after 1 .Site.Menus.main }}
         <div class="col-6 col-md-3 col-lg p-1 p-md-2">
