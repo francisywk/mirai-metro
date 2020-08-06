@@ -52,10 +52,11 @@ enableGitInfo = true
     pre = "fas fa-subway fa-fw"
     url = "/station"
     weight = 4
-  # [[menu.main]]
-  #   name = "Tickets"
-  #   url = "/tickets"
-  #   weight = 5
+  [[menu.main]]
+    name = "Travel Guide"
+    pre = "fas fa-book-reader fa-fw"
+    url = "/guide"
+    weight = 5
   [[menu.main]]
     name = "Wiki"
     pre = "fab fa-wikipedia-w fa-fw"

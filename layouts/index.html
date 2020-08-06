@@ -85,4 +85,51 @@
       {{ end }}
     </div>
   </div>
+  <article class="bg-light my-4 py-5">
+    <div class="container">
+      <div class="text-right">
+        <i class="fas fa-angle-right text-miraimetro"></i>&nbsp;<a href="/news">View all</a>
+      </div>
+      <h4 class="text-center font-weight-bold">News</h4>
+      <div class="row mx-0">
+        <div class="col-12 col-lg-8">
+          <table class="table table-borderless">
+            <tbody>
+              <tr class="row border-bottom">
+                <td class="col-4 text-right">7 June 2018</td>
+                <td class="col-8">
+                  <a href="">Celebrating Mirai Metro's 3<sup>rd</sup> Anniversary of operation</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="col-12 col-lg-4">
+          <div class="container">
+            <img src="/img/0.jpg" class="img-fluid">
+            <a href="#" class="text-light stretched-link" data-toggle="modal" data-target="#videoModal" data-video="https://www.youtube-nocookie.com/embed/xlLCQwqAg7k">
+              <i class="far fa-play-circle fa-3x" id="play-button"></i>
+            </a>
+          </div>
+          <!-- Modal -->
+          <div class="modal fade" id="videoModal" aria-hidden="true" aria-labelledby="myModalLabel" role="dialog" tabindex="-1">
+            <div class="modal-dialog modal-lg" role="document">
+              <div class="modal-content">
+                <div class="modal-body mb-0 p-0">
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe allowfullscreen autoplay class="embed-responsive-item"
+                      src=""></iframe>
+                  </div>
+                </div>
+                <div class="modal-footer">
+                  <button class="btn btn-outline-danger btn-rounded btn-md ml-4 text-center closing" data-dismiss="modal"
+                    type="button">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
 {{ end }}
