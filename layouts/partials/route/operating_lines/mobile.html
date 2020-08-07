@@ -3,13 +3,20 @@
     {{ range .Site.Data.service_status.route }}
     <a href="/route/{{ anchorize .name }}" class="text-decoration-none">
       <div class="col mb-2 px-1">
-        <div class="card bg-light px-25 py-2">
+        {{ if eq .status "Limited" }}
+          {{ $.Scratch.Set "status" "alert-warning"  }}
+        {{ else if eq .status "No" }}
+          {{ $.Scratch.Set "status" "alert-danger"  }}
+        {{ else }}
+          {{ $.Scratch.Set "status" "alert-success"  }}
+        {{ end }}
+        <div class="card {{ $.Scratch.Get "status" }} shadow-sm px-25 py-2">
           <div class="media">
             <div class="align-self-center pr-25">
               {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
             </div>
             <div class="media-body small align-self-center">
-              <i class="fas fa-angle-right">&nbsp;</i>{{ .name }}
+              <span class="alert-links"><i class="fas fa-angle-right">&nbsp;</i>{{ .name }}</span>
             </div>
           </div>
         </div>

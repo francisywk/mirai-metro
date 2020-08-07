@@ -3,19 +3,20 @@
     <h5 class="font-weight-bold mb-2">Service Status</h5>
     <div class="row">
       {{ range .Site.Data.service_status.route }}
-        <div class="col-4 col-lg text-center mr-lg-2 p-0 d-inline-flex">
-          <a href="/route/{{ anchorize .name }}" class="btn btn-light rounded-0 border w-100 px-0 py-4"
+        <div class="col-4 col-md-2 text-center p-1 d-inline-flex">
+          <a href="/route/{{ anchorize .name }}" class="btn btn-light border w-100 px-0 py-4 pb-lg-3"
             role="button">
             {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
-            <p class="small text-primary mt-1 mb-0"><i class="fas fa-angle-right d-none d-lg-inline">&nbsp;</i>{{ .name }}</p>
+            <p class="small text-miraimetro mt-1 mb-0">{{ .name }}<span class="d-none d-lg-inline"><br>{{ .name_zh }}</span></p>
+            <hr class="d-none d-lg-block" />
             {{ if eq .status "Limited" }}
-              <i class="fas fa-circle fa-xs text-warning pt-3 d-none d-lg-block"></i>
+              <i class="fas fa-circle fa-xs text-warning d-none d-lg-inline"></i>
             {{ else if eq .status "No" }}
-              <i class="fas fa-circle fa-xs text-danger pt-3 d-none d-lg-block"></i>
+              <i class="fas fa-circle fa-xs text-danger d-none d-lg-inline"></i>
             {{ else }}
-              <i class="fas fa-circle fa-xs text-success pt-3 d-none d-lg-block"></i>
+              <i class="fas fa-circle fa-xs text-success d-none d-lg-inline"></i>
             {{ end }}
-            <p class="small mb-0 d-none d-lg-block pt-1">{{ .status }} service</p>
+            <span class="small text-miraimetro mb-0 d-none d-lg-inline">{{ .status }} service</span>
           </a>
         </div>
       {{ end }}

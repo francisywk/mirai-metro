@@ -1,31 +1,44 @@
 route:
   - route_sign: [R]
     name: Red Line
+    name_zh: 紅綫
     status: "Normal"
   - route_sign: [G]
     name: Green Line
+    name_zh: 綠綫
     status: "Normal"
   - route_sign: [B]
     name: Blue Line
+    name_zh: 藍綫
     status: "Normal"
   - route_sign: [Ac]
     name: Airport Line
+    name_zh: 空港綫
     status: "Normal"
   - route_sign: [V]
     name: Victory Line
+    name_zh: 勝利綫
     status: "Normal"
   - route_sign: [W]
     name: Waterfall Line
-    status: "Normal"
+    name_zh: 瀑布綫
+    status: "Limited"
   - route_sign: [C]
     name: City Loop Line
+    name_zh: 三環綫
     status: "Normal"
   - route_sign: [D]
     name: Diamond Line
+    name_zh: 鑽石綫
     status: "Normal"
   - route_sign: [P]
     name: Panda Express
+    name_zh: 熊貓快綫
     status: "Limited"
+  - route_sign: [S]
+    name: Big Snow Line
+    name_zh: 大雪綫
+    status: "No"
 airport:
   - status: "Normal"
 legend:
