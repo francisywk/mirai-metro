@@ -10,14 +10,14 @@ adjacent_stations:
       - station: R3-Under the Falls
         towards: Fhoenix Hill
     following:
-      - station: R5-Portal Hill
+      - station: R5-Portal Cave
         towards: Portal Hill
   - route_sign: [G]
     preceding:
       - station: G5-Mount Austin
         towards: City Farm
     following:
-      - station: G7-Cavemouth
+      - station: G7-Portal Cave
         towards: Mirai
   - route_sign: [W]
     preceding:

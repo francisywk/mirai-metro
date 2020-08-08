@@ -57,4 +57,52 @@ names_transcriptions:
         content: Dàxuě Xiàn
 ---
 
-The **Big Snow Line** (Code **S**) is a planned line on the Mirai Metro. Following the Mirai Metro's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number).
+The **Big Snow Line** (Code **S**) is a planned line on the Mirai Metro. Following the Mirai Metro's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Library of Big Snow in the west, to UCHQ West of Redstone Valley in the east.
+
+<br>
+
+#### Stations
+
+---
+
+Planned stations. Not finalised.
+
+<table class="table table-sm table-bordered text-center">
+  <tr class="thead-light">
+    <th rowspan="2" class="align-middle">Code</th>
+    <th colspan="2">Station Name</th>
+    <th rowspan="2" class="align-middle">Transfer</th>
+    <th rowspan="2" class="align-middle">Location</th>
+  </tr>
+  <tr class="thead-light">
+    <th>English</th>
+    <th>Chinese</th>
+  </tr>
+  <tr>
+    <td>S1</td>
+    <td>Library</td>
+    <td>圖書館</td>
+    <td>
+      <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+    </td>
+    <td>Big Snow</td>
+  </tr>
+  <tr>
+    <td>SX</td>
+    <td>Moon Lake</td>
+    <td>月湖</td>
+    <td>
+      <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+    </td>
+    <td>Victory Bay</td>
+  </tr>
+  <tr>
+    <td>S9</td>
+    <td>UCHQ West</td>
+    <td>聯總西</td>
+    <td>
+      <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+    </td>
+    <td>Redstone Valley</td>
+  </tr>
+</table>

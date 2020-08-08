@@ -24,6 +24,11 @@ stations:
     transfer: 
       - route_sign: [G,W]
   - station_code: [R5]
+    name: Portal Cave
+    name_zh: 波打洞
+    transfer: 
+      - route_sign: [G,P]
+  - station_code: [R6]
     name: Portal Hill
     name_zh: 波打山
     last_station: true

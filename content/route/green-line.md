@@ -35,13 +35,13 @@ stations:
     transfer:
       - route_sign: [R,W]
   - station_code: [G7]
-    name: Cavemouth
-    name_zh: 洞口
+    name: Portal Cave
+    name_zh: 波打洞
     transfer:
-      - route_sign: [P]
+      - route_sign: [R,P]
   - station_code: [G8]
     name: Bottomvalley
-    name_zh: 谷底
+    name_zh: 山底谷
     transfer:
       - route_sign: [V]
   - station_code: [G9]

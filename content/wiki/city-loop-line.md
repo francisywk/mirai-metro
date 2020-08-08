@@ -1,15 +1,13 @@
 ---
-title: "Panda Express (Mirai Metro)"
-linktitle: Panda Express
+title: "City Loop Line"
 description: Rapid transit line in Mirai
-date: 2020-07-27T19:43:49+08:00
+date: 2020-08-09T03:02:53+08:00
 draft: false
 category: miraimetro
-notice: This article is about the rapid transit line in Mirai. For the American fast food restaurant chain, see [Panda Express](https://en.wikipedia.org/wiki/Panda_Express 'Panda Express').
 see_also: false
 quick_facts:
-  - title_style: "border-top: 4px solid #50C878;border-bottom: 4px solid #50C878;padding:2px 0;"
-  - route_sign: [P]
+  - title_style: "border-top: 4px solid #FF8C00;border-bottom: 4px solid #FF8C00;padding:2px 0;"
+  - route_sign: [C]
   - heading: Overview
   - cols_2:
     - title: Type
@@ -19,23 +17,25 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Panda Museum](/wiki/panda-museum 'Panda Museum Station')<br>[Oasis Point](/wiki/oasis-point 'Oasis Point Station')"
+      content: "[Winterland](/wiki/winterland 'Winterland Station') (loop)"
     - title: Stations
-      content: 6
+      content: 5
   - heading: Operational
   - cols_2:
     - title: Opened
-      content: 27 July 2020
+      content: 31 August 2018
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
-      content: Automated
+      content: Manual
     - title: Character
       content: Underground
     - title: Rolling stock
-      content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Lime [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
+      content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Orange [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical
   - cols_2:
+    - title: Line length
+      content: 0.9 km (0.6 mi)
     - title: "[Track gauge](https://en.wikipedia.org/wiki/Track_gauge 'Track gauge')"
       content: "750 mm (2 ft ​5<sup>1</sup>/<sub>2</sub> in)<br>[narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Narrow-gauge railway')"
     - title: "[Electrification](https://en.wikipedia.org/wiki/Railway_electrification_system 'Railway electrification system')"
@@ -46,23 +46,23 @@ names_transcriptions:
   - heading: Panda Express
   - cols_2:
       - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 熊貓快綫
+        content: 三環綫
       - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 熊猫快线
+        content: 三环线
   - transcriptions:
     - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
     - cols_2:
       - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Hùhngmāau Faaisin
+        content: Sāamwàahn Sin
       - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Hung4maau1 Faai3sin3
+        content: Saam1waan4 Sin3
     - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
     - cols_2:
       - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Xióngmāo Kuàixiàn
+        content: Sānhuán Xiàn
 ---
 
-The line is the second fully automatic line in operation on the system.
+The only line that run entirely within City Loop.
 
 <br>
 
@@ -86,60 +86,50 @@ The line is the second fully automatic line in operation on the system.
     </thead>
     <tbody>
       <tr>
-        <td>P1</td>
-        <td>Panda Museum</td>
-        <td>熊貓博物館</td>
-        <td></td>
-        <td rowspan="2">La Miraiya</td>
+        <td>C1</td>
+        <td>Winterland</td>
+        <td>冬地</td>
+        <td>
+          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+        </td>
+        <td rowspan="5">City Loop</td>
       </tr>
       <tr>
-        <td>P2</td>
-        <td>Portal Cave</td>
-        <td>波打洞</td>
+        <td>C2</td>
+        <td>Berryhills</td>
+        <td>啤梨山</td>
         <td>
-          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
         </td>
       </tr>
       <tr>
-        <td>P3</td>
-        <td>Mugen</td>
-        <td>無限</td>
+        <td>C3</td>
+        <td>Mirai</td>
+        <td>美拉</td>
         <td>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
-          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          <div class="route-sign-sm airportcomposite">&nbsp;A&nbsp;</div>
+          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+        </td>
+      </tr>
+      <tr>
+        <td>C4</td>
+        <td>Downtown East</td>
+        <td>市中心東</td>
+        <td>
           <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
           <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
         </td>
-        <td rowspan="3">City Loop</td>
       </tr>
       <tr>
-        <td>P4</td>
-        <td>Under the Falls</td>
-        <td>瀑布下</td>
-        <td>
-          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-        </td>
-      </tr>
-      <tr>
-        <td>P5</td>
-        <td>City Farm</td>
-        <td>城市農場</td>
+        <td>C5</td>
+        <td>Mount Austin</td>
+        <td>柯士甸山</td>
         <td>
           <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
         </td>
       </tr>
-      <tr>
-        <td>P6</td>
-        <td>Oasis Point</td>
-        <td>綠洲角</td>
-        <td>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-        </td>
-        <td>Big Snow</td>
-      </tr>
-    </tbody>
+    </tobody>
   </table>
 </div>

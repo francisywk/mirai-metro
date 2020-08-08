@@ -7,7 +7,7 @@ route_sign: [P]
 adjacent_stations:
   - route_sign: [P]
     following:
-      - station: P2-Cavemouth
+      - station: P2-Portal Cave
         towards: Oasis Point
 alternate_station_name_en: 
 alternate_station_name_zh: 

@@ -1,0 +1,103 @@
+{{ define "main" }}
+<div class="container pt-5">
+  {{ partial "header.html" . }}
+  <div class="embed-responsive embed-responsive-10by13 w-100 mx-auto">
+    <iframe class="embed-responsive-item rounded-top"
+      src="https://drive.google.com/file/d/1RE2tBSdMv3G9mjKi1SDI6LmJ1nmnuSw_/preview"></iframe>
+  </div>
+  <div class="jumbotron small py-3 py-lg-4 rounded-bottom" id="legend-jumbotron">
+    <div class="row px-2 px-md-5">
+      <div class="col px-md-0">
+        <h4 class="stylised-name-en-zh">Legend 圖例</h4>
+      </div>
+    </div>
+    <div class="row px-2 px-md-5">
+      <div class="col-md order-last order-md-first mt-1 mt-md-0">
+        <ul class="row pl-3 pl-md-0">
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm redline d-inline-block align-middle">&nbsp;R&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Red Line<br>紅綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm greenline d-inline-block align-middle">&nbsp;G&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Green Line<br>綠綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm blueline d-inline-block align-middle">&nbsp;B&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Blue Line<br>藍綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm airportcomposite d-inline-block align-middle">&nbsp;A&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Airport Line<br>空港綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm victoryline d-inline-block align-middle">&nbsp;V&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Victory Line<br>勝利綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm waterfallline d-inline-block align-middle">&nbsp;W&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Waterfall Line<br>瀑布綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm cityloopline d-inline-block align-middle">&nbsp;C&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">City Loop Line<br>三環綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm diamondline d-inline-block align-middle">&nbsp;D&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Diamond Line<br>鑽石綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <div class="route-sign-sm pandaexpress d-inline-block align-middle">&nbsp;P&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Panda Express<br>熊貓快綫</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1 disabled">
+            <div class="route-sign-sm bigsnowline d-inline-block align-middle">&nbsp;S&nbsp;</div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Big Snow Line<br>大雪綫</span>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md order-first order-md-last">
+        <ul class="row pl-3">
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <img class="d-inline-block align-middle" src="/img/airport.min.png" width="31" alt="Airport Icon">
+            <span class="d-inline-block align-middle pl-1 lh-14">Airport<br>空港</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <img class="d-inline-block align-middle" src="/img/hotspring.min.png" width="31" alt="Hot Spring Icon">
+            <span class="d-inline-block align-middle pl-1 lh-14">Hot Spring<br>溫泉</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <img class="d-inline-block align-middle" src="/img/jetty.min.png" width="31" alt="Jetty Icon">
+            <span class="d-inline-block align-middle pl-1 lh-14">Jetty<br>碼頭</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <img class="d-inline-block align-middle" src="/img/turtle.min.png" width="31" alt="Marine Park Icon">
+            <span class="d-inline-block align-middle pl-1 lh-14">Marine Park<br>海洋公園</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <img class="d-inline-block align-middle" src="/img/mrr.min.png" width="31" alt="MRR Icon">
+            <span class="d-inline-block align-middle pl-1 lh-14">MRR<br>美鐵</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <img class="d-inline-block align-middle" src="/img/netherportal.min.png" width="31"
+              alt="Nether Portal Icon">
+            <span class="d-inline-block align-middle pl-1 lh-14">Nether Portal<br>下界传送门</span>
+          </li>
+          <li class="col-6 col-lg-4 list-group-item bg-transparent border-0 p-1">
+            <img class="d-inline-block align-middle" src="/img/panda.min.png" width="31" alt="Panda Sanctuary Icon">
+            <span class="d-inline-block align-middle pl-1 lh-14">Panda Sanctuary<br>熊貓保護區</span>
+          </li>
+          <li class="col-12 list-group-item bg-transparent border-0"></li>
+          <li class="col-12 list-group-item bg-transparent border-0 p-1">
+            <div class="bg-secondary d-inline-block rounded p-1 align-middle">
+              <span class="station-code station-code-xs station-code-bl rounded-circle">&nbsp;&nbsp;</span>
+              <span class="station-code station-code-xs station-code-rl rounded-circle">&nbsp;&nbsp;</span>
+            </div>
+            <span class="d-inline-block align-middle pl-1 lh-14">Transfer Station<br>轉乘車站</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

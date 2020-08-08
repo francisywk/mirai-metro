@@ -9,10 +9,10 @@ stations:
     name_zh: 熊貓博物館
     first_station: true
   - station_code: [P2]
-    name: Cavemouth
-    name_zh: 洞口
+    name: Portal Cave
+    name_zh: 波打洞
     transfer:
-      - route_sign: [G]
+      - route_sign: [R,G]
   - station_code: [P3]
     name: Mugen
     name_zh: 無限

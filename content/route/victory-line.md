@@ -12,7 +12,7 @@ stations:
     first_station: true
   - station_code: [V2]
     name: Bottomvalley
-    name_zh: 谷底
+    name_zh: 山底谷
     transfer:
       - route_sign: [G]
   - station_code: [V3]

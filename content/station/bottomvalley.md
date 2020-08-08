@@ -2,12 +2,12 @@
 title: Bottomvalley Station
 station_code: [G8,V2]
 station_name_en: Bottomvalley
-station_name_zh: 谷底
+station_name_zh: 山底谷
 route_sign: [G,V]
 adjacent_stations:
   - route_sign: [G]
     preceding:
-      - station: G7-Cavemouth
+      - station: G7-Portal Cave
         towards: Downtown Core
     following:
       - station: G9-UCHQ South

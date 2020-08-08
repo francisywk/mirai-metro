@@ -1,13 +1,13 @@
 ---
 title: Portal Hill Station
-station_code: [R5]
+station_code: [R6]
 station_name_en: Portal Hill
 station_name_zh: 波打山
 route_sign: [R]
 adjacent_stations:
   - route_sign: [R]
     preceding:
-      - station: R4-Downtown Core
+      - station: R5-Portal Cave
         towards: Fhoenix Hill
 alternate_station_name_en: 
 alternate_station_name_zh: 
