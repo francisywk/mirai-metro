@@ -19,10 +19,10 @@
     <tr>
       <td class="align-top px-1 px-md-3">
         <ul class="row m-0 pl-4">
-          {{ range where .Pages ".Params.category" "eq" "miraimetro" }}
+          {{ range where .Pages.ByTitle ".Params.category" "eq" "miraimetro" }}
             <li class="col-12 col-md-6 col-xl-4 px-0">
               {{ $title := .Title }}
-              {{ with .Params.linktitle }}
+              {{ with .LinkTitle }}
                 {{ $title = . }}
               {{ end }}
               <a href="{{ .RelPermalink }}" title="{{ $title }}">{{ $title }}</a>
@@ -37,10 +37,10 @@
     <tr>
       <td class="align-top px-1 px-md-3">
         <ul class="row m-0 pl-4">
-          {{ range where .Pages ".Params.category" "eq" "others" }}
+          {{ range where .Pages.ByTitle ".Params.category" "eq" "others" }}
             <li class="col-12 col-md-6 col-xl-4 px-0">
               {{ $title := .Title }}
-              {{ with .Params.linktitle }}
+              {{ with .LinkTitle }}
                 {{ $title = . }}
               {{ end }}
               <a href="{{ .RelPermalink }}" title="{{ $title }}">{{ $title }}</a>

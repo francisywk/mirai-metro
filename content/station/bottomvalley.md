@@ -7,7 +7,7 @@ route_sign: [G,V]
 adjacent_stations:
   - route_sign: [G]
     preceding:
-      - station: G7-Portal Cave
+      - station: G7-Miraiya Cave
         towards: Downtown Core
     following:
       - station: G9-UCHQ South

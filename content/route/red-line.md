@@ -24,8 +24,8 @@ stations:
     transfer: 
       - route_sign: [G,W]
   - station_code: [R5]
-    name: Portal Cave
-    name_zh: 波打洞
+    name: Miraiya Cave
+    name_zh: 美拉雅洞
     transfer: 
       - route_sign: [G,P]
   - station_code: [R6]

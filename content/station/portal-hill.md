@@ -7,7 +7,7 @@ route_sign: [R]
 adjacent_stations:
   - route_sign: [R]
     preceding:
-      - station: R5-Portal Cave
+      - station: R5-Miraiya Cave
         towards: Fhoenix Hill
 alternate_station_name_en: 
 alternate_station_name_zh: 

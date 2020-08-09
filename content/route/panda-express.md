@@ -9,8 +9,8 @@ stations:
     name_zh: 熊貓博物館
     first_station: true
   - station_code: [P2]
-    name: Portal Cave
-    name_zh: 波打洞
+    name: Miraiya Cave
+    name_zh: 美拉雅洞
     transfer:
       - route_sign: [R,G]
   - station_code: [P3]

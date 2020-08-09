@@ -6,7 +6,7 @@ date: 2020-07-10T00:47:27+08:00
 slug: Blue Line (Mirai Metro)
 draft: false
 category: miraimetro
-keywords: [mirai,miraimetro]
+keywords: [mirai,miraimetro,route,blueline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #0433ff;border-bottom: 4px solid #0433ff;padding:2px 0;"
@@ -69,11 +69,146 @@ The **Blue Line** (code **B**) is the first rapid transit line of [Mirai Metro](
 
 <br>
 
+{{< toc >}}
+
+<br>
+
+#### History
+
+---
+
+- 5 October 2019: Hell's Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Zero Zero and Spawn.
+
+<br>
+
 #### Station list
 
 ---
 
- - All services stop at every station.
+The following is a list of the stations on the Blue Line.
+
+<div class="table-responsive">
+  <table class="table table-sm table-bordered table-700 text-center">
+    <thead class="thead-light">
+      <tr>
+        <th rowspan="2" class="align-middle">Code</th>
+        <th colspan="2">Station Name</th>
+        <th rowspan="2" class="align-middle">Transfer</th>
+        <th rowspan="2" class="align-middle">Location</th>
+      </tr>
+      <tr>
+        <th>English</th>
+        <th>Chinese</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B1</span>
+        </td>
+        <td>Victory Bay</td>
+        <td>勝利灣</td>
+        <td>
+          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+        </td>
+        <td>Victory Bay</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B2</span>
+        </td>
+        <td>UCHQ North</td>
+        <td>聯總北</td>
+        <td>
+          <div class="route-sign-sm airportcomposite">&nbsp;A&nbsp;</div>
+          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+        </td>
+        <td rowspan="2">Redstone Valley</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B3</span>
+        </td>
+        <td>UCHQ South</td>
+        <td>聯總南</td>
+        <td>
+          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          <div class="route-sign-sm airportline">&nbsp;A&nbsp;</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B4</span>
+        </td>
+        <td>Mugen</td>
+        <td>無限</td>
+        <td>
+          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
+        </td>
+        <td rowspan="2">City Loop</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B5</span>
+        </td>
+        <td>Paradise Falls</td>
+        <td>仙境瀑布</td>
+        <td>
+          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B6</span>
+        </td>
+        <td>Zero Zero</td>
+        <td>零零</td>
+        <td>
+          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+        </td>
+        <td>Big Snow</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B8</span>
+        </td>
+        <td>Hell's Gate</td>
+        <td>地獄門</td>
+        <td></td>
+        <td>Dark Forest</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B9</span>
+        </td>
+        <td>Spawn</td>
+        <td>生成</td>
+        <td></td>
+        <td>Spawn Chunk</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="font-weight-bold">
+          Branch line from Zero Zero station
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bl rounded-circle">B7</span>
+        </td>
+        <td>City Farm</td>
+        <td>城市農場</td>
+        <td>
+          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
+        </td>
+        <td>City Loop</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <br>
 

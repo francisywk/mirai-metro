@@ -24,7 +24,7 @@ quick_facts:
     - title: Number of stations
       content: 33
     - title: Website
-      content: miraimetro.netlify.app
+      content: "[miraimetro.netlify.app](/)"
   - heading: Operation
   - cols_2:
     - title: Began operation

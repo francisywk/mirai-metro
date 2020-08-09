@@ -32,7 +32,7 @@ adjacent_stations:
         towards: Diamond Hill
   - route_sign: [P]
     preceding:
-      - station: P2-Portal Cave
+      - station: P2-Miraiya Cave
         towards: Panda Museum
     following:
       - station: P4-Under the Falls

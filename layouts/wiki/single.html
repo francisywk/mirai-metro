@@ -138,6 +138,9 @@
         {{ with $.Content }}
           {{ . }}
         {{ end }}
+        {{ if .see_also }}
+          {{ partial "related.html" $.Page }}
+        {{ end }}
       </div>
     {{ end }}
   {{ end }}

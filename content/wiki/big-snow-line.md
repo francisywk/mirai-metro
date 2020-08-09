@@ -4,8 +4,8 @@ description: Rapid transit line in Mirai
 date: 2020-07-31T05:08:26+08:00
 draft: false
 category: miraimetro
-notice:
-see_also: false
+keywords: [mirai,miraimetro,route,bigsnowline]
+see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF80A9;border-bottom: 4px solid #FF80A9;padding:2px 0;"
   - route_sign: [S]
@@ -61,11 +61,11 @@ The **Big Snow Line** (Code **S**) is a planned line on the Mirai Metro. Followi
 
 <br>
 
-#### Stations
+#### Station list
 
 ---
 
-Planned stations. Not finalised.
+The following is a list of planned stations of the Big Snow Line that have not been finalised.
 
 <table class="table table-sm table-bordered text-center">
   <tr class="thead-light">
@@ -79,7 +79,9 @@ Planned stations. Not finalised.
     <th>Chinese</th>
   </tr>
   <tr>
-    <td>S1</td>
+    <td>
+      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+    </td>
     <td>Library</td>
     <td>圖書館</td>
     <td>
@@ -88,7 +90,20 @@ Planned stations. Not finalised.
     <td>Big Snow</td>
   </tr>
   <tr>
-    <td>SX</td>
+    <td>
+      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+    </td>
+    <td>Miraibridge</td>
+    <td>美拉橋</td>
+    <td>
+      <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
+    </td>
+    <td>City Loop</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+    </td>
     <td>Moon Lake</td>
     <td>月湖</td>
     <td>
@@ -97,7 +112,9 @@ Planned stations. Not finalised.
     <td>Victory Bay</td>
   </tr>
   <tr>
-    <td>S9</td>
+    <td>
+      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+    </td>
     <td>UCHQ West</td>
     <td>聯總西</td>
     <td>
@@ -106,3 +123,9 @@ Planned stations. Not finalised.
     <td>Redstone Valley</td>
   </tr>
 </table>
+
+<br>
+
+#### See also
+
+---

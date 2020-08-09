@@ -1,16 +1,15 @@
 ---
-title: "Panda Express (Mirai Metro)"
-linktitle: Panda Express
+title: "Red Line (Mirai Metro)"
+linktitle: Red Line
 description: Rapid transit line in Mirai
-date: 2020-07-27T19:43:49+08:00
+date: 2020-08-09T23:19:57+08:00
 draft: false
 category: miraimetro
-keywords: [mirai,miraimetro,route,pandaexpress]
-notice: This article is about the rapid transit line in Mirai. For the American fast food restaurant chain, see [Panda Express](https://en.wikipedia.org/wiki/Panda_Express 'Panda Express').
+keywords: [mirai,miraimetro,route,redline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #50C878;border-bottom: 4px solid #50C878;padding:2px 0;"
-  - route_sign: [P]
+  - title_style: "border-top: 4px solid #FF2600;border-bottom: 4px solid #FF2600;padding:2px 0;"
+  - route_sign: [R]
   - heading: Overview
   - cols_2:
     - title: Type
@@ -20,23 +19,25 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Panda Museum](/wiki/panda-museum 'Panda Museum Station')<br>[Oasis Point](/wiki/oasis-point 'Oasis Point Station')"
+      content: "[Fhoenix Hill](/wiki/fhoenix-hill 'Fhoenix Hill Station')<br>[Portal Hill](/wiki/portal-hill 'Portal Hill Station')"
     - title: Stations
       content: 6
   - heading: Operational
   - cols_2:
     - title: Opened
-      content: 27 July 2020
+      content: 11 August 2015
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
-      content: Automated
+      content: Manual control
     - title: Character
-      content: Underground
+      content: Underground, at-grade
     - title: Rolling stock
-      content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Lime [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
+      content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Red [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical
   - cols_2:
+    - title: Line length
+      content: 0.5 km (0.3 mi)
     - title: "[Track gauge](https://en.wikipedia.org/wiki/Track_gauge 'Track gauge')"
       content: "750 mm (2 ft ​5<sup>1</sup>/<sub>2</sub> in)<br>[narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Narrow-gauge railway')"
     - title: "[Electrification](https://en.wikipedia.org/wiki/Railway_electrification_system 'Railway electrification system')"
@@ -44,30 +45,42 @@ quick_facts:
     - title: Operating speed
       content: 28.8 km/h (18 mph)
 names_transcriptions:
-  - heading: Panda Express
+  - heading: Red Line
   - cols_2:
       - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 熊貓快綫
+        content: 紅綫
       - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 熊猫快线
+        content: 红线
   - transcriptions:
     - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
     - cols_2:
       - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Hùhngmāau Faaisin
+        content: Hùhng Sin
       - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Hung4maau1 Faai3sin3
+        content: Hung4 Sin3
     - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
     - cols_2:
       - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Xióngmāo Kuàixiàn
+        content: Hóng Xiàn
 ---
 
-The line is the second fully automatic line in operation on the system.
+The **Red Line** (Code **R**) is the second rapid transit line to be opened and operated on [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the shortest line in operation on the network.
 
 <br>
 
-#### Stations
+{{< toc >}}
+
+<br>
+
+#### History
+
+---
+
+- 9 August 2020: Miraiya Cave [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Portal Hill.
+
+<br>
+
+#### Station list
 
 ---
 
@@ -88,70 +101,65 @@ The line is the second fully automatic line in operation on the system.
     <tbody>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
         </td>
-        <td>Panda Museum</td>
-        <td>熊貓博物館</td>
+        <td>Fhoenix Hill</td>
+        <td>飛利斯山</td>
         <td></td>
-        <td rowspan="2">La Miraiya</td>
+        <td rowspan="4">City Loop</td>
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P2</span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
         </td>
-        <td>Miraiya Cave</td>
-        <td>美拉雅洞</td>
-        <td>
-          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P3</span>
-        </td>
-        <td>Mugen</td>
-        <td>無限</td>
+        <td>Paradise Falls</td>
+        <td>仙境瀑布</td>
         <td>
           <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
-          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
         </td>
-        <td rowspan="3">City Loop</td>
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P4</span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R3<span>
         </td>
         <td>Under the Falls</td>
         <td>瀑布下</td>
         <td>
-          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
           <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
         </td>
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P5</span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R4<span>
         </td>
-        <td>City Farm</td>
-        <td>城市農場</td>
+        <td>Downtown Core</td>
+        <td>市中心</td>
         <td>
           <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
+          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
         </td>
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R5<span>
         </td>
-        <td>Oasis Point</td>
-        <td>綠洲角</td>
+        <td>Miraiya Cave</td>
+        <td>美拉雅洞</td>
         <td>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
         </td>
-        <td>Big Snow</td>
+        <td>La Miraiya</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R6<span>
+        </td>
+        <td>Portal Hill</td>
+        <td>波打山</td>
+        <td></td>
+        <td>Miraiya Highlands</td>
       </tr>
     </tbody>
   </table>

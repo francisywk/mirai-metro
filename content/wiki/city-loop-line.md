@@ -4,7 +4,8 @@ description: Rapid transit line in Mirai
 date: 2020-08-09T03:02:53+08:00
 draft: false
 category: miraimetro
-see_also: false
+keywords: [mirai,miraimetro,route,cityloopline]
+see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF8C00;border-bottom: 4px solid #FF8C00;padding:2px 0;"
   - route_sign: [C]
@@ -62,13 +63,15 @@ names_transcriptions:
         content: Sānhuán Xiàn
 ---
 
-The only line that run entirely within City Loop.
+The **City Loop Line** (Code **C**) is one of the 10 rapid transit lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the third [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") on the network as well as the only line that run entirely within the City Loop.
 
 <br>
 
-#### Stations
+#### Station list
 
 ---
+
+The following is a list of the stations on the City Loop Line.
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
@@ -86,7 +89,9 @@ The only line that run entirely within City Loop.
     </thead>
     <tbody>
       <tr>
-        <td>C1</td>
+        <td>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C1</span>
+        </td>
         <td>Winterland</td>
         <td>冬地</td>
         <td>
@@ -96,7 +101,9 @@ The only line that run entirely within City Loop.
         <td rowspan="5">City Loop</td>
       </tr>
       <tr>
-        <td>C2</td>
+        <td>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C2</span>
+        </td>
         <td>Berryhills</td>
         <td>啤梨山</td>
         <td>
@@ -104,7 +111,9 @@ The only line that run entirely within City Loop.
         </td>
       </tr>
       <tr>
-        <td>C3</td>
+        <td>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C3</span>
+        </td>
         <td>Mirai</td>
         <td>美拉</td>
         <td>
@@ -114,7 +123,9 @@ The only line that run entirely within City Loop.
         </td>
       </tr>
       <tr>
-        <td>C4</td>
+        <td>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C4</span>
+        </td>
         <td>Downtown East</td>
         <td>市中心東</td>
         <td>
@@ -123,7 +134,9 @@ The only line that run entirely within City Loop.
         </td>
       </tr>
       <tr>
-        <td>C5</td>
+        <td>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C5</span>
+        </td>
         <td>Mount Austin</td>
         <td>柯士甸山</td>
         <td>
@@ -133,3 +146,9 @@ The only line that run entirely within City Loop.
     </tobody>
   </table>
 </div>
+
+<br>
+
+#### See also
+
+---
