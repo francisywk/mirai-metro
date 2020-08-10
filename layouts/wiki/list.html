@@ -20,7 +20,7 @@
       <td class="align-top px-1 px-md-3">
         <ul class="row m-0 pl-4">
           {{ range where .Pages.ByTitle ".Params.category" "eq" "miraimetro" }}
-            <li class="col-12 col-md-6 col-xl-4 px-0">
+            <li class="col-6 col-xl-4 px-2">
               {{ $title := .Title }}
               {{ with .LinkTitle }}
                 {{ $title = . }}
@@ -38,7 +38,7 @@
       <td class="align-top px-1 px-md-3">
         <ul class="row m-0 pl-4">
           {{ range where .Pages.ByTitle ".Params.category" "eq" "others" }}
-            <li class="col-12 col-md-6 col-xl-4 px-0">
+            <li class="col-6 col-xl-4 px-2">
               {{ $title := .Title }}
               {{ with .LinkTitle }}
                 {{ $title = . }}

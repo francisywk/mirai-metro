@@ -32,7 +32,7 @@ quick_facts:
     - title: Conduction system
       content: Automated
     - title: Character
-      content: Elevated, Underground
+      content: Elevated, underground
     - title: Rolling stock
       content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Light Blue [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical
@@ -45,7 +45,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Diamond Line** (Code **D**) is the first fully automatic rapid transit line in operation on the Mirai Metro.
+The **Diamond Line** (Code **D**) is the first fully automatic rapid transit line in operation on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro").
 
 <br>
 
@@ -75,8 +75,8 @@ The **Diamond Line** (Code **D**) is the first fully automatic rapid transit lin
         <td>UCHQ North</td>
         <td>聯總北</td>
         <td>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
-          <div class="route-sign-sm airportcomposite">&nbsp;A&nbsp;</div>
+          {{< wiki/route-sign route="B" >}}
+          {{< wiki/route-sign route="Ac" >}}
         </td>
         <td>Redstone Valley</td>
       </tr>
@@ -87,7 +87,7 @@ The **Diamond Line** (Code **D**) is the first fully automatic rapid transit lin
         <td>Berryhills</td>
         <td>啤梨山</td>
         <td>
-          <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
+          {{< wiki/route-sign route="C" >}}
         </td>
         <td rowspan="4">City Loop</td>
       </tr>
@@ -98,9 +98,9 @@ The **Diamond Line** (Code **D**) is the first fully automatic rapid transit lin
         <td>Mirai</td>
         <td>美拉</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm airportcomposite">&nbsp;A&nbsp;</div>
-          <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="Ac" >}}
+          {{< wiki/route-sign route="C" >}}
         </td>
       </tr>
       <tr>
@@ -110,10 +110,10 @@ The **Diamond Line** (Code **D**) is the first fully automatic rapid transit lin
         <td>Mugen</td>
         <td>無限</td>
         <td>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
-          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
+          {{< wiki/route-sign route="B" >}}
+          {{< wiki/route-sign route="V" >}}
+          {{< wiki/route-sign route="W" >}}
+          {{< wiki/route-sign route="P" >}}
         </td>
       </tr>
       <tr>
@@ -123,8 +123,8 @@ The **Diamond Line** (Code **D**) is the first fully automatic rapid transit lin
         <td>Downtown East</td>
         <td>市中心東</td>
         <td>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-          <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
+          {{< wiki/route-sign route="W" >}}
+          {{< wiki/route-sign route="C" >}}
         </td>
       </tr>
       <tr>

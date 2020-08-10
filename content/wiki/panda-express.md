@@ -47,7 +47,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The line is the second fully automatic line in operation on the system.
+The **Panda Express** (Code **P**) is one of the rapid transit lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second fully automatic line of the system.
 
 <br>
 
@@ -98,8 +98,8 @@ The line is the second fully automatic line in operation on the system.
         <td>Miraiya Cave</td>
         <td>美拉雅洞</td>
         <td>
-          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          {{< wiki/route-sign route="R" >}}
+          {{< wiki/route-sign route="G" >}}
         </td>
       </tr>
       <tr>
@@ -109,10 +109,10 @@ The line is the second fully automatic line in operation on the system.
         <td>Mugen</td>
         <td>無限</td>
         <td>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
-          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          {{< wiki/route-sign route="B" >}}
+          {{< wiki/route-sign route="V" >}}
+          {{< wiki/route-sign route="W" >}}
+          {{< wiki/route-sign route="D" >}}
         </td>
         <td rowspan="3">City Loop</td>
       </tr>
@@ -123,8 +123,8 @@ The line is the second fully automatic line in operation on the system.
         <td>Under the Falls</td>
         <td>瀑布下</td>
         <td>
-          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          {{< wiki/route-sign route="R" >}}
+          {{< wiki/route-sign route="W" >}}
         </td>
       </tr>
       <tr>
@@ -134,8 +134,8 @@ The line is the second fully automatic line in operation on the system.
         <td>City Farm</td>
         <td>城市農場</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="B" >}}
         </td>
       </tr>
       <tr>
@@ -145,7 +145,7 @@ The line is the second fully automatic line in operation on the system.
         <td>Oasis Point</td>
         <td>綠洲角</td>
         <td>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          {{< wiki/route-sign route="W" >}}
         </td>
         <td>Big Snow</td>
       </tr>

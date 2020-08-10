@@ -99,7 +99,7 @@ The **Red Line** (Code **R**) is the second rapid transit line to be opened and 
         <td>Paradise Falls</td>
         <td>仙境瀑布</td>
         <td>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
+          {{< wiki/route-sign route="B" >}}
         </td>
       </tr>
       <tr>
@@ -109,8 +109,8 @@ The **Red Line** (Code **R**) is the second rapid transit line to be opened and 
         <td>Under the Falls</td>
         <td>瀑布下</td>
         <td>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
+          {{< wiki/route-sign route="W" >}}
+          {{< wiki/route-sign route="P" >}}
         </td>
       </tr>
       <tr>
@@ -120,8 +120,8 @@ The **Red Line** (Code **R**) is the second rapid transit line to be opened and 
         <td>Downtown Core</td>
         <td>市中心</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="W" >}}
         </td>
       </tr>
       <tr>
@@ -131,8 +131,8 @@ The **Red Line** (Code **R**) is the second rapid transit line to be opened and 
         <td>Miraiya Cave</td>
         <td>美拉雅洞</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="P" >}}
         </td>
         <td>La Miraiya</td>
       </tr>

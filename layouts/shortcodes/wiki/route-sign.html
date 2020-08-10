@@ -1,0 +1,51 @@
+{{ with .Get "route" }}
+  {{ if eq . "R" }}
+    <div class="route-sign-sm redline">
+      <a href="/wiki/red-line" title="Red Line (Mirai Metro)" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "G" }}
+    <div class="route-sign-sm greenline">
+      <a href="/wiki/green-line" title="Green Line (Mirai Metro)" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "B" }}
+    <div class="route-sign-sm blueline">
+      <a href="/wiki/blue-line" title="Blue Line (Mirai Metro)" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "A" }}
+    <div class="route-sign-sm airportline">
+      <a href="/wiki/airport-line" title="Airport Line (Mirai Metro)" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "Ax" }}
+    <div class="route-sign-sm airportexpress">
+      <a href="/wiki/airport-line" title="Airport Line (Mirai Metro)" class="text-reset text-decoration-none">&nbsp;A&nbsp;</a>
+    </div>
+  {{ else if eq . "Ac" }}
+    <div class="route-sign-sm airportcomposite">
+      <a href="/wiki/airport-line" title="Airport Line (Mirai Metro)" class="text-reset text-decoration-none">&nbsp;A&nbsp;</a>
+    </div>
+  {{ else if eq . "V" }}
+    <div class="route-sign-sm victoryline">
+      <a href="/wiki/victory-line" title="Victory Line" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "W" }}
+    <div class="route-sign-sm waterfallline">
+      <a href="/wiki/waterfall-line" title="Waterfall Line" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "C" }}
+    <div class="route-sign-sm cityloopline">
+      <a href="/wiki/city-loop-line" title="City Loop Line" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "D" }}
+    <div class="route-sign-sm diamondline">
+      <a href="/wiki/diamond-line" title="Diamond Line" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "P" }}
+    <div class="route-sign-sm pandaexpress">
+      <a href="/wiki/panda-express" title="Panda Express" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ else if eq . "S" }}
+    <div class="route-sign-sm bigsnowline">
+      <a href="/wiki/big-snow-line" title="Big Snow Line" class="text-reset text-decoration-none">&nbsp;{{ . }}&nbsp;</a>
+    </div>
+  {{ end }}
+{{ end }}

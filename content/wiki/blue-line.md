@@ -3,7 +3,6 @@ title: "Blue Line (Mirai Metro)"
 linktitle: Blue Line
 description: Rapid transit line in Mirai
 date: 2020-07-10T00:47:27+08:00
-slug: Blue Line (Mirai Metro)
 draft: false
 category: miraimetro
 keywords: [mirai,miraimetro,route,blueline]
@@ -93,7 +92,7 @@ The following is a list of the stations on the Blue Line.
         <td>Victory Bay</td>
         <td>勝利灣</td>
         <td>
-          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+          {{< wiki/route-sign route="V" >}}
         </td>
         <td>Victory Bay</td>
       </tr>
@@ -104,8 +103,8 @@ The following is a list of the stations on the Blue Line.
         <td>UCHQ North</td>
         <td>聯總北</td>
         <td>
-          <div class="route-sign-sm airportcomposite">&nbsp;A&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          {{< wiki/route-sign route="Ac" >}}
+          {{< wiki/route-sign route="D" >}}
         </td>
         <td rowspan="2">Redstone Valley</td>
       </tr>
@@ -116,8 +115,8 @@ The following is a list of the stations on the Blue Line.
         <td>UCHQ South</td>
         <td>聯總南</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm airportline">&nbsp;A&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="A" >}}
         </td>
       </tr>
       <tr>
@@ -127,10 +126,10 @@ The following is a list of the stations on the Blue Line.
         <td>Mugen</td>
         <td>無限</td>
         <td>
-          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
-          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
+          {{< wiki/route-sign route="V" >}}
+          {{< wiki/route-sign route="W" >}}
+          {{< wiki/route-sign route="D" >}}
+          {{< wiki/route-sign route="P" >}}
         </td>
         <td rowspan="2">City Loop</td>
       </tr>
@@ -141,7 +140,7 @@ The following is a list of the stations on the Blue Line.
         <td>Paradise Falls</td>
         <td>仙境瀑布</td>
         <td>
-          <div class="route-sign-sm redline">&nbsp;R&nbsp;</div>
+          {{< wiki/route-sign route="R" >}}
         </td>
       </tr>
       <tr>
@@ -151,7 +150,7 @@ The following is a list of the stations on the Blue Line.
         <td>Zero Zero</td>
         <td>零零</td>
         <td>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          {{< wiki/route-sign route="W" >}}
         </td>
         <td>Big Snow</td>
       </tr>
@@ -185,8 +184,8 @@ The following is a list of the stations on the Blue Line.
         <td>City Farm</td>
         <td>城市農場</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm pandaexpress">&nbsp;P&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="P" >}}
         </td>
         <td>City Loop</td>
       </tr>

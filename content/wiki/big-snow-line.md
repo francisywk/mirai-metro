@@ -41,7 +41,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is a planned line on the Mirai Metro. Following the Mirai Metro's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Library of Big Snow in the west, to UCHQ West of Redstone Valley in the east.
+The **Big Snow Line** (Code **S**) is a planned line on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). Following the network's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Library of Big Snow in the west, to UCHQ West of Redstone Valley in the east.
 
 <br>
 
@@ -70,7 +70,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>Library</td>
       <td>圖書館</td>
       <td>
-        <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+        {{< wiki/route-sign route="W" >}}
       </td>
       <td>Big Snow</td>
     </tr>
@@ -81,7 +81,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>Miraibridge</td>
       <td>美拉橋</td>
       <td>
-        <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
+        {{< wiki/route-sign route="C" >}}
       </td>
       <td>City Loop</td>
     </tr>
@@ -92,7 +92,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>Moon Lake</td>
       <td>月湖</td>
       <td>
-        <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+        {{< wiki/route-sign route="V" >}}
       </td>
       <td>Victory Bay</td>
     </tr>
@@ -103,7 +103,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>UCHQ West</td>
       <td>聯總西</td>
       <td>
-        <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+        {{< wiki/route-sign route="G" >}}
       </td>
       <td>Redstone Valley</td>
     </tr>

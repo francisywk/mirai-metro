@@ -65,7 +65,7 @@ The following is a list of the stations on the City Loop Line.
       <tr>
         <th rowspan="2" class="align-middle">Code</th>
         <th colspan="2">Station Name</th>
-        <th rowspan="2" class="align-middle">Transfer / Notes</th>
+        <th rowspan="2" class="align-middle">Transfer / Note</th>
         <th rowspan="2" class="align-middle">Location</th>
       </tr>
       <tr>
@@ -81,8 +81,8 @@ The following is a list of the stations on the City Loop Line.
         <td>Winterland</td>
         <td>冬地</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="W" >}}
         </td>
         <td rowspan="6">City Loop</td>
       </tr>
@@ -103,7 +103,7 @@ The following is a list of the stations on the City Loop Line.
         <td>Berryhills</td>
         <td>啤梨山</td>
         <td>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          {{< wiki/route-sign route="D" >}}
         </td>
       </tr>
       <tr>
@@ -113,9 +113,9 @@ The following is a list of the stations on the City Loop Line.
         <td>Mirai</td>
         <td>美拉</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm airportcomposite">&nbsp;A&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="A" >}}
+          {{< wiki/route-sign route="D" >}}
         </td>
       </tr>
       <tr>
@@ -125,8 +125,8 @@ The following is a list of the stations on the City Loop Line.
         <td>Downtown East</td>
         <td>市中心東</td>
         <td>
-          <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          {{< wiki/route-sign route="W" >}}
+          {{< wiki/route-sign route="D" >}}
         </td>
       </tr>
       <tr>
@@ -136,7 +136,7 @@ The following is a list of the stations on the City Loop Line.
         <td>Mount Austin</td>
         <td>柯士甸山</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
         </td>
       </tr>
     </tobody>

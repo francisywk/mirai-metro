@@ -48,7 +48,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Airport Line** (Code **A**) is a rapid transit line in the Mirai Metro system. It links City Loop CBD with the Mirai City Airport and the United Cities Headquarters.
+The **Airport Line** (Code **A**) is a rapid transit line in the [Mirai Metro](/wiki/mirai-metro "Mirai Metro") system. It links City Loop CBD with the Mirai City Airport and the United Cities Headquarters in Redstone Valley. It is the only line in the system that offers express through service, and, with a total of 5 stations, it is the line with the least amount of stations on the network.
 
 <br>
 
@@ -93,9 +93,9 @@ The **Airport Line** (Code **A**) is a rapid transit line in the Mirai Metro sys
         <td>Mirai</td>
         <td>美拉</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="C" >}}
+          {{< wiki/route-sign route="D" >}}
         </td>
         <td>City Loop</td>
       </tr>
@@ -108,8 +108,8 @@ The **Airport Line** (Code **A**) is a rapid transit line in the Mirai Metro sys
         <td>UCHQ South</td>
         <td>聯總南</td>
         <td>
-          <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
+          {{< wiki/route-sign route="G" >}}
+          {{< wiki/route-sign route="B" >}}
         </td>
         <td rowspan="4">Redstone Valley</td>
       </tr>
@@ -132,7 +132,7 @@ The **Airport Line** (Code **A**) is a rapid transit line in the Mirai Metro sys
         <td>Mirai City Airport</td>
         <td>美拉城市空港</td>
         <td>
-          <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+          {{< wiki/route-sign route="V" >}}
         </td>
       </tr>
       <tr>
@@ -144,8 +144,8 @@ The **Airport Line** (Code **A**) is a rapid transit line in the Mirai Metro sys
         <td>UCHQ North</td>
         <td>聯總北</td>
         <td>
-          <div class="route-sign-sm blueline">&nbsp;B&nbsp;</div>
-          <div class="route-sign-sm diamondline">&nbsp;D&nbsp;</div>
+          {{< wiki/route-sign route="B" >}}
+          {{< wiki/route-sign route="D" >}}
         </td>
       </tr>
     </tbody>
