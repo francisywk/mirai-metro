@@ -13,6 +13,8 @@ quick_facts:
   - route_sign: [P]
   - heading: Overview
   - cols_2:
+    - title: Native name
+      content: 熊貓快綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -20,10 +22,10 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Panda Museum](/wiki/panda-museum 'Panda Museum Station')<br>[Oasis Point](/wiki/oasis-point 'Oasis Point Station')"
+      content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum Station')<br>[Oasis Point](/wiki/oasis-point-station 'Oasis Point Station')"
     - title: Stations
       content: 6
-  - heading: Operational
+  - heading: Operation
   - cols_2:
     - title: Opened
       content: 27 July 2020
@@ -43,27 +45,21 @@ quick_facts:
       content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
     - title: Operating speed
       content: 28.8 km/h (18 mph)
-names_transcriptions:
-  - heading: Panda Express
-  - cols_2:
-      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 熊貓快綫
-      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 熊猫快线
-  - transcriptions:
-    - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
-    - cols_2:
-      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Hùhngmāau Faaisin
-      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Hung4maau1 Faai3sin3
-    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
-    - cols_2:
-      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Xióngmāo Kuàixiàn
 ---
 
 The line is the second fully automatic line in operation on the system.
+
+<br>
+
+{{< toc >}}
+
+<br>
+
+#### History
+
+---
+
+- The line opened to the public on 27 July 2020.
 
 <br>
 

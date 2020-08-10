@@ -21,10 +21,10 @@ adjacent_stations:
         towards: Under the Falls
   - route_sign: [C]
     preceding:
-      - station: C5-Mount Austin
+      - station: C6-Mount Austin
         towards: Downtown East
     following:
-      - station: C2-Berryhills
+      - station: C3-Berryhills
         towards: Mirai
 alternate_station_name_en: 
 alternate_station_name_zh: 

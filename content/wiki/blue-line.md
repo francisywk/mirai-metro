@@ -13,6 +13,8 @@ quick_facts:
   - route_sign: [B]
   - heading: Overview
   - cols_2:
+    - title: Native name
+      content: 藍綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -20,10 +22,10 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Victory Bay](/wiki/victory-bay 'Victory Bay Station')<br>[Spawn](/wiki/spawn 'Spawn Station')"
+      content: "[Victory Bay](/wiki/victory-bay-station 'Victory Bay Station')<br>[Spawn](/wiki/spawn-station 'Spawn Station')"
     - title: Stations
       content: 9
-  - heading: Operational
+  - heading: Operation
   - cols_2:
     - title: Opened
       content: 7 June 2015
@@ -45,24 +47,6 @@ quick_facts:
       content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
     - title: Operating speed
       content: 28.8 km/h (18 mph)
-names_transcriptions:
-  - heading: Blue Line
-  - cols_2:
-      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 藍綫
-      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 蓝线
-  - transcriptions:
-    - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
-    - cols_2:
-      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Làahm Sin
-      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Laam4 Sin3
-    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
-    - cols_2:
-      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Lán Xiàn
 ---
 
 The **Blue Line** (code **B**) is the first rapid transit line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It includes a total of 9 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and Spawn Chunk districts. At 1.7 km, it is the longest line of Mirai Metro.

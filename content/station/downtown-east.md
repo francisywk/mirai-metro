@@ -1,6 +1,6 @@
 ---
 title: Downtown East Station
-station_code: [W5,C4,D5]
+station_code: [W5,C5,D5]
 station_name_en: Downtown East
 station_name_zh: 市中心東
 route_sign: [W,C,D]
@@ -14,10 +14,10 @@ adjacent_stations:
         towards: Oasis Point
   - route_sign: [C]
     preceding:
-      - station: C3-Mirai
+      - station: C4-Mirai
         towards: Mirai
     following:
-      - station: C5-Mount Austin
+      - station: C6-Mount Austin
         towards: Winterland
   - route_sign: [D]
     preceding:

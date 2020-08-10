@@ -9,22 +9,22 @@ stations:
     name_zh: 冬地
     transfer:
       - route_sign: [G,W]
-  - station_code: [C2]
+  - station_code: [C3]
     name: Berryhills
     name_zh: 啤梨山
     transfer:
       - route_sign: [D]
-  - station_code: [C3]
+  - station_code: [C4]
     name: Mirai
     name_zh: 美拉
     transfer:
       - route_sign: [G,Ac,D]
-  - station_code: [C4]
+  - station_code: [C5]
     name: Downtown East
     name_zh: 市中心東
     transfer:
       - route_sign: [W,D]
-  - station_code: [C5]
+  - station_code: [C6]
     name: Mount Austin
     name_zh: 柯士甸山
     transfer:

@@ -11,17 +11,21 @@ quick_facts:
   - route_sign: [C]
   - heading: Overview
   - cols_2:
+    - title: Native name
+      content: 三環綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: Operational
+      content: Operational<br>Under planning (Miraibridge infill station)
+    - title: Locale
+      content: City Loop, Mirai
     - title: Termini
-      content: "[Winterland](/wiki/winterland 'Winterland Station') (loop)"
+      content: "[Winterland](/wiki/winterland-station 'Winterland Station') (loop)"
     - title: Stations
-      content: 5
-  - heading: Operational
+      content: 5 (Operational)<br>1 (Under planning)
+  - heading: Operation
   - cols_2:
     - title: Opened
       content: 31 August 2018
@@ -43,24 +47,6 @@ quick_facts:
       content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
     - title: Operating speed
       content: 28.8 km/h (18 mph)
-names_transcriptions:
-  - heading: Panda Express
-  - cols_2:
-      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 三環綫
-      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 三环线
-  - transcriptions:
-    - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
-    - cols_2:
-      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Sāamwàahn Sin
-      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Saam1waan4 Sin3
-    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
-    - cols_2:
-      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Sānhuán Xiàn
 ---
 
 The **City Loop Line** (Code **C**) is one of the 10 rapid transit lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the third [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") on the network as well as the only line that run entirely within the City Loop.
@@ -79,7 +65,7 @@ The following is a list of the stations on the City Loop Line.
       <tr>
         <th rowspan="2" class="align-middle">Code</th>
         <th colspan="2">Station Name</th>
-        <th rowspan="2" class="align-middle">Transfer</th>
+        <th rowspan="2" class="align-middle">Transfer / Notes</th>
         <th rowspan="2" class="align-middle">Location</th>
       </tr>
       <tr>
@@ -98,11 +84,21 @@ The following is a list of the stations on the City Loop Line.
           <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
           <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
         </td>
-        <td rowspan="5">City Loop</td>
+        <td rowspan="6">City Loop</td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C2</span>
+        </td>
+        <td class="font-italic">Miraibridge</td>
+        <td class="font-italic">美拉橋</td>
+        <td>
+          Infill station <span class="small font-italic">(2021)</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C3</span>
         </td>
         <td>Berryhills</td>
         <td>啤梨山</td>
@@ -112,7 +108,7 @@ The following is a list of the stations on the City Loop Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-cl rounded-circle">C3</span>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C4</span>
         </td>
         <td>Mirai</td>
         <td>美拉</td>
@@ -124,7 +120,7 @@ The following is a list of the stations on the City Loop Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-cl rounded-circle">C4</span>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C5</span>
         </td>
         <td>Downtown East</td>
         <td>市中心東</td>
@@ -135,7 +131,7 @@ The following is a list of the stations on the City Loop Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-cl rounded-circle">C5</span>
+          <span class="station-code station-code-sm station-code-cl rounded-circle">C6</span>
         </td>
         <td>Mount Austin</td>
         <td>柯士甸山</td>

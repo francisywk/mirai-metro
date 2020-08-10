@@ -12,6 +12,8 @@ quick_facts:
   - route_sign: [R]
   - heading: Overview
   - cols_2:
+    - title: Native name
+      content: 紅綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -19,10 +21,10 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Fhoenix Hill](/wiki/fhoenix-hill 'Fhoenix Hill Station')<br>[Portal Hill](/wiki/portal-hill 'Portal Hill Station')"
+      content: "[Fhoenix Hill](/wiki/fhoenix-hill-station 'Fhoenix Hill Station')<br>[Portal Hill](/wiki/portal-hill-station 'Portal Hill Station')"
     - title: Stations
       content: 6
-  - heading: Operational
+  - heading: Operation
   - cols_2:
     - title: Opened
       content: 11 August 2015
@@ -44,24 +46,6 @@ quick_facts:
       content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
     - title: Operating speed
       content: 28.8 km/h (18 mph)
-names_transcriptions:
-  - heading: Red Line
-  - cols_2:
-      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 紅綫
-      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 红线
-  - transcriptions:
-    - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
-    - cols_2:
-      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Hùhng Sin
-      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Hung4 Sin3
-    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
-    - cols_2:
-      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Hóng Xiàn
 ---
 
 The **Red Line** (Code **R**) is the second rapid transit line to be opened and operated on [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the shortest line in operation on the network.

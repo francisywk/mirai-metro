@@ -1,6 +1,6 @@
 ---
 title: Mount Austin Station
-station_code: [G5,C5]
+station_code: [G5,C6]
 station_name_en: Mount Austin
 station_name_zh: 柯士甸山
 route_sign: [G,C]
@@ -14,7 +14,7 @@ adjacent_stations:
         towards: Downtown Core
   - route_sign: [C]
     preceding:
-      - station: C4-Downtown East
+      - station: C5-Downtown East
         towards: Downtown East
     following:
       - station: C1-Winterland

@@ -1,6 +1,6 @@
 ---
 title: Mirai Station
-station_code: [G1,A1,C3,D3]
+station_code: [G1,A1,C4,D3]
 station_name_en: Mirai
 station_name_zh: 美拉
 route_sign: [G,Ac,C,D]
@@ -22,10 +22,10 @@ adjacent_stations:
         towards: UCHQ North
   - route_sign: [C]
     preceding:
-      - station: C2-Berryhills
+      - station: C3-Berryhills
         towards: Winterland
     following:
-      - station: C4-Downtown East
+      - station: C5-Downtown East
         towards: Downtown East
   - route_sign: [D]
     preceding:

@@ -1,6 +1,6 @@
 ---
 title: Berryhills Station
-station_code: [C2,D2]
+station_code: [C3,D2]
 station_name_en: Berryhills
 station_name_zh: 啤梨山
 route_sign: [C,D]
@@ -10,7 +10,7 @@ adjacent_stations:
       - station: C1-Winterland
         towards: Winterland
     following:
-      - station: C3-Mirai
+      - station: C4-Mirai
         towards: Mirai
   - route_sign: [D]
     preceding:

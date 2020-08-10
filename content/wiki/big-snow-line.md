@@ -11,13 +11,15 @@ quick_facts:
   - route_sign: [S]
   - heading: Overview
   - cols_2:
+    - title: Native name
+      content: 大雪綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
       content: Planned
-  - heading: Operational
+  - heading: Operation
   - cols_2:
     - title: Planned opening
       content: 2022
@@ -37,24 +39,6 @@ quick_facts:
       content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
     - title: Operating speed
       content: 28.8 km/h (18 mph)
-names_transcriptions:
-  - heading: Big Snow Line
-  - cols_2:
-      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 大雪綫
-      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 大雪线
-  - transcriptions:
-    - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
-    - cols_2:
-      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Daaihsyut Sin
-      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Daai6syut3 Sin3
-    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
-    - cols_2:
-      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Dàxuě Xiàn
 ---
 
 The **Big Snow Line** (Code **S**) is a planned line on the Mirai Metro. Following the Mirai Metro's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Library of Big Snow in the west, to UCHQ West of Redstone Valley in the east.
@@ -67,62 +51,64 @@ The **Big Snow Line** (Code **S**) is a planned line on the Mirai Metro. Followi
 
 The following is a list of planned stations of the Big Snow Line that have not been finalised.
 
-<table class="table table-sm table-bordered text-center">
-  <tr class="thead-light">
-    <th rowspan="2" class="align-middle">Code</th>
-    <th colspan="2">Station Name</th>
-    <th rowspan="2" class="align-middle">Transfer</th>
-    <th rowspan="2" class="align-middle">Location</th>
-  </tr>
-  <tr class="thead-light">
-    <th>English</th>
-    <th>Chinese</th>
-  </tr>
-  <tr>
-    <td>
-      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-    </td>
-    <td>Library</td>
-    <td>圖書館</td>
-    <td>
-      <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
-    </td>
-    <td>Big Snow</td>
-  </tr>
-  <tr>
-    <td>
-      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-    </td>
-    <td>Miraibridge</td>
-    <td>美拉橋</td>
-    <td>
-      <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
-    </td>
-    <td>City Loop</td>
-  </tr>
-  <tr>
-    <td>
-      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-    </td>
-    <td>Moon Lake</td>
-    <td>月湖</td>
-    <td>
-      <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
-    </td>
-    <td>Victory Bay</td>
-  </tr>
-  <tr>
-    <td>
-      <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-    </td>
-    <td>UCHQ West</td>
-    <td>聯總西</td>
-    <td>
-      <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
-    </td>
-    <td>Redstone Valley</td>
-  </tr>
-</table>
+<div class="table-responsive">
+  <table class="table table-sm table-bordered table-700 text-center">
+    <tr class="thead-light">
+      <th rowspan="2" class="align-middle">Code</th>
+      <th colspan="2">Station Name</th>
+      <th rowspan="2" class="align-middle">Transfer</th>
+      <th rowspan="2" class="align-middle">Location</th>
+    </tr>
+    <tr class="thead-light">
+      <th>English</th>
+      <th>Chinese</th>
+    </tr>
+    <tr>
+      <td>
+        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+      </td>
+      <td>Library</td>
+      <td>圖書館</td>
+      <td>
+        <div class="route-sign-sm waterfallline">&nbsp;W&nbsp;</div>
+      </td>
+      <td>Big Snow</td>
+    </tr>
+    <tr>
+      <td>
+        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+      </td>
+      <td>Miraibridge</td>
+      <td>美拉橋</td>
+      <td>
+        <div class="route-sign-sm cityloopline">&nbsp;C&nbsp;</div>
+      </td>
+      <td>City Loop</td>
+    </tr>
+    <tr>
+      <td>
+        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+      </td>
+      <td>Moon Lake</td>
+      <td>月湖</td>
+      <td>
+        <div class="route-sign-sm victoryline">&nbsp;V&nbsp;</div>
+      </td>
+      <td>Victory Bay</td>
+    </tr>
+    <tr>
+      <td>
+        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+      </td>
+      <td>UCHQ West</td>
+      <td>聯總西</td>
+      <td>
+        <div class="route-sign-sm greenline">&nbsp;G&nbsp;</div>
+      </td>
+      <td>Redstone Valley</td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
