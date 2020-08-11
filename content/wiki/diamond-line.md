@@ -45,7 +45,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Diamond Line** (Code **D**) is the first fully automatic rapid transit line in operation on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro").
+The **Diamond Line** (Code **D**) is the first fully automatic [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line in operation on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro").
 
 <br>
 

@@ -149,6 +149,30 @@ body {
   margin-bottom: .125rem;
 }
 
+.p-15,
+.px-15,
+.pl-15 {
+  padding-left: .375rem !important;
+}
+
+.p-15,
+.px-15,
+.pr-15 {
+  padding-right: .375rem !important;
+}
+
+.p-15,
+.py-15,
+.pt-15 {
+  padding-top: .375rem !important;
+}
+
+.p-15,
+.py-15,
+.pb-15 {
+  padding-bottom: .375rem !important;
+}
+
 .p-25,
 .px-25,
 .pl-25 {

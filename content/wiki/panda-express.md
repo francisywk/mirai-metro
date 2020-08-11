@@ -47,7 +47,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Panda Express** (Code **P**) is one of the rapid transit lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second fully automatic line of the system.
+The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second fully automatic line of the system.
 
 <br>
 

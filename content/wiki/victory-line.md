@@ -47,7 +47,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Victory Line** (Code **V**) is a rapid transit line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai, United Cities.
+The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai, United Cities.
 
 <br>
 

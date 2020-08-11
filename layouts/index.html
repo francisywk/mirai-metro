@@ -25,7 +25,7 @@
             {{ range where .Site.Pages "Section" "station" }}
               {{ with .Params }}
                 {{ if .popular }}
-                  <a class="nav-link text-light pl-4 pr-1 px-lg-3" href="/station/{{ anchorize .station_name_en }}">
+                  <a class="nav-link text-light px-1 px-md-2 px-lg-3" href="/station/{{ anchorize .station_name_en }}">
                     <span class="fa-stack fa-2x">
                       <i class="fas fa-circle fa-stack-2x"></i>
                       <i class="fas fa-subway fa-stack-1x text-mirai"></i>
