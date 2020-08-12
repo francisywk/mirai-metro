@@ -4,11 +4,13 @@ description: Rapid transit system in Mirai, United Cities
 date: 2020-07-04T01:07:40+08:00
 draft: false
 category: miraimetro
-keywords: [mirai,miraimetro]
+keywords: [cartcorporation,mirai,miraimetro]
 notice: "This article is about the current rapid transit system in Mirai. For the system's former name, see [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB')."
 see_also: true
 quick_facts:
-  - image: "/img/mirai_metro.png"
+  - image: 
+    - link: "/img/mirai_metro.png"
+      width: 90px
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -86,7 +88,7 @@ Before Mirai Metro underwent rapid expansion, the network only consists of three
 
 - 7 June 2015: Mirai RGB started operation with Zero Zero to Paradise Falls section of Blue Line enters service.
 - 5 October 2019: Hell Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill sttaion") was opened on the Blue Line between Zero Zero and Spawn.
-- 27 July 2020: [Panda Express](/wiki/panda-express) line opened to the public.
+- 27 July 2020: Phase 1 of [Panda Express](/wiki/panda-express) line opened to the public.
 
 <br>
 

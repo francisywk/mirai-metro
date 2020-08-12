@@ -115,7 +115,7 @@
                       <span class="station-code station-code-bl rounded-circle invisible">B7</span>
                     </div>
                   {{ else }}
-                    <div class="{{ $class }} station-code-bg-{{ $.Scratch.Get "line-title" }}">
+                    <div class="{{ if .placeholder_station }}{{ else }}{{ $class }} station-code-bg-{{ $.Scratch.Get "line-title" }}{{ end }}">
                       {{ with .station_code }}
                         {{ partial "station_code/normal/horizontal.html" . }}
                       {{ end }}

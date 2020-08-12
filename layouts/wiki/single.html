@@ -40,7 +40,9 @@
               {{ end }}
               {{ range .quick_facts }}
                 {{ with .image }}
-                  <img src="{{ . }}" class="brand-logo mx-auto my-2 d-block">
+                  {{ range . }}
+                    <img src="{{ .link }}" class="img-fluid mx-auto my-2 d-block" style="width:{{ .width }}">
+                  {{ end }}
                 {{ end }}
                 {{ if .route_sign }}
                   <div class="text-center py-2">
@@ -78,17 +80,17 @@
                     <h6 class="alert-info text-black text-center font-weight-bold py-1">{{ . }}</h6>
                   {{ end }}
                   {{ range .cols_2 }}
-                    <div class="row align-items-center mb-1">
-                      <div class="col-6">
+                    <div class="row mb-1">
+                      <div class="col-6 pr-0">
                         <p class="mb-0">
                           {{ .title | markdownify }}
                         </p>
                       </div>
-                      <div class="col-6">{{ .content }}</div>
+                      <div class="col-6 pl-0">{{ .content }}</div>
                     </div>
                   {{ end }}
                   {{ with .transcriptions }}
-                    <div class="row align-items-center">
+                    <div class="row">
                       <div class="col">
                         <p class="alert-warning text-black font-weight-bold mb-0">
                           Transcriptions
@@ -96,7 +98,7 @@
                       </div>
                     </div>
                     {{ range . }}
-                      <div class="row align-items-center">
+                      <div class="row">
                         <div class="col text-center">
                           <p class="alert-success font-weight-bold mb-1">
                             {{ .language | markdownify }}
@@ -104,13 +106,13 @@
                         </div>
                       </div>
                       {{ range .cols_2 }}
-                        <div class="row align-items-center">
-                          <div class="col">
+                        <div class="row">
+                          <div class="col pr-0">
                             <p class="mb-1">
                               {{ .title | markdownify }}
                             </p>
                           </div>
-                          <div class="col">
+                          <div class="col pl-0">
                             <p class="mb-1">
                               {{ .content }}
                             </p>

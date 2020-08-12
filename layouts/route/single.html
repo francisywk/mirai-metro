@@ -70,6 +70,8 @@
                     {{ $style = "station-code-bg-branch-first" }}
                   {{ else if .branch_last }}
                     {{ $style = "station-code-bg-branch-last" }}
+                  {{ else if .placeholder_station }}
+                    {{ $style = "" }}
                   {{ else }}
                     {{ $style = "station-code-bg" }}
                   {{ end }}

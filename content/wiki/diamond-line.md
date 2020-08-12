@@ -32,7 +32,7 @@ quick_facts:
     - title: Conduction system
       content: Automated
     - title: Character
-      content: Elevated, underground
+      content: "[Elevated](https://en.wikipedia.org/wiki/Elevated_railway 'Elevated railway') and underground"
     - title: Rolling stock
       content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Light Blue [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical
@@ -45,7 +45,19 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Diamond Line** (Code **D**) is the first fully automatic [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line in operation on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro").
+The **Diamond Line** (Code **D**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line in operation of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first line on the network and in the United Cities to be completely [automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation").
+
+<br>
+
+{{< toc >}}
+
+<br>
+
+#### History
+
+---
+
+Prior to the line extension to Diamond Hill, the line was entirely elevated and was the only line in the system that did so.
 
 <br>
 

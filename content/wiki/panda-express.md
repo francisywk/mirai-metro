@@ -20,11 +20,11 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: Operational
+      content: Operational (Phase 1)
     - title: Termini
       content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum Station')<br>[Oasis Point](/wiki/oasis-point-station 'Oasis Point Station')"
     - title: Stations
-      content: 6
+      content: 5 (Operational)<br>2 (Future)<br>1 (Reserved)
   - heading: Operation
   - cols_2:
     - title: Opened
@@ -59,7 +59,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
 
 ---
 
-- The line opened to the public on 27 July 2020.
+- Phase 1 of the line between Miraiya Cave and Oasis Point opened to the public on 27 July 2020.
 
 <br>
 
@@ -83,13 +83,23 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
     </thead>
     <tbody>
       <tr>
+        <td colspan="5" class="alert-warning font-weight-bold">
+          Phase 2: Panda Museum extension <span class="small font-italic font-weight-bold">(to be ready by 2021)</span>
+        </td>
+      </tr>
+      <tr class="alert-light">
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
         </td>
-        <td>Panda Museum</td>
-        <td>熊貓博物館</td>
+        <td class="font-italic">Panda Museum</td>
+        <td class="font-italic">熊貓博物館</td>
         <td></td>
-        <td rowspan="2">La Miraiya</td>
+        <td>La Miraiya</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="alert-success font-weight-bold">
+          Phase 1: Operational
+        </td>
       </tr>
       <tr>
         <td>
@@ -101,6 +111,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           {{< wiki/route-sign route="R" >}}
           {{< wiki/route-sign route="G" >}}
         </td>
+        <td>La Miraiya</td>
       </tr>
       <tr>
         <td>
@@ -148,6 +159,31 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           {{< wiki/route-sign route="W" >}}
         </td>
         <td>Big Snow</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="alert-warning font-weight-bold">
+          Phase 3: Spawn extension <span class="small font-italic font-weight-bold">(to be ready by 2023)</span>
+        </td>
+      </tr>
+      <tr class="alert-light">
+        <td>
+          <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
+        </td>
+        <td class="font-italic">Reserve station</td>
+        <td class="font-italic">預留站</td>
+        <td></td>
+        <td>Dark Forest</td>
+      </tr>
+      <tr class="alert-light">
+        <td>
+          <span class="station-code station-code-sm station-code-pe rounded-circle">P8</span>
+        </td>
+        <td class="font-italic">Spawn</td>
+        <td class="font-italic">生成</td>
+        <td>
+          {{< wiki/route-sign route="B" >}}
+        </td>
+        <td>Spawn Chunks</td>
       </tr>
     </tbody>
   </table>

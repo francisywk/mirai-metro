@@ -28,7 +28,7 @@ quick_facts:
     - title: Conduction system
       content: Automated
     - title: Character
-      content: Underground, Elevated
+      content: Elevated
     - title: Rolling stock
       content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Pink [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical

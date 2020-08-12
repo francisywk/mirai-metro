@@ -33,7 +33,7 @@ quick_facts:
     - title: Conduction system
       content: Manual control
     - title: Character
-      content: Underground, at-grade
+      content: At-grade and underground
     - title: Rolling stock
       content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Red [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical

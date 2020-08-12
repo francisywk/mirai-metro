@@ -106,8 +106,7 @@ section section {
 }
 
 .brand-logo {
-  width: 90px;
-  height: 90px;
+  max-width: 90px;
 }
 
 .wiki-title,

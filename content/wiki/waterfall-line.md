@@ -6,8 +6,6 @@ draft: false
 category: miraimetro
 keywords: [mirai,miraimetro,route,waterfallline]
 see_also: true
-markup: "mmark"
-math: true
 quick_facts:
   - title_style: "border-top: 4px solid #FDD931;border-bottom: 4px solid #FDD931;padding:2px 0;"
   - route_sign: [W]

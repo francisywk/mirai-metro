@@ -86,7 +86,7 @@ The following is a list of the stations on the City Loop Line.
         </td>
         <td rowspan="6">City Loop</td>
       </tr>
-      <tr>
+      <tr class="alert-warning">
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C2</span>
         </td>

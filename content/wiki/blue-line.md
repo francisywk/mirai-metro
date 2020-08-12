@@ -33,7 +33,7 @@ quick_facts:
     - title: Conduction system
       content: Manual control
     - title: Character
-      content: Underground, at-grade, and elevated
+      content: At-grade, elevated, and underground
     - title: Rolling stock
       content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Blue [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical
@@ -173,8 +173,8 @@ The following is a list of the stations on the Blue Line.
         <td>Spawn Chunk</td>
       </tr>
       <tr>
-        <td colspan="5" class="font-weight-bold">
-          Branch line from Zero Zero station
+        <td colspan="5" class="bg-light font-weight-bold">
+          Branch line from Zero Zero
         </td>
       </tr>
       <tr>

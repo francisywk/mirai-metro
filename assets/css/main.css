@@ -541,7 +541,7 @@ ul {
 }
 
 .station-code-pe {
-  border: 7px solid #50C878;
+  border: 7px solid #50C878!important;
 }
 
 .bigsnowline,

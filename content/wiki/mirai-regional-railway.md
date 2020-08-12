@@ -7,7 +7,9 @@ category: others
 keywords: [mirai]
 notice: "This article is about the suburban commuter/rapid transit network in Mirai. For the company that operates it, see [MRR Corporation](/wiki/mrr-coporation 'MRR Corporation')."
 quick_facts:
-  - image: "/img/MRR_Corp.png"
+  - image: 
+    - link: "/img/MRR_Corp.png"
+      width: 90px
   - heading: Overview
   - cols_2:
     - title: Native name
