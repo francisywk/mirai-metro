@@ -530,6 +530,10 @@ ul {
   color: white;
 }
 
+.text-dl {
+  color: #33CDFB;
+}
+
 .station-code-dl {
   border: 7px solid #33CDFB;
 }

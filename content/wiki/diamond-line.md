@@ -45,7 +45,9 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Diamond Line** (Code **D**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line in operation of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first line on the network and in the United Cities to be completely [automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation").
+The **Diamond Line** (Code **D**), previously known as the SkyCart Line, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") servicing Mirai, United Cities. It is the fourth rail transit line and the first [fully automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") rail system in the United Cities. The line is coloured **<span class="text-dl">Light Blue</span>** on the official network map.
+
+Prior to the extension to Diamond Hill, the Diamond Line was entirely elevated and was the only line in the system that did so.
 
 <br>
 
@@ -57,11 +59,40 @@ The **Diamond Line** (Code **D**) is a [rapid transit](https://en.wikipedia.org/
 
 ---
 
-Prior to the line extension to Diamond Hill, the line was entirely elevated and was the only line in the system that did so.
+##### SkyCart Line
+
+The Diamond Line was previously called the SkyCart Line. Owned and operated by the SkyCart Company, the line was opened on 8 March 2017, making it the fourth railway transit line entered service in the United Cities. The line was not a part of the then [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") system, it was operated as an independent and separated network instead.
+
+The initial route features 4 stations spanned from Berryhills to Downtown East.
 
 <br>
 
-#### Station list
+##### Merging with Mirai RGB
+
+<br>
+
+##### Line extension and conversion to automatic operation
+
+In 2019, Diamond Line was extended northward to UCHQ North and southward to Diamond Hill, and was opened on 1 April 2019 and 1 May 2019 respectively. As part of the extension project, the line was also converted to [fully automated](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") operation. The automation system deployed is a custom [command](https://minecraft.gamepedia.com/Commands "Commands") system inspired and modified from FlashTeens's [Minecart Railway Builder Tool](https://github.com/flashteens/FTMCRailBuilder13) datapack.
+
+With the use of [Command Block](https://minecraft.gamepedia.com/Command_Block "Command Block"), riders can choose the desired heading direction before taking the train, and the [minecart](https://minecraft.gamepedia.com/Minecart "Minecart") will be launched automatically heading the selected direction (either north, south, east, or west).
+
+<br>
+
+#### Station themes
+
+---
+
+Each station of the Diamond Line with the exception of Mirai and Diamond Hill station features a unique theme.
+
+- UCHQ North ([Savanna](https://minecraft.gamepedia.com/Savanna "Savanna"))
+- Berryhills ([Ocean Monument](https://minecraft.gamepedia.com/Ocean_Monument "Ocean Monument"))
+- Mugen ([Jungle](https://minecraft.gamepedia.com/Jungle "Jungle"))
+- Downtown East ([End City](https://minecraft.gamepedia.com/End_City "End City"))
+
+<br>
+
+#### List of stations
 
 ---
 
@@ -72,6 +103,8 @@ Prior to the line extension to Diamond Hill, the line was entirely elevated and 
         <th rowspan="2" class="align-middle">Code</th>
         <th colspan="2">Station Name</th>
         <th rowspan="2" class="align-middle">Transfer</th>
+        <th rowspan="2" class="align-middle">Opened</th>
+        <th rowspan="2" class="align-middle">Type</th>
         <th rowspan="2" class="align-middle">Location</th>
       </tr>
       <tr>
@@ -90,6 +123,8 @@ Prior to the line extension to Diamond Hill, the line was entirely elevated and 
           {{< wiki/route-sign route="B" >}}
           {{< wiki/route-sign route="Ac" >}}
         </td>
+        <td>1 April 2019</td>
+        <td rowspan="5">Elevated</td>
         <td>Redstone Valley</td>
       </tr>
       <tr>
@@ -101,6 +136,7 @@ Prior to the line extension to Diamond Hill, the line was entirely elevated and 
         <td>
           {{< wiki/route-sign route="C" >}}
         </td>
+        <td rowspan="4">8 March 2017<br><small class="font-italic">(Mirai RGB)</small></td>
         <td rowspan="4">City Loop</td>
       </tr>
       <tr>
@@ -146,6 +182,8 @@ Prior to the line extension to Diamond Hill, the line was entirely elevated and 
         <td>Diamond Hill</td>
         <td>鑽石山</td>
         <td></td>
+        <td>1 May 2019</td>
+        <td>Underground</td>
         <td>La Miraiya</td>
       </tr>
     </tbody>

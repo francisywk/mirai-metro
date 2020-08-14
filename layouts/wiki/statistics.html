@@ -35,7 +35,7 @@
     <tr>
       <td>Words in all content pages</td>
       <td class="text-right">
-        {{ range where .Site.RegularPages "Section" "==" "wiki" }}
+        {{ range where (where .Site.RegularPages "Section" "==" "wiki") ".Params.category" "!=" "special" }}
           {{ $.Scratch.Add "count" .WordCount }}
         {{ end }}
         {{ lang.NumFmt 0 ($.Scratch.Get "count") }}
