@@ -27,7 +27,7 @@ quick_facts:
   - heading: Operation
   - cols_2:
     - title: Opened
-      content: 30 September 2018
+      content: 6 November 2016
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system

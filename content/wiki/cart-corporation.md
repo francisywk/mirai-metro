@@ -72,7 +72,7 @@ Mirai was selected as the first city in United Cities to have a metro system. Th
 
 ##### Mirai
 
-- [Mirai Metro](/wiki/mirai-metro "Mirai Metro") *(formerly [Mirai RGB](/wki/mirai-rgb "Mirai RGB"))*
+- [Mirai Metro](/wiki/mirai-metro "Mirai Metro") *(formerly [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"))*
 
 
 ##### New Mirai

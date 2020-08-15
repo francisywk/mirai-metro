@@ -21,7 +21,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Mirai](/wiki/mirai-station 'Mirai Station')<br>[UCHQ North](/wiki/uchq-north-station 'UCHQ North')"
+      content: "[Mirai](/wiki/mirai-station 'Mirai Station')<br>[UCHQ North](/wiki/uchq-north-station 'UCHQ North Station')"
     - title: Stations
       content: 5
   - heading: Operation

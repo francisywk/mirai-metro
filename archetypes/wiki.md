@@ -5,7 +5,7 @@ date: {{ .Date }}
 draft: false
 category:
 keywords: []
-notice:
+notice: ""
 see_also: false
 quick_facts:
 ---

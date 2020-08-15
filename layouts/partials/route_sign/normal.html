@@ -2,29 +2,29 @@
   {{ with .route_sign }}
     {{ range . }}
       {{ if eq . "R" }}
-        <div class="route-sign redline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Red Line 紅綫"{{ end }}>&nbsp;R&nbsp;</div>
+        <div class="route-sign redline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Red Line 紅綫"{{ end }}>R</div>
       {{ else if eq . "G" }}
-        <div class="route-sign greenline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Green Line 綠綫"{{ end }}>&nbsp;G&nbsp;</div>
+        <div class="route-sign greenline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Green Line 綠綫"{{ end }}>G</div>
       {{ else if eq . "B" }}
-        <div class="route-sign blueline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Blue Line 藍綫"{{ end }}>&nbsp;B&nbsp;</div>
+        <div class="route-sign blueline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Blue Line 藍綫"{{ end }}>B</div>
       {{ else if eq . "A" }}
-        <div class="route-sign airportline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" data-html="true" title="Airport Line (Commuter)<br>空港綫(普通)"{{ end }}>&nbsp;A&nbsp;</div>
+        <div class="route-sign airportline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" data-html="true" title="Airport Line (Commuter)<br>空港綫(普通)"{{ end }}>A</div>
       {{ else if eq . "Ax" }}
-        <div class="route-sign airportexpress {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" data-html="true" title="Airport Line (Express)<br>空港綫(直達)"{{ end }}>&nbsp;A&nbsp;</div>
+        <div class="route-sign airportexpress {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" data-html="true" title="Airport Line (Express)<br>空港綫(直達)"{{ end }}>A</div>
       {{ else if eq . "Ac" }}
-        <div class="route-sign airportcomposite {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Airport Line 空港綫"{{ end }}>&nbsp;A&nbsp;</div>
+        <div class="route-sign airportcomposite {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Airport Line 空港綫"{{ end }}>A</div>
       {{ else if eq . "V" }}
-        <div class="route-sign victoryline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Victory Line 勝利綫"{{ end }}>&nbsp;V&nbsp;</div>
+        <div class="route-sign victoryline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Victory Line 勝利綫"{{ end }}>V</div>
       {{ else if eq . "W" }}
-        <div class="route-sign waterfallline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Waterfall Line 瀑布綫"{{ end }}>&nbsp;W&nbsp;</div>
+        <div class="route-sign waterfallline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Waterfall Line 瀑布綫"{{ end }}>W</div>
       {{ else if eq . "C" }}
-        <div class="route-sign cityloopline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="City Loop Line 三環綫"{{ end }}>&nbsp;C&nbsp;</div>
+        <div class="route-sign cityloopline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="City Loop Line 三環綫"{{ end }}>C</div>
       {{ else if eq . "D" }}
-        <div class="route-sign diamondline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Diamond Line 鑽石綫"{{ end }}>&nbsp;D&nbsp;</div>
+        <div class="route-sign diamondline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Diamond Line 鑽石綫"{{ end }}>D</div>
       {{ else if eq . "P" }}
-        <div class="route-sign pandaexpress {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Panda Express 熊貓快綫"{{ end }}>&nbsp;P&nbsp;</div>
+        <div class="route-sign pandaexpress {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Panda Express 熊貓快綫"{{ end }}>P</div>
       {{ else if eq . "S" }}
-        <div class="route-sign bigsnowline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Big Snow Line 大雪綫"{{ end }}>&nbsp;S&nbsp;</div>
+        <div class="route-sign bigsnowline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Big Snow Line 大雪綫"{{ end }}>S</div>
       {{ end }}
       {{ with $.vertical }}<br>{{ end }}
     {{ end }}

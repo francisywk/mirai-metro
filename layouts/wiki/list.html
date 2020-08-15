@@ -23,11 +23,7 @@
         <ul class="row m-0 pl-4">
           {{ range where .Pages.ByTitle ".Params.category" "eq" "miraimetro" }}
             <li class="col-6 col-xl-4 px-2">
-              {{ $title := .Title }}
-              {{ with .LinkTitle }}
-                {{ $title = . }}
-              {{ end }}
-              <a href="{{ .RelPermalink }}" title="{{ $title }}">{{ $title }}</a>
+              <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
             </li>
           {{ end }}
         </ul>
@@ -41,11 +37,7 @@
         <ul class="row m-0 pl-4">
           {{ range where .Pages.ByTitle ".Params.category" "eq" "others" }}
             <li class="col-6 col-xl-4 px-2">
-              {{ $title := .Title }}
-              {{ with .LinkTitle }}
-                {{ $title = . }}
-              {{ end }}
-              <a href="{{ .RelPermalink }}" title="{{ $title }}">{{ $title }}</a>
+              <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
             </li>
           {{ end }}
         </ul>

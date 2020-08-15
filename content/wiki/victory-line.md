@@ -20,7 +20,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Mugen](/wiki/mugen-station 'Mugen Station')<br>[Moon Lake](/wiki/moon-lake-station 'Moon Lake')"
+      content: "[Mugen](/wiki/mugen-station 'Mugen Station')<br>[Moon Lake](/wiki/moon-lake-station 'Moon Lake Station')"
     - title: Stations
       content: 9
   - heading: Operation
