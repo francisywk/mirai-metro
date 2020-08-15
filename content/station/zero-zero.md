@@ -19,10 +19,10 @@ adjacent_stations:
   - route_sign: [W]
     preceding:
       - station: W7-Oasis Point
-        towards: Oasis Point
+        next: anti-clockwise
     following:
-      - station: W9-Library
-        towards: Under the Falls
+      - station: W9-Winterland West
+        next: clockwise
 alternate_station_name_en: Centre of The Grid
 alternate_station_name_zh: 世格中心
 location_en: Big Snow

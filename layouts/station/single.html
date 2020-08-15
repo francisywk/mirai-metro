@@ -36,12 +36,17 @@
               <div class="col-2">
                 {{ with .preceding }}
                   {{ range . }}
-                    <i class="fas fa-arrow-left fa-sm text-miraimetro2"></i>
+                    <i class="fas fa-arrow-left fa-sm text-dark"></i>
                     <div class="hide-on-mobile">
-                      <small>
-                        <i>towards</i>
-                        <br>
-                        <a href="/station/{{ anchorize .towards }}">{{ .towards }}</a>
+                      <small class="text-dark">
+                        {{ with .towards }}
+                          <i>towards</i>
+                          <br>
+                          <a href="/station/{{ anchorize . }}">{{ . }}</a>
+                        {{ end }}
+                        {{ with .next }}
+                          <i>Next<br>{{ . }}</i>
+                        {{ end }}
                       </small>
                     </div>
                   {{ end }}
@@ -55,12 +60,17 @@
               <div class="col-2">
                 {{ with .following }}
                   {{ range . }}
-                    <i class="fas fa-arrow-right fa-sm text-miraimetro2"></i>
+                    <i class="fas fa-arrow-right fa-sm text-dark"></i>
                     <div class="hide-on-mobile">
-                      <small>
-                        <i>towards</i>
-                        <br>
-                        <a href="/station/{{ anchorize .towards }}">{{ .towards }}</a>
+                      <small class="text-dark">
+                        {{ with .towards }}
+                          <i>towards</i>
+                          <br>
+                          <a href="/station/{{ anchorize . }}">{{ . }}</a>
+                        {{ end }}
+                        {{ with .next }}
+                          <i>Next<br>{{ . }}</i>
+                        {{ end }}
                       </small>
                     </div>
                   {{ end }}

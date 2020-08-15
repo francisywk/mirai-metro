@@ -48,7 +48,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Red Line** (Code **R**) is the second line to be opened and operated on Mirai's [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") and the shortest line in operation on the network.
+The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line in operation of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is the shortest in operation currently on the network.
 
 <br>
 

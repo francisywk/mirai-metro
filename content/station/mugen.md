@@ -19,10 +19,10 @@ adjacent_stations:
   - route_sign: [W]
     preceding:
       - station: W3-Under the Falls
-        towards: Under the Falls
+        next: anti-clockwise
     following:
       - station: W5-Downtown East
-        towards: Downtown East
+        next: clockwise
   - route_sign: [D]
     preceding:
       - station: D3-Mirai

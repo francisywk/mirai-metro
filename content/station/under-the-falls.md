@@ -15,10 +15,10 @@ adjacent_stations:
   - route_sign: [W]
     preceding:
       - station: W2-Uptown Cross
-        towards: Oasis Point
+        next: anti-clockwise
     following:
       - station: W4-Mugen
-        towards: Downtown East
+        next: clockwise
   - route_sign: [P]
     preceding:
       - station: P3-Mugen

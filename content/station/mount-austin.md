@@ -8,17 +8,17 @@ adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G4-City Farm
-        towards: City Farm
+        next: clockwise
     following:
       - station: G6-Downtown Core
-        towards: Downtown Core
+        next: anti-clockwise
   - route_sign: [C]
     preceding:
       - station: C5-Downtown East
-        towards: Downtown East
+        next: anti-clockwise
     following:
       - station: C1-Winterland
-        towards: Winterland
+        next: clockwise
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: City Loop

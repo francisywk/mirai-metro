@@ -116,8 +116,16 @@ body {
   width: 20%;
 }
 
+.w-25 {
+  width: 25%;
+}
+
 .w-30 {
   width: 30%;
+}
+
+.w-35 {
+  width: 35%;
 }
 
 .w-40 {
@@ -438,8 +446,12 @@ ul {
 
 .station-name-zh,
 .line-name-zh {
-  font-family: 'Noto Serif TC', serif;
+  font-family: 'Noto Serif TC', 'Noto Serif SC', serif;
   font-weight: 600;
+}
+
+.font-noto-serif-sc {
+  font-family: 'Noto Serif SC', serif;
 }
 
 .station-code {
@@ -460,12 +472,12 @@ ul {
 
 .station-code-sm {
   font-size: 0.8125rem;
-  padding: 0px 2.25px 0.5px 2.25px;
+  padding: 0px 2.25px 1px 2.25px;
 }
 
 .station-code-sm-dd {
   font-size: 0.6875rem;
-  padding: 2px 0.5px;
+  padding: 2px 0.3px;
 }
 
 .station-code-xs {

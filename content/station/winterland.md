@@ -8,24 +8,24 @@ adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G2-Uptown Cross
-        towards: Mirai
+        next: clockwise
     following:
       - station: G4-City Farm
-        towards: City Farm
+        next: anti-clockwise
   - route_sign: [W]
     preceding:
-      - station: W10-Library
-        towards: Oasis Point
+      - station: W10-Winterland West
+        next: anti-clockwise
     following:
       - station: W2-Uptown Cross
-        towards: Under the Falls
+        next: clockwise
   - route_sign: [C]
     preceding:
       - station: C6-Mount Austin
-        towards: Downtown East
+        next: anti-clockwise
     following:
       - station: C3-Berryhills
-        towards: Mirai
+        next: clockwise
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: City Loop

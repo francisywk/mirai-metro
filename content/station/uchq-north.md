@@ -2,7 +2,7 @@
 title: UCHQ North Station
 station_code: [B2,A5,D1]
 station_name_en: UCHQ North
-station_name_zh: 聯總北
+station_name_zh: "聯<span class='font-noto-serif-sc'>總北</span>"
 route_sign: [B,Ac,D]
 adjacent_stations:
   - route_sign: [B]

@@ -2,16 +2,16 @@
 title: UCHQ South Station
 station_code: [G9,B3,A2]
 station_name_en: UCHQ South
-station_name_zh: 聯總南
+station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>南
 route_sign: [G,B,A]
 adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G8-Bottomvalley
-        towards: Downtown Core
+        next: clockwise
     following:
       - station: G10-UCHQ West
-        towards: Mirai
+        next: anti-clockwise
   - route_sign: [B]
     preceding:
       - station: B2-UCHQ North

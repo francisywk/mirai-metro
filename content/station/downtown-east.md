@@ -8,17 +8,17 @@ adjacent_stations:
   - route_sign: [W]
     preceding:
       - station: W4-Mugen
-        towards: Under the Falls
+        next: anti-clockwise
     following:
       - station: W6-Downtown Core
-        towards: Oasis Point
+        next: clockwise
   - route_sign: [C]
     preceding:
       - station: C4-Mirai
-        towards: Mirai
+        next: anti-clockwise
     following:
       - station: C6-Mount Austin
-        towards: Winterland
+        next: clockwise
   - route_sign: [D]
     preceding:
       - station: D4-Mugen

@@ -8,10 +8,10 @@ adjacent_stations:
   - route_sign: [C]
     preceding:
       - station: C1-Winterland
-        towards: Winterland
+        next: anti-clockwise
     following:
       - station: C4-Mirai
-        towards: Mirai
+        next: clockwise
   - route_sign: [D]
     preceding:
       - station: D1-UCHQ North

@@ -15,10 +15,10 @@ adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G6-Downtown Core
-        towards: Downtown Core
+        next: clockwise
     following:
       - station: G8-Bottomvalley
-        towards: Mirai
+        next: anti-clockwise
   - route_sign: [P]
     preceding:
       - station: P1-Panda Museum

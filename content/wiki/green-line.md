@@ -48,7 +48,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Green Line** (Code **G**) is the first [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") as well as the line with the highest number of stations.
+The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line, following the [Blue Line](/wiki/blue-line "Blue Line") and [Red Line](/wiki/red-line "Red Line") of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") as well as the line with the most stations.
 
 <br>
 
@@ -71,6 +71,9 @@ The **Green Line** (Code **G**) is the first [loop line](https://en.wikipedia.or
       </tr>
     </thead>
     <tbody>
+      <tr class="station-code-gl border-left-0 border-right-0">
+        <td colspan="5">— ↑ Loop line towards UCHQ West (Clockwise) ↑ —</td>
+      </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G1</span>
@@ -178,6 +181,9 @@ The **Green Line** (Code **G**) is the first [loop line](https://en.wikipedia.or
         <td>UCHQ West</td>
         <td>聯總西</td>
         <td></td>
+      </tr>
+      <tr class="station-code-gl border-left-0 border-right-0">
+        <td colspan="5">— ↓ Loop line towards Mirai (Anti-clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>

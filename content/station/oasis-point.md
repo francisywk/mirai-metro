@@ -8,10 +8,10 @@ adjacent_stations:
   - route_sign: [W]
     preceding:
       - station: W6-Downtown Core
-        towards: Downtown East
+        next: anti-clockwise
     following:
       - station: W8-Zero Zero
-        towards: Under the Falls
+        next: clockwise
   - route_sign: [P]
     preceding:
       - station: P5-City Farm

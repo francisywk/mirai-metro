@@ -40,7 +40,7 @@
                   </span>
                   <br>
                   {{ with $.Params.title_zh }}
-                    {{ . }}
+                    <span class="font-weight-normal">{{ . }}</span>
                   {{ end }}
                 </h6>
               {{ end }}
@@ -53,6 +53,11 @@
                 {{ if .route_sign }}
                   <div class="text-center py-2">
                     {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+                  </div>
+                {{ end }}
+                {{ with .station_code }}
+                  <div class="text-center py-2">
+                    {{ partial "station_code/normal/horizontal.html" . }}
                   </div>
                 {{ end }}
                 {{ with .heading }}

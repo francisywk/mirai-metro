@@ -8,10 +8,10 @@ adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G3-Winterland
-        towards: Mirai
+        next: clockwise
     following:
       - station: G5-Mount Austin
-        towards: Downtown Core
+        next: anti-clockwise
   - route_sign: [B]
     preceding:
       - station: B6-Zero Zero

@@ -195,13 +195,13 @@ table {
   color: black;
 }
 
-table thead th {
+/* table thead th {
   color: #495057;
   background-color: #e9ecef;
   border-color: #dee2e6;
   vertical-align: bottom;
   border-bottom: 2px solid #dee2e6;
-}
+} */
 
 h6 {
   font-size: 1.0625rem;

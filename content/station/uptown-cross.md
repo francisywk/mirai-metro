@@ -8,17 +8,17 @@ adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G1-Mirai
-        towards: Mirai
+        next: clockwise
     following:
       - station: G3-Winterland
-        towards: City Farm
+        next: anti-clockwise
   - route_sign: [W]
     preceding:
       - station: W1-Winterland
-        towards: Oasis Point
+        next: anti-clockwise
     following:
       - station: W3-Under the Falls
-        towards: Under the Falls
+        next: clockwise
 alternate_station_name_en: Uptown Underpass
 alternate_station_name_zh: 上環地下道
 location_en: City Loop

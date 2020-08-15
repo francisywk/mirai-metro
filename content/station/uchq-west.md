@@ -2,16 +2,16 @@
 title: UCHQ West Station
 station_code: [G10]
 station_name_en: UCHQ West
-station_name_zh: 聯總西
+station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>西
 route_sign: [G]
 adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G9-UCHQ South
-        towards: Downtown Core
+        next: clockwise
     following:
       - station: G1-Mirai
-        towards: Mirai
+        next: anti-clockwise
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: Redstone Valley

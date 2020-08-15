@@ -8,10 +8,10 @@ adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G7-Miraiya Cave
-        towards: Downtown Core
+        next: clockwise
     following:
       - station: G9-UCHQ South
-        towards: Mirai
+        next: anti-clockwise
   - route_sign: [V]
     preceding:
       - station: V1-Mugen

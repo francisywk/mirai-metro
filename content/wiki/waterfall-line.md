@@ -163,8 +163,8 @@ The **Waterfall Line** (Code **W**) is [Mirai Metro](/wiki/mirai-metro "Mirai Me
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W9<span>
         </td>
-        <td>Library</td>
-        <td>圖書館</td>
+        <td>Winterland West</td>
+        <td>冬西</td>
         <td></td>
       </tr>
     </tbody>

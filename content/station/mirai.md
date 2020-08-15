@@ -8,10 +8,10 @@ adjacent_stations:
   - route_sign: [G]
     preceding:
       - station: G9-UCHQ West
-        towards: Downtown Core
+        next: clockwise
     following:
       - station: G2-Uptown Cross
-        towards: City Farm
+        next: anti-clockwise
   - route_sign: [A]
     following:
       - station: A2-UCHQ South
@@ -23,10 +23,10 @@ adjacent_stations:
   - route_sign: [C]
     preceding:
       - station: C3-Berryhills
-        towards: Winterland
+        next: anti-clockwise
     following:
       - station: C5-Downtown East
-        towards: Downtown East
+        next: clockwise
   - route_sign: [D]
     preceding:
       - station: D2-Berryhills
