@@ -72,7 +72,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
     </thead>
     <tbody>
       <tr class="station-code-gl border-left-0 border-right-0">
-        <td colspan="5">— ↑ Loop line towards UCHQ West (Clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards UCHQ West (clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -183,7 +183,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td></td>
       </tr>
       <tr class="station-code-gl border-left-0 border-right-0">
-        <td colspan="5">— ↓ Loop line towards Mirai (Anti-clockwise) ↓ —</td>
+        <td colspan="5">— ↓ loop line - towards Mirai (anti-clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>

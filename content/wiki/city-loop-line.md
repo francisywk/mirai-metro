@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **City Loop Line** (Code **C**) is one of the 10 [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the third [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") on the network as well as the only line that run entirely within the City Loop.
+The **City Loop Line** (Code **C**) is one of the 9 [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the third [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") on the network as well as the only line that run entirely within the City Loop.
 
 <br>
 
@@ -74,6 +74,9 @@ The following is a list of the stations on the City Loop Line.
       </tr>
     </thead>
     <tbody>
+      <tr class="station-code-cl border-left-0 border-right-0">
+        <td colspan="5">— ↑ loop line - towards Mount Austin (anti-clockwise) ↑ —</td>
+      </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C1</span>
@@ -139,7 +142,10 @@ The following is a list of the stations on the City Loop Line.
           {{< wiki/route-sign route="G" >}}
         </td>
       </tr>
-    </tobody>
+      <tr class="station-code-cl border-left-0 border-right-0">
+        <td colspan="5">— ↓ loop line - towards Winterland (clockwise) ↓ —</td>
+      </tr>
+    </tbody>
   </table>
 </div>
 

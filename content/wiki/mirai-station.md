@@ -79,85 +79,83 @@ Mirai station is served by Mirai Metro with the following lines:
 
 ---
 
-<div class="table-responsive">
-  <table class="table table-bordered text-center">
-    <thead class="thead-light">
-      <tr>
-        <th class="w-35">Preceding station</th>
-        <th colspan="3">Mirai Metro</th>
-        <th class="w-35">Following station</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="/wiki/uchq-west-station" title="UCHQ West Station">UCHQ West</a>
-          <p class="small font-italic mb-0">Next clockwise</p>
-        </td>
-        <td class="greenline"></td>
-        <td class="w-25"><a href="/wiki/green-line" title="Green Line">Green Line</a></td>
-        <td class="greenline"></td>
-        <td>
-          <a href="/wiki/uptown-cross-station" title="Uptown Cross Station">Uptown Cross</a>
-          <p class="small font-italic mb-0">Next anti-clockwise</p>
-        </td>
-      </tr>
-      <tr>
-        <td rowspan="2" class="font-italic">Terminus</td>
-        <td class="airportexpress"></td>
-        <td>
-          <a href="/wiki/airport-line" title="Airport Line">Airport Line</a><br>(Express)
-        </td>
-        <td class="airportexpress"></td>
-        <td>
-          <a href="/wiki/mirai-city-aiport-station" title="Mirai City Airport Station">Mirai City Airport</a>
-          <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
-        </td>
-      </tr>
-      <tr>
-        <td class="airportline"></td>
-        <td>
-          <a href="/wiki/airport-line" title="Airport Line">Airport Line</a><br>(Commuter)
-        </td>
-        <td class="airportline"></td>
-        <td>
-          <a href="/wiki/uchq-south-station" title="UCHQ South Station">UCHQ South</a>
-          <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="/wiki/berryhills-station" title"Berryhills Station">Berryhills</a>
-          <p class="small font-italic mb-0">Next anti-clockwise</p>
-        </td>
-        <td class="cityloopline"></td>
-        <td>
-          <a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a>
-        </td>
-        <td class="cityloopline"></td>
-        <td>
-          <a href="/wiki/downtown-east-station" title="Downtown East Station">Downtown East</a>
-          <p class="small font-italic mb-0">Next clockwise</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="/wiki/berryhills-station" title"Berryhills Station">Berryhills</a>
-          <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
-        </td>
-        <td class="diamondline"></td>
-        <td>
-          <a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a>
-        </td>
-        <td class="diamondline"></td>
-        <td>
-          <a href="/wiki/mugen-station" title="Mugen Station">Mugen</a>
-          <p class="small font-italic mb-0">towards <a href="/wiki/diamond-hill-station" title="Diamond Hill Station">Diamond Hill</a></p>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table class="table table-bordered text-center">
+  <thead class="thead-light">
+    <tr>
+      <th class="w-35">Preceding station</th>
+      <th colspan="3">Mirai Metro</th>
+      <th class="w-35">Following station</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="/wiki/uchq-west-station" title="UCHQ West Station">UCHQ West</a>
+        <p class="small font-italic mb-0">Next clockwise</p>
+      </td>
+      <td class="greenline"></td>
+      <td class="w-30"><a href="/wiki/green-line" title="Green Line">Green Line</a></td>
+      <td class="greenline"></td>
+      <td>
+        <a href="/wiki/uptown-cross-station" title="Uptown Cross Station">Uptown Cross</a>
+        <p class="small font-italic mb-0">Next anti-clockwise</p>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="font-italic">Terminus</td>
+      <td class="airportexpress"></td>
+      <td>
+        <a href="/wiki/airport-line" title="Airport Line">Airport Line</a><br>(Express)
+      </td>
+      <td class="airportexpress"></td>
+      <td>
+        <a href="/wiki/mirai-city-airport-station" title="Mirai City Airport Station">Mirai City Airport</a>
+        <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td class="airportline"></td>
+      <td>
+        <a href="/wiki/airport-line" title="Airport Line">Airport Line</a><br>(Commuter)
+      </td>
+      <td class="airportline"></td>
+      <td>
+        <a href="/wiki/uchq-south-station" title="UCHQ South Station">UCHQ South</a>
+        <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/wiki/berryhills-station" title"Berryhills Station">Berryhills</a>
+        <p class="small font-italic mb-0">Next anti-clockwise</p>
+      </td>
+      <td class="cityloopline"></td>
+      <td>
+        <a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a>
+      </td>
+      <td class="cityloopline"></td>
+      <td>
+        <a href="/wiki/downtown-east-station" title="Downtown East Station">Downtown East</a>
+        <p class="small font-italic mb-0">Next clockwise</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/wiki/berryhills-station" title"Berryhills Station">Berryhills</a>
+        <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
+      </td>
+      <td class="diamondline"></td>
+      <td>
+        <a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a>
+      </td>
+      <td class="diamondline"></td>
+      <td>
+        <a href="/wiki/mugen-station" title="Mugen Station">Mugen</a>
+        <p class="small font-italic mb-0">towards <a href="/wiki/diamond-hill-station" title="Diamond Hill Station">Diamond Hill</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 

@@ -47,7 +47,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Waterfall Line** (Code **W**) is [Mirai Metro](/wiki/mirai-metro "Mirai Metro")'s second [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route"). The line gained its nomenclature from the Paradise Falls district it passes through and the line visually resembles the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model").
+The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of the metro after the [Green Line](/wiki/green-line "Green Line"). The line gained its nomenclature from the Paradise Falls district it passes through and the line visually resembles the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model").
 
 <br>
 
@@ -70,6 +70,9 @@ The **Waterfall Line** (Code **W**) is [Mirai Metro](/wiki/mirai-metro "Mirai Me
       </tr>
     </thead>
     <tbody>
+      <tr class="station-code-wl border-left-0 border-right-0">
+        <td colspan="5">— ↑ loop line - towards Winterland West (anti-clockwise) ↑ —</td>
+      </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W1<span>
@@ -166,6 +169,9 @@ The **Waterfall Line** (Code **W**) is [Mirai Metro](/wiki/mirai-metro "Mirai Me
         <td>Winterland West</td>
         <td>冬西</td>
         <td></td>
+      </tr>
+      <tr class="station-code-wl border-left-0 border-right-0">
+        <td colspan="5">— ↓ loop line - towards Winterland (clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>

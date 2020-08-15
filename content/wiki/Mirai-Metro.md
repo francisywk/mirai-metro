@@ -72,7 +72,7 @@ names_transcriptions:
         content: Měilā Dìtiě
 ---
 
-The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"), is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
+The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") and abbreviated as **MM**, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
 
 Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/mirai-regional-railway "Mirai Regional Railway"), the metro provides urban rail transportation service for the nation's capital.
 
@@ -87,7 +87,7 @@ Before Mirai Metro underwent rapid expansion, the network only consists of three
 ---
 
 - 7 June 2015: Mirai RGB started operation with Zero Zero to Paradise Falls section of Blue Line enters service.
-- 5 October 2019: Hell Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill sttaion") was opened on the Blue Line between Zero Zero and Spawn.
+- 5 October 2019: Hell Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") was opened on the Blue Line between Zero Zero and Spawn.
 - 27 July 2020: Phase 1 of [Panda Express](/wiki/panda-express) line opened to the public.
 
 <br>
@@ -101,6 +101,150 @@ Before Mirai Metro underwent rapid expansion, the network only consists of three
 Mirai Metro is made up of 8 lines that are currently operational on 8.1 kilometres (5.1 miles) of tracks. All lines on the network are manual operation lines except the Diamond Line, which is an automated line. An automated line requires no further input from the passengers after they have selected the travel direction. The minecart will stop at the station for a few seconds before launching the minecart along with the passenger to the following station in the same direction.
 
 The lines are ordered based on the time that the lines are opened. Oldest lines are listed first, before newer lines with the exception of the original RGB lines and the medium-capacity Diamond line. The Blue Line is actually the first line to be built on the metro followed by Red Line.
+
+<div class="table-responsive">
+  <table class="table table-bordered table-700 text-center">
+    <thead class="thead-light">
+      <tr>
+        <th colspan="3">Line</th>
+        <th colspan="2">Termini</th>
+        <th>Commencement</th>
+        <th>Stations</th>
+        <th>Length (km)</th>
+        <th>Conduction system</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{< wiki/route-sign route="R" >}}</td>
+        <td><a href="/wiki/red-line" title="Red Line">Red Line</a></td>
+        <td>紅綫</td>
+        <td>
+          Fhoenix Hill
+        </td>
+        <td>
+          Portal Hill
+        </td>
+        <td>11 August 2015</td>
+        <td>6</td>
+        <td>0.544</td>
+        <td rowspan="8">Manual control</td>
+      </tr>
+      <tr>
+        <td>{{< wiki/route-sign route="G" >}}</td>
+        <td><a href="/wiki/green-line" title="Green Line">Green Line</a></td>
+        <td>綠綫</td>
+        <td colspan="2">
+          <a href="/wiki/mirai-station" title="Mirai Station">Mirai</a>
+          <p class="small font-italic mb-0">(loop line)</p>
+        </td>
+        <td>6 November 2016</td>
+        <td>10</td>
+        <td>1.156</td>
+      </tr>
+      <tr>
+        <td>{{< wiki/route-sign route="B" >}}</td>
+        <td><a href="/wiki/blue-line" title="Blue Line">Blue Line</a></td>
+        <td>藍綫</td>
+        <td>
+          Victory Bay
+        </td>
+        <td>
+          Spawn
+        </td>
+        <td>7 June 2015</td>
+        <td>9</td>
+        <td>1.669</td>
+      </tr>
+      <tr>
+        <td rowspan="2">{{< wiki/route-sign route="Ac" >}}</td>
+        <td rowspan="2"><a href="/wiki/airport-line" title="Airport Line">Airport Line</a></td>
+        <td rowspan="2">空港綫</td>
+        <td rowspan="2">
+          <a href="/wiki/mirai-station" title="Mirai Station">Mirai</a>
+        </td>
+        <td rowspan="2">
+          UCHQ North
+        </td>
+        <td>
+          2 May 2018
+          <p class="small font-italic mb-0">(Commuter service)</p>
+        </td>
+        <td rowspan="2">5</td>
+        <td rowspan="2">0.592</td>
+      </tr>
+      <tr>
+        <td>
+          16 August 2018
+          <p class="small font-italic mb-0">(Express service)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>{{< wiki/route-sign route="V" >}}</td>
+        <td><a href="/wiki/victory-line" title="Victory Line">Victory Line</a></td>
+        <td>勝利綫</td>
+        <td>
+          Mugen
+        </td>
+        <td>
+          Moon Lake
+        </td>
+        <td>30 September 2018</td>
+        <td>9</td>
+        <td>1.342</td>
+      </tr>
+      <tr>
+        <td>{{< wiki/route-sign route="W" >}}</td>
+        <td><a href="/wiki/waterfall-line" title="Waterfall Line">Waterfall Line</a></td>
+        <td>瀑布綫</td>
+        <td colspan="2" rowspan="2">
+          Winterland
+          <p class="small font-italic mb-0">(loop line)</p>
+        </td>
+        <td>25 July 2018</td>
+        <td>9</td>
+        <td>1.314</td>
+      </tr>
+      <tr>
+        <td>{{< wiki/route-sign route="C" >}}</td>
+        <td><a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a></td>
+        <td>三環綫</td>
+        <td>31 August 2018</td>
+        <td>6</td>
+        <td>0.856</td>
+      </tr>
+      <tr>
+        <td>{{< wiki/route-sign route="D" >}}</td>
+        <td><a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a></td>
+        <td>鑽石綫</td>
+        <td>
+          UCHQ North
+        </td>
+        <td>
+          Diamond Hill
+        </td>
+        <td>8 March 2017</td>
+        <td>6</td>
+        <td>0.674</td>
+        <td rowspan="2">Automated</td>
+      </tr>
+      <tr>
+        <td>{{< wiki/route-sign route="P" >}}</td>
+        <td><a href="/wiki/panda-express" title="Panda Express">Panda Express</a></td>
+        <td>熊貓快綫</td>
+        <td>
+          Miraiya Cave
+        </td>
+        <td>
+          Oasis Point
+        </td>
+        <td>27 July 2020</td>
+        <td>5</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <br>
 
@@ -120,7 +264,7 @@ Major interchange stations, connecting three or more Mirai Metro lines, include 
 - Mugen
 - UCHQ South
 
-Other interchage stations connecting two Mirai Metro lines are:
+Other interchange stations connecting two Mirai Metro lines are:
 
 - Berryhills
 - Downtown Core
@@ -138,7 +282,7 @@ Other interchage stations connecting two Mirai Metro lines are:
 
 ##### Rolling stock
 
-Rolling stocks on the Mirai Metro are custom single unit minecarts called CommandCart, using activated powered rails for propulsion. The Cart Corporation CommandCart (CCC) is the second and newest series of rolling stock used on the Mirai Metro network. Each CommandCart features the name and colour of the metro line it serves.
+Rolling stocks on the Mirai Metro are custom single unit minecart called CommandCart, using activated powered rails for propulsion. The Cart Corporation CommandCart (CCC) is the second and newest series of rolling stock used on the Mirai Metro network. Each CommandCart features the name and colour of the metro line it serves.
 
 The following table lists the rolling stock of the network:
 

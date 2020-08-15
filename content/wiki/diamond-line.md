@@ -26,7 +26,7 @@ quick_facts:
   - heading: Operation
   - cols_2:
     - title: Opened
-      content: 8 March 2017
+      content: 8 March 2017 (SkyCart Line)
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
@@ -73,7 +73,7 @@ The initial route features 4 stations spanned from Berryhills to Downtown East.
 
 ##### Line extension and conversion to automatic operation
 
-In 2019, Diamond Line was extended northward to UCHQ North and southward to Diamond Hill, and was opened on 1 April 2019 and 1 May 2019 respectively. As part of the extension project, the line was also converted to [fully automated](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") operation. The automation system deployed is a custom [command](https://minecraft.gamepedia.com/Commands "Commands") system inspired and modified from FlashTeens's [Minecart Railway Builder Tool](https://github.com/flashteens/FTMCRailBuilder13) datapack.
+In 2019, Diamond Line was extended northward to UCHQ North and southward to Diamond Hill, and was opened on 1 April 2019 and 1 May 2019 respectively. As part of the extension project, the line was also converted to [fully automated](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") operation. The automation system deployed is a custom [command](https://minecraft.gamepedia.com/Commands "Commands") system inspired and modified from FlashTeens [Minecart Railway Builder Tool](https://github.com/flashteens/FTMCRailBuilder13) datapack.
 
 With the use of [Command Block](https://minecraft.gamepedia.com/Command_Block "Command Block"), riders can choose the desired heading direction before taking the train, and the [minecart](https://minecraft.gamepedia.com/Minecart "Minecart") will be launched automatically heading the selected direction (either north, south, east, or west).
 
