@@ -3,24 +3,24 @@ title: UCHQ North Station
 station_code: [B2,A5,D1]
 station_name_en: UCHQ North
 station_name_zh: "聯<span class='font-noto-serif-sc'>總北</span>"
-route_sign: [B,Ac,D]
+mm_sign: [B,Ac,D]
 adjacent_stations:
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B1-Victory Bay
         towards: Victory Bay
     following:
       - station: B3-UCHQ South
         towards: Spawn
-  - route_sign: [A]
+  - mm_sign: [A]
     preceding:
       - station: A4-Mirai City Airport
         towards: Mirai
-  - route_sign: [Ax]
+  - mm_sign: [Ax]
     preceding:
       - station: A4-Mirai City Airport
         towards: Mirai
-  - route_sign: [D]
+  - mm_sign: [D]
     preceding:
     following:
       - station: D2-Berryhills

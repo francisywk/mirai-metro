@@ -3,9 +3,9 @@ title: UCHQ West Station
 station_code: [G10]
 station_name_en: UCHQ West
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>西
-route_sign: [G]
+mm_sign: [G]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G9-UCHQ South
         next: clockwise

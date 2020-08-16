@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,airportline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF40FF;border-bottom: 4px solid #AB2FA1;padding:2px 0;"
-  - route_sign: [Ac,A,Ax]
+  - mm_sign: [Ac,A,Ax]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -93,9 +93,9 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>Mirai</td>
         <td>美拉</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="C" >}}
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="C" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
         <td>City Loop</td>
       </tr>
@@ -108,8 +108,8 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>UCHQ South</td>
         <td>聯總南</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="B" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="B" >}}
         </td>
         <td rowspan="4">Redstone Valley</td>
       </tr>
@@ -132,7 +132,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>Mirai City Airport</td>
         <td>美拉城市空港</td>
         <td>
-          {{< wiki/route-sign route="V" >}}
+          {{< wiki/mm-sign route="V" >}}
         </td>
       </tr>
       <tr>
@@ -144,8 +144,8 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>UCHQ North</td>
         <td>聯總北</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
       </tr>
     </tbody>

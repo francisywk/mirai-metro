@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,redline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF2600;border-bottom: 4px solid #FF2600;padding:2px 0;"
-  - route_sign: [R]
+  - mm_sign: [R]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -99,7 +99,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>Paradise Falls</td>
         <td>仙境瀑布</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
+          {{< wiki/mm-sign route="B" >}}
         </td>
       </tr>
       <tr>
@@ -109,8 +109,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>Under the Falls</td>
         <td>瀑布下</td>
         <td>
-          {{< wiki/route-sign route="W" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="W" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
       </tr>
       <tr>
@@ -120,8 +120,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>Downtown Core</td>
         <td>市中心</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="W" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
       </tr>
       <tr>
@@ -131,8 +131,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>Miraiya Cave</td>
         <td>美拉雅洞</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
         <td>La Miraiya</td>
       </tr>

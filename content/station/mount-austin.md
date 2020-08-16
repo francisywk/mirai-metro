@@ -3,16 +3,16 @@ title: Mount Austin Station
 station_code: [G5,C6]
 station_name_en: Mount Austin
 station_name_zh: 柯士甸山
-route_sign: [G,C]
+mm_sign: [G,C]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G4-City Farm
         next: clockwise
     following:
       - station: G6-Downtown Core
         next: anti-clockwise
-  - route_sign: [C]
+  - mm_sign: [C]
     preceding:
       - station: C5-Downtown East
         next: anti-clockwise

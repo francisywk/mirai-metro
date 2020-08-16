@@ -3,31 +3,31 @@ title: Mirai Station
 station_code: [G1,A1,C4,D3]
 station_name_en: Mirai
 station_name_zh: 美拉
-route_sign: [G,Ac,C,D]
+mm_sign: [G,Ac,C,D]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G9-UCHQ West
         next: clockwise
     following:
       - station: G2-Uptown Cross
         next: anti-clockwise
-  - route_sign: [A]
+  - mm_sign: [A]
     following:
       - station: A2-UCHQ South
         towards: UCHQ North
-  - route_sign: [Ax]
+  - mm_sign: [Ax]
     following:
       - station: A4-Mirai City Airport
         towards: UCHQ North
-  - route_sign: [C]
+  - mm_sign: [C]
     preceding:
       - station: C3-Berryhills
         next: anti-clockwise
     following:
       - station: C5-Downtown East
         next: clockwise
-  - route_sign: [D]
+  - mm_sign: [D]
     preceding:
       - station: D2-Berryhills
         towards: UCHQ North
@@ -43,7 +43,7 @@ address: [Mirai, City Loop, City of Mirai, United Cities]
 nearby_attraction: [One Union Trade Centre (1UTC), Singbucks Coffee, Mirai Tower, Central Clock Tower, Fhoenix Hill Aviary]
 connecting_station:
   - station: Mugen
-    route_sign: [B,V,W,D,P]
+    mm_sign: [B,V,W,D,P]
 popular: true
 ---
 

@@ -3,23 +3,23 @@ title: Winterland Station
 station_code: [G3,W1,C1]
 station_name_en: Winterland
 station_name_zh: 冬地
-route_sign: [G,W,C]
+mm_sign: [G,W,C]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G2-Uptown Cross
         next: clockwise
     following:
       - station: G4-City Farm
         next: anti-clockwise
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W10-Winterland West
         next: anti-clockwise
     following:
       - station: W2-Uptown Cross
         next: clockwise
-  - route_sign: [C]
+  - mm_sign: [C]
     preceding:
       - station: C6-Mount Austin
         next: anti-clockwise

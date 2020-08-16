@@ -3,9 +3,9 @@ title: UCHQ East Station
 station_code: [A3]
 station_name_en: UCHQ East
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>東
-route_sign: [A]
+mm_sign: [A]
 adjacent_stations:
-  - route_sign: [A]
+  - mm_sign: [A]
     preceding:
       - station: A2-UCHQ South
         towards: Mirai

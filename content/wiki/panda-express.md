@@ -10,7 +10,7 @@ notice: This article is about the rapid transit line in Mirai. For the American 
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #50C878;border-bottom: 4px solid #50C878;padding:2px 0;"
-  - route_sign: [P]
+  - mm_sign: [P]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -108,8 +108,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Miraiya Cave</td>
         <td>美拉雅洞</td>
         <td>
-          {{< wiki/route-sign route="R" >}}
-          {{< wiki/route-sign route="G" >}}
+          {{< wiki/mm-sign route="R" >}}
+          {{< wiki/mm-sign route="G" >}}
         </td>
         <td>La Miraiya</td>
       </tr>
@@ -120,10 +120,10 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Mugen</td>
         <td>無限</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="V" >}}
-          {{< wiki/route-sign route="W" >}}
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="V" >}}
+          {{< wiki/mm-sign route="W" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
         <td rowspan="3">City Loop</td>
       </tr>
@@ -134,8 +134,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Under the Falls</td>
         <td>瀑布下</td>
         <td>
-          {{< wiki/route-sign route="R" >}}
-          {{< wiki/route-sign route="W" >}}
+          {{< wiki/mm-sign route="R" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
       </tr>
       <tr>
@@ -145,8 +145,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>City Farm</td>
         <td>城市農場</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="B" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="B" >}}
         </td>
       </tr>
       <tr>
@@ -156,7 +156,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Oasis Point</td>
         <td>綠洲角</td>
         <td>
-          {{< wiki/route-sign route="W" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
         <td>Big Snow</td>
       </tr>
@@ -181,7 +181,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td class="font-italic">Spawn</td>
         <td class="font-italic">生成</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
+          {{< wiki/mm-sign route="B" >}}
         </td>
         <td>Spawn Chunks</td>
       </tr>

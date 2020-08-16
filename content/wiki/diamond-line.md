@@ -8,7 +8,7 @@ keywords: [mirai,miraimetro,route,diamondline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #33CDFB;border-bottom: 4px solid #33CDFB;padding:2px 0;"
-  - route_sign: [D]
+  - mm_sign: [D]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -120,8 +120,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>UCHQ North</td>
         <td>聯總北</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="Ac" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="Ac" >}}
         </td>
         <td>1 April 2019</td>
         <td rowspan="5">Elevated</td>
@@ -134,7 +134,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>Berryhills</td>
         <td>啤梨山</td>
         <td>
-          {{< wiki/route-sign route="C" >}}
+          {{< wiki/mm-sign route="C" >}}
         </td>
         <td rowspan="4">8 March 2017<br><small class="font-italic">(Mirai RGB)</small></td>
         <td rowspan="4">City Loop</td>
@@ -146,9 +146,9 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>Mirai</td>
         <td>美拉</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="Ac" >}}
-          {{< wiki/route-sign route="C" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="Ac" >}}
+          {{< wiki/mm-sign route="C" >}}
         </td>
       </tr>
       <tr>
@@ -158,10 +158,10 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>Mugen</td>
         <td>無限</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="V" >}}
-          {{< wiki/route-sign route="W" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="V" >}}
+          {{< wiki/mm-sign route="W" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
       </tr>
       <tr>
@@ -171,8 +171,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>Downtown East</td>
         <td>市中心東</td>
         <td>
-          {{< wiki/route-sign route="W" >}}
-          {{< wiki/route-sign route="C" >}}
+          {{< wiki/mm-sign route="W" >}}
+          {{< wiki/mm-sign route="C" >}}
         </td>
       </tr>
       <tr>

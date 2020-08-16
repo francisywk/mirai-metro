@@ -3,9 +3,9 @@ title: Broadbeach Station
 station_code: [V7]
 station_name_en: Broadbeach
 station_name_zh: 廣灘
-route_sign: [V]
+mm_sign: [V]
 adjacent_stations:
-  - route_sign: [V]
+  - mm_sign: [V]
     preceding:
       - station: V6-Marine Park
         towards: Mugen

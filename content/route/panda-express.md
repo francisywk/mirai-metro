@@ -1,7 +1,7 @@
 ---
 title: Panda Express
 title_zh: 熊貓快綫
-route_sign: [P]
+mm_sign: [P]
 branch_line: false
 stations:
   - station_code: [P1]
@@ -12,28 +12,28 @@ stations:
     name: Miraiya Cave
     name_zh: 美拉雅洞
     transfer:
-      - route_sign: [R,G]
+      - mm_sign: [R,G]
     first_station: true
   - station_code: [P3]
     name: Mugen
     name_zh: 無限
     transfer:
-      - route_sign: [B,V,W,D]
+      - mm_sign: [B,V,W,D]
   - station_code: [P4]
     name: Under the Falls
     name_zh: 瀑布下
     transfer:
-      - route_sign: [R,W]
+      - mm_sign: [R,W]
   - station_code: [P5]
     name: City Farm
     name_zh: 城市農場
     transfer:
-      - route_sign: [G,B]
+      - mm_sign: [G,B]
   - station_code: [P6]
     name: Oasis Point
     name_zh: 綠洲角
     transfer:
-      - route_sign: [W]
+      - mm_sign: [W]
     last_station: true
   - station_code: [P8]
     name: Spawn

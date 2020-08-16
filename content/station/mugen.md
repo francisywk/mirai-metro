@@ -3,34 +3,34 @@ title: Mugen Station
 station_code: [B4,V1,W4,D4,P3]
 station_name_en: Mugen
 station_name_zh: 無限
-route_sign: [B,V,W,D,P]
+mm_sign: [B,V,W,D,P]
 adjacent_stations:
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B3-UCHQ South
         towards: Victory Bay
     following:
       - station: B5-Paradise Falls
         towards: Spawn
-  - route_sign: [V]
+  - mm_sign: [V]
     following:
       - station: V2-Bottomvalley
         towards: Moon Lake
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W3-Under the Falls
         next: anti-clockwise
     following:
       - station: W5-Downtown East
         next: clockwise
-  - route_sign: [D]
+  - mm_sign: [D]
     preceding:
       - station: D3-Mirai
         towards: UCHQ North
     following:
       - station: D5-Downtown East
         towards: Diamond Hill
-  - route_sign: [P]
+  - mm_sign: [P]
     preceding:
       - station: P2-Miraiya Cave
         towards: Panda Museum
@@ -46,7 +46,7 @@ address: [Mugen, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Mirai Central Park, Mirai Tower, Freedom Tower, CT Centre, Three Storey Pagoda, Paradise Tower, Central Clock Tower]
 connecting_station:
   - station: Mirai
-    route_sign: [G,Ac,C,D]
+    mm_sign: [G,Ac,C,D]
 popular: true
 ---
 

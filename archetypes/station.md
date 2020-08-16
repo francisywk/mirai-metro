@@ -3,9 +3,9 @@ title: {{ replace .Name "-" " " | title }} Station
 station_code: []
 station_name_en: {{ replace .Name "-" " " | title }}
 station_name_zh: 
-route_sign: []
+mm_sign: []
 adjacent_stations:
-  - route_sign: []
+  - mm_sign: []
     preceding:
       - station: 
         towards: 

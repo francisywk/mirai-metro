@@ -3,9 +3,9 @@ title: Diamond Hill Station
 station_code: [D6]
 station_name_en: Diamond Hill
 station_name_zh: 鑽石山
-route_sign: [D]
+mm_sign: [D]
 adjacent_stations:
-  - route_sign: [D]
+  - mm_sign: [D]
     preceding:
       - station: D5-Downtown East
         towards: UCHQ North

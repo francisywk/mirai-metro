@@ -8,7 +8,7 @@ keywords: [mirai,miraimetro,route,cityloopline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF8C00;border-bottom: 4px solid #FF8C00;padding:2px 0;"
-  - route_sign: [C]
+  - mm_sign: [C]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -84,8 +84,8 @@ The following is a list of the stations on the City Loop Line.
         <td>Winterland</td>
         <td>冬地</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="W" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
         <td rowspan="6">City Loop</td>
       </tr>
@@ -106,7 +106,7 @@ The following is a list of the stations on the City Loop Line.
         <td>Berryhills</td>
         <td>啤梨山</td>
         <td>
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
       </tr>
       <tr>
@@ -116,9 +116,9 @@ The following is a list of the stations on the City Loop Line.
         <td>Mirai</td>
         <td>美拉</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="A" >}}
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="A" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
       </tr>
       <tr>
@@ -128,8 +128,8 @@ The following is a list of the stations on the City Loop Line.
         <td>Downtown East</td>
         <td>市中心東</td>
         <td>
-          {{< wiki/route-sign route="W" >}}
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="W" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
       </tr>
       <tr>
@@ -139,7 +139,7 @@ The following is a list of the stations on the City Loop Line.
         <td>Mount Austin</td>
         <td>柯士甸山</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
+          {{< wiki/mm-sign route="G" >}}
         </td>
       </tr>
       <tr class="station-code-cl border-left-0 border-right-0">

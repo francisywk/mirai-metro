@@ -3,9 +3,9 @@ title: Spawn Station
 station_code: [B9]
 station_name_en: Spawn
 station_name_zh: 生成
-route_sign: [B]
+mm_sign: [B]
 adjacent_stations:
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B8-Hell's Gate
         towards: Victory Bay

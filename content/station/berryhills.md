@@ -3,16 +3,16 @@ title: Berryhills Station
 station_code: [C3,D2]
 station_name_en: Berryhills
 station_name_zh: 啤梨山
-route_sign: [C,D]
+mm_sign: [C,D]
 adjacent_stations:
-  - route_sign: [C]
+  - mm_sign: [C]
     preceding:
       - station: C1-Winterland
         next: anti-clockwise
     following:
       - station: C4-Mirai
         next: clockwise
-  - route_sign: [D]
+  - mm_sign: [D]
     preceding:
       - station: D1-UCHQ North
         towards: UCHQ North

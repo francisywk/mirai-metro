@@ -3,9 +3,9 @@ title: Hell's Gate Station
 station_code: [B8]
 station_name_en: Hell's Gate
 station_name_zh: 地獄門
-route_sign: [B]
+mm_sign: [B]
 adjacent_stations:
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B6-Zero Zero
         towards: Victory Bay

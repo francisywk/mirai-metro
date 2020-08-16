@@ -3,7 +3,7 @@
   {{ partial "breadcrumb.html" . }}
   {{ with .Params }}
     <div class="text-center mb-3">
-      {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+      {{ partial "mm_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
       <h4 class="mt-1 mb-1 stylised-name-en-zh">{{ .Title }}</h4>
       <h5 class="mb-0 stylised-name-en-zh font-weight-bold">{{ .title_zh }}</h5>
     </div>
@@ -13,7 +13,7 @@
           <b>Service Status:</b>&nbsp;<span class="d-none d-md-inline">Last updated on <span class="datetime"></span>&nbsp;&nbsp;<i class="fas fa-sm fa-sync-alt">&nbsp;</i><a href="javascript:history.go(0)" class="alert-link">Refresh</a></span>
         </div>
         <div class="col-6 col-md-4 order-lg-first">
-          {{ $rs := .route_sign }}
+          {{ $rs := .mm_sign }}
           {{ range $.Site.Data.service_status.route }}
             {{ if eq .name $.Title }}
               {{ if eq .status "Limited" }}
@@ -99,7 +99,7 @@
                   <td class="text-right">
                     {{ with .transfer }}
                       {{ range . }}
-                        {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
+                        {{ partial "mm_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
                       {{ end }}
                     {{ else }}
                       <div class="routesign-sm redline invisible">&nbsp;R&nbsp;</div>

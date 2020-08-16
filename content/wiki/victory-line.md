@@ -8,7 +8,7 @@ keywords: [mirai,miraimetro,route,victoryline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #651A9E;border-bottom: 4px solid #651A9E;padding:2px 0;"
-  - route_sign: [V]
+  - mm_sign: [V]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -77,10 +77,10 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>Mugen</td>
         <td>無限</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="W" >}}
-          {{< wiki/route-sign route="D" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="W" >}}
+          {{< wiki/mm-sign route="D" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
         <td rowspan="2">City Loop</td>
       </tr>
@@ -91,7 +91,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>Bottomvalley</td>
         <td>山底谷</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
+          {{< wiki/mm-sign route="G" >}}
         </td>
       </tr>
       <tr>
@@ -110,7 +110,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>Mirai City Airport</td>
         <td>美拉城市空港</td>
         <td>
-          {{< wiki/route-sign route="Ac" >}}
+          {{< wiki/mm-sign route="Ac" >}}
         </td>
       </tr>
       <tr>
@@ -146,7 +146,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>Victory Bay</td>
         <td>勝利灣</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
+          {{< wiki/mm-sign route="B" >}}
         </td>
       </tr>
       <tr>

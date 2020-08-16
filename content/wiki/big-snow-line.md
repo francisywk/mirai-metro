@@ -8,7 +8,7 @@ keywords: [mirai,miraimetro,route,bigsnowline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF80A9;border-bottom: 4px solid #FF80A9;padding:2px 0;"
-  - route_sign: [S]
+  - mm_sign: [S]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -70,7 +70,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>Winterland West</td>
       <td>冬西</td>
       <td>
-        {{< wiki/route-sign route="W" >}}
+        {{< wiki/mm-sign route="W" >}}
       </td>
       <td>Big Snow</td>
     </tr>
@@ -81,7 +81,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>Miraibridge</td>
       <td>美拉橋</td>
       <td>
-        {{< wiki/route-sign route="C" >}}
+        {{< wiki/mm-sign route="C" >}}
       </td>
       <td>City Loop</td>
     </tr>
@@ -92,7 +92,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>Moon Lake</td>
       <td>月湖</td>
       <td>
-        {{< wiki/route-sign route="V" >}}
+        {{< wiki/mm-sign route="V" >}}
       </td>
       <td>Victory Bay</td>
     </tr>
@@ -103,7 +103,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>UCHQ West</td>
       <td>聯總西</td>
       <td>
-        {{< wiki/route-sign route="G" >}}
+        {{< wiki/mm-sign route="G" >}}
       </td>
       <td>Redstone Valley</td>
     </tr>

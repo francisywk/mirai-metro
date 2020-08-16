@@ -3,16 +3,16 @@ title: Uptown Cross Station
 station_code: [G2,W2]
 station_name_en: Uptown Cross
 station_name_zh: 上環十字
-route_sign: [G,W]
+mm_sign: [G,W]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G1-Mirai
         next: clockwise
     following:
       - station: G3-Winterland
         next: anti-clockwise
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W1-Winterland
         next: anti-clockwise

@@ -3,9 +3,9 @@ title: Winterland West Station
 station_code: [W9]
 station_name_en: Winterland West
 station_name_zh: 冬西
-route_sign: [W]
+mm_sign: [W]
 adjacent_stations:
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W8-Zero Zero
         next: anti-clockwise

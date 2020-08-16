@@ -53,8 +53,8 @@
                 {{ end }}
               </div>
               <div class="col-2">
-                {{ if .route_sign }}
-                  {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
+                {{ if .mm_sign }}
+                  {{ partial "mm_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
                 {{ end }}
               </div>
               <div class="col-2">
@@ -88,9 +88,9 @@
                 {{ end }}
               </div>
               <div class="col-12 mt-2">
-                {{ $rs := .route_sign }}
+                {{ $rs := .mm_sign }}
                 {{ range $.Site.Data.service_status.route }}
-                  {{ if eq .route_sign $rs }}
+                  {{ if eq .mm_sign $rs }}
                     <small>
                       {{ if eq .status "Limited" }}
                         <i class="fas fa-circle text-warning"></i>
@@ -128,7 +128,7 @@
                 <div class="col-12">
                   <p class="font-weight-bold mb-2">Walking distance to<br>&#x25B8; <a href="/station/{{ anchorize .station }}">{{ .station }}</a></p>
                   <p class="mb-2">Available transfers:</p>
-                  {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
+                  {{ partial "mm_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
                 </div>
               </div>
             </div>

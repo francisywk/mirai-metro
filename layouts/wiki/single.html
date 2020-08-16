@@ -50,9 +50,13 @@
                     <img src="{{ .link }}" class="img-fluid mx-auto my-2 d-block" style="width:{{ .width }}">
                   {{ end }}
                 {{ end }}
-                {{ if .route_sign }}
+                {{ if .mm_sign }}
                   <div class="text-center py-2">
-                    {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+                    {{ partial "mm_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+                  </div>
+                {{ else if .mrr_sign }}
+                  <div class="text-center py-2">
+                    <span class="route-sign-mrr1">{{ .mrr_sign }}</span>
                   </div>
                 {{ end }}
                 {{ with .station_code }}

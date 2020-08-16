@@ -3,9 +3,9 @@ title: Moon Lake Station
 station_code: [V9]
 station_name_en: Moon Lake
 station_name_zh: 月湖
-route_sign: [V]
+mm_sign: [V]
 adjacent_stations:
-  - route_sign: [V]
+  - mm_sign: [V]
     preceding:
       - station: V8-Victory Bay
         towards: Mugen

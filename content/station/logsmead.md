@@ -3,9 +3,9 @@ title: Logsmead Station
 station_code: [V5]
 station_name_en: Logsmead
 station_name_zh: 樂米町
-route_sign: [V]
+mm_sign: [V]
 adjacent_stations:
-  - route_sign: [V]
+  - mm_sign: [V]
     preceding:
       - station: V4-Mirai City Airport
         towards: Mugen

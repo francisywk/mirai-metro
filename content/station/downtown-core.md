@@ -2,24 +2,24 @@
 title: Downtown Core Station
 station_code: [R4,G6,W6]
 station_name_en: Downtown Core
-station_name_zh: 鐘市中心
-route_sign: [R,G,W]
+station_name_zh: 市中心
+mm_sign: [R,G,W]
 adjacent_stations:
-  - route_sign: [R]
+  - mm_sign: [R]
     preceding:
       - station: R3-Under the Falls
         towards: Fhoenix Hill
     following:
       - station: R5-Miraiya Cave
         towards: Portal Hill
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G5-Mount Austin
         next: clockwise
     following:
       - station: G7-Miraiya Cave
         next: anti-clockwise
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W5-Downtown East
         next: anti-clockwise

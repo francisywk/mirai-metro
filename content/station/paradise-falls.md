@@ -3,16 +3,16 @@ title: Paradise Falls Station
 station_code: [R2,B5]
 station_name_en: Paradise Falls
 station_name_zh: 仙境瀑布
-route_sign: [R,B]
+mm_sign: [R,B]
 adjacent_stations:
-  - route_sign: [R]
+  - mm_sign: [R]
     preceding:
       - station: R1-Fhoenix Hill
         towards: Fhoenix Hill
     following:
       - station: R3-Under the Falls
         towards: Portal Hill
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B4-Mugen
         towards: Victory Bay

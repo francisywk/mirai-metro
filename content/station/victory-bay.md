@@ -3,13 +3,13 @@ title: Victory Bay Station
 station_code: [B1,V8]
 station_name_en: Victory Bay
 station_name_zh: 勝利灣
-route_sign: [B,V]
+mm_sign: [B,V]
 adjacent_stations:
-  - route_sign: [B]
+  - mm_sign: [B]
     following:
       - station: B2-UCHQ North
         towards: Spawn
-  - route_sign: [V]
+  - mm_sign: [V]
     preceding:
       - station: V7-Broadbeach
         towards: Mugen

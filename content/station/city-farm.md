@@ -3,20 +3,20 @@ title: City Farm Station
 station_code: [G4,B7,P5]
 station_name_en: City Farm
 station_name_zh: 城市農場
-route_sign: [G,B,P]
+mm_sign: [G,B,P]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G3-Winterland
         next: clockwise
     following:
       - station: G5-Mount Austin
         next: anti-clockwise
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B6-Zero Zero
         towards: Zero Zero
-  - route_sign: [P]
+  - mm_sign: [P]
     preceding:
       - station: P4-Under the Falls
         towards: Panda Museum

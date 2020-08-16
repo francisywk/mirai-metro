@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,greenline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #0F7F12;border-bottom: 4px solid #0F7F12;padding:2px 0;"
-  - route_sign: [G]
+  - mm_sign: [G]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -81,9 +81,9 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>Mirai</td>
         <td>美拉</td>
         <td>
-          {{< wiki/route-sign route="Ac" >}}
-          {{< wiki/route-sign route="C" >}}
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="Ac" >}}
+          {{< wiki/mm-sign route="C" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
         <td rowspan="6">City Loop</td>
       </tr>
@@ -94,7 +94,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>Uptown Cross</td>
         <td>上環十字</td>
         <td>
-          {{< wiki/route-sign route="W" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
       </tr>
       <tr>
@@ -104,8 +104,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>Winterland</td>
         <td>冬地</td>
         <td>
-          {{< wiki/route-sign route="C" >}}
-          {{< wiki/route-sign route="W" >}}
+          {{< wiki/mm-sign route="C" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
       </tr>
       <tr>
@@ -115,8 +115,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>City Farm</td>
         <td>城市農場</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
       </tr>
       <tr>
@@ -126,7 +126,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>Mount Austin</td>
         <td>柯士甸山</td>
         <td>
-          {{< wiki/route-sign route="C" >}}
+          {{< wiki/mm-sign route="C" >}}
         </td>
       </tr>
       <tr>
@@ -136,8 +136,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>Downtown Core</td>
         <td>市中心</td>
         <td>
-          {{< wiki/route-sign route="R" >}}
-          {{< wiki/route-sign route="W" >}}
+          {{< wiki/mm-sign route="R" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
       </tr>
       <tr>
@@ -147,8 +147,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>Miraiya Cave</td>
         <td>美拉雅洞</td>
         <td>
-          {{< wiki/route-sign route="R" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="R" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
         <td>La Miraiya</td>
       </tr>
@@ -159,7 +159,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>Bottomvalley</td>
         <td>山底谷</td>
         <td>
-          {{< wiki/route-sign route="V" >}}
+          {{< wiki/mm-sign route="V" >}}
         </td>
         <td rowspan="3">Redstone Valley</td>
       </tr>
@@ -170,8 +170,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>UCHQ South</td>
         <td>聯總南</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="A" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="A" >}}
         </td>
       </tr>
       <tr>

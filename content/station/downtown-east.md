@@ -3,23 +3,23 @@ title: Downtown East Station
 station_code: [W5,C5,D5]
 station_name_en: Downtown East
 station_name_zh: 市中心東
-route_sign: [W,C,D]
+mm_sign: [W,C,D]
 adjacent_stations:
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W4-Mugen
         next: anti-clockwise
     following:
       - station: W6-Downtown Core
         next: clockwise
-  - route_sign: [C]
+  - mm_sign: [C]
     preceding:
       - station: C4-Mirai
         next: anti-clockwise
     following:
       - station: C6-Mount Austin
         next: clockwise
-  - route_sign: [D]
+  - mm_sign: [D]
     preceding:
       - station: D4-Mugen
         towards: UCHQ North

@@ -3,20 +3,20 @@ title: Zero Zero Station
 station_code: [B6,W8]
 station_name_en: Zero Zero
 station_name_zh: 零零
-route_sign: [B,W]
+mm_sign: [B,W]
 adjacent_stations:
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B5-Paradise Falls
         towards: Victory Bay
     following:
       - station: B8-Hell's Gate
         towards: Spawn
-  - route_sign: [B]
+  - mm_sign: [B]
     following:
       - station: B7-City Farm
         towards: City Farm
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W7-Oasis Point
         next: anti-clockwise

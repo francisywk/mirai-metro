@@ -1,7 +1,7 @@
 ---
 title: Red Line
 title_zh: 紅綫
-route_sign: [R]
+mm_sign: [R]
 branch_line: false
 stations:
   - station_code: [R1]
@@ -12,22 +12,22 @@ stations:
     name: Paradise Falls
     name_zh: 仙境瀑布
     transfer: 
-      - route_sign: [B]
+      - mm_sign: [B]
   - station_code: [R3]
     name: Under the Falls
     name_zh: 瀑布下
     transfer: 
-      - route_sign: [W,P]
+      - mm_sign: [W,P]
   - station_code: [R4]
     name: Downtown Core
     name_zh: 市中心
     transfer: 
-      - route_sign: [G,W]
+      - mm_sign: [G,W]
   - station_code: [R5]
     name: Miraiya Cave
     name_zh: 美拉雅洞
     transfer: 
-      - route_sign: [G,P]
+      - mm_sign: [G,P]
   - station_code: [R6]
     name: Portal Hill
     name_zh: 波打山

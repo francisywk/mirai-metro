@@ -3,23 +3,23 @@ title: UCHQ South Station
 station_code: [G9,B3,A2]
 station_name_en: UCHQ South
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>南
-route_sign: [G,B,A]
+mm_sign: [G,B,A]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G8-Bottomvalley
         next: clockwise
     following:
       - station: G10-UCHQ West
         next: anti-clockwise
-  - route_sign: [B]
+  - mm_sign: [B]
     preceding:
       - station: B2-UCHQ North
         towards: Victory Bay
     following:
       - station: B4-Mugen
         towards: Spawn
-  - route_sign: [A]
+  - mm_sign: [A]
     preceding:
       - station: A1-Mirai
         towards: Mirai

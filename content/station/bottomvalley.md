@@ -3,16 +3,16 @@ title: Bottomvalley Station
 station_code: [G8,V2]
 station_name_en: Bottomvalley
 station_name_zh: 山底谷
-route_sign: [G,V]
+mm_sign: [G,V]
 adjacent_stations:
-  - route_sign: [G]
+  - mm_sign: [G]
     preceding:
       - station: G7-Miraiya Cave
         next: clockwise
     following:
       - station: G9-UCHQ South
         next: anti-clockwise
-  - route_sign: [V]
+  - mm_sign: [V]
     preceding:
       - station: V1-Mugen
         towards: Mugen

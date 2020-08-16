@@ -3,9 +3,9 @@ title: Panda Museum Station
 station_code: [P1]
 station_name_en: Panda Museum
 station_name_zh: 熊貓博物館
-route_sign: [P]
+mm_sign: [P]
 adjacent_stations:
-  - route_sign: [P]
+  - mm_sign: [P]
     following:
       - station: P2-Miraiya Cave
         towards: Oasis Point

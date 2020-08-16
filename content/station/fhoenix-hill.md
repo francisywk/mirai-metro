@@ -3,9 +3,9 @@ title: Fhoenix Hill Station
 station_code: [R1]
 station_name_en: Fhoenix Hill
 station_name_zh: 飛利斯山
-route_sign: [R]
+mm_sign: [R]
 adjacent_stations:
-  - route_sign: [R]
+  - mm_sign: [R]
     following:
       - station: R2-Paradise Falls
         towards: Portal Hill

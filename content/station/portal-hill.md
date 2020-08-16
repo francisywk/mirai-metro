@@ -3,9 +3,9 @@ title: Portal Hill Station
 station_code: [R6]
 station_name_en: Portal Hill
 station_name_zh: 波打山
-route_sign: [R]
+mm_sign: [R]
 adjacent_stations:
-  - route_sign: [R]
+  - mm_sign: [R]
     preceding:
       - station: R5-Miraiya Cave
         towards: Fhoenix Hill

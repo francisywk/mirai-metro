@@ -3,16 +3,16 @@ title: Oasis Point Station
 station_code: [W7,P6]
 station_name_en: Oasis Point
 station_name_zh: 綠洲角
-route_sign: [W,P]
+mm_sign: [W,P]
 adjacent_stations:
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W6-Downtown Core
         next: anti-clockwise
     following:
       - station: W8-Zero Zero
         next: clockwise
-  - route_sign: [P]
+  - mm_sign: [P]
     preceding:
       - station: P5-City Farm
         towards: Panda Museum

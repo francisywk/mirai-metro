@@ -3,16 +3,16 @@ title: Miraibridge Station
 station_code: [C2,SX]
 station_name_en: Miraibridge
 station_name_zh: 美拉橋
-route_sign: [C,S]
+mm_sign: [C,S]
 adjacent_stations:
-  - route_sign: [C]
+  - mm_sign: [C]
     preceding:
       - station: 
         towards: 
     following:
       - station: 
         towards: 
-  - route_sign: [S]
+  - mm_sign: [S]
     preceding:
       - station: 
         towards: 

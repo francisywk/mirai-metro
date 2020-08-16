@@ -3,9 +3,9 @@ title: Marine Park Station
 station_code: [V6]
 station_name_en: Marine Park
 station_name_zh: 海洋公園
-route_sign: [V]
+mm_sign: [V]
 adjacent_stations:
-  - route_sign: [V]
+  - mm_sign: [V]
     preceding:
       - station: V5-Logsmead
         towards: Mugen

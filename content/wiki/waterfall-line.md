@@ -8,7 +8,7 @@ keywords: [mirai,miraimetro,route,waterfallline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FDD931;border-bottom: 4px solid #FDD931;padding:2px 0;"
-  - route_sign: [W]
+  - mm_sign: [W]
   - heading: Overview
   - cols_2:
     - title: Native name
@@ -80,8 +80,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Winterland</td>
         <td>冬地</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
-          {{< wiki/route-sign route="C" >}}
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="C" >}}
         </td>
         <td rowspan="6">City Loop</td>
       </tr>
@@ -92,7 +92,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Uptown Cross</td>
         <td>上環十字</td>
         <td>
-          {{< wiki/route-sign route="G" >}}
+          {{< wiki/mm-sign route="G" >}}
         </td>
       </tr>
       <tr>
@@ -102,8 +102,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Under the Falls</td>
         <td>瀑布下</td>
         <td>
-          {{< wiki/route-sign route="R" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="R" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
       </tr>
       <tr>
@@ -113,10 +113,10 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Mugen</td>
         <td>無限</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
-          {{< wiki/route-sign route="V" >}}
-          {{< wiki/route-sign route="D" >}}
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="B" >}}
+          {{< wiki/mm-sign route="V" >}}
+          {{< wiki/mm-sign route="D" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
       </tr>
       <tr>
@@ -126,8 +126,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Downtown East</td>
         <td>市中心東</td>
         <td>
-          {{< wiki/route-sign route="C" >}}
-          {{< wiki/route-sign route="D" >}}
+          {{< wiki/mm-sign route="C" >}}
+          {{< wiki/mm-sign route="D" >}}
         </td>
       </tr>
       <tr>
@@ -137,8 +137,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Downtown Core</td>
         <td>市中心</td>
         <td>
-          {{< wiki/route-sign route="R" >}}
-          {{< wiki/route-sign route="G" >}}
+          {{< wiki/mm-sign route="R" >}}
+          {{< wiki/mm-sign route="G" >}}
         </td>
       </tr>
       <tr>
@@ -148,7 +148,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Oasis Point</td>
         <td>綠洲角</td>
         <td>
-          {{< wiki/route-sign route="P" >}}
+          {{< wiki/mm-sign route="P" >}}
         </td>
         <td rowspan="3">Big Snow</td>
       </tr>
@@ -159,7 +159,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>Zero Zero</td>
         <td>零零</td>
         <td>
-          {{< wiki/route-sign route="B" >}}
+          {{< wiki/mm-sign route="B" >}}
         </td>
       </tr>
       <tr>

@@ -1,5 +1,5 @@
 {{ with .context }}
-  {{ with .route_sign }}
+  {{ with .mm_sign }}
     {{ range . }}
       {{ if eq . "R" }}
         <div class="route-sign-sm redline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="{{ with $.data_placement }}{{ . }}{{ else }}bottom{{ end }}" title="Red Line 紅綫"{{ end }}>R</div>

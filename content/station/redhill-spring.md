@@ -3,9 +3,9 @@ title: Redhill Spring Station
 station_code: [V3]
 station_name_en: Redhill Spring
 station_name_zh: 紅山泉
-route_sign: [V]
+mm_sign: [V]
 adjacent_stations:
-  - route_sign: [V]
+  - mm_sign: [V]
     preceding:
       - station: V2-Bottomvalley
         towards: Mugen

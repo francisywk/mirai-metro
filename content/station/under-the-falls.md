@@ -3,23 +3,23 @@ title: Under the Falls Station
 station_code: [R3,W3,P4]
 station_name_en: Under the Falls
 station_name_zh: 瀑布下
-route_sign: [R,W,P]
+mm_sign: [R,W,P]
 adjacent_stations:
-  - route_sign: [R]
+  - mm_sign: [R]
     preceding:
       - station: R2-Paradise Falls
         towards: Fhoenix Hill
     following:
       - station: R4-Downtown Core
         towards: Portal Hill
-  - route_sign: [W]
+  - mm_sign: [W]
     preceding:
       - station: W2-Uptown Cross
         next: anti-clockwise
     following:
       - station: W4-Mugen
         next: clockwise
-  - route_sign: [P]
+  - mm_sign: [P]
     preceding:
       - station: P3-Mugen
         towards: Panda Museum

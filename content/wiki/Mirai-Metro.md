@@ -106,17 +106,17 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
   <table class="table table-bordered table-700 text-center">
     <thead class="thead-light">
       <tr>
-        <th colspan="3">Line</th>
-        <th colspan="2">Termini</th>
-        <th>Commencement</th>
-        <th>Stations</th>
-        <th>Length (km)</th>
-        <th>Conduction system</th>
+        <th colspan="3" class="align-middle">Line</th>
+        <th colspan="2" class="align-middle">Termini</th>
+        <th class="align-middle">Commencement</th>
+        <th class="align-middle">Stations</th>
+        <th class="align-middle">Length (km)</th>
+        <th class="align-middle">Conduction system</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>{{< wiki/route-sign route="R" >}}</td>
+        <td>{{< wiki/mm-sign route="R" >}}</td>
         <td><a href="/wiki/red-line" title="Red Line">Red Line</a></td>
         <td>紅綫</td>
         <td>
@@ -131,7 +131,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td rowspan="8">Manual control</td>
       </tr>
       <tr>
-        <td>{{< wiki/route-sign route="G" >}}</td>
+        <td>{{< wiki/mm-sign route="G" >}}</td>
         <td><a href="/wiki/green-line" title="Green Line">Green Line</a></td>
         <td>綠綫</td>
         <td colspan="2">
@@ -143,7 +143,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>1.156</td>
       </tr>
       <tr>
-        <td>{{< wiki/route-sign route="B" >}}</td>
+        <td>{{< wiki/mm-sign route="B" >}}</td>
         <td><a href="/wiki/blue-line" title="Blue Line">Blue Line</a></td>
         <td>藍綫</td>
         <td>
@@ -157,7 +157,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>1.669</td>
       </tr>
       <tr>
-        <td rowspan="2">{{< wiki/route-sign route="Ac" >}}</td>
+        <td rowspan="2">{{< wiki/mm-sign route="Ac" >}}</td>
         <td rowspan="2"><a href="/wiki/airport-line" title="Airport Line">Airport Line</a></td>
         <td rowspan="2">空港綫</td>
         <td rowspan="2">
@@ -180,7 +180,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         </td>
       </tr>
       <tr>
-        <td>{{< wiki/route-sign route="V" >}}</td>
+        <td>{{< wiki/mm-sign route="V" >}}</td>
         <td><a href="/wiki/victory-line" title="Victory Line">Victory Line</a></td>
         <td>勝利綫</td>
         <td>
@@ -194,7 +194,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>1.342</td>
       </tr>
       <tr>
-        <td>{{< wiki/route-sign route="W" >}}</td>
+        <td>{{< wiki/mm-sign route="W" >}}</td>
         <td><a href="/wiki/waterfall-line" title="Waterfall Line">Waterfall Line</a></td>
         <td>瀑布綫</td>
         <td colspan="2" rowspan="2">
@@ -206,7 +206,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>1.314</td>
       </tr>
       <tr>
-        <td>{{< wiki/route-sign route="C" >}}</td>
+        <td>{{< wiki/mm-sign route="C" >}}</td>
         <td><a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a></td>
         <td>三環綫</td>
         <td>31 August 2018</td>
@@ -214,7 +214,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>0.856</td>
       </tr>
       <tr>
-        <td>{{< wiki/route-sign route="D" >}}</td>
+        <td>{{< wiki/mm-sign route="D" >}}</td>
         <td><a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a></td>
         <td>鑽石綫</td>
         <td>
@@ -229,7 +229,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td rowspan="2">Automated</td>
       </tr>
       <tr>
-        <td>{{< wiki/route-sign route="P" >}}</td>
+        <td>{{< wiki/mm-sign route="P" >}}</td>
         <td><a href="/wiki/panda-express" title="Panda Express">Panda Express</a></td>
         <td>熊貓快綫</td>
         <td>
@@ -285,6 +285,22 @@ Other interchange stations connecting two Mirai Metro lines are:
 Rolling stocks on the Mirai Metro are custom single unit minecart called CommandCart, using activated powered rails for propulsion. The Cart Corporation CommandCart (CCC) is the second and newest series of rolling stock used on the Mirai Metro network. Each CommandCart features the name and colour of the metro line it serves.
 
 The following table lists the rolling stock of the network:
+
+<br>
+
+#### Operation
+
+---
+
+##### Fare
+
+Fare-free
+
+<br>
+
+##### Hours of operation
+
+24 hours
 
 <br>
 
