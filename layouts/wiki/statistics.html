@@ -43,7 +43,7 @@
       </td>
     </tr>
     <tr>
-      <td>Average words per page</td>
+      <td>Average words per content page</td>
       <td class="text-right">
         {{ range where .Site.RegularPages "Section" "==" "wiki" }}
           {{ $.Scratch.Add "count" .WordCount }}

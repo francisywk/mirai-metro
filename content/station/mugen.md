@@ -37,8 +37,8 @@ adjacent_stations:
     following:
       - station: P4-Under the Falls
         towards: Oasis Point
-alternate_station_name_en: Mirai Tower
-alternate_station_name_zh: 美拉大廈
+alternate_station_name_en: Skyscraper Square
+alternate_station_name_zh: 摩天廣場
 location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png),url(/img/bg/waterfallline.png),url(/img/bg/diamondline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px,100% 10px;background-position:0 70px,right 100px,0 130px,0 160px,0 190px}

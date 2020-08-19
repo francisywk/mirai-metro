@@ -41,7 +41,7 @@ quick_facts:
   - heading: Construction
   - cols_2:
     - title: Structure type
-      content: "Elevated (D)<br>Underground (A, C, G)"
+      content: "Elevated (D)<br>Underground (G, A, C)"
   - heading: Other information
   - cols_2:
     - title: Website
@@ -54,7 +54,7 @@ quick_facts:
 
 **Mirai** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai*), alternate station name **Mirai Central**, is a station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is a major transit and [terminus](https://en.wikipedia.org/wiki/Train_station#Terminus "Terminal station") station of the [Airport Line](/wiki/airport-line "Airport Line") and [Green Line](/wiki/green-line "Green Line"). Located between the divisions of Berryhills and Mugen, the station is sandwiched between the [Mirai Tower](/wiki/mirai-tower "Mirai Tower") and [One Union Trade Centre](/wiki/union-trade-centre "Union Trade Centre") (UTC), the tallest and second tallest building in the The Grid. The station was opened in 2016.
 
-The station is connected to Mugen station by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
+The station is connected to [Mugen](/wiki/mugen-station "Mugen Station") station by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
 
 <br>
 
@@ -66,7 +66,7 @@ The station is connected to Mugen station by underground pedestrian walkway. The
 
 ---
 
-Mirai station is served by Mirai Metro with the following lines:
+Mirai station is served by the following lines of Mirai Metro:
 
 - [Green Line](/wiki/green-line "Green Line")
 - [Airport Line](/wiki/airport-line "Airport Line")
@@ -83,21 +83,26 @@ Mirai station is served by Mirai Metro with the following lines:
   <thead class="thead-light">
     <tr>
       <th class="w-35">Preceding station</th>
-      <th colspan="3">Mirai Metro</th>
+      <th colspan="3">Route</th>
       <th class="w-35">Following station</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="/wiki/uchq-west-station" title="UCHQ West Station">UCHQ West</a>
+        {{< wiki/link station="UCHQ West" >}}
         <p class="small font-italic mb-0">Next clockwise</p>
       </td>
       <td class="greenline"></td>
-      <td class="w-30"><a href="/wiki/green-line" title="Green Line">Green Line</a></td>
+      <td class="w-30">
+        <div class="mb-05">
+          {{< wiki/mm-sign route="G" >}}
+        </div>
+        {{< wiki/link route="G" >}}
+      </td>
       <td class="greenline"></td>
       <td>
-        <a href="/wiki/uptown-cross-station" title="Uptown Cross Station">Uptown Cross</a>
+        {{< wiki/link station="Uptown Cross" >}}
         <p class="small font-italic mb-0">Next anti-clockwise</p>
       </td>
     </tr>
@@ -105,53 +110,65 @@ Mirai station is served by Mirai Metro with the following lines:
       <td rowspan="2" class="font-italic">Terminus</td>
       <td class="airportexpress"></td>
       <td>
-        <a href="/wiki/airport-line" title="Airport Line">Airport Line</a><br>(Express)
+        <div class="mb-05">
+          {{< wiki/mm-sign route="Ax" >}}
+        </div>
+        {{< wiki/link route="A" >}}<br>(Express)
       </td>
       <td class="airportexpress"></td>
       <td>
-        <a href="/wiki/mirai-city-airport-station" title="Mirai City Airport Station">Mirai City Airport</a>
-        <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
+        {{< wiki/link station="Mirai City Airport" >}}
+        <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
       </td>
     </tr>
     <tr>
       <td class="airportline"></td>
       <td>
-        <a href="/wiki/airport-line" title="Airport Line">Airport Line</a><br>(Commuter)
+        <div class="mb-05">
+          {{< wiki/mm-sign route="A" >}}
+        </div>
+        {{< wiki/link route="A" >}}<br>(Commuter)
       </td>
       <td class="airportline"></td>
       <td>
-        <a href="/wiki/uchq-south-station" title="UCHQ South Station">UCHQ South</a>
-        <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
+        {{< wiki/link station="UCHQ South" >}}
+        <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="/wiki/berryhills-station" title"Berryhills Station">Berryhills</a>
+        {{< wiki/link station="Berryhills" >}}
         <p class="small font-italic mb-0">Next anti-clockwise</p>
       </td>
       <td class="cityloopline"></td>
       <td>
-        <a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a>
+        <div class="mb-05">
+          {{< wiki/mm-sign route="C" >}}
+        </div>
+        {{< wiki/link route="C" >}}
       </td>
       <td class="cityloopline"></td>
       <td>
-        <a href="/wiki/downtown-east-station" title="Downtown East Station">Downtown East</a>
+        {{< wiki/link station="Downtown East" >}}
         <p class="small font-italic mb-0">Next clockwise</p>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="/wiki/berryhills-station" title"Berryhills Station">Berryhills</a>
-        <p class="small font-italic mb-0">towards <a href="/wiki/uchq-north-station" title="UCHQ North Station">UCHQ North</a></p>
+        {{< wiki/link station="Berryhills" >}}
+        <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
       </td>
       <td class="diamondline"></td>
       <td>
-        <a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a>
+        <div class="mb-05">
+          {{< wiki/mm-sign route="D" >}}
+        </div>
+        {{< wiki/link route="D" >}}
       </td>
       <td class="diamondline"></td>
       <td>
-        <a href="/wiki/mugen-station" title="Mugen Station">Mugen</a>
-        <p class="small font-italic mb-0">towards <a href="/wiki/diamond-hill-station" title="Diamond Hill Station">Diamond Hill</a></p>
+        {{< wiki/link station="Mugen" >}}
+        <p class="small font-italic mb-0">towards {{< wiki/link station="Diamond Hill" >}}</p>
       </td>
     </tr>
   </tbody>

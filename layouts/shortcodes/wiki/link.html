@@ -1,0 +1,26 @@
+{{ with .Get "route" }}
+  {{ if eq . "R" }}
+    <a href="/wiki/red-line" title="Red Line (Mirai Metro)">Red Line</a>
+  {{ else if eq . "G" }}
+    <a href="/wiki/green-line" title="Green Line (Mirai Metro)">Green Line</a>
+  {{ else if eq . "B" }}
+    <a href="/wiki/blue-line" title="Blue Line (Mirai Metro)">Blue Line</a>
+  {{ else if eq . "A" }}
+    <a href="/wiki/airport-line" title="Airport Line (Mirai Metro)">Airport Line</a>
+  {{ else if eq . "V" }}
+    <a href="/wiki/victory-line" title="Victory Line">Victory Line</a>
+  {{ else if eq . "W" }}
+    <a href="/wiki/waterfall-line" title="Waterfall Line">Waterfall Line</a>
+  {{ else if eq . "C" }}
+    <a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a>
+  {{ else if eq . "D" }}
+    <a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a>
+  {{ else if eq . "P" }}
+    <a href="/wiki/panda-express" title="Panda Express">Panda Express</a>
+  {{ else if eq . "S" }}
+    <a href="/wiki/big-snow-line" title="Big Snow Line">Big Snow Line</a>
+  {{ end }}
+{{ end }}
+{{ with .Get "station" }}
+  <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} Station">{{ . }}</a>
+{{ end }}
