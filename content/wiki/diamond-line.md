@@ -100,12 +100,12 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
   <table class="table table-sm table-bordered table-700 text-center">
     <thead class="thead-light">
       <tr>
-        <th rowspan="2" class="align-middle">Code</th>
+        <th rowspan="2">Code</th>
         <th colspan="2">Station Name</th>
-        <th rowspan="2" class="align-middle">Transfer</th>
-        <th rowspan="2" class="align-middle">Opened</th>
-        <th rowspan="2" class="align-middle">Type</th>
-        <th rowspan="2" class="align-middle">Location</th>
+        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Opened</th>
+        <th rowspan="2">Type</th>
+        <th rowspan="2">Location</th>
       </tr>
       <tr>
         <th>English</th>
@@ -117,7 +117,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D1</span>
         </td>
-        <td>UCHQ North</td>
+        <td>{{< wiki/link station="UCHQ North" >}}</td>
         <td>聯總北</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -131,7 +131,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D2</span>
         </td>
-        <td>Berryhills</td>
+        <td>{{< wiki/link station="Berryhills" >}}</td>
         <td>啤梨山</td>
         <td>
           {{< wiki/mm-sign route="C" >}}
@@ -143,7 +143,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D3</span>
         </td>
-        <td>Mirai</td>
+        <td>{{< wiki/link station="Mirai" >}}</td>
         <td>美拉</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -155,7 +155,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D4</span>
         </td>
-        <td>Mugen</td>
+        <td>{{< wiki/link station="Mugen" >}}</td>
         <td>無限</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -168,7 +168,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D5</span>
         </td>
-        <td>Downtown East</td>
+        <td>{{< wiki/link station="Downtown East" >}}</td>
         <td>市中心東</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
@@ -179,7 +179,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D6</span>
         </td>
-        <td>Diamond Hill</td>
+        <td>{{< wiki/link station="Diamond Hill" >}}</td>
         <td>鑽石山</td>
         <td></td>
         <td>1 May 2019</td>

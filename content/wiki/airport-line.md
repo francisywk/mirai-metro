@@ -67,10 +67,10 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
     <thead class="thead-light">
       <tr>
         <th colspan="2">Service</th>
-        <th rowspan="2" class="align-middle">Code</th>
+        <th rowspan="2">Code</th>
         <th colspan="2">Station Name</th>
-        <th rowspan="2" class="align-middle">Transfer</th>
-        <th rowspan="2" class="align-middle">Location</th>
+        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Location</th>
       </tr>
       <tr>
         <th>
@@ -90,7 +90,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-ac rounded-circle">A1</span>
         </td>
-        <td>Mirai</td>
+        <td>{{< wiki/link station="Mirai" >}}</td>
         <td>美拉</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -105,7 +105,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-al rounded-circle">A2</span>
         </td>
-        <td>UCHQ South</td>
+        <td>{{< wiki/link station="UCHQ South" >}}</td>
         <td>聯總南</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -119,7 +119,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-al rounded-circle">A3</span>
         </td>
-        <td>UCHQ East</td>
+        <td>{{< wiki/link station="UCHQ East" >}}</td>
         <td>聯總東</td>
         <td></td>
       </tr>
@@ -129,7 +129,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-ac rounded-circle">A4</span>
         </td>
-        <td>Mirai City Airport</td>
+        <td>{{< wiki/link station="Mirai City Airport" >}}</td>
         <td>美拉城市空港</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
@@ -141,7 +141,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-ac rounded-circle">A5</span>
         </td>
-        <td>UCHQ North</td>
+        <td>{{< wiki/link station="UCHQ North" >}}</td>
         <td>聯總北</td>
         <td>
           {{< wiki/mm-sign route="B" >}}

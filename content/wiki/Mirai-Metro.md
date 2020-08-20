@@ -106,12 +106,12 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
   <table class="table table-bordered table-700 text-center">
     <thead class="thead-light">
       <tr>
-        <th colspan="3" class="align-middle">Line</th>
-        <th colspan="2" class="align-middle">Termini</th>
-        <th class="align-middle">Commencement</th>
-        <th class="align-middle">Stations</th>
-        <th class="align-middle">Length (km)</th>
-        <th class="align-middle">Conduction system</th>
+        <th colspan="3">Line</th>
+        <th colspan="2">Termini</th>
+        <th>Commencement</th>
+        <th>Stations</th>
+        <th>Length (km)</th>
+        <th>Conduction system</th>
       </tr>
     </thead>
     <tbody>

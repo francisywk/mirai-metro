@@ -74,10 +74,10 @@ The following is a list of the stations on the Blue Line.
   <table class="table table-sm table-bordered table-700 text-center">
     <thead class="thead-light">
       <tr>
-        <th rowspan="2" class="align-middle">Code</th>
+        <th rowspan="2">Code</th>
         <th colspan="2">Station Name</th>
-        <th rowspan="2" class="align-middle">Transfer</th>
-        <th rowspan="2" class="align-middle">Location</th>
+        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Location</th>
       </tr>
       <tr>
         <th>English</th>
@@ -89,7 +89,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B1</span>
         </td>
-        <td>Victory Bay</td>
+        <td>{{< wiki/link station="Victory Bay" >}}</td>
         <td>勝利灣</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
@@ -100,7 +100,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B2</span>
         </td>
-        <td>UCHQ North</td>
+        <td>{{< wiki/link station="UCHQ North" >}}</td>
         <td>聯總北</td>
         <td>
           {{< wiki/mm-sign route="Ac" >}}
@@ -112,7 +112,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B3</span>
         </td>
-        <td>UCHQ South</td>
+        <td>{{< wiki/link station="UCHQ South" >}}</td>
         <td>聯總南</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -123,7 +123,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B4</span>
         </td>
-        <td>Mugen</td>
+        <td>{{< wiki/link station="Mugen" >}}</td>
         <td>無限</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
@@ -137,7 +137,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B5</span>
         </td>
-        <td>Paradise Falls</td>
+        <td>{{< wiki/link station="Paradise Falls" >}}</td>
         <td>仙境瀑布</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
@@ -147,7 +147,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B6</span>
         </td>
-        <td>Zero Zero</td>
+        <td>{{< wiki/link station="Zero Zero" >}}</td>
         <td>零零</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
@@ -158,7 +158,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B8</span>
         </td>
-        <td>Hell's Gate</td>
+        <td>{{< wiki/link station="Hell's Gate" >}}</td>
         <td>地獄門</td>
         <td></td>
         <td>Dark Forest</td>
@@ -167,21 +167,21 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B9</span>
         </td>
-        <td>Spawn</td>
+        <td>{{< wiki/link station="Spawn" >}}</td>
         <td>生成</td>
         <td></td>
         <td>Spawn Chunk</td>
       </tr>
       <tr>
         <td colspan="5" class="bg-light font-weight-bold">
-          Branch line from Zero Zero
+          Branch line from {{< wiki/link station="Zero Zero" >}} station
         </td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B7</span>
         </td>
-        <td>City Farm</td>
+        <td>{{< wiki/link station="City Farm" >}}</td>
         <td>城市農場</td>
         <td>
           {{< wiki/mm-sign route="G" >}}

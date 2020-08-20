@@ -347,6 +347,7 @@ body {
   color: #44617F;
 }
 
+.table>thead>tr>th,
 .table>tbody>tr>td {
   vertical-align: middle;
 }
@@ -361,7 +362,7 @@ body {
   position: relative;
   text-align: center;
   border-radius: 5px;
-  padding: 2px 13.3px 2px 12.3px;
+  padding: 2px 13px 2px 13px;
   font-size: 1.5rem;
   font-weight: 700;
   font-family: 'Source Code Pro', monospace !important;
@@ -715,7 +716,7 @@ ul {
 }
 
 .table-600 {
-  width: 600px;
+  min-width: 600px;
 }
 
 .table-700 {

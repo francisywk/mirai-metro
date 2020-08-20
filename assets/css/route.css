@@ -1,17 +1,17 @@
 #route-info-lg .nav-link {
   border: none!important;
-  border-top: 5px solid #ffffff!important;
+  /* border-top: 5px solid #ffffff!important; */
   border-radius: 0;
 }
 
 #route-info-lg .nav-link:hover {
-  border-top: 5px solid #E2E6EA!important;
+  /* border-top: 5px solid #E2E6EA!important; */
   background-color: #E2E6EA;
 }
 
 #route-info-lg .nav-link.active {
   background-color: #E2E6EA;
-  border-top: 5px solid #37AACF!important;
+  /* border-top: 5px solid #37AACF!important; */
 }
 
 #routeList {

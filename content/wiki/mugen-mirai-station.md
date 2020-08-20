@@ -1,13 +1,15 @@
 ---
-title: "Mugen Mirai Station"
-description: 
+title: "Mugen Mirai station"
+linktitle: Mugen Mirai
+title_zh: 無限美拉
+description: MRR railway station
 date: 2020-07-28T05:00:36+08:00
 draft: false
 category: others
 notice:
 see_also: false
 quick_facts:
-draft: true
+  - title: sdf
 ---
 
-**Mugen Mirai** is a mega railway station in City Loop, City of Mirai.
+**Mugen Mirai** is a MRR railway station in City Loop, City of Mirai.

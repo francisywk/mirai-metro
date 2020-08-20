@@ -54,10 +54,10 @@ The following is a list of planned stations of the Big Snow Line that have not b
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
     <tr class="thead-light">
-      <th rowspan="2" class="align-middle">Code</th>
+      <th rowspan="2">Code</th>
       <th colspan="2">Station Name</th>
-      <th rowspan="2" class="align-middle">Transfer</th>
-      <th rowspan="2" class="align-middle">Location</th>
+      <th rowspan="2">Transfer</th>
+      <th rowspan="2">Location</th>
     </tr>
     <tr class="thead-light">
       <th>English</th>

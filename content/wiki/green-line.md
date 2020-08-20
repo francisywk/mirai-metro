@@ -60,10 +60,10 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
   <table class="table table-sm table-bordered table-700 text-center">
     <thead class="thead-light">
       <tr>
-        <th rowspan="2" class="align-middle">Code</th>
+        <th rowspan="2">Code</th>
         <th colspan="2">Station Name</th>
-        <th rowspan="2" class="align-middle">Transfer</th>
-        <th rowspan="2" class="align-middle">Location</th>
+        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Location</th>
       </tr>
       <tr>
         <th>English</th>
