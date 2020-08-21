@@ -1,5 +1,5 @@
 ---
-title: Berryhills Station
+title: Berryhills station
 station_code: [C3,D2]
 station_name_en: Berryhills
 station_name_zh: 啤梨山

@@ -20,7 +20,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Mugen](/wiki/mugen-station 'Mugen Station')<br>[Moon Lake](/wiki/moon-lake-station 'Moon Lake Station')"
+      content: "[Mugen](/wiki/mugen-station 'Mugen station')<br>[Moon Lake](/wiki/moon-lake-station 'Moon Lake station')"
     - title: Stations
       content: 9
   - heading: Operation
@@ -108,7 +108,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
           <span class="station-code station-code-sm station-code-vl rounded-circle">V4</span>
         </td>
         <td>Mirai City Airport</td>
-        <td>美拉城市空港</td>
+        <td>美來城市空港</td>
         <td>
           {{< wiki/mm-sign route="Ac" >}}
         </td>

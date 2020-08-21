@@ -1,5 +1,5 @@
 ---
-title: Logsmead Station
+title: Logsmead station
 station_code: [V5]
 station_name_en: Logsmead
 station_name_zh: 樂米町

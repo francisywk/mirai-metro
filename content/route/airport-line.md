@@ -7,7 +7,7 @@ stations:
   - station_code: [Acomu1]
     station_code_2: [Aex1]
     name: Mirai
-    name_zh: 美拉
+    name_zh: 美來
     transfer:
       - mm_sign: [G,C,D]
     first_station: true
@@ -24,7 +24,7 @@ stations:
   - station_code: [Acomu4]
     station_code_2: [Aex4]
     name: Mirai City Airport
-    name_zh: 美拉城市空港
+    name_zh: 美來城市空港
     transfer:
       - mm_sign: [V]
   - station_code: [Acomu5]

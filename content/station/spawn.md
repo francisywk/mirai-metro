@@ -1,5 +1,5 @@
 ---
-title: Spawn Station
+title: Spawn station
 station_code: [B9]
 station_name_en: Spawn
 station_name_zh: 生成

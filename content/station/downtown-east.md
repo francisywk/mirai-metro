@@ -1,5 +1,5 @@
 ---
-title: Downtown East Station
+title: Downtown East station
 station_code: [W5,C5,D5]
 station_name_en: Downtown East
 station_name_zh: 市中心東

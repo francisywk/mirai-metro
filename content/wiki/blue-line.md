@@ -21,7 +21,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Victory Bay](/wiki/victory-bay-station 'Victory Bay Station')<br>[Spawn](/wiki/spawn-station 'Spawn Station')"
+      content: "[Victory Bay](/wiki/victory-bay-station 'Victory Bay station')<br>[Spawn](/wiki/spawn-station 'Spawn station')"
     - title: Stations
       content: 9
   - heading: Operation

@@ -21,7 +21,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Mirai](/wiki/mirai-station 'Mirai Station') (loop)"
+      content: "[Mirai](/wiki/mirai-station 'Mirai station') (loop)"
     - title: Stations
       content: 10
   - heading: Operation
@@ -78,8 +78,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G1</span>
         </td>
-        <td>Mirai</td>
-        <td>美拉</td>
+        <td>{{< wiki/link station="Mirai" >}}</td>
+        <td>美來</td>
         <td>
           {{< wiki/mm-sign route="Ac" >}}
           {{< wiki/mm-sign route="C" >}}
@@ -91,7 +91,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G2</span>
         </td>
-        <td>Uptown Cross</td>
+        <td>{{< wiki/link station="Uptown Cross" >}}</td>
         <td>上環十字</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
@@ -101,7 +101,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G3</span>
         </td>
-        <td>Winterland</td>
+        <td>{{< wiki/link station="Winterland" >}}</td>
         <td>冬地</td>
         <td>
           {{< wiki/mm-sign route="C" >}}
@@ -112,7 +112,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G4</span>
         </td>
-        <td>City Farm</td>
+        <td>{{< wiki/link station="City Farm" >}}</td>
         <td>城市農場</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -123,7 +123,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G5</span>
         </td>
-        <td>Mount Austin</td>
+        <td>{{< wiki/link station="Mount Austin" >}}</td>
         <td>柯士甸山</td>
         <td>
           {{< wiki/mm-sign route="C" >}}
@@ -133,7 +133,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G6</span>
         </td>
-        <td>Downtown Core</td>
+        <td>{{< wiki/link station="Downtown Core" >}}</td>
         <td>市中心</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
@@ -144,8 +144,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G7</span>
         </td>
-        <td>Miraiya Cave</td>
-        <td>美拉雅洞</td>
+        <td>{{< wiki/link station="Miraiya Cave" >}}</td>
+        <td>美來雅洞</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -156,7 +156,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G8</span>
         </td>
-        <td>Bottomvalley</td>
+        <td>{{< wiki/link station="Bottomvalley" >}}</td>
         <td>山底谷</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
@@ -167,7 +167,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G9</span>
         </td>
-        <td>UCHQ South</td>
+        <td>{{< wiki/link station="UCHQ South" >}}</td>
         <td>聯總南</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -178,7 +178,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm-dd station-code-gl rounded-circle">G10</span>
         </td>
-        <td>UCHQ West</td>
+        <td>{{< wiki/link station="UCHQ West" >}}</td>
         <td>聯總西</td>
         <td></td>
       </tr>

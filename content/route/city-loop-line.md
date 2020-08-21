@@ -16,7 +16,7 @@ stations:
       - mm_sign: [D]
   - station_code: [C4]
     name: Mirai
-    name_zh: 美拉
+    name_zh: 美來
     transfer:
       - mm_sign: [G,Ac,D]
   - station_code: [C5]

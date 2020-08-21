@@ -20,7 +20,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Winterland](/wiki/winterland-station 'Winterland Station') (loop line)"
+      content: "[Winterland](/wiki/winterland-station 'Winterland station') (loop line)"
     - title: Stations
       content: 9
   - heading: Operation

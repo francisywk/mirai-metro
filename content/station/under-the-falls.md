@@ -1,5 +1,5 @@
 ---
-title: Under the Falls Station
+title: Under the Falls station
 station_code: [R3,W3,P4]
 station_name_en: Under the Falls
 station_name_zh: 瀑布下
@@ -11,7 +11,7 @@ adjacent_stations:
         towards: Fhoenix Hill
     following:
       - station: R4-Downtown Core
-        towards: Portal Hill
+        towards: Highlands
   - mm_sign: [W]
     preceding:
       - station: W2-Uptown Cross

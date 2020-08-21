@@ -1,5 +1,5 @@
 ---
-title: Broadbeach Station
+title: Broadbeach station
 station_code: [V7]
 station_name_en: Broadbeach
 station_name_zh: 廣灘

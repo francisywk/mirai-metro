@@ -20,13 +20,13 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[UCHQ North](/wiki/uchq-north-station 'UCHQ North Station')<br>[Diamond Hill](/wiki/diamond-hill-station 'Diamond Hill Station')"
+      content: "[UCHQ North](/wiki/uchq-north-station 'UCHQ North station')<br>[Diamond Hill](/wiki/diamond-hill-station 'Diamond Hill station')"
     - title: Stations
       content: 6
   - heading: Operation
   - cols_2:
     - title: Opened
-      content: 8 March 2017 (SkyCart Line)
+      content: 8 March 2017<br>(Mirai SkyCart)
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
@@ -45,9 +45,9 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Diamond Line** (Code **D**), previously known as the SkyCart Line, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") servicing Mirai, United Cities. It is the fourth rail transit line and the first [fully automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") rail system in the United Cities. The line is coloured **<span class="text-dl">Light Blue</span>** on the official network map.
+The **Diamond Line** (Code **D**), previously known as the Mirai SkyCart, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") servicing Mirai, United Cities. It is the fourth rail transit line and the first [fully automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") rail system in the United Cities. The line is coloured **<span class="text-dl">Light Blue</span>** on the official network map.
 
-Prior to the extension to Diamond Hill, the Diamond Line was entirely elevated and was the only line in the system that did so.
+Prior to the extension to {{< wiki/link station="Diamond Hill" >}} station, the line was entirely elevated and was the only one in the system that did so.
 
 <br>
 
@@ -59,11 +59,11 @@ Prior to the extension to Diamond Hill, the Diamond Line was entirely elevated a
 
 ---
 
-##### SkyCart Line
+##### Mirai SkyCart
 
-The Diamond Line was previously called the SkyCart Line. Owned and operated by the SkyCart Company, the line was opened on 8 March 2017, making it the fourth railway transit line entered service in the United Cities. The line was not a part of the then [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") system, it was operated as an independent and separated network instead.
+The Diamond Line was previously called the Mirai SkyCart. Owned and operated by the Mirai SkyCart Company, the system was opened on 8 March 2017, making it the second system and the fourth railway transit line to enter service in the United Cities. The system was not a part of the then [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") system, it was operated as an independent and separated network instead.
 
-The initial route features 4 stations spanned from Berryhills to Downtown East.
+The initial route features 4 stations spanned from {{< wiki/link station="Berryhills" >}} to {{< wiki/link station="Downtown East" >}}.
 
 <br>
 
@@ -71,9 +71,15 @@ The initial route features 4 stations spanned from Berryhills to Downtown East.
 
 <br>
 
-##### Line extension and conversion to automatic operation
+##### Line extension
 
-In 2019, Diamond Line was extended northward to UCHQ North and southward to Diamond Hill, and was opened on 1 April 2019 and 1 May 2019 respectively. As part of the extension project, the line was also converted to [fully automated](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") operation. The automation system deployed is a custom [command](https://minecraft.gamepedia.com/Commands "Commands") system inspired and modified from FlashTeens [Minecart Railway Builder Tool](https://github.com/flashteens/FTMCRailBuilder13) datapack.
+In 2019, Diamond Line was extended northward to {{< wiki/link station="UCHQ North" >}} and southward to {{< wiki/link station="Diamond Hill" >}}, and was opened on 1 April 2019 and 1 May 2019 respectively. 
+
+<br>
+
+##### Conversion to automatic operation
+
+As part of the extension project, the line was also converted to [fully automated](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") operation. The automation system deployed is a custom [command](https://minecraft.gamepedia.com/Commands "Commands") system inspired and modified from FlashTeens [Minecart Railway Builder Tool](https://github.com/flashteens/FTMCRailBuilder13) datapack.
 
 With the use of [Command Block](https://minecraft.gamepedia.com/Command_Block "Command Block"), riders can choose the desired heading direction before taking the train, and the [minecart](https://minecraft.gamepedia.com/Minecart "Minecart") will be launched automatically heading the selected direction (either north, south, east, or west).
 
@@ -83,7 +89,7 @@ With the use of [Command Block](https://minecraft.gamepedia.com/Command_Block "C
 
 ---
 
-Each station of the Diamond Line with the exception of Mirai and Diamond Hill station features a unique theme.
+Each station of the Diamond Line with the exception of Mirai and Diamond Hill stations features a unique theme.
 
 - UCHQ North ([Savanna](https://minecraft.gamepedia.com/Savanna "Savanna"))
 - Berryhills ([Ocean Monument](https://minecraft.gamepedia.com/Ocean_Monument "Ocean Monument"))
@@ -144,7 +150,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
           <span class="station-code station-code-sm station-code-dl rounded-circle">D3</span>
         </td>
         <td>{{< wiki/link station="Mirai" >}}</td>
-        <td>美拉</td>
+        <td>美來</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="Ac" >}}

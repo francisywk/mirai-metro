@@ -1,8 +1,8 @@
 ---
-title: Miraibridge Station
+title: Miraibridge station
 station_code: [C2,SX]
 station_name_en: Miraibridge
-station_name_zh: 美拉橋
+station_name_zh: 美來橋
 mm_sign: [C,S]
 adjacent_stations:
   - mm_sign: [C]

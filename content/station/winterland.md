@@ -1,5 +1,5 @@
 ---
-title: Winterland Station
+title: Winterland station
 station_code: [G3,W1,C1]
 station_name_en: Winterland
 station_name_zh: 冬地

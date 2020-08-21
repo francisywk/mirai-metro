@@ -1,5 +1,5 @@
 ---
-title: Mount Austin Station
+title: Mount Austin station
 station_code: [G5,C6]
 station_name_en: Mount Austin
 station_name_zh: 柯士甸山

@@ -1,5 +1,5 @@
 ---
-title: Uptown Cross Station
+title: Uptown Cross station
 station_code: [G2,W2]
 station_name_en: Uptown Cross
 station_name_zh: 上環十字

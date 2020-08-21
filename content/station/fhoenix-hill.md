@@ -1,5 +1,5 @@
 ---
-title: Fhoenix Hill Station
+title: Fhoenix Hill station
 station_code: [R1]
 station_name_en: Fhoenix Hill
 station_name_zh: 飛利斯山
@@ -8,7 +8,7 @@ adjacent_stations:
   - mm_sign: [R]
     following:
       - station: R2-Paradise Falls
-        towards: Portal Hill
+        towards: Highlands
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: City Loop

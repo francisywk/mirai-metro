@@ -1,8 +1,8 @@
 ---
-title: Miraiya Cave Station
+title: Miraiya Cave station
 station_code: [R5,G7,P2]
 station_name_en: Miraiya Cave
-station_name_zh: 美拉雅洞
+station_name_zh: 美來雅洞
 mm_sign: [R,G,P]
 adjacent_stations:
   - mm_sign: [R]
@@ -10,8 +10,8 @@ adjacent_stations:
       - station: R4-Downtown Core
         towards: Fhoenix Hill
     following:
-      - station: R6-Portal Hill
-        towards: Portal Hill
+      - station: R6-Highlands
+        towards: Highlands
   - mm_sign: [G]
     preceding:
       - station: G6-Downtown Core
@@ -29,7 +29,7 @@ adjacent_stations:
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: La Miraiya
-location_zh: 南美拉雅
+location_zh: 南美來雅
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/greenline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Miraiya Cave, La Miraiya, City of Mirai, United Cities]
 nearby_attraction: []

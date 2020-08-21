@@ -7,7 +7,7 @@ date: 2020-08-20T02:08:50+08:00
 draft: false
 category: miraimetro
 keywords: [mirai,miraimetro,station,blueline,victoryline,waterfallline,diamondline,pandaexpress]
-notice: "This article is about the metro station in Mirai, United Cities. For the similarly named MRR station, see [Mugen Mirai Station](/wiki/mugen-mirai-station 'Mugen Mirai Station'). For the nearby connected station, see [Mirai Station](/wiki/mirai-station 'Mirai Station')."
+notice: "This article is about the metro station in Mirai, United Cities. For the similarly named MRR station, see [Mugen Mirai station](/wiki/mugen-mirai-station 'Mugen Mirai station'). For the nearby connected station, see [Mirai station](/wiki/mirai-station 'Mirai station')."
 see_also: true
 quick_facts:
   - station_code: [B4,V1,W4,D4,P3]
@@ -33,6 +33,7 @@ quick_facts:
       "
     - title: Connections
       content: "
+        <div class='mb-1'><a href='/wiki/mugen-station' title='Mirai station'>Mirai</a></div>
         <div class='route-sign-xs greenline'><a href='/wiki/green-line' title='Green Line' class='text-reset text-decoration-none'>G</a></div>
         <div class='route-sign-xs airportcomposite'><a href='/wiki/airport-line' title='Airport Line' class='text-reset text-decoration-none'>A</a></div>
         <div class='route-sign-xs cityloopline'><a href='/wiki/city-loop-line' title='City Loop Line' class='text-reset text-decoration-none'>C</a></div>

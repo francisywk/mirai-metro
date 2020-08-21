@@ -13,7 +13,7 @@ quick_facts:
   - heading: Overview
   - cols_2:
     - title: Native name
-      content: 美拉首都圈鐵路 (美鐵)
+      content: 美來首都圈鐵路 (美鐵)
     - title: Owner
       content: "[UR Central](/wiki/central-union-railway-company 'Central Union Railway Company')"
     - title: Locale
@@ -44,4 +44,4 @@ quick_facts:
       content: 55 km/h (34 mph)
 ---
 
-The **Mirai Regional Railway** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉首都圈鐵路, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Sáudōuhyūn Titlouh*), commonly abbreviated as **MRR** (Chinese: 美鐵, *Méihtit*), is a hybrid [suburban commuter](https://en.wikipedia.org/wiki/Commuter_rail "Commuter rail")/[rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving the [Mirai Capital Area](/wiki/mirai-capital-area "Mirai Capital Area"). Owned and operated by [MRR Corporation Limited](/wiki/mrr-corporation "MRR Corporation"), it is one of the railway companies of the [Union Railways Group](/wiki/union-railways-group "Union Railways Group") (UR Group).
+The **Mirai Regional Railway** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來首都圈鐵路, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Sáudōuhyūn Titlouh*), commonly abbreviated as **MRR** (Chinese: 美鐵, *Méihtit*), is a hybrid [suburban commuter](https://en.wikipedia.org/wiki/Commuter_rail "Commuter rail")/[rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving the [Mirai Capital Area](/wiki/mirai-capital-area "Mirai Capital Area"). Owned and operated by [MRR Corporation Limited](/wiki/mrr-corporation "MRR Corporation"), it is one of the railway companies of the [Union Railways Group](/wiki/union-railways-group "Union Railways Group") (UR Group).

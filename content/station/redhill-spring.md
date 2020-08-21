@@ -1,5 +1,5 @@
 ---
-title: Redhill Spring Station
+title: Redhill Spring station
 station_code: [V3]
 station_name_en: Redhill Spring
 station_name_zh: 紅山泉

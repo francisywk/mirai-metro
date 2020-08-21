@@ -67,7 +67,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>
         <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
       </td>
-      <td>Winterland West</td>
+      <td>{{< wiki/link station="Winterland West" >}}</td>
       <td>冬西</td>
       <td>
         {{< wiki/mm-sign route="W" >}}
@@ -78,8 +78,8 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>
         <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
       </td>
-      <td>Miraibridge</td>
-      <td>美拉橋</td>
+      <td>{{< wiki/link station="Miraibridge" >}}</td>
+      <td>美來橋</td>
       <td>
         {{< wiki/mm-sign route="C" >}}
       </td>
@@ -89,7 +89,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>
         <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
       </td>
-      <td>Moon Lake</td>
+      <td>{{< wiki/link station="Moon Lake" >}}</td>
       <td>月湖</td>
       <td>
         {{< wiki/mm-sign route="V" >}}
@@ -100,7 +100,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
       <td>
         <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
       </td>
-      <td>UCHQ West</td>
+      <td>{{< wiki/link station="UCHQ West" >}}</td>
       <td>聯總西</td>
       <td>
         {{< wiki/mm-sign route="G" >}}

@@ -1,5 +1,5 @@
 ---
-title: Zero Zero Station
+title: Zero Zero station
 station_code: [B6,W8]
 station_name_en: Zero Zero
 station_name_zh: 零零

@@ -21,7 +21,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Mirai](/wiki/mirai-station 'Mirai Station')<br>[UCHQ North](/wiki/uchq-north-station 'UCHQ North Station')"
+      content: "[Mirai](/wiki/mirai-station 'Mirai station')<br>[UCHQ North](/wiki/uchq-north-station 'UCHQ North station')"
     - title: Stations
       content: 5
   - heading: Operation
@@ -91,7 +91,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
           <span class="station-code station-code-sm station-code-ac rounded-circle">A1</span>
         </td>
         <td>{{< wiki/link station="Mirai" >}}</td>
-        <td>美拉</td>
+        <td>美來</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="C" >}}
@@ -130,7 +130,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
           <span class="station-code station-code-sm station-code-ac rounded-circle">A4</span>
         </td>
         <td>{{< wiki/link station="Mirai City Airport" >}}</td>
-        <td>美拉城市空港</td>
+        <td>美來城市空港</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>

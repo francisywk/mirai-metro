@@ -1,5 +1,5 @@
 ---
-title: City Farm Station
+title: City Farm station
 station_code: [G4,B7,P5]
 station_name_en: City Farm
 station_name_zh: 城市農場

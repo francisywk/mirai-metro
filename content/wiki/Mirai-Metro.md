@@ -14,7 +14,7 @@ quick_facts:
   - heading: Overview
   - cols_2:
     - title: Native name
-      content: 美拉地鐵
+      content: 美來地鐵
     - title: Owner
       content: Mirai City Government
     - title: Locale
@@ -56,23 +56,23 @@ names_transcriptions:
   - heading: Mirai Metro
   - cols_2:
       - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
-        content: 美拉地鐵
+        content: 美來地鐵
       - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 美拉地铁
+        content: 美來地铁
   - transcriptions:
     - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
     - cols_2:
       - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
-        content: Méihlāai Deihtit
+        content: Méihlòih Deihtit
       - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
-        content: Mei5laai1 Dei6tit3
+        content: Mei5loi4 Dei6tit3
     - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
     - cols_2:
       - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
-        content: Měilā Dìtiě
+        content: Měilái Dìtiě
 ---
 
-The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美拉地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlāai Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") and abbreviated as **MM**, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
+The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") and abbreviated as **MM**, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
 
 Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/mirai-regional-railway "Mirai Regional Railway"), the metro provides urban rail transportation service for the nation's capital.
 
@@ -117,13 +117,13 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
     <tbody>
       <tr>
         <td>{{< wiki/mm-sign route="R" >}}</td>
-        <td><a href="/wiki/red-line" title="Red Line">Red Line</a></td>
+        <td>{{< wiki/link route="R" >}}</td>
         <td>紅綫</td>
         <td>
           Fhoenix Hill
         </td>
         <td>
-          Portal Hill
+          Highlands
         </td>
         <td>11 August 2015</td>
         <td>6</td>
@@ -132,10 +132,10 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="G" >}}</td>
-        <td><a href="/wiki/green-line" title="Green Line">Green Line</a></td>
+        <td>{{< wiki/link route="G" >}}</td>
         <td>綠綫</td>
         <td colspan="2">
-          <a href="/wiki/mirai-station" title="Mirai Station">Mirai</a>
+          {{< wiki/link station="Mirai" >}}
           <p class="small font-italic mb-0">(loop line)</p>
         </td>
         <td>6 November 2016</td>
@@ -144,7 +144,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="B" >}}</td>
-        <td><a href="/wiki/blue-line" title="Blue Line">Blue Line</a></td>
+        <td>{{< wiki/link route="B" >}}</td>
         <td>藍綫</td>
         <td>
           Victory Bay
@@ -158,10 +158,10 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td rowspan="2">{{< wiki/mm-sign route="Ac" >}}</td>
-        <td rowspan="2"><a href="/wiki/airport-line" title="Airport Line">Airport Line</a></td>
+        <td rowspan="2">{{< wiki/link route="A" >}}</td>
         <td rowspan="2">空港綫</td>
         <td rowspan="2">
-          <a href="/wiki/mirai-station" title="Mirai Station">Mirai</a>
+          {{< wiki/link station="Mirai" >}}
         </td>
         <td rowspan="2">
           UCHQ North
@@ -181,7 +181,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="V" >}}</td>
-        <td><a href="/wiki/victory-line" title="Victory Line">Victory Line</a></td>
+        <td>{{< wiki/link route="V" >}}</td>
         <td>勝利綫</td>
         <td>
           Mugen
@@ -195,7 +195,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="W" >}}</td>
-        <td><a href="/wiki/waterfall-line" title="Waterfall Line">Waterfall Line</a></td>
+        <td>{{< wiki/link route="W" >}}</td>
         <td>瀑布綫</td>
         <td colspan="2" rowspan="2">
           Winterland
@@ -207,7 +207,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="C" >}}</td>
-        <td><a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a></td>
+        <td>{{< wiki/link route="C" >}}</td>
         <td>三環綫</td>
         <td>31 August 2018</td>
         <td>6</td>
@@ -215,7 +215,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="D" >}}</td>
-        <td><a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a></td>
+        <td>{{< wiki/link route="D" >}}</td>
         <td>鑽石綫</td>
         <td>
           UCHQ North
@@ -230,7 +230,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="P" >}}</td>
-        <td><a href="/wiki/panda-express" title="Panda Express">Panda Express</a></td>
+        <td>{{< wiki/link route="P" >}}</td>
         <td>熊貓快綫</td>
         <td>
           Miraiya Cave

@@ -1,5 +1,5 @@
 ---
-title: Bottomvalley Station
+title: Bottomvalley station
 station_code: [G8,V2]
 station_name_en: Bottomvalley
 station_name_zh: 山底谷

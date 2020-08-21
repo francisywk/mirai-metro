@@ -1,5 +1,5 @@
 ---
-title: UCHQ East Station
+title: UCHQ East station
 station_code: [A3]
 station_name_en: UCHQ East
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>東

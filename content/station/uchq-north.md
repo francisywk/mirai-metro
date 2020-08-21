@@ -1,5 +1,5 @@
 ---
-title: UCHQ North Station
+title: UCHQ North station
 station_code: [B2,A5,D1]
 station_name_en: UCHQ North
 station_name_zh: "聯<span class='font-noto-serif-sc'>總北</span>"

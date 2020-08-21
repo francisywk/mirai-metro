@@ -1,5 +1,5 @@
 ---
-title: Downtown Core Station
+title: Downtown Core station
 station_code: [R4,G6,W6]
 station_name_en: Downtown Core
 station_name_zh: 市中心
@@ -11,7 +11,7 @@ adjacent_stations:
         towards: Fhoenix Hill
     following:
       - station: R5-Miraiya Cave
-        towards: Portal Hill
+        towards: Highlands
   - mm_sign: [G]
     preceding:
       - station: G5-Mount Austin

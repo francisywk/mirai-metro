@@ -22,7 +22,7 @@ quick_facts:
     - title: Locale
       content: City Loop, Mirai
     - title: Termini
-      content: "[Winterland](/wiki/winterland-station 'Winterland Station') (loop)"
+      content: "[Winterland](/wiki/winterland-station 'Winterland station') (loop)"
     - title: Stations
       content: 5 (Operational)<br>1 (Under planning)
   - heading: Operation
@@ -81,7 +81,7 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C1</span>
         </td>
-        <td>Winterland</td>
+        <td>{{< wiki/link station="Winterland" >}}</td>
         <td>冬地</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -93,8 +93,8 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C2</span>
         </td>
-        <td class="font-italic">Miraibridge</td>
-        <td class="font-italic">美拉橋</td>
+        <td class="font-italic">{{< wiki/link station="Miraibridge" >}}</td>
+        <td class="font-italic">美來橋</td>
         <td>
           Infill station <span class="small font-italic">(2021)</span>
         </td>
@@ -103,7 +103,7 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C3</span>
         </td>
-        <td>Berryhills</td>
+        <td>{{< wiki/link station="Berryhills" >}}</td>
         <td>啤梨山</td>
         <td>
           {{< wiki/mm-sign route="D" >}}
@@ -113,8 +113,8 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C4</span>
         </td>
-        <td>Mirai</td>
-        <td>美拉</td>
+        <td>{{< wiki/link station="Mirai" >}}</td>
+        <td>美來</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="A" >}}
@@ -125,7 +125,7 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C5</span>
         </td>
-        <td>Downtown East</td>
+        <td>{{< wiki/link station="Downtown East" >}}</td>
         <td>市中心東</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
@@ -136,7 +136,7 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C6</span>
         </td>
-        <td>Mount Austin</td>
+        <td>{{< wiki/link station="Mount Austin" >}}</td>
         <td>柯士甸山</td>
         <td>
           {{< wiki/mm-sign route="G" >}}

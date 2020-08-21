@@ -1,5 +1,5 @@
 ---
-title: Mugen Station
+title: Mugen station
 station_code: [B4,V1,W4,D4,P3]
 station_name_en: Mugen
 station_name_zh: 無限

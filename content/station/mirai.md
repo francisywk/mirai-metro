@@ -1,8 +1,8 @@
 ---
-title: Mirai Station
+title: Mirai station
 station_code: [G1,A1,C4,D3]
 station_name_en: Mirai
-station_name_zh: 美拉
+station_name_zh: 美來
 mm_sign: [G,Ac,C,D]
 adjacent_stations:
   - mm_sign: [G]
@@ -35,7 +35,7 @@ adjacent_stations:
       - station: D4-Mugen
         towards: Diamond Hill
 alternate_station_name_en: Mirai Central
-alternate_station_name_zh: 美拉中央
+alternate_station_name_zh: 美來中央
 location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/airportline.png),url(/img/bg/airportexpress.png),url(/img/bg/cityloopline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,50% 10px,100% 10px,100% 10px;background-position:0 70px,right 100px,right 130px,0 160px,0 190px}

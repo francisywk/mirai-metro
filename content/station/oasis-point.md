@@ -1,5 +1,5 @@
 ---
-title: Oasis Point Station
+title: Oasis Point station
 station_code: [W7,P6]
 station_name_en: Oasis Point
 station_name_zh: 綠洲角

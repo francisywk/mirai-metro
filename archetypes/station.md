@@ -1,5 +1,5 @@
 ---
-title: {{ replace .Name "-" " " | title }} Station
+title: {{ replace .Name "-" " " | title }} station
 station_code: []
 station_name_en: {{ replace .Name "-" " " | title }}
 station_name_zh: 

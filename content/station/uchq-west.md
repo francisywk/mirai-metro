@@ -1,5 +1,5 @@
 ---
-title: UCHQ West Station
+title: UCHQ West station
 station_code: [G10]
 station_name_en: UCHQ West
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>西

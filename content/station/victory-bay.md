@@ -1,5 +1,5 @@
 ---
-title: Victory Bay Station
+title: Victory Bay station
 station_code: [B1,V8]
 station_name_en: Victory Bay
 station_name_zh: 勝利灣
@@ -17,7 +17,7 @@ adjacent_stations:
       - station: V9-Moon Lake
         towards: Moon Lake
 alternate_station_name_en: Mirai North
-alternate_station_name_zh: 美拉北
+alternate_station_name_zh: 美來北
 location_en: Victory Bay
 location_zh: 勝利灣
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:50% 10px,100% 10px;background-position:right 115px,0 145px}

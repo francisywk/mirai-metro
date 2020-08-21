@@ -1,5 +1,5 @@
 ---
-title: Paradise Falls Station
+title: Paradise Falls station
 station_code: [R2,B5]
 station_name_en: Paradise Falls
 station_name_zh: 仙境瀑布
@@ -11,7 +11,7 @@ adjacent_stations:
         towards: Fhoenix Hill
     following:
       - station: R3-Under the Falls
-        towards: Portal Hill
+        towards: Highlands
   - mm_sign: [B]
     preceding:
       - station: B4-Mugen

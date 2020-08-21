@@ -20,7 +20,7 @@ stations:
     name_zh: 紅山泉
   - station_code: [V4]
     name: Mirai City Airport
-    name_zh: 美拉城市空港
+    name_zh: 美來城市空港
     transfer:
       - mm_sign: [Ac]
   - station_code: [V5]

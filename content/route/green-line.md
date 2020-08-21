@@ -6,7 +6,7 @@ branch_line: false
 stations:
   - station_code: [G1]
     name: Mirai
-    name_zh: 美拉
+    name_zh: 美來
     transfer:
       - mm_sign: [Ac,C,D]
   - station_code: [G2]
@@ -36,7 +36,7 @@ stations:
       - mm_sign: [R,W]
   - station_code: [G7]
     name: Miraiya Cave
-    name_zh: 美拉雅洞
+    name_zh: 美來雅洞
     transfer:
       - mm_sign: [R,P]
   - station_code: [G8]

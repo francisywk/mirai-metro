@@ -22,7 +22,7 @@ quick_facts:
     - title: Status
       content: Operational (Phase 1)
     - title: Termini
-      content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum Station')<br>[Oasis Point](/wiki/oasis-point-station 'Oasis Point Station')"
+      content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum station')<br>[Oasis Point](/wiki/oasis-point-station 'Oasis Point station')"
     - title: Stations
       content: 5 (Operational)<br>2 (Future)<br>1 (Reserved)
   - heading: Operation
@@ -106,7 +106,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-pe rounded-circle">P2</span>
         </td>
         <td>Miraiya Cave</td>
-        <td>美拉雅洞</td>
+        <td>美來雅洞</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}

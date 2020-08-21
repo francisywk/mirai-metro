@@ -1,5 +1,5 @@
 ---
-title: UCHQ South Station
+title: UCHQ South station
 station_code: [G9,B3,A2]
 station_name_en: UCHQ South
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>南

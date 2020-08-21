@@ -4,7 +4,7 @@
   {{ with .Params }}
     <div class="text-center mb-3">
       {{ partial "mm_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
-      <h4 class="mt-1 mb-1 stylised-name-en-zh">{{ .Title }}</h4>
+      <h4 class="mt-1 mb-0 stylised-name-en-zh">{{ .Title }}</h4>
       <h5 class="mb-0 stylised-name-en-zh font-weight-bold">{{ .title_zh }}</h5>
     </div>
     <div class="alert alert-secondary small mb-4 py-2 rounded-0" role="alert">

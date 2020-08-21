@@ -25,12 +25,12 @@ stations:
       - mm_sign: [G,W]
   - station_code: [R5]
     name: Miraiya Cave
-    name_zh: 美拉雅洞
+    name_zh: 美來雅洞
     transfer: 
       - mm_sign: [G,P]
   - station_code: [R6]
-    name: Portal Hill
-    name_zh: 波打山
+    name: Highlands
+    name_zh: 高原
     last_station: true
 custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/redline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:61px bottom}.station-code-bg{background-image:url(/img/bg/redline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:61px}.station-code-bg-last{background-image:url(/img/bg/redline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:61px top}
 weight: 1

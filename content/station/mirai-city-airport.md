@@ -1,8 +1,8 @@
 ---
-title: Mirai City Airport Station
+title: Mirai City Airport station
 station_code: [A4,V4]
 station_name_en: Mirai City Airport
-station_name_zh: 美拉城市空港
+station_name_zh: 美來城市空港
 mm_sign: [Ac,V]
 adjacent_stations:
   - mm_sign: [A]

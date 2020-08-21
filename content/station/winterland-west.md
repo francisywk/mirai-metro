@@ -1,5 +1,5 @@
 ---
-title: Winterland West Station
+title: Winterland West station
 station_code: [W9]
 station_name_en: Winterland West
 station_name_zh: 冬西

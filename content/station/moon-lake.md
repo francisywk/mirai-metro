@@ -1,5 +1,5 @@
 ---
-title: Moon Lake Station
+title: Moon Lake station
 station_code: [V9]
 station_name_en: Moon Lake
 station_name_zh: 月湖

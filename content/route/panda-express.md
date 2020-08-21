@@ -10,7 +10,7 @@ stations:
     placeholder_station: true
   - station_code: [P2]
     name: Miraiya Cave
-    name_zh: 美拉雅洞
+    name_zh: 美來雅洞
     transfer:
       - mm_sign: [R,G]
     first_station: true

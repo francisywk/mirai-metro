@@ -1,5 +1,5 @@
 ---
-title: Marine Park Station
+title: Marine Park station
 station_code: [V6]
 station_name_en: Marine Park
 station_name_zh: 海洋公園
