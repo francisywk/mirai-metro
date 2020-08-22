@@ -9,8 +9,8 @@ stations:
     name_zh: 熊貓博物館
     placeholder_station: true
   - station_code: [P2]
-    name: Miraiya Cave
-    name_zh: 美來雅洞
+    name: Zephyr Cave
+    name_zh: 和風洞
     transfer:
       - mm_sign: [R,G]
     first_station: true

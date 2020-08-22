@@ -2,7 +2,7 @@
 title: "Mugen station"
 linktitle: Mugen
 title_zh: 無限
-description: Metro station in Mirai, United Cities
+description: Mirai Metro interchange station in City Loop, Mirai
 date: 2020-08-20T02:08:50+08:00
 draft: false
 category: miraimetro
@@ -178,7 +178,7 @@ Mugen station is served by the following lines of Mirai Metro:
       </tr>
       <tr>
         <td>
-          {{< wiki/link station="Miraiya Cave" >}}
+          {{< wiki/link station="Zephyr Cave" >}}
           <p class="small font-italic mb-0">towards {{< wiki/link station="Panda Museum" >}}</p>
         </td>
         <td class="pandaexpress"></td>

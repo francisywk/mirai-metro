@@ -53,60 +53,64 @@ The following is a list of planned stations of the Big Snow Line that have not b
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <tr class="thead-light">
-      <th rowspan="2">Code</th>
-      <th colspan="2">Station Name</th>
-      <th rowspan="2">Transfer</th>
-      <th rowspan="2">Location</th>
-    </tr>
-    <tr class="thead-light">
-      <th>English</th>
-      <th>Chinese</th>
-    </tr>
-    <tr>
-      <td>
-        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-      </td>
-      <td>{{< wiki/link station="Winterland West" >}}</td>
-      <td>冬西</td>
-      <td>
-        {{< wiki/mm-sign route="W" >}}
-      </td>
-      <td>Big Snow</td>
-    </tr>
-    <tr>
-      <td>
-        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-      </td>
-      <td>{{< wiki/link station="Miraibridge" >}}</td>
-      <td>美來橋</td>
-      <td>
-        {{< wiki/mm-sign route="C" >}}
-      </td>
-      <td>City Loop</td>
-    </tr>
-    <tr>
-      <td>
-        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-      </td>
-      <td>{{< wiki/link station="Moon Lake" >}}</td>
-      <td>月湖</td>
-      <td>
-        {{< wiki/mm-sign route="V" >}}
-      </td>
-      <td>Victory Bay</td>
-    </tr>
-    <tr>
-      <td>
-        <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
-      </td>
-      <td>{{< wiki/link station="UCHQ West" >}}</td>
-      <td>聯總西</td>
-      <td>
-        {{< wiki/mm-sign route="G" >}}
-      </td>
-      <td>Redstone Valley</td>
-    </tr>
+    <thead class="thead-light">
+      <tr>
+        <th rowspan="2">Code</th>
+        <th colspan="2">Station Name</th>
+        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Location</th>
+      </tr>
+      <tr>
+        <th>English</th>
+        <th>Chinese</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+        </td>
+        <td>{{< wiki/link station="Winterland West" >}}</td>
+        <td>冬西</td>
+        <td>
+          {{< wiki/mm-sign route="W" >}}
+        </td>
+        <td>Big Snow</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+        </td>
+        <td>{{< wiki/link station="Miraibridge" >}}</td>
+        <td>美來橋</td>
+        <td>
+          {{< wiki/mm-sign route="C" >}}
+        </td>
+        <td>City Loop</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+        </td>
+        <td>{{< wiki/link station="Moon Lake" >}}</td>
+        <td>月湖</td>
+        <td>
+          {{< wiki/mm-sign route="V" >}}
+        </td>
+        <td>Victory Bay</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+        </td>
+        <td>{{< wiki/link station="UCHQ West" >}}</td>
+        <td>聯總西</td>
+        <td>
+          {{< wiki/mm-sign route="G" >}}
+        </td>
+        <td>Redstone Valley</td>
+      </tr>
+    </tbody>
   </table>
 </div>
 

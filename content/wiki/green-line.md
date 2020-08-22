@@ -144,8 +144,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G7</span>
         </td>
-        <td>{{< wiki/link station="Miraiya Cave" >}}</td>
-        <td>美來雅洞</td>
+        <td>{{< wiki/link station="Zephyr Cave" >}}</td>
+        <td>和風洞</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}

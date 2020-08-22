@@ -30,19 +30,16 @@
           <div class="collapse d-lg-block" id="quickfacts">
             <div class="container bg-light border">
               {{ range first 1 .quick_facts }}
-                <h6 class="text-center mt-2 mb-0" {{ with .title_style}}style="{{ . | safeCSS }}"{{ end }}>
-                  <span class="font-weight-bold">
-                    {{ with $.LinkTitle }}
-                      {{ . }}
-                    {{ else }}
-                      {{ $.Title }}
-                    {{ end }}
-                  </span>
-                  <br>
-                  {{ with $.Params.title_zh }}
-                    <span class="font-weight-normal">{{ . }}</span>
+                <h6 class="text-center font-weight-bold mt-2 mb-0" {{ with .title_style}}style="{{ . | safeCSS }}"{{ end }}>
+                  {{ with $.LinkTitle }}
+                    {{ . }}
+                  {{ else }}
+                    {{ $.Title }}
                   {{ end }}
                 </h6>
+                {{ with $.Params.title_zh }}
+                  <h6 class="text-center mb-0">{{ . }}</h6>
+                {{ end }}
               {{ end }}
               {{ range .quick_facts }}
                 {{ with .image }}

@@ -7,7 +7,7 @@ mm_sign: [R]
 adjacent_stations:
   - mm_sign: [R]
     preceding:
-      - station: R5-Miraiya Cave
+      - station: R5-Zephyr Cave
         towards: Fhoenix Hill
 alternate_station_name_en: Portal Peak
 alternate_station_name_zh: 波打山頂

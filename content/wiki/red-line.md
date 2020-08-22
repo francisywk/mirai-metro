@@ -60,7 +60,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 
 ---
 
-- 9 August 2020: Miraiya Cave [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Highlands.
+- 9 August 2020: Zephyr Cave [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Highlands.
 
 <br>
 
@@ -128,8 +128,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R5<span>
         </td>
-        <td>Miraiya Cave</td>
-        <td>美來雅洞</td>
+        <td>Zephyr Cave</td>
+        <td>和風洞</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="P" >}}

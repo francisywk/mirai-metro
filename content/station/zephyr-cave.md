@@ -1,8 +1,8 @@
 ---
-title: Miraiya Cave station
+title: Zephyr Cave station
 station_code: [R5,G7,P2]
-station_name_en: Miraiya Cave
-station_name_zh: 美來雅洞
+station_name_en: Zephyr Cave
+station_name_zh: 和風洞
 mm_sign: [R,G,P]
 adjacent_stations:
   - mm_sign: [R]
@@ -31,7 +31,7 @@ alternate_station_name_zh:
 location_en: La Miraiya
 location_zh: 南美來雅
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/greenline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
-address: [Miraiya Cave, La Miraiya, City of Mirai, United Cities]
+address: [Zephyr Cave, La Miraiya, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false
 popular: false

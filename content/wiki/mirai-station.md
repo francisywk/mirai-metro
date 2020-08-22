@@ -2,7 +2,7 @@
 title: "Mirai station"
 linktitle: Mirai
 title_zh: 美來
-description: Metro station in Mirai, United Cities
+description: Mirai Metro interchange station in City Loop, Mirai
 date: 2020-08-15T06:31:57+08:00
 draft: false
 category: miraimetro
@@ -12,7 +12,7 @@ see_also: true
 quick_facts:
   - station_code: [G1,A1,C4,D3]
   - cols_1:
-    - content: "<div class='text-center'><span>Mirai Metro station</span></div>"
+    - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"
   - heading: General information
   - cols_2:
     - title: Alternate name

@@ -7,7 +7,7 @@ mm_sign: [P]
 adjacent_stations:
   - mm_sign: [P]
     following:
-      - station: P2-Miraiya Cave
+      - station: P2-Zephyr Cave
         towards: Oasis Point
 alternate_station_name_en: 
 alternate_station_name_zh: 

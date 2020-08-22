@@ -59,7 +59,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
 
 ---
 
-- Phase 1 of the line between Miraiya Cave and Oasis Point opened to the public on 27 July 2020.
+- Phase 1 of the line between Zephyr Cave and Oasis Point opened to the public on 27 July 2020.
 
 <br>
 
@@ -105,8 +105,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P2</span>
         </td>
-        <td>Miraiya Cave</td>
-        <td>美來雅洞</td>
+        <td>Zephyr Cave</td>
+        <td>和風洞</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}

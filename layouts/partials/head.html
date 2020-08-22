@@ -7,11 +7,10 @@
     _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
   {{ "-->" | safeHTML }}
-  {{ hugo.Generator }}
-  {{ $title := print .Title " | " .Site.Title }}
+  {{ $title := print .Title " · " .Site.Title }}
   {{ if eq .Section "wiki" }}
     {{ if eq .Kind "page" }}
-      {{ $title = print .Title " | " .Parent.Title }}
+      {{ $title = print .Title " - " .Parent.Title }}
     {{ else }}
       {{ $title = print .Title ", " .Params.Description }}
     {{ end }}
@@ -19,6 +18,10 @@
   <meta charset="utf-8">
   <title>{{ $title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, shrink-to-fit=yes">
+  {{ hugo.Generator }}
+  {{ with .Description }}
+    <meta name="description" content="{{ . }}">
+  {{ end }}
   <meta name="copyright" content="{{ .Site.Copyright }}">
   {{/*  Bootstrap CSS  */}}
   {{ $bootstrap := "/css/bootstrap.min.css" | absURL }}

@@ -7,7 +7,7 @@ mm_sign: [G,V]
 adjacent_stations:
   - mm_sign: [G]
     preceding:
-      - station: G7-Miraiya Cave
+      - station: G7-Zephyr Cave
         next: clockwise
     following:
       - station: G9-UCHQ South

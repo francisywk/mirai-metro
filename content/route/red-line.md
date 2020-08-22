@@ -24,8 +24,8 @@ stations:
     transfer: 
       - mm_sign: [G,W]
   - station_code: [R5]
-    name: Miraiya Cave
-    name_zh: 美來雅洞
+    name: Zephyr Cave
+    name_zh: 和風洞
     transfer: 
       - mm_sign: [G,P]
   - station_code: [R6]
