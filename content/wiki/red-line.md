@@ -87,7 +87,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
         </td>
-        <td>Fhoenix Hill</td>
+        <td>{{< wiki/link station="Fhoenix Hill" >}}</td>
         <td>飛利斯山</td>
         <td></td>
         <td rowspan="4">City Loop</td>
@@ -96,7 +96,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
         </td>
-        <td>Paradise Falls</td>
+        <td>{{< wiki/link station="Paradise Falls" >}}</td>
         <td>仙境瀑布</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -106,8 +106,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R3<span>
         </td>
-        <td>Under the Falls</td>
-        <td>瀑布下</td>
+        <td>{{< wiki/link station="Under the Falls" >}}</td>
+        <td>瀑布底</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -117,7 +117,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R4<span>
         </td>
-        <td>Downtown Core</td>
+        <td>{{< wiki/link station="Downtown Core" >}}</td>
         <td>市中心</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -128,8 +128,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R5<span>
         </td>
-        <td>Cavehaven</td>
-        <td>洞希雲</td>
+        <td>{{< wiki/link station="Cavehaven" >}}</td>
+        <td>旗希雲</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -140,7 +140,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R6<span>
         </td>
-        <td>Highlands</td>
+        <td>{{< wiki/link station="Highlands" >}}</td>
         <td>高原</td>
         <td></td>
         <td>Miraiya Highlands</td>

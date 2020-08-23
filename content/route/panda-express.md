@@ -10,7 +10,7 @@ stations:
     placeholder_station: true
   - station_code: [P2]
     name: Cavehaven
-    name_zh: 洞希雲
+    name_zh: 旗希雲
     transfer:
       - mm_sign: [R,G]
     first_station: true
@@ -21,12 +21,12 @@ stations:
       - mm_sign: [B,V,W,D]
   - station_code: [P4]
     name: Under the Falls
-    name_zh: 瀑布下
+    name_zh: 瀑布底
     transfer:
       - mm_sign: [R,W]
   - station_code: [P5]
     name: City Farm
-    name_zh: 城市農場
+    name_zh: 城中農場
     transfer:
       - mm_sign: [G,B]
   - station_code: [P6]

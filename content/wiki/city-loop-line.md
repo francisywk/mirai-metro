@@ -75,7 +75,7 @@ The following is a list of the stations on the City Loop Line.
     </thead>
     <tbody>
       <tr class="station-code-cl border-left-0 border-right-0">
-        <td colspan="5">— ↑ loop line - towards Mount Austin (anti-clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Austin" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -143,7 +143,7 @@ The following is a list of the stations on the City Loop Line.
         </td>
       </tr>
       <tr class="station-code-cl border-left-0 border-right-0">
-        <td colspan="5">— ↓ loop line - towards Winterland (clockwise) ↓ —</td>
+        <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>

@@ -2,7 +2,7 @@
 title: Under the Falls station
 station_code: [R3,W3,P4]
 station_name_en: Under the Falls
-station_name_zh: 瀑布下
+station_name_zh: 瀑布底
 mm_sign: [R,W,P]
 adjacent_stations:
   - mm_sign: [R]

@@ -2,7 +2,7 @@
 title: Cavehaven station
 station_code: [R5,G7,P2]
 station_name_en: Cavehaven
-station_name_zh: 洞希雲
+station_name_zh: 旗希雲
 mm_sign: [R,G,P]
 adjacent_stations:
   - mm_sign: [R]

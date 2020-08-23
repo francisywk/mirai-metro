@@ -2,7 +2,7 @@
 title: City Farm station
 station_code: [G4,B7,P5]
 station_name_en: City Farm
-station_name_zh: 城市農場
+station_name_zh: 城中農場
 mm_sign: [G,B,P]
 adjacent_stations:
   - mm_sign: [G]

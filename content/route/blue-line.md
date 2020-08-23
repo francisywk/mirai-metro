@@ -38,7 +38,7 @@ stations:
     branch_first: true
   - station_code: [B7]
     name: City Farm
-    name_zh: 城市農場
+    name_zh: 城中農場
     transfer:
       - mm_sign: [G,P]
     branch_last: true

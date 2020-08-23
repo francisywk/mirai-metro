@@ -71,13 +71,13 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
     </thead>
     <tbody>
       <tr class="station-code-wl border-left-0 border-right-0">
-        <td colspan="5">— ↑ loop line - towards Winterland West (anti-clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Winterland West" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W1<span>
         </td>
-        <td>Winterland</td>
+        <td>{{< wiki/link station="Winterland" >}}</td>
         <td>冬地</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -89,7 +89,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W2<span>
         </td>
-        <td>Uptown Cross</td>
+        <td>{{< wiki/link station="Uptown Cross" >}}</td>
         <td>上環十字</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -99,8 +99,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W3<span>
         </td>
-        <td>Under the Falls</td>
-        <td>瀑布下</td>
+        <td>{{< wiki/link station="Under the Falls" >}}</td>
+        <td>瀑布底</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -110,7 +110,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W4<span>
         </td>
-        <td>Mugen</td>
+        <td>{{< wiki/link station="Mugen" >}}</td>
         <td>無限</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -123,7 +123,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W5<span>
         </td>
-        <td>Downtown East</td>
+        <td>{{< wiki/link station="Downtown East" >}}</td>
         <td>市中心東</td>
         <td>
           {{< wiki/mm-sign route="C" >}}
@@ -134,7 +134,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W6<span>
         </td>
-        <td>Downtown Core</td>
+        <td>{{< wiki/link station="Downtown Core" >}}</td>
         <td>市中心</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
@@ -145,7 +145,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W7<span>
         </td>
-        <td>Oasis Point</td>
+        <td>{{< wiki/link station="Oasis Point" >}}</td>
         <td>綠洲角</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
@@ -156,7 +156,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
-        <td>Zero Zero</td>
+        <td>{{< wiki/link station="Zero Zero" >}}</td>
         <td>零零</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -166,12 +166,12 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W9<span>
         </td>
-        <td>Winterland West</td>
+        <td>{{< wiki/link station="Winterland West" >}}</td>
         <td>冬西</td>
         <td></td>
       </tr>
       <tr class="station-code-wl border-left-0 border-right-0">
-        <td colspan="5">— ↓ loop line - towards Winterland (clockwise) ↓ —</td>
+        <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>

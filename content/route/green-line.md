@@ -21,7 +21,7 @@ stations:
       - mm_sign: [C,W]
   - station_code: [G4]
     name: City Farm
-    name_zh: 城市農場
+    name_zh: 城中農場
     transfer:
       - mm_sign: [B,P]
   - station_code: [G5]
@@ -36,7 +36,7 @@ stations:
       - mm_sign: [R,W]
   - station_code: [G7]
     name: Cavehaven
-    name_zh: 洞希雲
+    name_zh: 旗希雲
     transfer:
       - mm_sign: [R,P]
   - station_code: [G8]

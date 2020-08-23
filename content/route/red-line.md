@@ -15,7 +15,7 @@ stations:
       - mm_sign: [B]
   - station_code: [R3]
     name: Under the Falls
-    name_zh: 瀑布下
+    name_zh: 瀑布底
     transfer: 
       - mm_sign: [W,P]
   - station_code: [R4]
@@ -25,7 +25,7 @@ stations:
       - mm_sign: [G,W]
   - station_code: [R5]
     name: Cavehaven
-    name_zh: 洞希雲
+    name_zh: 旗希雲
     transfer: 
       - mm_sign: [G,P]
   - station_code: [R6]

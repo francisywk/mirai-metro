@@ -74,7 +74,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V1</span>
         </td>
-        <td>Mugen</td>
+        <td>{{< wiki/link station="Mugen" >}}</td>
         <td>無限</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -88,7 +88,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V2</span>
         </td>
-        <td>Bottomvalley</td>
+        <td>{{< wiki/link station="Bottomvalley" >}}</td>
         <td>山底谷</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
@@ -98,7 +98,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V3</span>
         </td>
-        <td>Redhill Spring</td>
+        <td>{{< wiki/link station="Redhill Spring" >}}</td>
         <td>紅山泉</td>
         <td></td>
         <td rowspan="2">Redstone Valley</td>
@@ -107,7 +107,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V4</span>
         </td>
-        <td>Mirai City Airport</td>
+        <td>{{< wiki/link station="Mirai City Airport" >}}</td>
         <td>美來城市空港</td>
         <td>
           {{< wiki/mm-sign route="Ac" >}}
@@ -117,7 +117,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V5</span>
         </td>
-        <td>Logsmead</td>
+        <td>{{< wiki/link station="Logsmead" >}}</td>
         <td>樂米町</td>
         <td></td>
         <td>Mob Forest</td>
@@ -126,7 +126,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V6</span>
         </td>
-        <td>Marine Park</td>
+        <td>{{< wiki/link station="Marine Park" >}}</td>
         <td>海洋公園</td>
         <td></td>
         <td rowspan="4">Victory Bay</td>
@@ -135,7 +135,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V7</span>
         </td>
-        <td>Broadbeach</td>
+        <td>{{< wiki/link station="Broadbeach" >}}</td>
         <td>廣灘</td>
         <td></td>
       </tr>
@@ -143,7 +143,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V8</span>
         </td>
-        <td>Victory Bay</td>
+        <td>{{< wiki/link station="Victory Bay" >}}</td>
         <td>勝利灣</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -153,7 +153,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V9</span>
         </td>
-        <td>Moon Lake</td>
+        <td>{{< wiki/link station="Moon Lake" >}}</td>
         <td>月湖</td>
         <td></td>
       </tr>

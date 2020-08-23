@@ -182,7 +182,7 @@ The following is a list of the stations on the Blue Line.
           <span class="station-code station-code-sm station-code-bl rounded-circle">B7</span>
         </td>
         <td>{{< wiki/link station="City Farm" >}}</td>
-        <td>城市農場</td>
+        <td>城中農場</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="P" >}}

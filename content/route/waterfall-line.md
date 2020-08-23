@@ -16,7 +16,7 @@ stations:
       - mm_sign: [G]
   - station_code: [W3]
     name: Under the Falls
-    name_zh: 瀑布下
+    name_zh: 瀑布底
     transfer:
       - mm_sign: [R,P]
   - station_code: [W4]

@@ -105,8 +105,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P2</span>
         </td>
-        <td>Cavehaven</td>
-        <td>洞希雲</td>
+        <td>{{< wiki/link station="Cavehaven" >}}</td>
+        <td>旗希雲</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}
@@ -117,7 +117,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P3</span>
         </td>
-        <td>Mugen</td>
+        <td>{{< wiki/link station="Mugen" >}}</td>
         <td>無限</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -131,8 +131,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P4</span>
         </td>
-        <td>Under the Falls</td>
-        <td>瀑布下</td>
+        <td>{{< wiki/link station="Under the Falls" >}}</td>
+        <td>瀑布底</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="W" >}}
@@ -142,8 +142,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P5</span>
         </td>
-        <td>City Farm</td>
-        <td>城市農場</td>
+        <td>{{< wiki/link station="City Farm" >}}</td>
+        <td>城中農場</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="B" >}}
@@ -153,7 +153,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
-        <td>Oasis Point</td>
+        <td>{{< wiki/link station="Oasis Point" >}}</td>
         <td>綠洲角</td>
         <td>
           {{< wiki/mm-sign route="W" >}}

@@ -72,7 +72,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
     </thead>
     <tbody>
       <tr class="station-code-gl border-left-0 border-right-0">
-        <td colspan="5">— ↑ loop line - towards UCHQ West (clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="UCHQ West" >}} (clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -113,7 +113,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-gl rounded-circle">G4</span>
         </td>
         <td>{{< wiki/link station="City Farm" >}}</td>
-        <td>城市農場</td>
+        <td>城中農場</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -145,7 +145,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-gl rounded-circle">G7</span>
         </td>
         <td>{{< wiki/link station="Cavehaven" >}}</td>
-        <td>洞希雲</td>
+        <td>旗希雲</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -183,7 +183,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td></td>
       </tr>
       <tr class="station-code-gl border-left-0 border-right-0">
-        <td colspan="5">— ↓ loop line - towards Mirai (anti-clockwise) ↓ —</td>
+        <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Mirai" >}} (anti-clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>
