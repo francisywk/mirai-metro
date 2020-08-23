@@ -24,8 +24,8 @@ stations:
     transfer: 
       - mm_sign: [G,W]
   - station_code: [R5]
-    name: Zephyr Cave
-    name_zh: 和風洞
+    name: Cavehaven
+    name_zh: 洞希雲
     transfer: 
       - mm_sign: [G,P]
   - station_code: [R6]

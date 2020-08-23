@@ -23,6 +23,10 @@
     <meta name="description" content="{{ . }}">
   {{ end }}
   <meta name="copyright" content="{{ .Site.Copyright }}">
+  {{/* Preload fonts */}}
+  {{ if eq .Section "station" }}
+    <link rel="preload" href="/fonts/P22-Underground-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  {{ end }}
   {{/*  Bootstrap CSS  */}}
   {{ $bootstrap := "/css/bootstrap.min.css" | absURL }}
   <link rel="stylesheet" href="{{ $bootstrap }}">

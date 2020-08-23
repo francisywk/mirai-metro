@@ -9,8 +9,8 @@ stations:
     name_zh: 熊貓博物館
     placeholder_station: true
   - station_code: [P2]
-    name: Zephyr Cave
-    name_zh: 和風洞
+    name: Cavehaven
+    name_zh: 洞希雲
     transfer:
       - mm_sign: [R,G]
     first_station: true

@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: 'Tube';
-  src: local('Tube'), url('/fonts/P22-Underground-Regular.woff2') format('woff2'), url('/fonts/P22-Underground-Regular.woff') format('woff');
-  font-display: fallback;
+  src: url('/fonts/P22-Underground-Regular.woff2') format('woff2'), url('/fonts/P22-Underground-Regular.woff') format('woff');
+  font-display: swap;
   font-weight: 700;
 }
 
@@ -466,7 +466,7 @@ ul {
 
 .station-name-en,
 .line-name-en {
-  font-family: 'Tube', Arial, sans-serif;
+  font-family: 'Tube', sans-serif;
 }
 
 .station-name-zh,

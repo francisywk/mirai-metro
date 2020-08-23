@@ -10,14 +10,14 @@ adjacent_stations:
       - station: R3-Under the Falls
         towards: Fhoenix Hill
     following:
-      - station: R5-Zephyr Cave
+      - station: R5-Cavehaven
         towards: Highlands
   - mm_sign: [G]
     preceding:
       - station: G5-Mount Austin
         next: clockwise
     following:
-      - station: G7-Zephyr Cave
+      - station: G7-Cavehaven
         next: anti-clockwise
   - mm_sign: [W]
     preceding:

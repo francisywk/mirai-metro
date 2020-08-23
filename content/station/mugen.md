@@ -32,7 +32,7 @@ adjacent_stations:
         towards: Diamond Hill
   - mm_sign: [P]
     preceding:
-      - station: P2-Zephyr Cave
+      - station: P2-Cavehaven
         towards: Panda Museum
     following:
       - station: P4-Under the Falls

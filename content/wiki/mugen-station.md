@@ -178,7 +178,7 @@ Mugen station is served by the following lines of Mirai Metro:
       </tr>
       <tr>
         <td>
-          {{< wiki/link station="Zephyr Cave" >}}
+          {{< wiki/link station="Cavehaven" >}}
           <p class="small font-italic mb-0">towards {{< wiki/link station="Panda Museum" >}}</p>
         </td>
         <td class="pandaexpress"></td>

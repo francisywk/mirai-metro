@@ -7,7 +7,7 @@ mm_sign: [G,V]
 adjacent_stations:
   - mm_sign: [G]
     preceding:
-      - station: G7-Zephyr Cave
+      - station: G7-Cavehaven
         next: clockwise
     following:
       - station: G9-UCHQ South
