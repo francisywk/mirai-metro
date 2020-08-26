@@ -21,7 +21,7 @@ adjacent_stations:
       - station: W7-Oasis Point
         next: anti-clockwise
     following:
-      - station: W9-Winterland West
+      - station: W9-Mount Snowhide
         next: clockwise
 alternate_station_name_en: Centre of The Grid
 alternate_station_name_zh: 世格中心

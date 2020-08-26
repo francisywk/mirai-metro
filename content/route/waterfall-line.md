@@ -16,7 +16,7 @@ stations:
       - mm_sign: [G]
   - station_code: [W3]
     name: Under the Falls
-    name_zh: 瀑布底
+    name_zh: 瀑布下
     transfer:
       - mm_sign: [R,P]
   - station_code: [W4]
@@ -45,8 +45,8 @@ stations:
     transfer:
       - mm_sign: [B]
   - station_code: [W9]
-    name: Winterland West
-    name_zh: 冬西
+    name: Mount Snowhide
+    name_zh: 雪藏山
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:50px}
 weight: 6
 ---

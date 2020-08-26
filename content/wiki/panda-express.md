@@ -132,7 +132,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-pe rounded-circle">P4</span>
         </td>
         <td>{{< wiki/link station="Under the Falls" >}}</td>
-        <td>瀑布底</td>
+        <td>瀑布下</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="W" >}}

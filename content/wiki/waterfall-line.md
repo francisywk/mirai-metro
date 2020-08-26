@@ -71,7 +71,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
     </thead>
     <tbody>
       <tr class="station-code-wl border-left-0 border-right-0">
-        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Winterland West" >}} (anti-clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Snowhide" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -100,7 +100,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           <span class="station-code station-code-sm station-code-wl rounded-circle">W3<span>
         </td>
         <td>{{< wiki/link station="Under the Falls" >}}</td>
-        <td>瀑布底</td>
+        <td>瀑布下</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -166,8 +166,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W9<span>
         </td>
-        <td>{{< wiki/link station="Winterland West" >}}</td>
-        <td>冬西</td>
+        <td>{{< wiki/link station="Mount Snowhide" >}}</td>
+        <td>雪藏山</td>
         <td></td>
       </tr>
       <tr class="station-code-wl border-left-0 border-right-0">

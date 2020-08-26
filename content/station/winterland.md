@@ -14,7 +14,7 @@ adjacent_stations:
         next: anti-clockwise
   - mm_sign: [W]
     preceding:
-      - station: W10-Winterland West
+      - station: W9-Mount Snowhide
         next: anti-clockwise
     following:
       - station: W2-Uptown Cross
