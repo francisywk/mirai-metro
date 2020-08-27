@@ -21,5 +21,6 @@ address: [Redhill Spring, Redstone Valley, City of Mirai, United Cities]
 nearby_attraction: [Redhill Spring]
 connecting_station: false
 popular: false
+date: 2020-07-12T20:50:00+08:00
 ---
 

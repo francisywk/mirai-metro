@@ -21,7 +21,7 @@ adjacent_stations:
       - station: W7-Oasis Point
         next: anti-clockwise
     following:
-      - station: W9-Mount Snowhide
+      - station: W9-Mount Onsnow
         next: clockwise
 alternate_station_name_en: Centre of The Grid
 alternate_station_name_zh: 世格中心
@@ -32,5 +32,6 @@ address: [Zero Zero, Big Snow, City of Mirai, United Cities]
 nearby_attraction: [Monument to the Centre of The Grid]
 connecting_station: false
 popular: false
+date: 2020-07-12T21:04:00+08:00
 ---
 

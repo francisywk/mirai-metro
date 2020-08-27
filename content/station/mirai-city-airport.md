@@ -35,5 +35,6 @@ address: [Mirai City Airport, Redstone Valley, City of Mirai, United Cities]
 nearby_attraction: [Mirai City Airport ATC Tower, Mirai City Airport Runway 18/36, Mirai City Airport Horse Park]
 connecting_station: false
 popular: false
+date: 2020-06-29T01:26:00+08:00
 ---
 

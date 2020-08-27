@@ -43,7 +43,7 @@
                 {{ $title := printf `%v %v (%v Stations)` .Title .title_zh ($.Scratch.Get "station_count") }}
                 {{ $.Scratch.Delete "station_count" }}
                 <p class="d-inline font-weight-bold m-0">{{ $title }}</p>
-                <p class="small m-0">&#x25B8; <a href="{{ anchorize .Title }}">More information</a></p>
+                <p class="small m-0">&#x25B8; <a href="{{ anchorize .Title }}">To the {{ .Title }} page</a></p>
               </div>
             </div>
             <ul class="list-group list-group-horizontal text-center mt-26">
@@ -84,7 +84,7 @@
                 {{ $title := printf `%v %v (%v Stations)` .Title .title_zh ($.Scratch.Get "station_count") }}
                 {{ $.Scratch.Delete "station_count" }}
                 <p class="d-inline font-weight-bold m-0">{{ $title }}</p>
-                <p class="small m-0">&#x25B8; <a href="{{ anchorize .Title }}">More information</a></p>
+                <p class="small m-0">&#x25B8; <a href="{{ anchorize .Title }}">To the {{ .Title }} page</a></p>
               </div>
             </div>
             {{ $margin := "mt-26" }}

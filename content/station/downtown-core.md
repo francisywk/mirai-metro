@@ -35,5 +35,6 @@ address: [Downtown Core, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Mirai City Hall, TNT Store]
 connecting_station: false
 popular: true
+date: 2020-07-12T18:56:00+08:00
 ---
 

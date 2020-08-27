@@ -9,7 +9,7 @@ adjacent_stations:
     preceding:
       - station: R5-Cavehaven
         towards: Fhoenix Hill
-alternate_station_name_en: Portal Peak
+alternate_station_name_en: Portal's Peak
 alternate_station_name_zh: 波打山頂
 location_en: Miraiya Highlands
 location_zh: 美來雅高原
@@ -18,5 +18,6 @@ address: [Portal Peak, Miraiya Highlands, City of Mirai, United Cities]
 nearby_attraction: [Miraiya Highlands Weather station]
 connecting_station: false
 popular: false
+date: 2020-07-12T20:53:00+08:00
 ---
 

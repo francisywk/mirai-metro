@@ -34,6 +34,7 @@ jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),ur
 address: [Under the Falls, City Loop, City of Mirai, United Cities]
 nearby_attraction: [The Paradise Falls, Paradise Falls Residences, Up House, Central Market]
 connecting_station: false
-popular: false
+popular: true
+date: 2020-07-12T20:37:00+08:00
 ---
 

@@ -21,5 +21,6 @@ address: [Marine Park, Victory Bay, City of Mirai, United Cities]
 nearby_attraction: [Victory Bay Marine Park]
 connecting_station: false
 popular: false
+date: 2020-07-12T19:47:00+08:00
 ---
 

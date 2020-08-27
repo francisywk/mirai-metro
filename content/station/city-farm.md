@@ -31,6 +31,7 @@ jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),
 address: [City Farm, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Big Barn, Greenhouses, Wheat Field]
 connecting_station: false
-popular: true
+popular: false
+date: 2020-07-12T02:11:00+08:00
 ---
 

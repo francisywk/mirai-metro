@@ -45,14 +45,17 @@
       <div class="col-12 col-lg">
         <p class="lead font-weight-bold mb-2">Where to find?</p>
         <p>Station codes are displayed alongside station names on station banner.</p>
-        <div class="station-banner shadow-none mx-auto w-90">
-          <div class="mb-1">
-            <span class="station-code station-code-sm station-code-gl rounded-circle">G7</span>
-            <span class="station-code station-code-sm station-code-vl rounded-circle">V2</span>
-          </div>
-          <h4 class="station-name-en mb-0">Bottomvalley</h4>
-          <h5 class="station-name-zh mb-0">山底谷</h5>
-        </div>
+        {{ range first 1 (where .Site.RegularPages.ByDate.Reverse "Section" "==" "station") }}
+          {{ with .Params }}
+            <div class="station-banner shadow-none mx-auto w-90">
+              <div class="mb-1">
+                {{ partial "station_code/small/horizontal.html" . }}
+              </div>
+              <h4 class="station-name-en mb-0">{{ .station_name_en }}</h4>
+              <h5 class="station-name-zh mb-0">{{ .station_name_zh }}</h5>
+            </div>
+          {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>

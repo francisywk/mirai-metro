@@ -21,5 +21,6 @@ address: [Broadbeach, Victory Bay, City of Mirai, United Cities]
 nearby_attraction: [Broadbeach]
 connecting_station: false
 popular: false
+date: 2020-07-12T02:01:00+08:00
 ---
 

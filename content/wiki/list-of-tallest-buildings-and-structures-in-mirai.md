@@ -18,20 +18,137 @@ The City of Mirai has dozens of completed tall structures, with the majority of 
 This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tall, based on standard height measurement. This includes spires and architectural details but does not include antenna masts. Existing structures are included for ranking purposes based on present height. This list includes under construction buildings that have already been topped out.
 
 <div class="table-responsive">
-{{< bootstrap-table "table table-bordered table-700" >}}
-| Rank 	| Name                                                   	| Height (m/ft) 	| Primary use               	| Location           	|
-|------	|--------------------------------------------------------	|---------------	|---------------------------	|--------------------	|
-|   1  	| Mirai Tower<br>美來中心大廈                            	| 189 / 620     	| Mixed                     	| Mugen              	|
-|   2  	| One Union Trade Centre<br>聯合貿易中心                	| 157 / 515     	| Office                    	| Berryhills         	|
-|   3  	| Freedom Tower<br>自由大廈                              	| 144 / 472     	| Office                    	| Mugen              	|
-|   4  	| Paradise Tower<br>仙境大廈                             	| 114 / 374     	| Residential               	| Mugen              	|
-|   5  	| CT Centre<br>CT集團中心                                	| 89.5 / 294    	| Office                    	| Mugen              	|
-|   6  	| The Void<br>虚空大廈                                   	| 67 / 220      	| Mixed                     	| Downtown Core      	|
-|   7  	| Mirai City Airport ATC Tower<br>美來城市空港交通管制塔 	| 60 / 197      	| Air traffic control tower 	| Mirai City Airport 	|
-|   8  	| Central Clock Tower<br>中環大鐘樓                      	| 52 / 171      	| Clock tower               	| Mugen              	|
-|   9  	| Victory Bay Lighthouse<br>勝利灣燈塔                   	| 40 / 131      	| Lighthouse                	| Broadbeach         	|
-|  10  	| Mirai Fire Service Headquarters<br>美來消防局總部      	| 37.5 / 123    	| Fire department           	| Downtown Core      	|
-|  11  	| Three Storey Pagoda<br>三重塔                          	| 21 / 69       	| Mixed                     	| Mugen              	|
-|  12  	| Grand Silo Tower<br>大筒倉塔                           	| 20 / 66       	| Grain elevator            	| Fhoenix Hill       	|
-{{< /bootstrap-table >}}
+  <table class="table table-bordered table-700">
+    <thead class="thead-light">
+      <tr>
+        <th>Rank</th>
+        <th>Name</th>
+        <th>Height (m/ft)</th>
+        <th>Primary use</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>
+          Mirai Tower<br />
+          美來中心大廈
+        </td>
+        <td>189 / 620</td>
+        <td>Mixed</td>
+        <td>Mugen</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>
+          One Union Trade Centre<br />
+          聯合貿易中心
+        </td>
+        <td>157 / 515</td>
+        <td>Office</td>
+        <td>Berryhills</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>
+          Freedom Tower<br />
+          自由大廈
+        </td>
+        <td>144 / 472</td>
+        <td>Office</td>
+        <td>Mugen</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>
+          Paradise Tower<br />
+          仙境大廈
+        </td>
+        <td>114 / 374</td>
+        <td>Residential</td>
+        <td>Mugen</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>
+          CT Centre<br />
+          CT集團中心
+        </td>
+        <td>89.5 / 294</td>
+        <td>Office</td>
+        <td>Mugen</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>
+          The Void<br />
+          虚空大廈
+        </td>
+        <td>67 / 220</td>
+        <td>Mixed</td>
+        <td>Downtown Core</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>
+          Mirai City Airport ATC Tower<br />
+          美來城市空港交通管制塔
+        </td>
+        <td>60 / 197</td>
+        <td>Air traffic control tower</td>
+        <td>Mirai City Airport</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>
+          Central Clock Tower<br />
+          中環大鐘樓
+        </td>
+        <td>52 / 171</td>
+        <td>Clock tower</td>
+        <td>Mugen</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>
+          Victory Bay Lighthouse<br />
+          勝利灣燈塔
+        </td>
+        <td>40 / 131</td>
+        <td>Lighthouse</td>
+        <td>Broadbeach</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>
+          Mirai Fire Service Headquarters<br />
+          美來消防局總部
+        </td>
+        <td>37.5 / 123</td>
+        <td>Fire department</td>
+        <td>Downtown Core</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>
+          Three Storey Pagoda<br />
+          三重塔
+        </td>
+        <td>21 / 69</td>
+        <td>Mixed</td>
+        <td>Mugen</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>
+          Grand Silo Tower<br />
+          大筒倉塔
+        </td>
+        <td>20 / 66</td>
+        <td>Grain elevator</td>
+        <td>Fhoenix Hill</td>
+      </tr>
+    </tbody>
+  </table>
 </div>

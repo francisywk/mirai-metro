@@ -71,7 +71,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
     </thead>
     <tbody>
       <tr class="station-code-wl border-left-0 border-right-0">
-        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Snowhide" >}} (anti-clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Onsnow" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -166,7 +166,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W9<span>
         </td>
-        <td>{{< wiki/link station="Mount Snowhide" >}}</td>
+        <td>{{< wiki/link station="Mount Onsnow" >}}</td>
         <td>雪藏山</td>
         <td></td>
       </tr>

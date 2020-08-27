@@ -21,5 +21,6 @@ address: [Hell's Gate, Dark Forest, City of Mirai, United Cities]
 nearby_attraction: [Mirai Nether Portal]
 connecting_station: false
 popular: false
+date: 2020-06-29T03::00+08:00
 ---
 

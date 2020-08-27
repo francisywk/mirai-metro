@@ -34,6 +34,7 @@ jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.p
 address: [Downtown East, City Loop, City of Mirai, United Cities]
 nearby_attraction: [The Void, Mirai Fire Service Headquarters]
 connecting_station: false
-popular: false
+popular: true
+date: 2020-07-12T19:26:00+08:00
 ---
 

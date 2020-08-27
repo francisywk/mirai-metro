@@ -28,5 +28,6 @@ address: [Berryhills, City Loop, City of Mirai, United Cities]
 nearby_attraction: [One Union Trade Centre (1UTC), City Loop Gateway Horse Park, MineDonald's]
 connecting_station: false
 popular: false
+date: 2020-06-29T00:38:00+08:00
 ---
 

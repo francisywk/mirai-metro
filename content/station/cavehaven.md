@@ -35,5 +35,6 @@ address: [Cavehaven, La Miraiya, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false
 popular: false
+date: 2020-07-12T02:04:00+08:00
 ---
 

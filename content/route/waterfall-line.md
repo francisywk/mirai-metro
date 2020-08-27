@@ -45,7 +45,7 @@ stations:
     transfer:
       - mm_sign: [B]
   - station_code: [W9]
-    name: Mount Snowhide
+    name: Mount Onsnow
     name_zh: 雪藏山
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:50px}
 weight: 6

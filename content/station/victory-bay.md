@@ -25,5 +25,6 @@ address: [Braodbeach, Victory Bay, City of Mirai, United Cities]
 nearby_attraction: [Broadbeach, Victory Jetty, Museum of Victory, Victory Bay Lighthouse]
 connecting_station: false
 popular: false
+date: 2020-07-12T21:17:00+08:00
 ---
 

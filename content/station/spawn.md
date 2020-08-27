@@ -18,5 +18,6 @@ address: [Spawn, Spawn Chunk, City of Mirai, United Cities]
 nearby_attraction: [World Spawn Point]
 connecting_station: false
 popular: false
+date: 2020-07-12T20:28:00+08:00
 ---
 

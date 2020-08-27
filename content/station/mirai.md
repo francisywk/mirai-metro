@@ -45,5 +45,6 @@ connecting_station:
   - station: Mugen
     mm_sign: [B,V,W,D,P]
 popular: true
+date: 2020-07-12T02:24:00+08:00
 ---
 

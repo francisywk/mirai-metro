@@ -27,6 +27,7 @@ jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),ur
 address: [Paradise Falls, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Red House, The Paradise Falls, Paradise Falls Residences, Up House, Central Market, Uptown Stable]
 connecting_station: false
-popular: true
+popular: false
+date: 2020-07-12T20:55:00+08:00
 ---
 

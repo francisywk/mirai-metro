@@ -48,5 +48,6 @@ connecting_station:
   - station: Mirai
     mm_sign: [G,Ac,C,D]
 popular: true
+date: 2020-07-12T20:01:00+08:00
 ---
 

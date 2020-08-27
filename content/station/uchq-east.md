@@ -21,5 +21,6 @@ address: [United Cities Headquarters, Redstone Valley, City of Mirai, United Cit
 nearby_attraction: [UCHQ East Entrance]
 connecting_station: false
 popular: false
+date: 2020-07-12T20:34:00+08:00
 ---
 

@@ -28,5 +28,6 @@ address: [Uptown Cross, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Uptown Underpass]
 connecting_station: false
 popular: false
+date: 2020-07-12T21:13:00+08:00
 ---
 

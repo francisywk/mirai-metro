@@ -28,5 +28,6 @@ address: [Mount Austin, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Mount Austin Clubhouse, Mount Austin Terrace Houses]
 connecting_station: false
 popular: false
+date: 2020-07-12T19:54:00+08:00
 ---
 

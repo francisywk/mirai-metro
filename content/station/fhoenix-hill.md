@@ -18,5 +18,6 @@ address: [Fhoenix Hill, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Fhoenix Hill Church]
 connecting_station: false
 popular: false
+date: 2020-07-12T19:30:00+08:00
 ---
 

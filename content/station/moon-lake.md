@@ -18,5 +18,6 @@ address: [Moon Lake, Victory Bay, City of Mirai, United Cities]
 nearby_attraction: [Moon Lake, Back Lake]
 connecting_station: false
 popular: false
+date: 2020-07-12T19:49:00+08:00
 ---
 

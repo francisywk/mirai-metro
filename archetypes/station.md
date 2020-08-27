@@ -21,5 +21,6 @@ address: [{{ replace .Name "-" " " | title }}, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false
 popular: false
+date: {{ .Date }}
 ---
 

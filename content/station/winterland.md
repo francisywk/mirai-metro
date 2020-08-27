@@ -14,7 +14,7 @@ adjacent_stations:
         next: anti-clockwise
   - mm_sign: [W]
     preceding:
-      - station: W9-Mount Snowhide
+      - station: W9-Mount Onsnow
         next: anti-clockwise
     following:
       - station: W2-Uptown Cross
@@ -35,5 +35,6 @@ address: [Winterland, City Loop, City of Mirai, United Cities]
 nearby_attraction: [Winter Wonderland]
 connecting_station: false
 popular: true
+date: 2020-07-12T21:00:00+08:00
 ---
 

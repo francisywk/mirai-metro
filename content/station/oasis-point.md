@@ -16,8 +16,8 @@ adjacent_stations:
     preceding:
       - station: P5-City Farm
         towards: Panda Museum
-alternate_station_name_en: South Bank
-alternate_station_name_zh: 南岸
+alternate_station_name_en:
+alternate_station_name_zh:
 location_en: Big Snow
 location_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,left 145px}
@@ -25,5 +25,6 @@ address: [Oasis Point, Big Snow, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false
 popular: false
+date: 2020-07-12T09:21:00+08:00
 ---
 

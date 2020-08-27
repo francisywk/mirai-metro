@@ -18,5 +18,6 @@ address: [Diamond Hill, La Miraiya, City of Mirai, United Cities]
 nearby_attraction: []
 connecting_station: false
 popular: false
+date: 2020-07-12T02:21:00+08:00
 ---
 

@@ -41,7 +41,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is a planned line on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). Following the network's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Mount Snowhide of Big Snow in the west, to UCHQ West of Redstone Valley in the east.
+The **Big Snow Line** (Code **S**) is a planned line on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). Following the network's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Mount Onsnow of Big Snow in the west, to UCHQ West of Redstone Valley in the east.
 
 <br>
 
@@ -70,7 +70,7 @@ The following is a list of planned stations of the Big Snow Line that have not b
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
-        <td>{{< wiki/link station="Mount Snowhide" >}}</td>
+        <td>{{< wiki/link station="Mount Onsnow" >}}</td>
         <td>雪藏山</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
