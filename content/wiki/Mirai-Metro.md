@@ -58,7 +58,7 @@ names_transcriptions:
       - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
         content: 美來地鐵
       - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
-        content: 美來地铁
+        content: 美来地铁
   - transcriptions:
     - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
     - cols_2:

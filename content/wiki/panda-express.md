@@ -1,6 +1,7 @@
 ---
 title: "Panda Express (Mirai Metro)"
 linktitle: Panda Express
+title_zh: 熊貓快綫
 description: Rapid transit line in Mirai
 date: 2020-07-27T19:43:49+08:00
 draft: false
@@ -13,22 +14,22 @@ quick_facts:
   - mm_sign: [P]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 熊貓快綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: Operational (Phase 1)
+      content: "<b>Stage 1</b>: Operational<br><b>Stage 2</b>: Approved<br><b>Stage 3</b>: Planned"
     - title: Termini
       content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum station')<br>[Oasis Point](/wiki/oasis-point-station 'Oasis Point station')"
     - title: Stations
       content: 5 (Operational)<br>2 (Future)<br>1 (Reserved)
   - heading: Operation
   - cols_2:
+    - title: Planned opening
+      content: "<b>Stage 2</b>: 2021<br><b>Stage 3</b>: 2023"
     - title: Opened
-      content: 27 July 2020
+      content: "<b>Stage 1</b>: 27 July 2020"
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
@@ -69,10 +70,10 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="pandaexpress">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -83,22 +84,22 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
     </thead>
     <tbody>
       <tr>
-        <td colspan="5" class="alert-warning font-weight-bold">
-          Phase 2: Panda Museum extension <span class="small font-italic font-weight-bold">(to be ready by 2021)</span>
+        <td colspan="5" class="alert-secondary font-weight-bold">
+          Stage 2 <span class="small font-italic font-weight-bold">(approved, to be ready by 2021)</span>
         </td>
       </tr>
-      <tr class="alert-light">
+      <tr>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
         </td>
-        <td class="font-italic">Panda Museum</td>
-        <td class="font-italic">熊貓博物館</td>
+        <td>Panda Museum</td>
+        <td>熊貓博物館</td>
         <td></td>
         <td>La Miraiya</td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-success font-weight-bold">
-          Phase 1: Operational
+        <td colspan="5" class="alert-info font-weight-bold">
+          Stage 1 <span class="small font-italic font-weight-bold">(operational, since 27 July 2020)</span>
         </td>
       </tr>
       <tr>
@@ -161,29 +162,20 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Big Snow</td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-warning font-weight-bold">
-          Phase 3: Spawn extension <span class="small font-italic font-weight-bold">(to be ready by 2023)</span>
+        <td colspan="5" class="alert-secondary font-weight-bold">
+          Stage 3 <span class="small font-italic font-weight-bold">(planned, to be ready by 2023)</span>
         </td>
       </tr>
-      <tr class="alert-light">
+      <tr>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
         <td class="font-italic">Reserve station</td>
         <td class="font-italic">預留站</td>
-        <td></td>
-        <td>Dark Forest</td>
-      </tr>
-      <tr class="alert-light">
         <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P8</span>
+          {{< wiki/mm-sign route="S" >}}
         </td>
-        <td class="font-italic">Spawn</td>
-        <td class="font-italic">生成</td>
-        <td>
-          {{< wiki/mm-sign route="B" >}}
-        </td>
-        <td>Spawn Chunks</td>
+        <td>Big Snow</td>
       </tr>
     </tbody>
   </table>

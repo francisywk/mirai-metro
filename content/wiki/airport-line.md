@@ -1,6 +1,7 @@
 ---
 title: "Airport Line (Mirai Metro)"
 linktitle: Airport Line
+title_zh: 空港綫
 description: Rapid transit line in Mirai
 date: 2020-08-10T02:11:42+08:00
 draft: false
@@ -12,8 +13,6 @@ quick_facts:
   - mm_sign: [Ac,A,Ax]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 空港綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -64,11 +63,11 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
 
  <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="airportexpress">
       <tr>
-        <th colspan="2">Service</th>
+        <th colspan="2" class="border-bottom-0">Service</th>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>

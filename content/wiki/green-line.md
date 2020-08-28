@@ -1,6 +1,7 @@
 ---
 title: "Green Line (Mirai Metro)"
 linktitle: Green Line
+title_zh: 綠綫
 description: Rapid transit line in Mirai
 date: 2020-08-11T01:44:20+08:00
 draft: false
@@ -12,8 +13,6 @@ quick_facts:
   - mm_sign: [G]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 綠綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -58,10 +57,10 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="greenline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -71,7 +70,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
       </tr>
     </thead>
     <tbody>
-      <tr class="station-code-gl border-left-0 border-right-0">
+      <tr class="alert-secondary">
         <td colspan="5">— ↑ loop line - towards {{< wiki/link station="UCHQ West" >}} (clockwise) ↑ —</td>
       </tr>
       <tr>
@@ -182,7 +181,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>聯總西</td>
         <td></td>
       </tr>
-      <tr class="station-code-gl border-left-0 border-right-0">
+      <tr class="alert-secondary">
         <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Mirai" >}} (anti-clockwise) ↓ —</td>
       </tr>
     </tbody>

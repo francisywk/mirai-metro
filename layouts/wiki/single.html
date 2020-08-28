@@ -28,7 +28,7 @@
             </span>
           </button>
           <div class="collapse d-lg-block" id="quickfacts">
-            <div class="container bg-light border">
+            <div class="container bg-light px-2 border">
               {{ range first 1 .quick_facts }}
                 <h6 class="text-center font-weight-bold mt-2 mb-0" {{ with .title_style}}style="{{ . | safeCSS }}"{{ end }}>
                   {{ with $.LinkTitle }}
@@ -36,10 +36,11 @@
                   {{ else }}
                     {{ $.Title }}
                   {{ end }}
+                  <br>
+                  {{ with $.Params.title_zh }}
+                    <span class="font-weight-normal">{{ . }}</span>
+                  {{ end }}
                 </h6>
-                {{ with $.Params.title_zh }}
-                  <h6 class="text-center mb-0">{{ . }}</h6>
-                {{ end }}
               {{ end }}
               {{ range .quick_facts }}
                 {{ with .image }}
@@ -74,10 +75,10 @@
                   {{ end }}
                   {{ range .cols_2 }}
                     <div class="row mb-2">
-                      <div class="col-5 font-weight-bold pr-0">
+                      <div class="col-5 font-weight-bold">
                         {{ .title | markdownify }}
                       </div>
-                      <div class="col-7 pl-0 text-break">
+                      <div class="col-7 text-break">
                         {{ .content | markdownify }}
                       </div>
                     </div>
@@ -93,12 +94,12 @@
                   {{ end }}
                   {{ range .cols_2 }}
                     <div class="row mb-1">
-                      <div class="col-6 pr-0">
+                      <div class="col-6">
                         <p class="mb-0">
                           {{ .title | markdownify }}
                         </p>
                       </div>
-                      <div class="col-6 pl-0">{{ .content }}</div>
+                      <div class="col-6">{{ .content }}</div>
                     </div>
                   {{ end }}
                   {{ with .transcriptions }}
@@ -119,12 +120,12 @@
                       </div>
                       {{ range .cols_2 }}
                         <div class="row">
-                          <div class="col pr-0">
+                          <div class="col">
                             <p class="mb-1">
                               {{ .title | markdownify }}
                             </p>
                           </div>
-                          <div class="col pl-0">
+                          <div class="col">
                             <p class="mb-1">
                               {{ .content }}
                             </p>

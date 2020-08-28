@@ -1,6 +1,7 @@
 ---
 title: "Blue Line (Mirai Metro)"
 linktitle: Blue Line
+title_zh: 藍綫
 description: Rapid transit line in Mirai
 date: 2020-07-10T00:47:27+08:00
 draft: false
@@ -12,8 +13,6 @@ quick_facts:
   - mm_sign: [B]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 藍綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -72,10 +71,10 @@ The following is a list of the stations on the Blue Line.
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="blueline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -173,7 +172,7 @@ The following is a list of the stations on the Blue Line.
         <td>Spawn Chunk</td>
       </tr>
       <tr>
-        <td colspan="5" class="bg-light font-weight-bold">
+        <td colspan="5" class="alert-secondary font-weight-bold">
           Branch line from {{< wiki/link station="Zero Zero" >}} station
         </td>
       </tr>

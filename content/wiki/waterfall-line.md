@@ -1,5 +1,6 @@
 ---
 title: "Waterfall Line"
+title_zh: 瀑布綫
 description: Rapid transit line in Mirai
 date: 2020-08-12T03:55:29+08:00
 draft: false
@@ -7,12 +8,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,waterfallline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #FDD931;border-bottom: 4px solid #FDD931;padding:2px 0;"
+  - title_style: "border-top: 4px solid #FEDF00;border-bottom: 4px solid #FEDF00;padding:2px 0;"
   - mm_sign: [W]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 瀑布綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -57,10 +56,10 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="waterfallline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -70,7 +69,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
       </tr>
     </thead>
     <tbody>
-      <tr class="station-code-wl border-left-0 border-right-0">
+      <tr class="alert-secondary">
         <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Onsnow" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
@@ -170,7 +169,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>雪藏山</td>
         <td></td>
       </tr>
-      <tr class="station-code-wl border-left-0 border-right-0">
+      <tr class="alert-secondary">
         <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
       </tr>
     </tbody>

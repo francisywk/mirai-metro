@@ -1,5 +1,6 @@
 ---
 title: "Diamond Line"
+title_zh: 鑽石綫
 description: Rapid transit line in Mirai
 date: 2020-08-10T17:40:55+08:00
 draft: false
@@ -11,8 +12,6 @@ quick_facts:
   - mm_sign: [D]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 鑽石綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -104,10 +103,10 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="diamondline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Opened</th>
         <th rowspan="2">Type</th>

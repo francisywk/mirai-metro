@@ -1,5 +1,6 @@
 ---
 title: "City Loop Line"
+title_zh: 三環綫
 description: Rapid transit line in Mirai
 date: 2020-08-09T03:02:53+08:00
 draft: false
@@ -11,8 +12,6 @@ quick_facts:
   - mm_sign: [C]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 三環綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -61,10 +60,10 @@ The following is a list of the stations on the City Loop Line.
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="cityloopline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer / Note</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -74,7 +73,7 @@ The following is a list of the stations on the City Loop Line.
       </tr>
     </thead>
     <tbody>
-      <tr class="station-code-cl border-left-0 border-right-0">
+      <tr class="alert-secondary">
         <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Austin" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
@@ -142,7 +141,7 @@ The following is a list of the stations on the City Loop Line.
           {{< wiki/mm-sign route="G" >}}
         </td>
       </tr>
-      <tr class="station-code-cl border-left-0 border-right-0">
+      <tr class="alert-secondary">
         <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
       </tr>
     </tbody>

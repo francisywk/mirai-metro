@@ -1,6 +1,7 @@
 ---
 title: "Red Line (Mirai Metro)"
 linktitle: Red Line
+title_zh: 紅綫
 description: Rapid transit line in Mirai
 date: 2020-08-09T23:19:57+08:00
 draft: false
@@ -12,8 +13,6 @@ quick_facts:
   - mm_sign: [R]
   - heading: Overview
   - cols_2:
-    - title: Native name
-      content: 紅綫
     - title: Type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: System
@@ -70,10 +69,10 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="thead-light">
+    <thead class="redline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Station Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
