@@ -35,10 +35,6 @@ stations:
     transfer:
       - mm_sign: [W]
     last_station: true
-  - station_code: [P8]
-    name: Spawn
-    name_zh: 生成
-    placeholder_station: true
 custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:7px 50%;background-position:51px bottom}.station-code-bg{background-image:url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:7px 101%;background-position:51px}.station-code-bg-last{background-image:url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:7px 50%;background-position:51px top}
 weight: 9
 ---

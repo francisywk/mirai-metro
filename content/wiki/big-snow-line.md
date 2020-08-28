@@ -17,11 +17,11 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: "<b>Stage 1</b>: Approved<br><b>Stage 2</b>: Planned"
+      content: "<b>Stage 1</b>: Under construction<br><b>Stage 2</b>: Planned"
   - heading: Operation
   - cols_2:
     - title: Planned opening
-      content: "<b>Stage 1</b>: January 2021<br><b>Stage 2</b>: July 2022"
+      content: "<b>Stage 1</b>: December 2020<br><b>Stage 2</b>: December 2021"
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
@@ -67,7 +67,7 @@ The following is a list of planned stations of the Big Snow Line.
     <tbody>
       <tr>
         <td colspan="5" class="alert-secondary font-weight-bold">
-          Stage 1 <span class="small font-italic font-weight-bold">(approved, to be ready by January 2021)</span>
+          Stage 1 <span class="small font-italic font-weight-bold">(under construction, to be ready by December 2020)</span>
         </td>
       <tr>
       <tr>
@@ -125,7 +125,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td colspan="5" class="alert-secondary font-weight-bold">
-          Stage 2 <span class="small font-italic font-weight-bold">(Planned, to be ready by July 2022)</span>
+          Stage 2 <span class="small font-italic font-weight-bold">(planned, to be ready by December 2021)</span>
         </td>
       <tr>
       <tr>
