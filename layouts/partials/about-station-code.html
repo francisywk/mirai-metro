@@ -1,0 +1,54 @@
+<div class="container py-5 text-center">
+  <h4 class="pt-4 pb-3 font-weight-bold" id="about_station_code">About Station Code</h4>
+  <p class="text-left">Station code is consist of a letter representing the metro line and a number for the station. They are circled with a color that represents the metro line making it easy to find your station.</p>
+  <p class="lead pt-2 font-weight-bold mb-2">Overview</p>
+  <div class="row text-left">
+    <div class="col-12 col-lg-5">
+      <div class="border border-miraimetro2 py-5 text-center w-90 mx-auto">
+        <span class="station-code station-code-xl station-code-rl rounded-circle">R2</span>
+        <span class="station-code station-code-xl station-code-bl rounded-circle">B5</span>
+      </div>
+    </div>
+    <div class="col-12 col-lg-7 pt-2 pt-lg-4">
+      <ul>
+        <li>
+          The alphabet letter represents the metro line name.
+        </li>
+        <li>
+          The number represents the station number of the metro line.
+        </li>
+        <li>
+          A single station may have multiple designated station codes of different lines.
+        </li>
+        <li>
+          Station code are circled with a color that represents the metro line.
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="row pt-3 pt-lg-5">
+    <div class="col-12 col-lg">
+      <p class="lead font-weight-bold mb-2">Why using?</p>
+      <ul class="text-left">
+        <li>It is easy to know the station code for the metro line of your desired station.</li>
+        <li>It is easy to know the number of stations until your desired or transfer station.</li>
+        <li>It is easy to remember or search for your desired station instead of remembering station names.</li>
+      </ul>
+    </div>
+    <div class="col-12 col-lg">
+      <p class="lead font-weight-bold mb-2">Where to find?</p>
+      <p>Station codes are displayed alongside station names on station banner.</p>
+      {{ range first 1 (where .Site.RegularPages.ByDate.Reverse "Section" "==" "station") }}
+        {{ with .Params }}
+          <div class="station-banner shadow-none mx-auto w-90">
+            <div class="mb-1">
+              {{ partial "station_code/small/horizontal.html" . }}
+            </div>
+            <h4 class="station-name-en mb-0">{{ .station_name_en }}</h4>
+            <h5 class="station-name-zh mb-0">{{ .station_name_zh }}</h5>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>

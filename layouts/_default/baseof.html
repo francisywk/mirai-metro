@@ -4,6 +4,11 @@
 <body id="page-top">
   {{ partial "navbar.html" . }}
   {{ block "main" . }}{{ end }}
+  {{ if (or (eq .Section "route") (eq .Section "station")) }}
+    {{ if eq .Kind "section" }}
+      {{ partial "about-station-code.html" . }}
+    {{ end }}
+  {{ end }}
   {{ partial "footer.html" . }}
   {{ partial "scripts.html" . }}
 </body>

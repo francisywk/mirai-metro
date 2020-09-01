@@ -112,6 +112,29 @@
           </table>
         </div>
       </div>
+      <div class="col-12 col-lg-4">
+        <h5 class="font-weight-bold text-center">Other routes</h5>
+        <div class="row row-cols-2 mx-0">
+          {{ range where $.Site.RegularPages "Section" "==" "route" }}
+            {{ if ne .Title $.Title }}
+              <div class="col mb-2 px-1">
+                <div class="card bg-light border-0 rounded-0 px-25 py-2">
+                  <div class="media">
+                    <div class="align-self-center pr-25">
+                      {{ with .Params  }}
+                        {{ partial "mm_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
+                      {{ end }}
+                    </div>
+                    <div class="media-body small align-self-center">
+                      <a href="{{ .RelPermalink }}" class="stretched-link"><span><i class="fas fa-angle-right">&nbsp;</i>{{ .Title }}</span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
     </div>
   {{ end }}
 </div>

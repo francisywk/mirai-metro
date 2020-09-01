@@ -63,7 +63,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
 
  <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="airportexpress">
+    <thead class="airportcomposite2">
       <tr>
         <th colspan="2" class="border-bottom-0">Service</th>
         <th rowspan="2">Code</th>

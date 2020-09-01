@@ -43,6 +43,62 @@ quick_facts:
 
 <br>
 
+#### Adjacent stations
+
+---
+
+<div class="table-responsive">
+  <table class="table table-bordered table-600 text-center">
+    <thead class="thead-light">
+      <tr>
+        <th class="w-35">Preceding station</th>
+        <th colspan="3">Route</th>
+        <th class="w-35">Following station</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          {{< wiki/link station="Winterland" >}}
+          <p class="small font-italic mb-0">Next anti-clockwise</p>
+        </td>
+        <td class="cityloopline"></td>
+        <td class="w-30">
+          <div class="mb-05">
+            {{< wiki/mm-sign route="C" >}}
+          </div>
+          {{< wiki/link route="C" >}}
+        </td>
+        <td class="cityloopline"></td>
+        <td>
+          {{< wiki/link station="Berryhills" >}}
+          <p class="small font-italic mb-0">Next clockwise</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          {{< wiki/link station="Mount Onsnow" >}}
+          <p class="small font-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
+        </td>
+        <td class="bigsnowline"></td>
+        <td>
+          <div class="mb-05">
+            {{< wiki/mm-sign route="S" >}}
+          </div>
+          {{< wiki/link route="S" >}}
+        </td>
+        <td class="bigsnowline"></td>
+        <td>
+          {{< wiki/link station="UCHQ West" >}}
+          <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ East" >}}</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
+
 #### See also
 
 ---

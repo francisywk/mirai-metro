@@ -20,7 +20,7 @@
   </script>
 {{ end }}
 {{ if eq .Section "wiki" }}
-  {{ if eq .Page.Kind "page" }}
+  {{ if and (eq .Kind "page") (ne .Params.category "special") }}
     {{ $timeago := "/js/timeago.min.js" | absURL }}
     <script src="{{ $timeago }}"></script>
     <script>

@@ -95,7 +95,7 @@ The following is a list of the stations on the City Loop Line.
         <td class="font-italic">{{< wiki/link station="Miraibridge" >}}</td>
         <td class="font-italic">美來橋</td>
         <td>
-          Infill station <span class="small font-italic">(2021)</span>
+          Infill station <span class="small font-italic">(December 2020)</span>
         </td>
       </tr>
       <tr>
