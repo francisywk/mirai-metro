@@ -19,3 +19,16 @@
     $("#searchInput").on("keyup", function () { var value = $(this).val().toLowerCase(); $("#stationTable tr").filter(function () { $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1) }) })
   </script>
 {{ end }}
+{{ if eq .Section "wiki" }}
+  {{ if eq .Page.Kind "page" }}
+    {{ $timeago := "/js/timeago.min.js" | absURL }}
+    <script src="{{ $timeago }}"></script>
+    <script>
+      function init_index_page() {
+        var locale = navigator.language.replace('-', '_');
+        timeago.render(document.querySelectorAll('.render-timeago'), locale);
+      }
+      init_index_page();
+    </script>
+  {{ end }}
+{{ end }}

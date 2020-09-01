@@ -49,7 +49,7 @@
   {{ if and (eq .Page.Kind "page") (ne .Params.category "special") }}
     <div class="alert alert-secondary mb-0 py-2 rounded-0" role="alert">
       <div class="container">
-        <i class="fas fa-history fa-lg pr-2 align-middle"></i>Last updated on <span class="font-weight-bold d-none d-md-inline">{{ dateFormat "2 January 2006, at 15:04 (MST)" .Lastmod.UTC }}</span><span class="font-weight-bold d-md-none">{{ dateFormat "2 January 2006" .Lastmod.UTC }}</span>.
+        <i class="fas fa-edit pr-2"></i>Last updated <span class="render-timeago font-weight-bold" datetime="{{ dateFormat "2006-01-02 15:04:05" .Lastmod.UTC }}"></span><span class="d-none d-md-inline"> on {{ dateFormat "2 January 2006, 15:04 (MST)" .Lastmod.UTC }}</span>.
       </div>
     </div>
   {{ end }}
