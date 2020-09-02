@@ -17,13 +17,13 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: Operational<br>Under planning (Miraibridge infill station)
+      content: Operational<br>Under construction (Mirai Bridge infill station)
     - title: Locale
       content: City Loop, Mirai
     - title: Termini
       content: "[Winterland](/wiki/winterland-station 'Winterland station') (loop)"
     - title: Stations
-      content: 5 (Operational)<br>1 (Under planning)
+      content: 5 (Operational)<br>1 (Under construction)
   - heading: Operation
   - cols_2:
     - title: Opened
@@ -92,7 +92,7 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C2</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Miraibridge" >}}</td>
+        <td class="font-italic">{{< wiki/link station="Mirai Bridge" >}}</td>
         <td class="font-italic">美來橋</td>
         <td>
           Infill station <span class="small font-italic">(December 2020)</span>

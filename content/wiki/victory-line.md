@@ -119,7 +119,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>{{< wiki/link station="Logsmead" >}}</td>
         <td>樂米町</td>
         <td></td>
-        <td>Mob Forest</td>
+        <td>Mobforest</td>
       </tr>
       <tr>
         <td>

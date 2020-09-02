@@ -10,7 +10,7 @@ stations:
     transfer:
       - mm_sign: [G,W]
   # - station_code: [C2]
-  #   name: Miraibridge
+  #   name: Mirai Bridge
   #   name_zh: 美來橋
   #   transfer:
   #     - mm_sign: [S]

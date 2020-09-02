@@ -1,6 +1,6 @@
 ---
-title: "Miraibridge station"
-linktitle: Miraibridge
+title: "Mirai Bridge station"
+linktitle: Mirai Bridge
 title_zh: 美來橋
 description: Upcoming Mirai Metro interchange station in City Loop, Mirai
 date: 2020-08-29T01:16:58+08:00
@@ -9,7 +9,7 @@ category: miraimetro
 keywords: [mirai,miraimetro,station,cityloopline,bigsnowline]
 see_also: true
 quick_facts:
-  - station_code: [C2,S3]
+  - station_code: [C2,SX]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"
   - heading: General information
@@ -32,14 +32,14 @@ quick_facts:
   - heading: Other information
   - cols_2:
     - title: Website
-      content: "<https://miraimetro.netlify.app/station/miraibridge/>"
+      content: "<https://miraimetro.netlify.app/station/mirai-bridge/>"
   - heading: History
   - cols_2:
     - title: Planned opening
       content: December 2020
 ---
 
-**Miraibridge** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來橋, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Kìuh*) is a planned station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is an infill station for the {{< wiki/link route="C" >}} and will interchange with the {{< wiki/link route="S" >}} when it open at the end of 2020.
+**Mirai Bridge** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來橋, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Kìuh*) is a planned station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is an infill station for the {{< wiki/link route="C" >}} and will interchange with the {{< wiki/link route="S" >}} when it open at the end of 2020.
 
 <br>
 

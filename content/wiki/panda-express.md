@@ -92,7 +92,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
         </td>
-        <td>Panda Museum</td>
+        <td>{{< wiki/link station="Panda Museum" >}}</td>
         <td>熊貓博物館</td>
         <td></td>
         <td>La Miraiya</td>
@@ -170,12 +170,10 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
-        <td class="font-italic">Reserve station</td>
-        <td class="font-italic">預留站</td>
-        <td>
-          {{< wiki/mm-sign route="S" >}}
-        </td>
-        <td>Big Snow</td>
+        <td class="font-italic">Unnamed station</td>
+        <td class="font-italic">未名站</td>
+        <td></td>
+        <td>Southwest Valley</td>
       </tr>
     </tbody>
   </table>

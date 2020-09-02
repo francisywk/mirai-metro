@@ -32,7 +32,6 @@
     "m",
     "minecart",
     "mirai",
-    "miraibridge",
     "miraimetro",
     "mugen",
     "méihlòih",
@@ -41,7 +40,9 @@
     "uchq",
     "victoryline",
     "waterfallline",
-    "winterland"
+    "winterland",
+    "mobforest",
+    "roubay"
   ],
   "cSpell.ignoreWords": [
     "ai",
