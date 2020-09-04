@@ -15,7 +15,7 @@ adjacent_stations:
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: Mobforest
-location_zh: 動森
+location_zh: 莫林
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 130px}
 address: [Logsmead, Mobforest, City of Mirai, United Cities]
 nearby_attraction: []

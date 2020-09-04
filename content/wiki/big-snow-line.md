@@ -91,8 +91,8 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
-        <td>{{< wiki/link station="Roubay" >}}</td>
-        <td>入灣</td>
+        <td>{{< wiki/link station="Roubay Road" >}}</td>
+        <td>入灣道</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>

@@ -25,6 +25,8 @@
         <div class="route-sign pandaexpress {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Panda Express 熊貓快綫"{{ end }}>P</div>
       {{ else if eq . "S" }}
         <div class="route-sign bigsnowline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Big Snow Line 大雪綫"{{ end }}>S</div>
+      {{ else if eq . "I" }}
+        <div class="route-sign islandsline {{ with $.vertical }}my-05{{ end }}"{{ with $.hover }} data-toggle="tooltip" data-placement="bottom" title="Islands Line 離島綫"{{ end }}>I</div>
       {{ end }}
       {{ with $.vertical }}<br>{{ end }}
     {{ end }}

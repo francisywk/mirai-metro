@@ -648,6 +648,16 @@ ul {
   border: 7px solid #FF80A9;
 }
 
+.islandsline,
+.il span{
+  background-color: #0F798A;
+  color: white;
+}
+
+.station-code-il {
+  border: 7px solid #0F798A;
+}
+
 .placeholderline {
   background-color: #000;
   color: #fff;
@@ -656,11 +666,6 @@ ul {
 .station-code-placeholder {
   border: 7px solid #000;
 }
-
-/*.islandsline, .il span{
-  background-color: #FF69B4;
-  color: white;
-}*/
 
 #footer {
   padding-bottom: 26px;

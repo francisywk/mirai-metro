@@ -46,7 +46,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of the metro after the [Green Line](/wiki/green-line "Green Line"). The line gained its nomenclature from the Paradise Falls district it passes through and the line visually resembles the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model").
+The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of the metro after the [Green Line](/wiki/green-line "Green Line"). The line gained its nomenclature from the Paradise Falls district it passes through and the line visually resembles the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model") on the network map.
 
 <br>
 
