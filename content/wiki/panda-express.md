@@ -73,7 +73,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
     <thead class="pandaexpress">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -107,7 +107,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-pe rounded-circle">P2</span>
         </td>
         <td>{{< wiki/link station="Cavehaven" >}}</td>
-        <td>旗希雲</td>
+        <td>旗喜雲</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}

@@ -60,7 +60,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
     <thead class="greenline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -144,7 +144,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-gl rounded-circle">G7</span>
         </td>
         <td>{{< wiki/link station="Cavehaven" >}}</td>
-        <td>旗希雲</td>
+        <td>旗喜雲</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}

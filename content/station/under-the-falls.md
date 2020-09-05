@@ -1,16 +1,16 @@
 ---
 title: Under the Falls station
-station_code: [R3,W3,P4]
+station_code: [R5,W3,P4]
 station_name_en: Under the Falls
 station_name_zh: 瀑布下
 mm_sign: [R,W,P]
 adjacent_stations:
   - mm_sign: [R]
     preceding:
-      - station: R2-Paradise Falls
+      - station: R4-Paradise Falls
         towards: Fhoenix Hill
     following:
-      - station: R4-Downtown Core
+      - station: R6-Downtown Core
         towards: Highlands
   - mm_sign: [W]
     preceding:

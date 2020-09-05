@@ -46,7 +46,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is a planned line on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). Following the network's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Logsmead of Mobforest in the northeast, to UCHQ East of Redstone Valley in the southeast.
+The **Big Snow Line** (Code **S**) is a planned line on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). Following the network's color coding scheme, the line will be colour-coded pink, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Logsmead of Mob Forest in the northeast, to UCHQ East of Redstone Valley in the southeast.
 
 <br>
 
@@ -61,7 +61,7 @@ The following is a list of planned stations of the Big Snow Line.
     <thead class="bigsnowline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -85,14 +85,14 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
-        <td rowspan="2">Mobforest</td>
+        <td rowspan="2">Mob Forest</td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
-        <td>{{< wiki/link station="Roubay Road" >}}</td>
-        <td>入灣道</td>
+        <td>{{< wiki/link station="Mob Crossing" >}}</td>
+        <td>摩寶踏切</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
@@ -145,6 +145,7 @@ The following is a list of planned stations of the Big Snow Line.
         <td>{{< wiki/link station="Mirai Bridge" >}}</td>
         <td>美來橋</td>
         <td>
+          {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="C" >}}
         </td>
         <td>City Loop</td>

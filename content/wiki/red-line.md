@@ -22,7 +22,7 @@ quick_facts:
     - title: Termini
       content: "[Fhoenix Hill](/wiki/fhoenix-hill-station 'Fhoenix Hill station')<br>[Highlands](/wiki/highlands-station 'Highlands station')"
     - title: Stations
-      content: 6
+      content: 6 (Operational)<br>2 (Under construction)
   - heading: Operation
   - cols_2:
     - title: Opened
@@ -72,8 +72,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
     <thead class="redline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
-        <th rowspan="2">Transfer</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
+        <th rowspan="2">Transfer / Note</th>
         <th rowspan="2">Location</th>
       </tr>
       <tr>
@@ -84,7 +84,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
     <tbody>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R3<span>
         </td>
         <td>{{< wiki/link station="Fhoenix Hill" >}}</td>
         <td>飛利斯山</td>
@@ -93,7 +93,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R4<span>
         </td>
         <td>{{< wiki/link station="Paradise Falls" >}}</td>
         <td>仙境瀑布</td>
@@ -103,7 +103,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R3<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R5<span>
         </td>
         <td>{{< wiki/link station="Under the Falls" >}}</td>
         <td>瀑布下</td>
@@ -114,7 +114,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R4<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R6<span>
         </td>
         <td>{{< wiki/link station="Downtown Core" >}}</td>
         <td>市中心</td>
@@ -125,10 +125,10 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R5<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R7<span>
         </td>
         <td>{{< wiki/link station="Cavehaven" >}}</td>
-        <td>旗希雲</td>
+        <td>旗喜雲</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -137,12 +137,39 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R6<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R8<span>
         </td>
         <td>{{< wiki/link station="Highlands" >}}</td>
         <td>高原</td>
         <td></td>
         <td>Miraiya Highlands</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="alert-secondary font-weight-bold">
+          Northern line extension <span class="small font-italic font-weight-bold">(under construction, to be ready by 2020-2021)</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
+        </td>
+        <td>{{< wiki/link station="Dirt Fortress" >}}</td>
+        <td>土堡壘</td>
+        <td>
+          <span class="small font-italic">By June 2021</span>
+        </td>
+        <td>Big Snow</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
+        </td>
+        <td>{{< wiki/link station="Mirai Bridge" >}}</td>
+        <td>美來橋</td>
+        <td>
+          <span class="small font-italic">By December 2020</span>
+        </td>
+        <td>City Loop</td>
       </tr>
     </tbody>
   </table>

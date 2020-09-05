@@ -1,13 +1,13 @@
 ---
 title: Highlands station
-station_code: [R6]
+station_code: [R8]
 station_name_en: Highlands
 station_name_zh: 高原
 mm_sign: [R]
 adjacent_stations:
   - mm_sign: [R]
     preceding:
-      - station: R5-Cavehaven
+      - station: R7-Cavehaven
         towards: Fhoenix Hill
 alternate_station_name_en: Portal's Peak
 alternate_station_name_zh: 波打山頂

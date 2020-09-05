@@ -12,8 +12,8 @@ adjacent_stations:
     following:
       - station: W1-Winterland
         next: clockwise
-alternate_station_name_en: Winterland West
-alternate_station_name_zh: 冬地西
+alternate_station_name_en: Central Library
+alternate_station_name_zh: 中央圖書館
 location_en: Big Snow
 location_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 130px}

@@ -10,7 +10,7 @@ stations:
     placeholder_station: true
   - station_code: [P2]
     name: Cavehaven
-    name_zh: 旗希雲
+    name_zh: 旗喜雲
     transfer:
       - mm_sign: [R,G]
     first_station: true

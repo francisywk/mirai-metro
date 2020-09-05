@@ -59,7 +59,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
     <thead class="victoryline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -119,7 +119,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>{{< wiki/link station="Logsmead" >}}</td>
         <td>樂米町</td>
         <td></td>
-        <td>Mobforest</td>
+        <td>Mob Forest</td>
       </tr>
       <tr>
         <td>

@@ -9,7 +9,7 @@ category: miraimetro
 keywords: [mirai,miraimetro,station,cityloopline,bigsnowline]
 see_also: true
 quick_facts:
-  - station_code: [C2,SX]
+  - station_code: [R2,C2,S7]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"
   - heading: General information
@@ -39,7 +39,7 @@ quick_facts:
       content: December 2020
 ---
 
-**Mirai Bridge** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來橋, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Kìuh*), alternate station name **Down Falls**, is a planned station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is an infill station for the {{< wiki/link route="C" >}} and will interchange with the {{< wiki/link route="S" >}} when it open at the end of 2020.
+**Mirai Bridge** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來橋, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Kìuh*) is an upcoming station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") under construction in Mirai Bridge, City Loop. It is an infill station for the {{< wiki/link route="C" >}} and will interchange with the {{< wiki/link route="R" >}} and the {{< wiki/link route="S" >}} when it open at the end of 2020.
 
 <br>
 
@@ -57,6 +57,24 @@ quick_facts:
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td>
+          {{< wiki/link station="Dirt Fortress" >}}
+          <p class="small font-italic mb-0">towards {{< wiki/link station="Dirt Fortress" >}}</p>
+        </td>
+        <td class="redline"></td>
+        <td>
+          <div class="mb-05">
+            {{< wiki/mm-sign route="R" >}}
+          </div>
+          {{< wiki/link route="R" >}}
+        </td>
+        <td class="redline"></td>
+        <td>
+          {{< wiki/link station="Fhoenix Hill" >}}
+          <p class="small font-italic mb-0">towards {{< wiki/link station="Highlands" >}}</p>
+        </td>
+      </tr>
       <tr>
         <td>
           {{< wiki/link station="Winterland" >}}

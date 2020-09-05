@@ -1,16 +1,16 @@
 ---
 title: Cavehaven station
-station_code: [R5,G7,P2]
+station_code: [R7,G7,P2]
 station_name_en: Cavehaven
-station_name_zh: 旗希雲
+station_name_zh: 旗喜雲
 mm_sign: [R,G,P]
 adjacent_stations:
   - mm_sign: [R]
     preceding:
-      - station: R4-Downtown Core
+      - station: R6-Downtown Core
         towards: Fhoenix Hill
     following:
-      - station: R6-Highlands
+      - station: R8-Highlands
         towards: Highlands
   - mm_sign: [G]
     preceding:

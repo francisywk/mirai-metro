@@ -36,7 +36,7 @@ stations:
       - mm_sign: [R,W]
   - station_code: [G7]
     name: Cavehaven
-    name_zh: 旗希雲
+    name_zh: 旗喜雲
     transfer:
       - mm_sign: [R,P]
   - station_code: [G8]

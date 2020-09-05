@@ -74,7 +74,7 @@ The following is a list of the stations on the Blue Line.
     <thead class="blueline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer / Note</th>
         <th rowspan="2">Location</th>
       </tr>
@@ -99,12 +99,12 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle"><span class="invisible">BX</span></span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
-        <td class="font-italic">入灣道</td>
+        <td class="font-italic">{{< wiki/link station="Mob Crossing" >}}</td>
+        <td class="font-italic">摩寶踏切</td>
         <td>
           Infill station <span class="small font-italic">(December 2021)</span>
         </td>
-        <td>Mobforest</td>
+        <td>Mob Forest</td>
       </tr>
       <tr>
         <td>

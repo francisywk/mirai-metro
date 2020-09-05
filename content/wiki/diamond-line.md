@@ -106,7 +106,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
     <thead class="diamondline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Opened</th>
         <th rowspan="2">Type</th>

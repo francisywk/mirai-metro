@@ -1,16 +1,16 @@
 ---
 title: Downtown Core station
-station_code: [R4,G6,W6]
+station_code: [R6,G6,W6]
 station_name_en: Downtown Core
 station_name_zh: 市中心
 mm_sign: [R,G,W]
 adjacent_stations:
   - mm_sign: [R]
     preceding:
-      - station: R3-Under the Falls
+      - station: R5-Under the Falls
         towards: Fhoenix Hill
     following:
-      - station: R5-Cavehaven
+      - station: R7-Cavehaven
         towards: Highlands
   - mm_sign: [G]
     preceding:

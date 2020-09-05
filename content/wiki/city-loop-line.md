@@ -63,7 +63,7 @@ The following is a list of the stations on the City Loop Line.
     <thead class="cityloopline">
       <tr>
         <th rowspan="2">Code</th>
-        <th colspan="2" class="border-bottom-0">Station Name</th>
+        <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer / Note</th>
         <th rowspan="2">Location</th>
       </tr>
