@@ -18,7 +18,7 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: Operational<br>Planned (Roubay infill station)
+      content: Operational
     - title: Termini
       content: "[Victory Bay](/wiki/victory-bay-station 'Victory Bay station')<br>[Spawn](/wiki/spawn-station 'Spawn station')"
     - title: Stations
@@ -100,7 +100,7 @@ The following is a list of the stations on the Blue Line.
           <span class="station-code station-code-sm station-code-bl rounded-circle"><span class="invisible">BX</span></span>
         </td>
         <td class="font-italic">{{< wiki/link station="Mob Crossing" >}}</td>
-        <td class="font-italic">摩寶踏切</td>
+        <td class="font-italic">摩寶道</td>
         <td>
           Infill station <span class="small font-italic">(December 2021)</span>
         </td>

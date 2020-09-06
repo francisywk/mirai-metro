@@ -1,6 +1,6 @@
 ---
 title: Zero Zero station
-station_code: [B6,W8]
+station_code: [B6,W9]
 station_name_en: Zero Zero
 station_name_zh: 零零
 mm_sign: [B,W]
@@ -18,10 +18,10 @@ adjacent_stations:
         towards: City Farm
   - mm_sign: [W]
     preceding:
-      - station: W7-Oasis Point
+      - station: W8-Oasis Point
         next: anti-clockwise
     following:
-      - station: W9-Mount Onsnow
+      - station: W10-Mount Onsnow
         next: clockwise
 alternate_station_name_en: Centre of The Grid
 alternate_station_name_zh: 世格中心

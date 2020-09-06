@@ -34,17 +34,17 @@ stations:
     name_zh: 市中心
     transfer:
       - mm_sign: [R,G]
-  - station_code: [W7]
+  - station_code: [W8]
     name: Oasis Point
     name_zh: 綠洲角
     transfer:
       - mm_sign: [P]
-  - station_code: [W8]
+  - station_code: [W9]
     name: Zero Zero
     name_zh: 零零
     transfer:
       - mm_sign: [B]
-  - station_code: [W9]
+  - station_code: [W10]
     name: Mount Onsnow
     name_zh: 雪藏山
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:50px}

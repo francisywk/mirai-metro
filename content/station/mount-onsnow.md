@@ -1,13 +1,13 @@
 ---
 title: Mount Onsnow station
-station_code: [W9]
+station_code: [W10]
 station_name_en: Mount Onsnow
 station_name_zh: 雪藏山
 mm_sign: [W]
 adjacent_stations:
   - mm_sign: [W]
     preceding:
-      - station: W8-Zero Zero
+      - station: W9-Zero Zero
         next: anti-clockwise
     following:
       - station: W1-Winterland

@@ -21,7 +21,7 @@ quick_facts:
     - title: Termini
       content: "[Winterland](/wiki/winterland-station 'Winterland station') (loop line)"
     - title: Stations
-      content: 9
+      content: 9 (Operational)<br>1 (Planned)
   - heading: Operation
   - cols_2:
     - title: Opened
@@ -60,7 +60,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Transfer / Note</th>
         <th rowspan="2">Location</th>
       </tr>
       <tr>
@@ -82,7 +82,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="C" >}}
         </td>
-        <td rowspan="6">City Loop</td>
+        <td rowspan="7">City Loop</td>
       </tr>
       <tr>
         <td>
@@ -140,9 +140,19 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           {{< wiki/mm-sign route="G" >}}
         </td>
       </tr>
-      <tr>
+      <tr class="alert-warning">
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W7<span>
+        </td>
+        <td class="font-italic">{{< wiki/link station="Mount Austin" >}}</td>
+        <td class="font-italic">柯士甸山</td>
+        <td>
+          Infill station <span class="small font-italic">(March 2021)</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
         <td>{{< wiki/link station="Oasis Point" >}}</td>
         <td>綠洲角</td>
@@ -153,7 +163,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
+          <span class="station-code station-code-sm station-code-wl rounded-circle">W9<span>
         </td>
         <td>{{< wiki/link station="Zero Zero" >}}</td>
         <td>零零</td>
@@ -163,7 +173,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-wl rounded-circle">W9<span>
+          <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
         <td>{{< wiki/link station="Mount Onsnow" >}}</td>
         <td>雪藏山</td>

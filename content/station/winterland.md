@@ -14,7 +14,7 @@ adjacent_stations:
         next: anti-clockwise
   - mm_sign: [W]
     preceding:
-      - station: W9-Mount Onsnow
+      - station: W10-Mount Onsnow
         next: anti-clockwise
     following:
       - station: W2-Uptown Cross

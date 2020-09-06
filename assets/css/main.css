@@ -84,6 +84,10 @@ body {
   border-color: #7F7F7F !important;
 }
 
+.bg-transfer-station {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
 .text-black {
   color: black !important;
 }

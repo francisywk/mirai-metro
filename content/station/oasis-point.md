@@ -1,6 +1,6 @@
 ---
 title: Oasis Point station
-station_code: [W7,P6]
+station_code: [W8,P6]
 station_name_en: Oasis Point
 station_name_zh: 綠洲角
 mm_sign: [W,P]
@@ -10,7 +10,7 @@ adjacent_stations:
       - station: W6-Downtown Core
         next: anti-clockwise
     following:
-      - station: W8-Zero Zero
+      - station: W9-Zero Zero
         next: clockwise
   - mm_sign: [P]
     preceding:

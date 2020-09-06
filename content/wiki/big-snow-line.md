@@ -19,9 +19,9 @@ quick_facts:
     - title: Status
       content: "<b>Stage 1</b>: Under construction<br><b>Stage 2</b>: Planned"
     - title: Termini
-      content: "[Logsmead](/wiki/logsmead-station 'Logsmead station') (after December 2021)<br>[Mount Onsnow](/wiki/mount-onsnow-station 'Mount Onsnow station') (until December 2021)<br>[UCHQ East](/wiki/uchq-east-station 'UCHQ East station')"
+      content: "[Logsmead](/wiki/logsmead-station 'Logsmead station') (after December 2021)<br>[Mount Onsnow](/wiki/mount-onsnow-station 'Mount Onsnow station') (until December 2021)<br>[Redhill Spring](/wiki/redhill-spring-station 'Redhill Spring station')"
     - title: Stations
-      content: 4 (under construction)<br>5 (planned)
+      content: 5 (under construction)<br>5 (planned)
     - title: Colour on map
       content: "Pink - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(255,128,169)"
   - heading: Operation
@@ -81,7 +81,7 @@ The following is a list of planned stations of the Big Snow Line.
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
         <td>{{< wiki/link station="Logsmead" >}}</td>
-        <td>樂米村</td>
+        <td>樂米町</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
@@ -92,7 +92,7 @@ The following is a list of planned stations of the Big Snow Line.
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
         <td>{{< wiki/link station="Mob Crossing" >}}</td>
-        <td>摩寶踏切</td>
+        <td>摩寶道</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
@@ -101,8 +101,8 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
-        <td><i>Unnamed station</i></td>
-        <td><i>未名站</i></td>
+        <td>{{< wiki/link station="Westmead" >}}</td>
+        <td>西米町</td>
         <td></td>
         <td rowspan="3">Big Snow</td>
       </tr>
@@ -159,7 +159,7 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           {{< wiki/mm-sign route="G" >}}
         </td>
-        <td rowspan="2">Redstone Valley</td>
+        <td rowspan="3">Redstone Valley</td>
       </tr>
       <tr>
         <td>
@@ -169,6 +169,16 @@ The following is a list of planned stations of the Big Snow Line.
         <td>聯總東</td>
         <td>
           {{< wiki/mm-sign route="A" >}}
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+        </td>
+        <td>{{< wiki/link station="Redhill Spring" >}}</td>
+        <td>紅山泉</td>
+        <td>
+          {{< wiki/mm-sign route="V" >}}
         </td>
       </tr>
     </tbody>
