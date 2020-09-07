@@ -22,6 +22,8 @@ quick_facts:
       content: "[UCHQ North](/wiki/uchq-north-station 'UCHQ North station')<br>[Diamond Hill](/wiki/diamond-hill-station 'Diamond Hill station')"
     - title: Stations
       content: 6
+    - title: Colour on map
+      content: "Light Blue - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(51,205,251)"
   - heading: Operation
   - cols_2:
     - title: Opened

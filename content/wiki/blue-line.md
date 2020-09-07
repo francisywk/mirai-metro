@@ -23,6 +23,8 @@ quick_facts:
       content: "[Victory Bay](/wiki/victory-bay-station 'Victory Bay station')<br>[Spawn](/wiki/spawn-station 'Spawn station')"
     - title: Stations
       content: 9 (Operational)<br>1 (Planned)
+    - title: Colour on map
+      content: "Blue - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(4,51,255)"
   - heading: Operation
   - cols_2:
     - title: Opened
@@ -99,8 +101,8 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle"><span class="invisible">BX</span></span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Mob Crossing" >}}</td>
-        <td class="font-italic">摩寶道</td>
+        <td class="font-italic">{{< wiki/link station="Tobay Road" >}}</td>
+        <td class="font-italic">進灣道</td>
         <td>
           Infill station <span class="small font-italic">(December 2021)</span>
         </td>

@@ -4,10 +4,9 @@ title_zh: 熊貓快綫
 mm_sign: [P]
 branch_line: false
 stations:
-  - station_code: [P1]
-    name: Panda Museum
-    name_zh: 熊貓博物館
-    placeholder_station: true
+  # - station_code: [P1]
+  #   name: Panda Museum
+  #   name_zh: 熊貓博物館
   - station_code: [P2]
     name: Cavehaven
     name_zh: 旗喜雲

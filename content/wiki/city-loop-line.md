@@ -24,6 +24,8 @@ quick_facts:
       content: "[Winterland](/wiki/winterland-station 'Winterland station') (loop)"
     - title: Stations
       content: 5 (Operational)<br>1 (Under construction)
+    - title: Colour on map
+      content: "Orange - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(255,140,0)"
   - heading: Operation
   - cols_2:
     - title: Opened

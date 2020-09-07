@@ -23,6 +23,8 @@ quick_facts:
       content: "[Fhoenix Hill](/wiki/fhoenix-hill-station 'Fhoenix Hill station')<br>[Highlands](/wiki/highlands-station 'Highlands station')"
     - title: Stations
       content: 6 (Operational)<br>2 (Under construction)
+    - title: Colour on map
+      content: "Red - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(255,38,0)"
   - heading: Operation
   - cols_2:
     - title: Opened
@@ -154,7 +156,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
         </td>
         <td>{{< wiki/link station="Dirt Fortress" >}}</td>
-        <td>土堡壘</td>
+        <td>泥堡</td>
         <td>
           <span class="small font-italic">By June 2021</span>
         </td>

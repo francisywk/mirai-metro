@@ -652,6 +652,10 @@ ul {
   border: 7px solid #FF80A9;
 }
 
+.text-bsl {
+  color: #FF80A9;
+}
+
 .islandsline,
 .il span{
   background-color: #0F798A;

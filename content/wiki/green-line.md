@@ -23,6 +23,8 @@ quick_facts:
       content: "[Mirai](/wiki/mirai-station 'Mirai station') (loop)"
     - title: Stations
       content: 10
+    - title: Colour on map
+      content: "Green - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(15,127,18)"
   - heading: Operation
   - cols_2:
     - title: Opened

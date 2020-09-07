@@ -24,6 +24,8 @@ quick_facts:
       content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum station')<br>[Oasis Point](/wiki/oasis-point-station 'Oasis Point station')"
     - title: Stations
       content: 5 (Operational)<br>2 (Future)<br>1 (Reserved)
+    - title: Colour on map
+      content: "Lime - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(80,200,120)"
   - heading: Operation
   - cols_2:
     - title: Planned opening

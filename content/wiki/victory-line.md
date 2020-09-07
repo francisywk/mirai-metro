@@ -22,6 +22,8 @@ quick_facts:
       content: "[Mugen](/wiki/mugen-station 'Mugen station')<br>[Moon Lake](/wiki/moon-lake-station 'Moon Lake station')"
     - title: Stations
       content: 9
+    - title: Colour on map
+      content: "Purple - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(101,26,158)"
   - heading: Operation
   - cols_2:
     - title: Opened

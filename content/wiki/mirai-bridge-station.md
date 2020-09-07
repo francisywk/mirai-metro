@@ -22,6 +22,7 @@ quick_facts:
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Line(s)
       content: "
+        <div class='route-sign-xs redline mr-15 mb-1'>C</div><a href='/wiki/red-line' title='Red Line'>Red Line</a><br>
         <div class='route-sign-xs cityloopline mr-15 mb-1'>C</div><a href='/wiki/city-loop-line' title='City Loop Line'>City Loop Line</a><br>
         <div class='route-sign-xs bigsnowline mr-15'>S</div><a href='/wiki/big-snow-line' title='Big Snow Line'>Big Snow Line</a>
       "

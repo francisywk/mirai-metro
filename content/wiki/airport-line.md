@@ -23,6 +23,8 @@ quick_facts:
       content: "[Mirai](/wiki/mirai-station 'Mirai station')<br>[UCHQ North](/wiki/uchq-north-station 'UCHQ North station')"
     - title: Stations
       content: 5
+    - title: Colour on map
+      content: "Magenta<br>- [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(255,64,255)<br>- [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(171,47,161)"
   - heading: Operation
   - cols_2:
     - title: Opened
