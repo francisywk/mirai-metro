@@ -50,7 +50,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second [fully automatic](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") line of the system.
+The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is colour-coded **<span class="text-pe">Lime</span>** on the network map. It is the second [fully automatic](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") line of the system. When all 3 stages of the line finished construction, it will have non-stop express service between Mirai Zoo and Panda Museum, and will become the second line in the network to have an express service.
 
 <br>
 
@@ -62,35 +62,50 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
 
 ---
 
-- Phase 1 of the line between Cavehaven and Oasis Point opened to the public on 27 July 2020.
+- Stage 1 of the line between Cavehaven and Oasis Point opened to the public on 27 July 2020.
 
 <br>
 
-#### Stations
+#### Station list
 
 ---
+
+- Proposed services:
+  - **C** - Commuter
+  - **E** - Express
+- Commuter trains stop at all stations.
+- Express trains stop at stations marked \"●\" and pass those marked \" \| \".
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
     <thead class="pandaexpress">
       <tr>
+        <th colspan="2" class="border-bottom-0">Service</th>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Location</th>
       </tr>
       <tr>
+        <th>
+          <abbr title="Commuter">C</abbr>
+        </th>
+        <th>
+          <abbr title="Express">E</abbr>
+        </th>
         <th>English</th>
         <th>Chinese</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td colspan="5" class="alert-secondary font-weight-bold">
+        <td colspan="7" class="alert-secondary font-weight-bold">
           Stage 2 <span class="small font-italic font-weight-bold">(approved, to be ready by 2021)</span>
         </td>
       </tr>
       <tr>
+        <td>●</td>
+        <td>●</td>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
         </td>
@@ -100,11 +115,13 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>La Miraiya</td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-info font-weight-bold">
+        <td colspan="7" class="alert-info font-weight-bold">
           Stage 1 <span class="small font-italic font-weight-bold">(operational, since 27 July 2020)</span>
         </td>
       </tr>
       <tr>
+        <td>●</td>
+        <td>|</td>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P2</span>
         </td>
@@ -117,6 +134,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>La Miraiya</td>
       </tr>
       <tr>
+        <td>●</td>
+        <td>|</td>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P3</span>
         </td>
@@ -131,6 +150,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td rowspan="3">City Loop</td>
       </tr>
       <tr>
+        <td>●</td>
+        <td>|</td>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P4</span>
         </td>
@@ -142,6 +163,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         </td>
       </tr>
       <tr>
+        <td>●</td>
+        <td>|</td>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P5</span>
         </td>
@@ -153,6 +176,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         </td>
       </tr>
       <tr>
+        <td>●</td>
+        <td>|</td>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
@@ -164,16 +189,18 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Big Snow</td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-secondary font-weight-bold">
+        <td colspan="7" class="alert-secondary font-weight-bold">
           Stage 3 <span class="small font-italic font-weight-bold">(planned, to be ready by 2023)</span>
         </td>
       </tr>
       <tr>
+        <td>●</td>
+        <td>●</td>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
-        <td class="font-italic">Unnamed station</td>
-        <td class="font-italic">未名站</td>
+        <td>{{< wiki/link station="Mirai Zoo" >}}</td>
+        <td>動物園</td>
         <td></td>
         <td>Southwest Valley</td>
       </tr>

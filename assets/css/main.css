@@ -642,6 +642,10 @@ ul {
   border: 7px solid #50C878!important;
 }
 
+.text-pe {
+  color: #50C878;
+}
+
 .bigsnowline,
 .sl span {
   background-color: #FF80A9;

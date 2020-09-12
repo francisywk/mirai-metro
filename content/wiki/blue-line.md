@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Blue Line** (code **B**) is the first line in Mirai's [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") network and, at 1.7 km, it is the longest line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It includes a total of 9 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and the Spawn Chunk districts.
+The **Blue Line** (code **B**) is the first line in Mirai's [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") network and, at 1.7 km, it is the longest line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It includes a total of 9 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and the Spawn Chunk districts. The line is also the first and only line in the entire system to have a [spur line](https://en.wikipedia.org/wiki/Branch_line "Branch line") from the {{< wiki/link station="Zero Zero station" >}} on the [main line](https://en.wikipedia.org/wiki/Main_line_(railway) "Main line").
 
 <br>
 
@@ -186,7 +186,7 @@ The following is a list of the stations on the Blue Line.
       </tr>
       <tr>
         <td colspan="5" class="alert-secondary font-weight-bold">
-          Branch line from {{< wiki/link station="Zero Zero" >}} station
+          Spur line from {{< wiki/link station="Zero Zero" >}} station
         </td>
       </tr>
       <tr>

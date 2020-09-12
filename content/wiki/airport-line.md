@@ -58,8 +58,8 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
 ---
 
 - Two services in operation:
-  - C - Commuter
-  - E - Express
+  - **C** - Commuter
+  - **E** - Express
 - Commuter trains stop at all stations.
 - Express trains stop at stations marked \"●\" and pass those marked \" \| \".
 

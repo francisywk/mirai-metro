@@ -22,5 +22,9 @@
   {{ end }}
 {{ end }}
 {{ with .Get "station" }}
-  <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
+  {{ if in . " station" }}
+    <a href="/wiki/{{ anchorize . }}" title="{{ . }}">{{ . }}</a>
+  {{ else }}
+    <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
+  {{ end }}
 {{ end }}
