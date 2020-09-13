@@ -166,7 +166,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
         </td>
-        <td>{{< wiki/link station="Mirai Bridge" >}}</td>
+        <td>{{< wiki/link station="Miraibridge" >}}</td>
         <td>美來橋</td>
         <td>
           <span class="small font-italic">By December 2020</span>

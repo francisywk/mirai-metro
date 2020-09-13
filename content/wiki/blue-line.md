@@ -101,7 +101,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle"><span class="invisible">BX</span></span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Tobay Road" >}}</td>
+        <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
         <td class="font-italic">進灣道</td>
         <td>
           Infill station <span class="small font-italic">(December 2021)</span>

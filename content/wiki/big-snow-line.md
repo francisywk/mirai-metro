@@ -91,7 +91,7 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
-        <td>{{< wiki/link station="Tobay Road" >}}</td>
+        <td>{{< wiki/link station="Roubay Road" >}}</td>
         <td>進灣道</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
@@ -142,7 +142,7 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
         </td>
-        <td>{{< wiki/link station="Mirai Bridge" >}}</td>
+        <td>{{< wiki/link station="Miraibridge" >}}</td>
         <td>美來橋</td>
         <td>
           {{< wiki/mm-sign route="R" >}}

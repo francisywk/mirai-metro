@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line, following the [Blue Line](/wiki/blue-line "Blue Line") and [Red Line](/wiki/red-line "Red Line") of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") as well as the line with the most stations.
+The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line, following the [Blue Line](/wiki/blue-line "Blue Line") and [Red Line](/wiki/red-line "Red Line") of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") as well as the line with the most stations. The Green Line is also the only line that provides interchange with all other Mirai Metro lines.
 
 <br>
 

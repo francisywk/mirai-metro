@@ -45,7 +45,7 @@
               {{ partial "station_code/small/horizontal.html" . }}
             </div>
             <h4 class="station-name-en mb-0">{{ .station_name_en }}</h4>
-            <h5 class="station-name-zh mb-0">{{ .station_name_zh }}</h5>
+            <h5 class="station-name-zh mb-0">{{ markdownify .station_name_zh }}</h5>
           </div>
         {{ end }}
       {{ end }}
