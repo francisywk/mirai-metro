@@ -1,6 +1,6 @@
 ---
 title: UCHQ South station
-station_code: [G9,B3,A2]
+station_code: [G9,B4,A2]
 station_name_en: UCHQ South
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>南
 mm_sign: [G,B,A]
@@ -14,10 +14,10 @@ adjacent_stations:
         next: anti-clockwise
   - mm_sign: [B]
     preceding:
-      - station: B2-UCHQ North
+      - station: B3-UCHQ North
         towards: Victory Bay
     following:
-      - station: B4-Mugen
+      - station: B5-Mugen
         towards: Spawn
   - mm_sign: [A]
     preceding:

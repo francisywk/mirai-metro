@@ -1,6 +1,6 @@
 ---
 title: UCHQ North station
-station_code: [B2,A5,D1]
+station_code: [B3,A5,D1]
 station_name_en: UCHQ North
 station_name_zh: "聯<span class='font-noto-serif-sc'>總北</span>"
 mm_sign: [B,Ac,D]
@@ -10,7 +10,7 @@ adjacent_stations:
       - station: B1-Victory Bay
         towards: Victory Bay
     following:
-      - station: B3-UCHQ South
+      - station: B4-UCHQ South
         towards: Spawn
   - mm_sign: [A]
     preceding:

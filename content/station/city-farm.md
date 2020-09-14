@@ -1,6 +1,6 @@
 ---
 title: City Farm station
-station_code: [G4,B7,P5]
+station_code: [G4,B8,P5]
 station_name_en: City Farm
 station_name_zh: 城中農場
 mm_sign: [G,B,P]
@@ -14,7 +14,7 @@ adjacent_stations:
         next: anti-clockwise
   - mm_sign: [B]
     preceding:
-      - station: B6-Zero Zero
+      - station: B7-Zero Zero
         towards: Zero Zero
   - mm_sign: [P]
     preceding:

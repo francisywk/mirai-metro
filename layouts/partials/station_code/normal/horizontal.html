@@ -4,7 +4,7 @@
   {{ else if in . "G" }}
     <span class="station-code {{ if eq (len .) 3 }}station-code-dd{{ end }} station-code-gl rounded-circle">{{ . }}</span>
   {{ else if in . "B" }}
-    <span class="station-code station-code-bl rounded-circle">{{ . }}</span>
+    <span class="station-code {{ if eq (len .) 3 }}station-code-dd{{ end }} station-code-bl rounded-circle">{{ . }}</span>
   {{ else if in . "Acomu" }}
     <span class="station-code station-code-al rounded-circle">A{{ slicestr . 5 6 }}</span>
   {{ else if in . "Aex" }}

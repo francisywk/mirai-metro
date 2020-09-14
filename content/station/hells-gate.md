@@ -1,16 +1,16 @@
 ---
 title: Hell's Gate station
-station_code: [B8]
+station_code: [B9]
 station_name_en: Hell's Gate
 station_name_zh: 地獄門
 mm_sign: [B]
 adjacent_stations:
   - mm_sign: [B]
     preceding:
-      - station: B6-Zero Zero
+      - station: B7-Zero Zero
         towards: Victory Bay
     following:
-      - station: B9-Spawn
+      - station: B10-Spawn
         towards: Spawn
 alternate_station_name_en: Mirai Nether Portal
 alternate_station_name_zh: 美來下界傳送門

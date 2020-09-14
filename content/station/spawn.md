@@ -1,13 +1,13 @@
 ---
 title: Spawn station
-station_code: [B9]
+station_code: [B10]
 station_name_en: Spawn
 station_name_zh: 生成
 mm_sign: [B]
 adjacent_stations:
   - mm_sign: [B]
     preceding:
-      - station: B8-Hell's Gate
+      - station: B9-Hell's Gate
         towards: Victory Bay
 alternate_station_name_en: 
 alternate_station_name_zh: 

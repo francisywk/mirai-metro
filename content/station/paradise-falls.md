@@ -1,6 +1,6 @@
 ---
 title: Paradise Falls station
-station_code: [R4,B5]
+station_code: [R4,B6]
 station_name_en: Paradise Falls
 station_name_zh: 仙境瀑布
 mm_sign: [R,B]
@@ -14,10 +14,10 @@ adjacent_stations:
         towards: Highlands
   - mm_sign: [B]
     preceding:
-      - station: B4-Mugen
+      - station: B5-Mugen
         towards: Victory Bay
     following:
-      - station: B6-Zero Zero
+      - station: B7-Zero Zero
         towards: Spawn
 alternate_station_name_en: Red House
 alternate_station_name_zh: 紅屋

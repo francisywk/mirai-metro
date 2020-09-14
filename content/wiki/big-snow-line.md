@@ -1,7 +1,7 @@
 ---
 title: "Big Snow Line"
 title_zh: 大雪綫
-description: Rapid transit line in Mirai
+description: Rapid transit line under construction in Mirai
 date: 2020-07-31T05:08:26+08:00
 draft: false
 category: miraimetro
@@ -17,17 +17,17 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: "<b>Stage 1</b>: Under construction<br><b>Stage 2</b>: Planned"
+      content: "<b>Phase 1</b>: Under construction<br><b>Phase 2</b>: Approved"
     - title: Termini
       content: "[Logsmead](/wiki/logsmead-station 'Logsmead station') (after December 2021)<br>[Mount Onsnow](/wiki/mount-onsnow-station 'Mount Onsnow station') (until December 2021)<br>[Redhill Spring](/wiki/redhill-spring-station 'Redhill Spring station')"
     - title: Stations
-      content: 5 (under construction)<br>5 (planned)
+      content: 5 (under construction)<br>5 (approved)
     - title: Colour on map
       content: "Pink - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(255,128,169)"
   - heading: Operation
   - cols_2:
     - title: Planned opening
-      content: "<b>Stage 1</b>: December 2020<br><b>Stage 2</b>: December 2021"
+      content: "<b>Phase 1</b>: December 2020<br><b>Phase 2</b>: December 2021"
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
@@ -46,7 +46,9 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is a planned line on the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). Following the network's color coding scheme, the line will be colour-coded **<span class="text-bsl">Pink</span>**, and its stations abbreviated as "SX" ("X" being the station number). The planned route is from Logsmead of Mob Forest in the northeast, to UCHQ East of Redstone Valley in the southeast.
+The **Big Snow Line** (Code **S**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line under construction and will become the tenth line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley. Phase 1 is scheduled to begin operation in December 2020 between Mount Onsnow and Redhill Spring and the remaining phase 2 is expected to be opened in late 2021.
+
+The line was named after the Big Snow district, which the line passes and with the most stations being located there. On the network map, the line is shown using the color **<span class="text-bsl">Pink</span>**, and its stations are given numbers using the letter \"S\".
 
 <br>
 
@@ -73,12 +75,12 @@ The following is a list of planned stations of the Big Snow Line.
     <tbody>
       <tr>
         <td colspan="5" class="alert-secondary font-weight-bold">
-          Stage 2 <span class="small font-italic font-weight-bold">(planned, to be ready by December 2021)</span>
+          Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by December 2021)</span>
         </td>
       <tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S1</span>
         </td>
         <td>{{< wiki/link station="Logsmead" >}}</td>
         <td>樂米町</td>
@@ -89,7 +91,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S2</span>
         </td>
         <td>{{< wiki/link station="Roubay Road" >}}</td>
         <td>進灣道</td>
@@ -99,7 +101,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S3</span>
         </td>
         <td>{{< wiki/link station="Westmead" >}}</td>
         <td>西米町</td>
@@ -108,7 +110,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S4</span>
         </td>
         <td><i>Unnamed station</i></td>
         <td><i>未名站</i></td>
@@ -116,7 +118,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S5</span>
         </td>
         <td><i>Unnamed station</i></td>
         <td><i>未名站</i></td>
@@ -124,12 +126,12 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td colspan="5" class="alert-secondary font-weight-bold">
-          Stage 1 <span class="small font-italic font-weight-bold">(under construction, to be ready by December 2020)</span>
+          Phase 1 <span class="small font-italic font-weight-bold">(under construction, to be ready by December 2020)</span>
         </td>
       <tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S6</span>
         </td>
         <td>{{< wiki/link station="Mount Onsnow" >}}</td>
         <td>雪藏山</td>
@@ -140,7 +142,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S7</span>
         </td>
         <td>{{< wiki/link station="Miraibridge" >}}</td>
         <td>美來橋</td>
@@ -152,7 +154,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S8</span>
         </td>
         <td>{{< wiki/link station="UCHQ West" >}}</td>
         <td>聯總西</td>
@@ -163,7 +165,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm station-code-sl rounded-circle">S9</span>
         </td>
         <td>{{< wiki/link station="UCHQ East" >}}</td>
         <td>聯總東</td>
@@ -173,7 +175,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle"><span class="invisible">SX</span></span>
+          <span class="station-code station-code-sm-dd station-code-sl rounded-circle">S10</span>
         </td>
         <td>{{< wiki/link station="Redhill Spring" >}}</td>
         <td>紅山泉</td>

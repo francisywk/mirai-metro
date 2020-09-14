@@ -112,7 +112,7 @@
                   {{ end }}
                   {{ if and (eq .name "City Farm") (eq ($.Scratch.Get "line-title") "blue-line") }}
                     <div class="station-code-middle station-code-bg-blue-line">
-                      <span class="station-code station-code-bl rounded-circle invisible">B7</span>
+                      <span class="station-code station-code-bl rounded-circle invisible">B8</span>
                     </div>
                   {{ else }}
                     <div class="{{ if .placeholder_station }}{{ else }}{{ $class }} station-code-bg-{{ $.Scratch.Get "line-title" }}{{ end }}">
@@ -123,11 +123,11 @@
                   {{ end }}
                   {{ if and (eq .name "Zero Zero") (eq ($.Scratch.Get "line-title") "blue-line") }}
                     <div class="station-code-b6">
-                      <span class="station-code station-code-bl rounded-circle invisible">B6</span>
+                      <span class="station-code station-code-bl rounded-circle invisible">B7</span>
                     </div>
                   {{ else if and (eq .name "City Farm") (eq ($.Scratch.Get "line-title") "blue-line") }}
                     <div class="station-code-last station-code-bg-blue-line">
-                      <span class="station-code station-code-bl rounded-circle">B7</span>
+                      <span class="station-code station-code-bl rounded-circle">B8</span>
                     </div>
                   {{ end }}
                   <p class="small m-0 mt-1 {{ if and (eq .name "Zero Zero") (eq ($.Scratch.Get "line-title") "blue-line") }}invisible{{ end }}"><a href="/station/{{ anchorize .name }}">{{ .name }}<br>{{ .name_zh }}</a></p>

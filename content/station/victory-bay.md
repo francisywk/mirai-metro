@@ -7,7 +7,7 @@ mm_sign: [B,V]
 adjacent_stations:
   - mm_sign: [B]
     following:
-      - station: B2-UCHQ North
+      - station: B3-UCHQ North
         towards: Spawn
   - mm_sign: [V]
     preceding:

@@ -10,7 +10,7 @@ keywords: [mirai,miraimetro,station,blueline,victoryline,waterfallline,diamondli
 notice: "This article is about the metro station in Mirai, United Cities. For the similarly named MRR station, see [Mugen Mirai station](/wiki/mugen-mirai-station 'Mugen Mirai station'). For the nearby connected station, see [Mirai station](/wiki/mirai-station 'Mirai station')."
 see_also: true
 quick_facts:
-  - station_code: [B4,V1,W4,D4,P3]
+  - station_code: [B5,V1,W4,D4,P3]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"
   - heading: General information

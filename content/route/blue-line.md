@@ -10,42 +10,42 @@ stations:
     transfer: 
       - mm_sign: [V]
     first_station: true
-  - station_code: [B2]
+  - station_code: [B3]
     name: UCHQ North
     name_zh: 聯總北
     transfer: 
       - mm_sign: [Ac,D]
-  - station_code: [B3]
+  - station_code: [B4]
     name: UCHQ South
     name_zh: 聯總南
     transfer: 
       - mm_sign: [G,A]
-  - station_code: [B4]
+  - station_code: [B5]
     name: Mugen
     name_zh: 無限
     transfer: 
       - mm_sign: [V,W,D,P]
-  - station_code: [B5]
+  - station_code: [B6]
     name: Paradise Falls
     name_zh: 仙境瀑布
     transfer:
       - mm_sign: [R]
-  - station_code: [B6]
+  - station_code: [B7]
     name: Zero Zero
     name_zh: 零零
     transfer:
       - mm_sign: [W]
     branch_first: true
-  - station_code: [B7]
+  - station_code: [B8]
     name: City Farm
     name_zh: 城中農場
     transfer:
       - mm_sign: [G,P]
     branch_last: true
-  - station_code: [B8]
+  - station_code: [B9]
     name: Hell's Gate
     name_zh: 地獄門
-  - station_code: [B9]
+  - station_code: [B10]
     name: Spawn
     name_zh: 生成
     last_station: true

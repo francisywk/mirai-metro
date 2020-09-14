@@ -1,16 +1,16 @@
 ---
 title: Mugen station
-station_code: [B4,V1,W4,D4,P3]
+station_code: [B5,V1,W4,D4,P3]
 station_name_en: Mugen
 station_name_zh: 無限
 mm_sign: [B,V,W,D,P]
 adjacent_stations:
   - mm_sign: [B]
     preceding:
-      - station: B3-UCHQ South
+      - station: B4-UCHQ South
         towards: Victory Bay
     following:
-      - station: B5-Paradise Falls
+      - station: B6-Paradise Falls
         towards: Spawn
   - mm_sign: [V]
     following:

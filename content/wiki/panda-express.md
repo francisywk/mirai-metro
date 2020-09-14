@@ -19,19 +19,19 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: "<b>Stage 1</b>: Operational<br><b>Stage 2</b>: Approved<br><b>Stage 3</b>: Planned"
+      content: "<b>Phase 1</b>: Operational<br><b>Phase 2</b>: Approved<br><b>Phase 3</b>: Planned"
     - title: Termini
       content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum station')<br>[Oasis Point](/wiki/oasis-point-station 'Oasis Point station')"
     - title: Stations
-      content: 5 (Operational)<br>2 (Future)<br>1 (Reserved)
+      content: 5 (Operational)<br>2 (Future)
     - title: Colour on map
       content: "Lime - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(80,200,120)"
   - heading: Operation
   - cols_2:
     - title: Planned opening
-      content: "<b>Stage 2</b>: 2021<br><b>Stage 3</b>: 2023"
+      content: "<b>Phase 2</b>: 2021<br><b>Phase 3</b>: 2023"
     - title: Opened
-      content: "<b>Stage 1</b>: 27 July 2020"
+      content: "<b>Phase 1</b>: 27 July 2020"
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
@@ -50,7 +50,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is colour-coded **<span class="text-pe">Lime</span>** on the network map. It is the second [fully automatic](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") line of the system. When all 3 stages of the line finished construction, it will have non-stop express service between Mirai Zoo and Panda Museum, and will become the second line in the network to have an express service.
+The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is colour-coded **<span class="text-pe">Lime</span>** on the network map. It is the second [fully automatic](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") line of the system. When all 3 phases of the line finished construction, it will have non-stop express service between Mirai Zoo and Panda Museum, and will become the second line in the network to have an express service.
 
 <br>
 
@@ -62,7 +62,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
 
 ---
 
-- Stage 1 of the line between Cavehaven and Oasis Point opened to the public on 27 July 2020.
+- Phase 1 of the line between Cavehaven and Oasis Point opened to the public on 27 July 2020.
 
 <br>
 
@@ -74,7 +74,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
   - **C** - Commuter
   - **E** - Express
 - Commuter trains stop at all stations.
-- Express trains stop at stations marked \"●\" and pass those marked \" \| \".
+- Express trains stop at stations marked \" ● \" and pass those marked \" \| \".
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">
@@ -100,7 +100,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
     <tbody>
       <tr>
         <td colspan="7" class="alert-secondary font-weight-bold">
-          Stage 2 <span class="small font-italic font-weight-bold">(approved, to be ready by 2021)</span>
+          Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by 2021)</span>
         </td>
       </tr>
       <tr>
@@ -116,7 +116,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
       </tr>
       <tr>
         <td colspan="7" class="alert-info font-weight-bold">
-          Stage 1 <span class="small font-italic font-weight-bold">(operational, since 27 July 2020)</span>
+          Phase 1 <span class="small font-italic font-weight-bold">(operational, since 27 July 2020)</span>
         </td>
       </tr>
       <tr>
@@ -190,7 +190,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
       </tr>
       <tr>
         <td colspan="7" class="alert-secondary font-weight-bold">
-          Stage 3 <span class="small font-italic font-weight-bold">(planned, to be ready by 2023)</span>
+          Phase 3 <span class="small font-italic font-weight-bold">(planned, to be ready by 2023)</span>
         </td>
       </tr>
       <tr>
