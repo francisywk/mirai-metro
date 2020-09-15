@@ -50,7 +50,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is colour-coded **<span class="text-pe">Lime</span>** on the network map. It is the second [fully automatic](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") line of the system. When all 3 phases of the line finished construction, it will have non-stop express service between Mirai Zoo and Panda Museum, and will become the second line in the network to have an express service.
+The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is colour-coded **<span class="text-pe">Lime</span>** on the network map. It is the second [fully automatic](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") line of the system. When all 3 phases of the line are constructed, it will have non-stop express service between Mirai Zoo and Panda Museum, and will become the second line in the network to have an express service.
 
 <br>
 

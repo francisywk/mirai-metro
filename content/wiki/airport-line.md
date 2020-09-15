@@ -61,7 +61,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
   - **C** - Commuter
   - **E** - Express
 - Commuter trains stop at all stations.
-- Express trains stop at stations marked \"●\" and pass those marked \" \| \".
+- Express trains stop at stations marked \" ● \" and pass those marked \" \| \".
 
  <div class="table-responsive">
   <table class="table table-sm table-bordered table-700 text-center">

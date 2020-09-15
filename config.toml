@@ -55,12 +55,12 @@ hasCJKLanguage = true
     weight = 4
   [[menu.main]]
     name = "Travel Guide"
-    pre = "fas fa-book-reader fa-fw"
+    pre = "fas fa-info fa-fw"
     url = "/guide"
     weight = 5
   [[menu.main]]
     name = "Wiki"
-    pre = "fab fa-wikipedia-w fa-fw"
+    pre = "fas fa-globe fa-fw rotate-350"
     url = "/wiki"
     weight = 6
 

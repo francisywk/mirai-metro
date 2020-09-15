@@ -73,8 +73,9 @@
   var dt = new Date();
   var strYear = dt.getFullYear();
   var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  var timezone = -(dt.getTimezoneOffset()/60);
   var strDate = dt.getDate() + " " + months[dt.getMonth()] + " " + dt.getFullYear();
-  var strTime = (("0"+dt.getHours()).slice(-2)) + ":" + (("0"+dt.getMinutes()).slice(-2));
+  var strTime = (("0" + dt.getHours()).slice(-2)) + ":" + (("0" + dt.getMinutes()).slice(-2)) + " (UTC" + (timezone < 0 ? "" : "+") + timezone + ")";
   var strDateTimeZH = dt.getFullYear() + "年" + dt.getMonth() + "月" + dt.getDate() + "日" + ", " + (("0"+dt.getHours()).slice(-2)) + ":" + (("0"+dt.getMinutes()).slice(-2));
   $(".todaydate").html(strDate);
   $(".currenttime").html(strTime);

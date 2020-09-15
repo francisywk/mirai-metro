@@ -46,7 +46,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line under construction and will become the tenth line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley. Phase 1 is scheduled to begin operation in December 2020 between Mount Onsnow and Redhill Spring and the remaining phase 2 is expected to be opened in late 2021.
+The **Big Snow Line** (Code **S**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line under construction and will become the tenth line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley. Phase 1 is scheduled to begin operation in December 2020 between Mount Onsnow and Redhill Spring and the remaining line is expected to be completed in late 2021.
 
 The line was named after the Big Snow district, which the line passes and with the most stations being located there. On the network map, the line is shown using the color **<span class="text-bsl">Pink</span>**, and its stations are given numbers using the letter \"S\".
 
