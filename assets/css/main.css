@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:700,900|Noto+Serif+SC:500,600|Noto+Serif+TC:500,600&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:700,900|Noto+Serif+SC:500,600|Noto+Serif+TC:500,600&display=swap");
 
 @font-face {
-  font-family: 'Tube';
-  src: url('/fonts/P22-Underground-Regular.woff2') format('woff2'), url('/fonts/P22-Underground-Regular.woff') format('woff');
+  font-family: "Tube";
+  src: url("/fonts/P22-Underground-Regular.woff2") format("woff2"),
+       url("/fonts/P22-Underground-Regular.woff") format("woff");
   font-display: block;
 }
 
@@ -28,25 +29,25 @@ body {
 }
 
 .home-banner-sunrise {
-  background-image: url('/img/bg-sunrise.jpg');
+  background-image: url("/img/bg-sunrise.jpg");
   background-position: top;
   background-size: cover;
 }
 
 .home-banner-day {
-  background-image: url('/img/bg-day.jpg');
+  background-image: url("/img/bg-day.jpg");
   background-position: top;
   background-size: cover;
 }
 
 .home-banner-sunset {
-  background-image: url('/img/bg-sunset.jpg');
+  background-image: url("/img/bg-sunset.jpg");
   background-position: top;
   background-size: cover;
 }
 
 .home-banner-night {
-  background-image: url('/img/bg-night.jpg');
+  background-image: url("/img/bg-night.jpg");
   background-position: top;
   background-size: cover;
 }
@@ -64,27 +65,27 @@ body {
 }
 
 .font-miraimetro {
-  font-family: 'Apple LiGothic', sans-serif;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
 
 .bg-mirai {
-  background-color: #37AACF;
+  background-color: #37aacf;
 }
 
 .bg-miraimetro {
-  background-color: #44617F;
+  background-color: #44617f;
 }
 
 .border-mirai {
-  border-color: #37AACF !important;
+  border-color: #37aacf !important;
 }
 
 .border-miraimetro {
-  border-color: #44617F !important;
+  border-color: #44617f !important;
 }
 
 .border-miraimetro2 {
-  border-color: #7F7F7F !important;
+  border-color: #7f7f7f !important;
 }
 
 .bg-transfer-station {
@@ -96,11 +97,11 @@ body {
 }
 
 .text-mirai {
-  color: #37AACF !important;
+  color: #37aacf !important;
 }
 
 .text-miraimetro {
-  color: #44617F !important;
+  color: #44617f !important;
 }
 
 .bg-miraimetro2 {
@@ -108,11 +109,11 @@ body {
 }
 
 .text-miraimetro2 {
-  color: #7F7F7F !important;
+  color: #7f7f7f !important;
 }
 
 .text-CART {
-  color: #33CCCC !important;
+  color: #33cccc !important;
 }
 
 .w-10 {
@@ -162,97 +163,97 @@ body {
 .m-05,
 .mx-05,
 .ml-05 {
-  margin-left: .125rem !important;
+  margin-left: 0.125rem !important;
 }
 
 .m-05,
 .mx-05,
 .mr-05 {
-  margin-right: .125rem !important;
+  margin-right: 0.125rem !important;
 }
 
 .m-05,
 .my-05,
 .mt-05 {
-  margin-top: .125rem !important;
+  margin-top: 0.125rem !important;
 }
 
 .m-05,
 .my-05,
 .mb-05 {
-  margin-bottom: .125rem !important;
+  margin-bottom: 0.125rem !important;
 }
 
 .m-15,
 .mx-15,
 .ml-15 {
-  margin-left: .375rem !important;
+  margin-left: 0.375rem !important;
 }
 
 .m-15,
 .mx-15,
 .mr-15 {
-  margin-right: .375rem !important;
+  margin-right: 0.375rem !important;
 }
 
 .m-15,
 .my-15,
 .mt-15 {
-  margin-top: .375rem !important;
+  margin-top: 0.375rem !important;
 }
 
 .m-15,
 .my-15,
 .mb-15 {
-  margin-bottom: .375rem !important;
+  margin-bottom: 0.375rem !important;
 }
 
 .p-15,
 .px-15,
 .pl-15 {
-  padding-left: .375rem !important;
+  padding-left: 0.375rem !important;
 }
 
 .p-15,
 .px-15,
 .pr-15 {
-  padding-right: .375rem !important;
+  padding-right: 0.375rem !important;
 }
 
 .p-15,
 .py-15,
 .pt-15 {
-  padding-top: .375rem !important;
+  padding-top: 0.375rem !important;
 }
 
 .p-15,
 .py-15,
 .pb-15 {
-  padding-bottom: .375rem !important;
+  padding-bottom: 0.375rem !important;
 }
 
 .p-25,
 .px-25,
 .pl-25 {
-  padding-left: .75rem !important;
+  padding-left: 0.75rem !important;
 }
 
 .p-25,
 .px-25,
 .pr-25 {
-  padding-right: .75rem !important;
+  padding-right: 0.75rem !important;
 }
 
 .p-25,
 .py-25,
 .pt-25 {
-  padding-top: .75rem !important;
+  padding-top: 0.75rem !important;
 }
 
 .p-25,
 .py-25,
 .pb-25 {
-  padding-bottom: .75rem !important;
+  padding-bottom: 0.75rem !important;
 }
 
 .p-35,
@@ -329,7 +330,7 @@ body {
 
 @media (min-width: 992px) {
   #footer .col-lg a {
-    border-radius: .25rem !important;
+    border-radius: 0.25rem !important;
   }
 
   .embed-responsive-10by13 {
@@ -347,9 +348,9 @@ body {
   font-size: 1.2rem;
 }
 
-#mainNav .navbar-nav .nav-item.active>a,
+#mainNav .navbar-nav .nav-item.active > a,
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #44617F !important;
+  color: #44617f !important;
 }
 
 #mainNav {
@@ -358,7 +359,7 @@ body {
   transition: padding-top 0.4s;
 }
 
-.arr-right .breadcrumb-item+.breadcrumb-item::before {
+.arr-right .breadcrumb-item + .breadcrumb-item::before {
   content: "›";
   vertical-align: top;
   color: #888;
@@ -373,13 +374,13 @@ body {
   margin: 100px auto;
 }
 
-.d404>h1 {
+.d404 > h1 {
   font-size: 11rem;
-  color: #44617F;
+  color: #44617f;
 }
 
-.table>thead>tr>th,
-.table>tbody>tr>td {
+.table > thead > tr > th,
+.table > tbody > tr > td {
   vertical-align: middle;
 }
 
@@ -396,7 +397,7 @@ body {
   padding: 2px 13px 2px 13px;
   font-size: 1.5rem;
   font-weight: 700;
-  font-family: 'Source Code Pro', monospace !important;
+  font-family: "Source Code Pro", monospace !important;
 }
 
 .route-sign-sm {
@@ -407,7 +408,7 @@ body {
   padding: 1px 9.5px 2px 9.5px;
   font-size: 1.15rem;
   font-weight: 700;
-  font-family: 'Source Code Pro', monospace !important;
+  font-family: "Source Code Pro", monospace !important;
 }
 
 .route-sign-xs {
@@ -416,9 +417,9 @@ body {
   text-align: center;
   border-radius: 5px;
   padding: 1px 6.5px 1px 6.5px;
-  font-size: .75rem;
+  font-size: 0.75rem;
   font-weight: 700;
-  font-family: 'Source Code Pro', monospace !important;
+  font-family: "Source Code Pro", monospace !important;
 }
 
 .route-sign-mrr1 {
@@ -433,7 +434,7 @@ body {
 
 .route-sign-mrr2 {
   display: inline-block;
-  background-color: #A0522D;
+  background-color: #a0522d;
   color: white;
   font-size: 1rem;
   font-weight: bold;
@@ -443,7 +444,7 @@ body {
 
 .route-sign-mrr3 {
   display: inline-block;
-  background-color: #CEA3D9;
+  background-color: #cea3d9;
   color: white;
   font-size: 1rem;
   font-weight: bold;
@@ -458,7 +459,7 @@ ul {
 .station-banner {
   max-width: 1110px;
   min-height: 170px;
-  border: 1px solid #7F7F7F;
+  border: 1px solid #7f7f7f;
   padding: 35px 0;
   /* border-radius: .25rem; */
 }
@@ -473,22 +474,22 @@ ul {
 
 .station-name-en,
 .line-name-en {
-  font-family: 'Tube', sans-serif;
+  font-family: "Tube", sans-serif;
 }
 
 .station-name-zh,
 .line-name-zh {
-  font-family: 'Noto Serif TC', 'Noto Serif SC', serif;
+  font-family: "Noto Serif TC", "Noto Serif SC", serif;
   font-weight: 600;
 }
 
 .font-noto-serif-sc {
-  font-family: 'Noto Serif SC', serif;
+  font-family: "Noto Serif SC", serif;
   font-weight: 600;
 }
 
 .station-code {
-  font-family: 'Source Code Pro', monospace !important;
+  font-family: "Source Code Pro", monospace !important;
   background-color: white;
   color: black;
   font-size: 1rem;
@@ -528,149 +529,149 @@ ul {
 
 .redline,
 .rl span {
-  background-color: #FF2600;
+  background-color: #ff2600;
   color: white;
 }
 
 .station-code-rl {
-  border: 7px solid #FF2600;
+  border: 7px solid #ff2600;
 }
 
 .greenline,
 .gl span {
-  background-color: #0F7F12;
+  background-color: #0f7f12;
   color: white;
 }
 
 .station-code-gl {
-  border: 7px solid #0F7F12;
+  border: 7px solid #0f7f12;
 }
 
 .blueline,
 .bl span {
-  background-color: #0433FF;
+  background-color: #0433ff;
   color: white;
 }
 
 .station-code-bl {
-  border: 7px solid #0433FF;
+  border: 7px solid #0433ff;
 }
 
 .airportcomposite {
-  background: linear-gradient(135deg, #FF40FF 50%, #AB2FA1 50%);
+  background: linear-gradient(135deg, #ff40ff 50%, #ab2fa1 50%);
   color: white;
 }
 
 .airportcomposite2 {
-  background: linear-gradient(180deg, #FF40FF 50%, #AB2FA1 50%);
+  background: linear-gradient(180deg, #ff40ff 50%, #ab2fa1 50%);
   color: white;
 }
 
 .station-code-ac {
-  box-shadow: 0 0 0 3.5px #FF40FF, 0 0 0 7px #AB2FA1;
+  box-shadow: 0 0 0 3.5px #ff40ff, 0 0 0 7px #ab2fa1;
   margin: 7px;
 }
 
 .airportline,
 .al span {
-  background-color: #FF40FF;
+  background-color: #ff40ff;
   color: white;
 }
 
 .station-code-al {
-  border: 7px solid #FF40FF;
+  border: 7px solid #ff40ff;
 }
 
 .airportexpress,
 .ax span {
-  background-color: #AB2FA1;
+  background-color: #ab2fa1;
   color: white;
 }
 
 .station-code-ax {
-  border: 7px solid #AB2FA1;
+  border: 7px solid #ab2fa1;
 }
 
 .victoryline,
 .vl span {
-  background-color: #651A9E;
+  background-color: #651a9e;
   color: white;
 }
 
 .station-code-vl {
-  border: 7px solid #651A9E;
+  border: 7px solid #651a9e;
 }
 
 .waterfallline,
 .wl span {
-  background-color: #FEDF00;
+  background-color: #fedf00;
   color: black;
 }
 
 .station-code-wl {
-  border: 7px solid #FEDF00;
+  border: 7px solid #fedf00;
 }
 
 .cityloopline,
 .cl span {
-  background-color: #FF8C00;
+  background-color: #ff8c00;
   color: white;
 }
 
 .station-code-cl {
-  border: 7px solid #FF8C00;
+  border: 7px solid #ff8c00;
 }
 
 .diamondline,
 .dl span {
-  background-color: #33CDFB;
+  background-color: #33cdfb;
   color: white;
 }
 
 .text-dl {
-  color: #33CDFB;
+  color: #33cdfb;
 }
 
 .station-code-dl {
-  border: 7px solid #33CDFB;
+  border: 7px solid #33cdfb;
 }
 
 .pandaexpress,
 .pe span {
-  background-color: #50C878;
+  background-color: #50c878;
   color: white;
 }
 
 .station-code-pe {
-  border: 7px solid #50C878!important;
+  border: 7px solid #50c878 !important;
 }
 
 .text-pe {
-  color: #50C878;
+  color: #50c878;
 }
 
 .bigsnowline,
 .sl span {
-  background-color: #FF80A9;
+  background-color: #ff80a9;
   color: white;
 }
 
 .station-code-sl {
-  border: 7px solid #FF80A9;
+  border: 7px solid #ff80a9;
 }
 
 .text-bsl {
-  color: #FF80A9;
+  color: #ff80a9;
 }
 
 .islandsline,
-.il span{
-  background-color: #0F798A;
+.il span {
+  background-color: #0f798a;
   color: white;
 }
 
 .station-code-il {
-  border: 7px solid #0F798A;
+  border: 7px solid #0f798a;
 }
 
 .placeholderline {
@@ -756,12 +757,12 @@ ul {
 /* active (faded) */
 
 .nav-pills .pill .nav-link {
-  background-color: #37AACF;
+  background-color: #37aacf;
   color: white;
 }
 
 .card-header {
-  border-left: 6px solid #37AACF;
+  border-left: 6px solid #37aacf;
 }
 
 .table-600 {
@@ -789,23 +790,23 @@ ul {
 }
 
 #stationList .list-group-item {
-  padding: .55rem 1.25rem;
+  padding: 0.55rem 1.25rem;
 }
 
 .text-red {
-  color: #FF2600;
+  color: #ff2600;
 }
 
 .text-green {
-  color: #0F7F12;
+  color: #0f7f12;
 }
 
 .text-blue {
-  color: #0433FF;
+  color: #0433ff;
 }
 
 .text-airport {
-  color: #FF40FF;
+  color: #ff40ff;
 }
 
 .text-victory {
@@ -813,18 +814,18 @@ ul {
 }
 
 .text-waterfall {
-  color: #FDD931;
+  color: #fdd931;
 }
 
 .text-cityloop {
-  color: #FF8C00;
+  color: #ff8c00;
 }
 
 .text-diamond {
-  color: #33CDFB;
+  color: #33cdfb;
 }
 
-.bootstrap-select>.dropdown-toggle {
+.bootstrap-select > .dropdown-toggle {
   height: 50px;
 }
 
@@ -835,7 +836,7 @@ ul {
 }
 
 .lh-10 {
-  line-height: 1.0;
+  line-height: 1;
 }
 
 .lh-12 {
@@ -914,18 +915,18 @@ span.line {
 }
 
 #legend-jumbotron {
-  background-color: #D1D1D1;
+  background-color: #d1d1d1;
 }
 
 #legend-jumbotron h5,
 #legend-jumbotron span,
 .stylised-name-en-zh {
-  font-family: 'Tube', 'Noto Serif TC', 'Noto Serif SC';
+  font-family: "Tube", "Noto Serif TC", "Noto Serif SC";
   font-weight: 500;
 }
 
 .font-tube {
-  font-family: 'Tube', sans-serif;
+  font-family: "Tube", sans-serif;
 }
 
 .nav-scroller {
