@@ -10,8 +10,8 @@ adjacent_stations:
       - station: R6-Downtown Core
         towards: Fhoenix Hill
     following:
-      - station: R8-Highlands
-        towards: Highlands
+      - station: R8-Dimension Hill
+        towards: Dimension Hill
   - mm_sign: [G]
     preceding:
       - station: G6-Downtown Core

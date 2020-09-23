@@ -11,7 +11,7 @@ adjacent_stations:
         towards: Fhoenix Hill
     following:
       - station: R5-Under the Falls
-        towards: Highlands
+        towards: Dimension Hill
   - mm_sign: [B]
     preceding:
       - station: B5-Mugen

@@ -74,7 +74,7 @@ The following is a list of planned stations of the Big Snow Line.
     </thead>
     <tbody>
       <tr>
-        <td colspan="5" class="alert-secondary font-weight-bold">
+        <td colspan="5" class="alert-warning font-weight-bold">
           Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by December 2021)</span>
         </td>
       <tr>
@@ -120,12 +120,12 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle">S5</span>
         </td>
-        <td><i>Unnamed station</i></td>
-        <td><i>未名站</i></td>
+        <td>{{< wiki/link station="Acabelle" >}}</td>
+        <td>阿卡貝</td>
         <td></td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-secondary font-weight-bold">
+        <td colspan="5" class="alert-info font-weight-bold">
           Phase 1 <span class="small font-italic font-weight-bold">(under construction, to be ready by December 2020)</span>
         </td>
       <tr>

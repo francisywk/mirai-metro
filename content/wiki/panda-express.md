@@ -99,7 +99,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
     </thead>
     <tbody>
       <tr>
-        <td colspan="7" class="alert-secondary font-weight-bold">
+        <td colspan="7" class="alert-warning font-weight-bold">
           Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by 2021)</span>
         </td>
       </tr>
@@ -115,7 +115,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>La Miraiya</td>
       </tr>
       <tr>
-        <td colspan="7" class="alert-info font-weight-bold">
+        <td colspan="7" class="alert-success font-weight-bold">
           Phase 1 <span class="small font-italic font-weight-bold">(operational, since 27 July 2020)</span>
         </td>
       </tr>
@@ -189,7 +189,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Big Snow</td>
       </tr>
       <tr>
-        <td colspan="7" class="alert-secondary font-weight-bold">
+        <td colspan="7" class="alert-danger font-weight-bold">
           Phase 3 <span class="small font-italic font-weight-bold">(planned, to be ready by 2023)</span>
         </td>
       </tr>

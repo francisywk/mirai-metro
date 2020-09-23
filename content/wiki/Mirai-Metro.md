@@ -123,7 +123,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           Fhoenix Hill
         </td>
         <td>
-          Highlands
+          Dimension Hill
         </td>
         <td>11 August 2015</td>
         <td>6</td>

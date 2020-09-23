@@ -1,0 +1,37 @@
+{{ define "main" }}
+  {{ partial "breadcrumb.html" . }}
+  <div class="pt-lg-3">
+    <h3 class="wiki-title mb-1">{{ .Title }}</h3>
+  </div>
+  <hr class="mt-0">
+  <div class="py-3">
+    <h5>Content pages <span class="badge badge-pill badge-primary">{{ len (where (where .Site.RegularPages "Section" "==" "wiki") ".Params.category" "!=" "special") }}</span></h5>
+    <hr class="mt-0">
+    <ul class="row m-0 pl-4">
+      {{ range where (where .Site.RegularPages.ByTitle "Section" "==" "wiki") ".Params.category" "!=" "special" }}
+        <li class="col-12 col-md-6 col-xl-4 px-2">
+          <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="py-3">
+    <h5>Pages <small>(All pages in this site including non-wiki pages)</small> <span class="badge badge-pill badge-primary">{{ len .Site.Pages }}</span></h5>
+    <hr class="mt-0">
+    <ul class="row m-0 pl-4">
+      {{ range .Site.Pages.ByTitle }}
+        <li class="col-12 col-md-6 col-xl-4 px-2">
+          <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+          <br>
+          <p class="badge badge-pills badge-secondary mb-2">
+            {{ if .IsHome }}
+              Home
+            {{ else }}
+              {{ title .Section }}
+            {{ end }}
+          </p>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}

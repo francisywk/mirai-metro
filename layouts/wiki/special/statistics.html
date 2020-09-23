@@ -20,12 +20,15 @@
       <th colspan="2" class="text-center">Page statistics</th>
     </tr>
     <tr>
-      <td>Content pages</td>
+      <td>
+        <a href="../all-pages">Content pages</a>
+      </td>
       <td class="text-right">{{ len (where (where .Site.RegularPages "Section" "==" "wiki") ".Params.category" "!=" "special") }}</td>
     </tr>
     <tr>
       <td>
-        Pages<br><small>(All pages in this site including non-wiki pages)</small>
+        <a href="../all-pages">Pages</a>
+        <br><small>(All pages in this site including non-wiki pages)</small>
       </td>
       <td class="text-right">{{ len .Site.Pages }}</td>
     </tr>

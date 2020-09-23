@@ -11,7 +11,7 @@ adjacent_stations:
         towards: Fhoenix Hill
     following:
       - station: R7-Cavehaven
-        towards: Highlands
+        towards: Dimension Hill
   - mm_sign: [G]
     preceding:
       - station: G5-Mount Austin

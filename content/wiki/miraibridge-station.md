@@ -73,7 +73,7 @@ quick_facts:
         <td class="redline"></td>
         <td>
           {{< wiki/link station="Fhoenix Hill" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Highlands" >}}</p>
+          <p class="small font-italic mb-0">towards {{< wiki/link station="Dimension Hill" >}}</p>
         </td>
       </tr>
       <tr>

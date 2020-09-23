@@ -8,7 +8,7 @@ adjacent_stations:
   - mm_sign: [R]
     following:
       - station: R4-Paradise Falls
-        towards: Highlands
+        towards: Dimension Hill
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: City Loop

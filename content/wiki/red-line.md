@@ -20,7 +20,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Fhoenix Hill](/wiki/fhoenix-hill-station 'Fhoenix Hill station')<br>[Highlands](/wiki/highlands-station 'Highlands station')"
+      content: "[Fhoenix Hill](/wiki/fhoenix-hill-station 'Fhoenix Hill station')<br>[Dimension Hill](/wiki/dimension-hill-station 'Dimension Hill station')"
     - title: Stations
       content: 6 (Operational)<br>2 (Under construction)
     - title: Colour on map
@@ -61,7 +61,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 
 ---
 
-- 9 August 2020: Cavehaven [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Highlands.
+- 9 August 2020: Cavehaven [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Dimension Hill.
 
 <br>
 
@@ -84,6 +84,43 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td colspan="5" class="alert-warning font-weight-bold">
+          Phase 2B <span class="small font-italic font-weight-bold">(approved, to be ready by June 2021)</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
+        </td>
+        <td>{{< wiki/link station="Dirt Fortress" >}}</td>
+        <td>泥堡</td>
+        <td>
+          <span class="small font-italic">By June 2021</span>
+        </td>
+        <td>Big Snow</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="alert-info font-weight-bold">
+          Phase 2A <span class="small font-italic font-weight-bold">(under construction, to be ready by December 2020)</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
+        </td>
+        <td>{{< wiki/link station="Miraibridge" >}}</td>
+        <td>美來橋</td>
+        <td>
+          <span class="small font-italic">By December 2020</span>
+        </td>
+        <td>City Loop</td>
+      </tr>
+      <tr>
+        <td colspan="5" class="alert-success font-weight-bold">
+          Phase 1 <span class="small font-italic font-weight-bold">(operational, since 11 August 2015)</span>
+        </td>
+      </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R3<span>
@@ -141,37 +178,10 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R8<span>
         </td>
-        <td>{{< wiki/link station="Highlands" >}}</td>
-        <td>高原</td>
+        <td>{{< wiki/link station="Dimension Hill" >}}</td>
+        <td>維度山</td>
         <td></td>
         <td>Miraiya Highlands</td>
-      </tr>
-      <tr>
-        <td colspan="5" class="alert-secondary font-weight-bold">
-          Northern line extension <span class="small font-italic font-weight-bold">(under construction, to be ready by 2020-2021)</span>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
-        </td>
-        <td>{{< wiki/link station="Dirt Fortress" >}}</td>
-        <td>泥堡</td>
-        <td>
-          <span class="small font-italic">By June 2021</span>
-        </td>
-        <td>Big Snow</td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
-        </td>
-        <td>{{< wiki/link station="Miraibridge" >}}</td>
-        <td>美來橋</td>
-        <td>
-          <span class="small font-italic">By December 2020</span>
-        </td>
-        <td>City Loop</td>
       </tr>
     </tbody>
   </table>

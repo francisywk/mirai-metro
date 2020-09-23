@@ -11,7 +11,7 @@ adjacent_stations:
         towards: Fhoenix Hill
     following:
       - station: R6-Downtown Core
-        towards: Highlands
+        towards: Dimension Hill
   - mm_sign: [W]
     preceding:
       - station: W2-Uptown Cross
