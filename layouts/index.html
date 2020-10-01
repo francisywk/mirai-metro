@@ -22,7 +22,7 @@
         <h5 class="pt-5 font-weight-bold">Popular Stations</h5>
         <div class="nav-scroller">
           <nav class="nav nav-justified">
-            {{ range where .Site.Pages "Section" "station" }}
+            {{ range where .Site.Pages.ByTitle "Section" "station" }}
               {{ with .Params }}
                 {{ if .popular }}
                   <a class="nav-link text-light px-1 px-md-2 px-lg-3" href="/station/{{ anchorize .station_name_en }}">

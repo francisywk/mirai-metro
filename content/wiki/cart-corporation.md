@@ -62,7 +62,7 @@ names_transcriptions:
 
 The **City Area Rapid Transit Corporation** (市區地鐵公司) was established on 1 February 2015 as a government-owned [statutory corporation](https://en.wikipedia.org/wiki/Statutory_corporation "Statutory corporation") to study, build, and operate mass rapid transit systems for cities in the country that needed such system to meet its growing transportation needs.
 
-Mirai was selected as the first city in United Cities to have a metro system. The proposed system was called [Mirai RGB](/wki/mirai-rgb "Mirai RGB"), the predecessor of [Mirai Metro](/wiki/mirai-metro "Mirai Metro").
+Mirai was selected as the first city in United Cities to have a metro system. The proposed system was called [Mirai RGB](/wki/mirai-rgb "Mirai RGB"), the former name of the current [Mirai Metro](/wiki/mirai-metro "Mirai Metro").
 
 <BR>
 

@@ -16,8 +16,6 @@ quick_facts:
   - cols_2:
     - title: Location
       content: City Loop, Mirai
-    - title: Coordinates
-      content: XYZ
     - title: Operated by
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Line(s)

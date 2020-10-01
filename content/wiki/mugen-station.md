@@ -19,8 +19,6 @@ quick_facts:
       content: "Mugen Mirai<br>無限美來"
     - title: Location
       content: City Loop, Mirai
-    - title: Coordinates
-      content: XYZ
     - title: Operated by
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')<br>[Mirai Regional Railway](/wiki/mirai-regional-railway 'Mirai Regional Railway')"
     - title: Line(s)
