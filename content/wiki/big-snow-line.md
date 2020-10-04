@@ -112,8 +112,8 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle">S4</span>
         </td>
-        <td><i>Unnamed station</i></td>
-        <td><i>未名站</i></td>
+        <td>{{< wiki/link station="Frozenwell" >}}</td>
+        <td>冰水井</td>
         <td></td>
       </tr>
       <tr>
