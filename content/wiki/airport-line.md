@@ -122,7 +122,9 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         </td>
         <td>{{< wiki/link station="UCHQ East" >}}</td>
         <td>聯總東</td>
-        <td></td>
+        <td>
+          {{< wiki/mm-sign route="S" >}}
+        </td>
       </tr>
       <tr>
         <td>●</td>

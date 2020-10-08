@@ -80,6 +80,10 @@
   background-image: url(/img/bg/pandaexpress.png)
 }
 
+.station-code-bg-big-snow-line {
+  background-image: url(/img/bg/bigsnowline.png)
+}
+
 .station-code-b6 {
   background-image: url(/img/bg/blueline.png), url(/img/bg/blueline.png);
   background-repeat: no-repeat;

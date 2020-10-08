@@ -24,7 +24,7 @@ adjacent_stations:
       - station: C6-Mount Austin
         next: anti-clockwise
     following:
-      - station: C3-Berryhills
+      - station: C2-Miraibridge
         next: clockwise
 alternate_station_name_en: 
 alternate_station_name_zh: 

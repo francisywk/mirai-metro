@@ -62,6 +62,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 ---
 
 - 9 August 2020: Cavehaven [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Dimension Hill.
+- 8 October 2020: The line extended to {{< wiki/link station="Miraibridge" >}} from Paradise Falls station.
 
 <br>
 
@@ -101,8 +102,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>Big Snow</td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-info font-weight-bold">
-          Phase 2A <span class="small font-italic font-weight-bold">(under construction, to be ready by December 2020)</span>
+        <td colspan="5" class="alert-success font-weight-bold">
+          Phase 2A <span class="small font-italic font-weight-bold">(operational, since 8 October 2020)</span>
         </td>
       </tr>
       <tr>
@@ -112,7 +113,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>{{< wiki/link station="Miraibridge" >}}</td>
         <td>美來橋</td>
         <td>
-          <span class="small font-italic">By December 2020</span>
+          {{< wiki/mm-sign route="C" >}}
+          {{< wiki/mm-sign route="S" >}}
         </td>
         <td>City Loop</td>
       </tr>

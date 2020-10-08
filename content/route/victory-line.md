@@ -18,6 +18,8 @@ stations:
   - station_code: [V3]
     name: Redhill Spring
     name_zh: 紅山泉
+    transfer:
+      - mm_sign: [S]
   - station_code: [V4]
     name: Mirai City Airport
     name_zh: 美來城市空港

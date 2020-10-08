@@ -23,7 +23,7 @@
     {{ else if in . "P" }}
       <span class="station-code station-code-sm station-code-pe rounded-circle my-05">{{ . }}</span>
     {{ else if in . "S" }}
-      <span class="station-code station-code-sm station-code-sl rounded-circle my-05">{{ . }}</span>
+      <span class="station-code station-code-sm{{ if eq (len .) 3 }}-dd{{ end }} station-code-sl rounded-circle my-05">{{ . }}</span>
     {{ else if in . "I" }}
       <span class="station-code station-code-sm station-code-il rounded-circle my-05">{{ . }}</span>
     {{ end }}

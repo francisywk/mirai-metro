@@ -179,7 +179,9 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         </td>
         <td>{{< wiki/link station="Mount Onsnow" >}}</td>
         <td>雪藏山</td>
-        <td></td>
+        <td>
+          {{< wiki/mm-sign route="S" >}}
+        </td>
       </tr>
       <tr class="alert-secondary">
         <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>

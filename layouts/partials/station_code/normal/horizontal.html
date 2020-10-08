@@ -26,7 +26,7 @@
   {{ else if in . "P" }}
     <span class="station-code station-code-pe rounded-circle">{{ . }}</span>
   {{ else if in . "S" }}
-    <span class="station-code station-code-sl rounded-circle">{{ . }}</span>
+    <span class="station-code {{ if eq (len .) 3 }}station-code-dd{{ end }} station-code-sl rounded-circle">{{ . }}</span>
   {{ else if in . "I" }}
     <span class="station-code station-code-il rounded-circle">{{ . }}</span>
   {{ else if in . "nil" }}

@@ -181,7 +181,9 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         </td>
         <td>{{< wiki/link station="UCHQ West" >}}</td>
         <td>聯總西</td>
-        <td></td>
+        <td>
+          {{< wiki/mm-sign route="S" >}}
+        </td>
       </tr>
       <tr class="alert-secondary">
         <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Mirai" >}} (anti-clockwise) ↓ —</td>

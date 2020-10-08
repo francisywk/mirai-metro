@@ -1,7 +1,7 @@
 ---
 title: "Big Snow Line"
 title_zh: 大雪綫
-description: Rapid transit line under construction in Mirai
+description: Rapid transit line in Mirai
 date: 2020-07-31T05:08:26+08:00
 draft: false
 category: miraimetro
@@ -17,23 +17,25 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: "<b>Phase 1</b>: Under construction<br><b>Phase 2</b>: Approved"
+      content: "<b>Phase 1</b>: Operational<br><b>Phase 2</b>: Approved"
     - title: Termini
       content: "[Logsmead](/wiki/logsmead-station 'Logsmead station') (after December 2021)<br>[Mount Onsnow](/wiki/mount-onsnow-station 'Mount Onsnow station') (until December 2021)<br>[Redhill Spring](/wiki/redhill-spring-station 'Redhill Spring station')"
     - title: Stations
-      content: 5 (under construction)<br>5 (approved)
+      content: 5 (operational)<br>5 (approved)
     - title: Colour on map
       content: "Pink - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(255,128,169)"
   - heading: Operation
   - cols_2:
     - title: Planned opening
-      content: "<b>Phase 1</b>: December 2020<br><b>Phase 2</b>: December 2021"
+      content: "<b>Phase 2</b>: December 2021"
+    - title: Opened
+      content: "<b>Phase 1</b>: 8 October 2020"
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
-      content: Automated
+      content: Manual
     - title: Character
-      content: Elevated and underground
+      content: Underground
     - title: Rolling stock
       content: "[Minecart](https://minecraft.gamepedia.com/Minecart 'Minecart')<br>(Pink [Concrete](https://minecraft.gamepedia.com/Concrete 'Concrete'))"
   - heading: Technical
@@ -46,9 +48,17 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line under construction and will become the tenth line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley. Phase 1 is scheduled to begin operation in December 2020 between Mount Onsnow and Redhill Spring and the remaining line is expected to be completed in late 2021.
+The **Big Snow Line** (Code **S**) is the tenth [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley to be constructed in two phases. Phase 1 of the line began operation on 8 October 2020 between Mount Onsnow and Redhill Spring. The remainder second phase of the line is expected to be completed by late 2021.
 
 The line was named after the Big Snow district, which the line passes and with the most stations being located there. On the network map, the line is shown using the color **<span class="text-bsl">Pink</span>**, and its stations are given numbers using the letter \"S\".
+
+<br>
+
+#### History
+
+---
+
+- Phase 1 section of the line between Mount Onsnow and Redhill Spring opened to the public on 8 October 2020 two months ahead of schedule.
 
 <br>
 
@@ -125,8 +135,8 @@ The following is a list of planned stations of the Big Snow Line.
         <td></td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-info font-weight-bold">
-          Phase 1 <span class="small font-italic font-weight-bold">(under construction, to be ready by December 2020)</span>
+        <td colspan="5" class="alert-success font-weight-bold">
+          Phase 1 <span class="small font-italic font-weight-bold">(operational, since 8 October 2020)</span>
         </td>
       <tr>
       <tr>
@@ -161,7 +171,7 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           {{< wiki/mm-sign route="G" >}}
         </td>
-        <td rowspan="3">Redstone Valley</td>
+        <td rowspan="4">Redstone Valley</td>
       </tr>
       <tr>
         <td>

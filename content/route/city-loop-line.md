@@ -9,11 +9,11 @@ stations:
     name_zh: 冬地
     transfer:
       - mm_sign: [G,W]
-  # - station_code: [C2]
-  #   name: Miraibridge
-  #   name_zh: 美來橋
-  #   transfer:
-  #     - mm_sign: [S]
+  - station_code: [C2]
+    name: Miraibridge
+    name_zh: 美來橋
+    transfer:
+      - mm_sign: [R,S]
   - station_code: [C3]
     name: Berryhills
     name_zh: 啤梨山

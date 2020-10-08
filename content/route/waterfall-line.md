@@ -47,6 +47,8 @@ stations:
   - station_code: [W10]
     name: Mount Onsnow
     name_zh: 雪藏山
+    transfer:
+      - mm_sign: [S]
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:50px}
 weight: 6
 ---

@@ -101,7 +101,9 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         </td>
         <td>{{< wiki/link station="Redhill Spring" >}}</td>
         <td>紅山泉</td>
-        <td></td>
+        <td>
+          {{< wiki/mm-sign route="S" >}}
+        </td>
         <td rowspan="2">Redstone Valley</td>
       </tr>
       <tr>

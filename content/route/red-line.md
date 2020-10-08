@@ -4,10 +4,15 @@ title_zh: 紅綫
 mm_sign: [R]
 branch_line: false
 stations:
+  - station_code: [R2]
+    name: Miraibridge
+    name_zh: 美來橋
+    transfer: 
+      - mm_sign: [C,S]
+    first_station: true
   - station_code: [R3]
     name: Fhoenix Hill
     name_zh: 飛利斯山
-    first_station: true
   - station_code: [R4]
     name: Paradise Falls
     name_zh: 仙境瀑布

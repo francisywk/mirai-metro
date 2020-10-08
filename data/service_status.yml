@@ -35,10 +35,10 @@ route:
     name: Panda Express
     name_zh: 熊貓快綫
     status: "Limited"
-  # - mm_sign: [S]
-  #   name: Big Snow Line
-  #   name_zh: 大雪綫
-  #   status: "No"
+  - mm_sign: [S]
+    name: Big Snow Line
+    name_zh: 大雪綫
+    status: "Normal"
 airport:
   - status: "Normal"
 legend:

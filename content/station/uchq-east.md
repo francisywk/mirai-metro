@@ -1,9 +1,9 @@
 ---
 title: UCHQ East station
-station_code: [A3]
+station_code: [A3,S9]
 station_name_en: UCHQ East
 station_name_zh: 聯<span class='font-noto-serif-sc'>總</span>東
-mm_sign: [A]
+mm_sign: [A,S]
 adjacent_stations:
   - mm_sign: [A]
     preceding:
@@ -12,11 +12,18 @@ adjacent_stations:
     following:
       - station: A4-Mirai City Airport
         towards: UCHQ North
+  - mm_sign: [S]
+    preceding:
+      - station: S7-UCHQ West
+        towards: Mount Onsnow
+    following:
+      - station: S10-Redhill Spring
+        towards: Redhill Spring
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: Redstone Valley
 location_zh: 紅石谷
-jumbotron_style: .station-jumbotron{background-image:url(/img/bg/airportline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 130px}
+jumbotron_style: .station-jumbotron{background-image:url(/img/bg/airportline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [United Cities Headquarters, Redstone Valley, City of Mirai, United Cities]
 nearby_attraction: [UCHQ East Entrance]
 connecting_station: false

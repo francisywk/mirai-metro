@@ -7,7 +7,7 @@ mm_sign: [C,D]
 adjacent_stations:
   - mm_sign: [C]
     preceding:
-      - station: C1-Winterland
+      - station: C2-Miraibridge
         next: anti-clockwise
     following:
       - station: C4-Mirai

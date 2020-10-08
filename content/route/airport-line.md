@@ -21,6 +21,8 @@ stations:
     station_code_2: [nil]
     name: UCHQ East
     name_zh: 聯總東
+    transfer:
+      - mm_sign: [S]
   - station_code: [Acomu4]
     station_code_2: [Aex4]
     name: Mirai City Airport

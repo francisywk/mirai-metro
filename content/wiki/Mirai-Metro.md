@@ -22,7 +22,7 @@ quick_facts:
     - title: Transit type
       content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
     - title: Number of lines
-      content: 9
+      content: 10
     - title: Number of stations
       content: 33
     - title: Website
