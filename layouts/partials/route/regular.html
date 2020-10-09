@@ -4,7 +4,7 @@
       {{ range first 1 .Pages }}
         {{ with .Params }}
           <li class="nav-item text-center border d-inline-flex">
-            <a class="btn nav-link active px-0 py-35 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
+            <a class="btn nav-link active px-0 py-3 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
               {{ if .mm_sign }}
                 {{ partial "mm_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
               {{ end }}
@@ -16,7 +16,7 @@
       {{ range after 1 .Pages }}
         {{ with .Params }}
           <li class="nav-item text-center border border-left-0 d-inline-flex">
-            <a class="btn nav-link px-0 py-35 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
+            <a class="btn nav-link px-0 py-3 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
               {{ if .mm_sign }}
                 {{ partial "mm_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
               {{ end }}

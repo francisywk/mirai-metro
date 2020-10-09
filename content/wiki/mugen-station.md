@@ -61,7 +61,7 @@ The station is connected to {{< wiki/link station="Mirai" >}} station by undergr
 
 <br>
 
-#### Transport connection
+<!-- #### Transport connection
 
 ---
 
@@ -69,13 +69,7 @@ The station is connected to {{< wiki/link station="Mirai" >}} station by undergr
 
 The Mugen station is connecting to
 
-<br>
-
-#### Entrances/exits
-
----
-
-<br>
+<br> -->
 
 #### Lines
 
