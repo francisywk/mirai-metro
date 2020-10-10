@@ -29,6 +29,8 @@ quick_facts:
         <div class='route-sign-xs diamondline mr-15 mb-1'>D</div><a href='/wiki/diamond-line' title='Diamond Line'>Diamond Line</a><br>
         <div class='route-sign-xs pandaexpress mr-15'>C</div><a href='/wiki/panda-express' title='City Loop Line'>Panda Express</a>
       "
+    - title: Platforms
+      content: 4
     - title: Connections
       content: "
         <div class='mb-1'><a href='/wiki/mugen-station' title='Mirai station'>Mirai</a></div>

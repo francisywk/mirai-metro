@@ -18,6 +18,9 @@ location_en:
 location_zh: 
 jumbotron_style: 
 address: [{{ replace .Name "-" " " | title }}, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: []
+    xyz: [0,0,0]
 nearby_attraction: []
 connecting_station: false
 popular: false

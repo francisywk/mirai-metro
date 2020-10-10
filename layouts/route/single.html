@@ -9,10 +9,10 @@
     </div>
     <div class="alert alert-secondary small mb-4 py-2 rounded-0" role="alert">
       <div class="row">
-        <div class="col-6 col-md-8 text-right order-md-last">
+        <div class="col-0 col-md-8 text-right order-md-last">
           <span class="d-none d-md-inline"><span class="datetime"></span>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-sm fa-sync-alt">&nbsp;</i><a href="javascript:history.go(0)" class="alert-link">Update Status</a></span>
         </div>
-        <div class="col-6 col-md-4 order-lg-first">
+        <div class="col-12 col-md-4 text-center text-md-left order-md-first">
           {{ $rs := .mm_sign }}
           {{ range $.Site.Data.service_status.route }}
             {{ if eq .name $.Title }}
@@ -113,7 +113,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-4 px-25">
-        <h5 class="font-weight-bold text-center">Other routes</h5>
+        <p class="lead text-center mt-4 mt-lg-0 mb-1">Other routes</p>
         <div class="row row-cols-2 mx-0">
           {{ range where $.Site.RegularPages "Section" "==" "route" }}
             {{ if ne .Title $.Title }}

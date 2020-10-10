@@ -154,6 +154,25 @@
               </td>
             </tr>
             <tr>
+              {{ with .coordinate }}
+                <th scope="col" class="bg-light w-40 text-center align-middle">
+                  {{ if gt . 1 }}
+                    {{ "Coordinate" | pluralize }}
+                  {{ else }}
+                    Coordinate
+                  {{ end }}
+                </th>
+                <td class="w-60">
+                  {{ range . }}
+                    <div class="mb-1">
+                      &#x25B8;&nbsp;{{ partial "mm_sign/small.html" (dict "context" . "hover" true "vertical" false "data_placement" "left") }}
+                      &nbsp;<span class="text-monospace">XYZ:&nbsp;{{ delimit .xyz ", " }}</span>
+                    </div>
+                  {{ end }}
+                </td>
+              {{ end }}
+            </tr>
+            <tr>
               {{ with .nearby_attraction }}
                 <th scope="col" class="bg-light w-40 text-center align-middle">
                   {{ if gt . 1 }}
@@ -163,9 +182,15 @@
                   {{ end }}
                 </th>
                 <td class="w-60">
-                  &#x25B8;&nbsp;{{ delimit . "<br>&#x25B8;&nbsp;"}}
+                  {{ range . }}
+                    &#x25B8;&nbsp;{{ . }}<br>
+                  {{ end }}
                 </td>
               {{ end }}
+            </tr>
+            <tr>
+              <th scope="col" class="bg-light w-40 text-center align-middle">Wiki</th>
+              <td>{{ .Params.Permalink }}</td>
             </tr>
           </table>
         </div>

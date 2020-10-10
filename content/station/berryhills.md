@@ -25,6 +25,11 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/cityloopline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [Berryhills, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [C]
+    xyz: [315,50,-140]
+  - mm_sign: [D]
+    xyz: [317,73,"-129/-130"]
 nearby_attraction: [One Union Trade Centre (1UTC), City Loop Gateway Horse Park, MineDonald's]
 connecting_station: false
 popular: false

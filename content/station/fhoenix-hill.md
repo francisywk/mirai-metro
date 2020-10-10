@@ -18,6 +18,9 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 130px}
 address: [Fhoenix Hill, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [R]
+    xyz: [250,86,-83]
 nearby_attraction: [Fhoenix Hill Church]
 connecting_station: false
 popular: false

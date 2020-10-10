@@ -29,7 +29,14 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/cityloopline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:50% 10px,100% 10px,100% 10px;background-position:right 100px,0 130px,0 160px}
 address: [Winterland, City Loop, City of Mirai, United Cities]
-nearby_attraction: []
+coordinate:
+  - mm_sign: [R]
+    xyz: [250,55,-145]
+  - mm_sign: [C]
+    xyz: [242,50,-140]
+  - mm_sign: [S]
+    xyz: [242,50,-152]
+nearby_attraction: [Ice Skating Rink]
 connecting_station: false
 popular: false
 date: 2020-10-08T22:20:39+08:00

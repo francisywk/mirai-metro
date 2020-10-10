@@ -28,6 +28,8 @@ quick_facts:
         <div class='route-sign-xs cityloopline mr-15 mb-1'>C</div><a href='/wiki/city-loop-line' title='City Loop Line'>City Loop Line</a><br>
         <div class='route-sign-xs diamondline mr-15'>D</div><a href='/wiki/diamond-line' title='Diamond Line'>Diamond Line</a>
       "
+    - title: Platforms
+      content: 4
     - title: Connections
       content: "
         <div class='mb-1'><a href='/wiki/mugen-station' title='Mugen station'>Mugen</a></div>
