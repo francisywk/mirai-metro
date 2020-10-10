@@ -188,10 +188,16 @@
                 </td>
               {{ end }}
             </tr>
-            <tr>
-              <th scope="col" class="bg-light w-40 text-center align-middle">Wiki</th>
-              <td>{{ .Params.Permalink }}</td>
-            </tr>
+            {{ range where $.Site.RegularPages "Section" "==" "wiki" }}
+              {{ if eq .Title $.Title }}
+                <tr>
+                  <th scope="col" class="bg-light w-40 text-center align-middle">Wiki</th>
+                  <td>
+                  <a href="{{ .RelPermalink }}">{{ .Permalink }}</a>
+                  </td>
+                </tr>
+              {{ end }}
+            {{ end }}
           </table>
         </div>
       </div>

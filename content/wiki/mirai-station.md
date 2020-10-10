@@ -46,7 +46,7 @@ quick_facts:
   - heading: Other information
   - cols_2:
     - title: Website
-      content: "<https://miraimetro.netlify.app/station/mirai/>"
+      content: "[https://miraimetro.netlify.app/station/mirai/](/station/mirai)"
   - heading: History
   - cols_2:
     - title: Opened

@@ -46,7 +46,7 @@ quick_facts:
   - heading: Other information
   - cols_2:
     - title: Website
-      content: "<https://miraimetro.netlify.app/station/mugen/>"
+      content: "[https://miraimetro.netlify.app/station/mugen/](/station/mugen)"
   - heading: History
   - cols_2:
     - title: Opened
