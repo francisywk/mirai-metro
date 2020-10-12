@@ -22,6 +22,11 @@ location_en: Big Snow
 location_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,right 145px}
 address: [Zero Zero, Big Snow, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [W]
+    xyz: [103,66,-87]
+  - mm_sign: [S]
+    xyz: [103,66,-92]
 nearby_attraction: [Polar Bear Breeding Centre, Mirai Central Library, United Cities Gene Vault]
 connecting_station: false
 popular: false

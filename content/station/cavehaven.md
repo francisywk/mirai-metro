@@ -32,6 +32,13 @@ location_en: La Miraiya
 location_zh: 南美來雅
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/greenline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Cavehaven, La Miraiya, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [R]
+    xyz: [417,58,114]
+  - mm_sign: [G]
+    xyz: [422,58,114]
+  - mm_sign: [P]
+    xyz: [427,58,114]
 nearby_attraction: []
 connecting_station: false
 popular: false

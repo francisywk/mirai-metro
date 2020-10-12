@@ -32,6 +32,13 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/waterfallline.png),url(/img/bg/cityloopline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Winterland, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [G]
+    xyz: [194,56,-108]
+  - mm_sign: [W]
+    xyz: [194,56,-104]
+  - mm_sign: [C]
+    xyz: [194,50,-140]
 nearby_attraction: [Winter Wonderland]
 connecting_station: false
 popular: true

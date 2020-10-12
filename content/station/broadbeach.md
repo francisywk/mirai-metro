@@ -18,6 +18,9 @@ location_en: Victory Bay
 location_zh: 勝利灣
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 130px}
 address: [Broadbeach, Victory Bay, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [V]
+    xyz: [502,49,-556]
 nearby_attraction: [Broadbeach]
 connecting_station: false
 popular: false

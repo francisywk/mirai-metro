@@ -29,6 +29,13 @@ location_en: Big Snow
 location_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/blueline.png),url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px;background-position:0 100px,right 130px,0 160px}
 address: [Zero Zero, Big Snow, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [B]
+    xyz: [17,58,"-17 (main)"]
+  - mm_sign: [B]
+    xyz: [17,58,"-15 (branch)"]
+  - mm_sign: [W]
+    xyz: [17,52,-17]
 nearby_attraction: [Monument to the Centre of The Grid]
 connecting_station: false
 popular: false

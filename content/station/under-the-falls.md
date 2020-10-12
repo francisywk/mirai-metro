@@ -32,6 +32,13 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/waterfallline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Paradise Falls, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [R]
+    xyz: [252,58,29]
+  - mm_sign: [W]
+    xyz: [252,54,26]
+  - mm_sign: [P]
+    xyz: [252,54,29]
 nearby_attraction: [The Paradise Falls, Paradise Falls Residences, Up House, Central Market]
 connecting_station: false
 popular: true

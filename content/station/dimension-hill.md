@@ -15,6 +15,9 @@ location_en: Miraiya Highlands
 location_zh: 美來雅高原
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png);background-repeat:no-repeat;background-size:50% 10px;background-position:left 130px}
 address: [Dimension Hill, Miraiya Highlands, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [R]
+    xyz: [435,112,100]
 nearby_attraction: [Miraiya Highlands Weather station]
 connecting_station: false
 popular: false

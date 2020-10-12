@@ -40,6 +40,15 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/airportline.png),url(/img/bg/airportexpress.png),url(/img/bg/cityloopline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,50% 10px,100% 10px,100% 10px;background-position:0 70px,right 100px,right 130px,0 160px,0 190px}
 address: [Mirai, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [G]
+    xyz: [317,56,-77]
+  - mm_sign: [A]
+    xyz: [344,53,-52]
+  - mm_sign: [C]
+    xyz: [325,50,-52]
+  - mm_sign: [D]
+    xyz: [317,73,"-54/-55"]
 nearby_attraction: [One Union Trade Centre (1UTC), Singbucks Coffee, Mirai Tower, Central Clock Tower, Fhoenix Hill Aviary]
 connecting_station:
   - station: Mugen

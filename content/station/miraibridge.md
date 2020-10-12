@@ -36,7 +36,7 @@ coordinate:
     xyz: [242,50,-140]
   - mm_sign: [S]
     xyz: [242,50,-152]
-nearby_attraction: [River Down Ice Skating Rink]
+nearby_attraction: [Miraibridge Ice Skating Rink]
 connecting_station: false
 popular: false
 date: 2020-10-08T22:20:39+08:00

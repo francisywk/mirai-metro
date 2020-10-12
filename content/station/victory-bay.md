@@ -21,7 +21,12 @@ alternate_station_name_zh: 美來北
 location_en: Victory Bay
 location_zh: 勝利灣
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:50% 10px,100% 10px;background-position:right 115px,0 145px}
-address: [Braodbeach, Victory Bay, City of Mirai, United Cities]
+address: [Broadbeach, Victory Bay, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [B]
+    xyz: [427,65,-572]
+  - mm_sign: [V]
+    xyz: [434,49,-556]
 nearby_attraction: [Broadbeach, Victory Jetty, Museum of Victory, Victory Bay Lighthouse]
 connecting_station: false
 popular: false

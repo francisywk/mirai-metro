@@ -32,6 +32,11 @@ location_en: Redstone Valley
 location_zh: 紅石谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/airportline.png),url(/img/bg/airportexpress.png),url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Mirai City Airport, Redstone Valley, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [A]
+    xyz: [586,57,-176]
+  - mm_sign: [V]
+    xyz: [588,57,-176]
 nearby_attraction: [Mirai City Airport ATC Tower, Mirai City Airport Runway 18/36, Mirai City Airport Horse Park]
 connecting_station: false
 popular: false

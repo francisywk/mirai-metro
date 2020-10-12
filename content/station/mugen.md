@@ -43,6 +43,17 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png),url(/img/bg/waterfallline.png),url(/img/bg/diamondline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px,100% 10px;background-position:0 70px,right 100px,0 130px,0 160px,0 190px}
 address: [Mugen, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [B]
+    xyz: [344,61,-17]
+  - mm_sign: [V]
+    xyz: [354,54,38]
+  - mm_sign: [W]
+    xyz: [338,54,38]
+  - mm_sign: [D]
+    xyz: [317,73,"14/15"]
+  - mm_sign: [P]
+    xyz: [336,54,38]
 nearby_attraction: [Mirai Central Park, Mirai Tower, Freedom Tower, CT Centre, Three Storey Pagoda, Paradise Tower, Central Clock Tower]
 connecting_station:
   - station: Mirai

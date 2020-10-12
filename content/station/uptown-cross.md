@@ -25,6 +25,11 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [Uptown Cross, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [G]
+    xyz: [233,56,-77]
+  - mm_sign: [W]
+    xyz: [233,50,-73]
 nearby_attraction: [Uptown Underpass]
 connecting_station: false
 popular: false

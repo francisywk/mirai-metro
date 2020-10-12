@@ -32,6 +32,13 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/greenline.png),url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Downtown Core, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [R]
+    xyz: [277,58,125]
+  - mm_sign: [G]
+    xyz: [277,58,129]
+  - mm_sign: [W]
+    xyz: [277,58,121]
 nearby_attraction: [Mirai City Hall, TNT Store]
 connecting_station: false
 popular: true

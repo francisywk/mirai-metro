@@ -22,6 +22,11 @@ location_en: Big Snow
 location_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,left 145px}
 address: [Oasis Point, Big Snow, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [W]
+    xyz: [96,52,63]
+  - mm_sign: [P]
+    xyz: [96,52,61]
 nearby_attraction: []
 connecting_station: false
 popular: false

@@ -32,6 +32,13 @@ location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/cityloopline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Downtown East, City Loop, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [W]
+    xyz: [338,54,90]
+  - mm_sign: [C]
+    xyz: [325,54,90]
+  - mm_sign: [D]
+    xyz: [317,73,"118/119"]
 nearby_attraction: [The Void, Mirai Fire Service Headquarters]
 connecting_station: false
 popular: true

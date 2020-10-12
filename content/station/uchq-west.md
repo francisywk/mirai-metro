@@ -25,6 +25,11 @@ location_en: Redstone Valley
 location_zh: 紅石谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [United Cities Headquarters, Redstone Valley, City of Mirai, United Cities]
+coordinate:
+  - mm_sign: [G]
+    xyz: [363,56,-145]
+  - mm_sign: [S]
+    xyz: [363,56,-151]
 nearby_attraction: [UCHQ West Entrance]
 connecting_station: false
 popular: false
