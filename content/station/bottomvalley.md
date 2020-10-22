@@ -3,16 +3,16 @@ title: Bottomvalley station
 station_code: [G8,V2]
 station_name_en: Bottomvalley
 station_name_zh: 山底谷
-mm_sign: [G,V]
+route_sign: [G,V]
 adjacent_stations:
-  - mm_sign: [G]
+  - route_sign: [G]
     preceding:
       - station: G7-Cavehaven
         next: clockwise
     following:
       - station: G9-UCHQ South
         next: anti-clockwise
-  - mm_sign: [V]
+  - route_sign: [V]
     preceding:
       - station: V1-Mugen
         towards: Mugen
@@ -26,9 +26,9 @@ location_zh: 紅石谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [Bottomvalley, Redstone Valley, City of Mirai, United Cities]
 coordinate:
-  - mm_sign: [G]
+  - route_sign: [G]
     xyz: [432,57,12]
-  - mm_sign: [V]
+  - route_sign: [V]
     xyz: [418,57,12]
 nearby_attraction: []
 connecting_station: false

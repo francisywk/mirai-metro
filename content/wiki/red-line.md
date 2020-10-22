@@ -10,7 +10,7 @@ keywords: [mirai,miraimetro,route,redline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF2600;border-bottom: 4px solid #FF2600;padding:2px 0;"
-  - mm_sign: [R]
+  - route_sign: [R]
   - heading: Overview
   - cols_2:
     - title: Type

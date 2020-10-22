@@ -6,7 +6,7 @@
         <div class="col-4 col-md-2 text-center p-1 d-inline-flex">
           <a href="/route/{{ anchorize .name }}" class="btn btn-light border w-100 px-0 py-4 pb-lg-3"
             role="button">
-            {{ partial "mm_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
+            {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
             <p class="small text-miraimetro mt-1 mb-0">{{ .name }}<span class="d-none d-lg-inline"><br>{{ .name_zh }}</span></p>
             <hr class="d-none d-lg-block" />
             {{ if eq .status "Limited" }}

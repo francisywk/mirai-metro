@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,islandsline]
 see_also: false
 quick_facts:
   - title_style: "border-top: 4px solid #0F798A;border-bottom: 4px solid #0F798A;padding:2px 0;"
-  - mm_sign: [I]
+  - route_sign: [I]
   - heading: Overview
   - cols_2:
     - title: Type

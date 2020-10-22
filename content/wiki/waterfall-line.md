@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,waterfallline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FEDF00;border-bottom: 4px solid #FEDF00;padding:2px 0;"
-  - mm_sign: [W]
+  - route_sign: [W]
   - heading: Overview
   - cols_2:
     - title: Type

@@ -3,9 +3,9 @@ title: Panda Museum station
 station_code: [P1]
 station_name_en: Panda Museum
 station_name_zh: 熊貓博物館
-mm_sign: [P]
+route_sign: [P]
 adjacent_stations:
-  - mm_sign: [P]
+  - route_sign: [P]
     following:
       - station: P2-Cavehaven
         towards: Oasis Point

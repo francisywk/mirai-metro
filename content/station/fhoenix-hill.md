@@ -3,9 +3,9 @@ title: Fhoenix Hill station
 station_code: [R3]
 station_name_en: Fhoenix Hill
 station_name_zh: 飛利斯山
-mm_sign: [R]
+route_sign: [R]
 adjacent_stations:
-  - mm_sign: [R]
+  - route_sign: [R]
     preceding:
       - station: R2-Miraibridge
         towards: Miraibridge
@@ -19,7 +19,7 @@ location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 130px}
 address: [Fhoenix Hill, City Loop, City of Mirai, United Cities]
 coordinate:
-  - mm_sign: [R]
+  - route_sign: [R]
     xyz: [250,86,-83]
 nearby_attraction: [Fhoenix Hill Church]
 connecting_station: false

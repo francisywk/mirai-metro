@@ -1,7 +1,7 @@
 ---
 title: Airport Line
 title_zh: 空港綫
-mm_sign: [Ac]
+route_sign: [Ac]
 branch_line: false
 stations:
   - station_code: [Acomu1]
@@ -9,32 +9,32 @@ stations:
     name: Mirai
     name_zh: 美來
     transfer:
-      - mm_sign: [G,C,D]
+      - route_sign: [G,C,D]
     first_station: true
   - station_code: [A2]
     station_code_2: [nil]
     name: UCHQ South
     name_zh: 聯總南
     transfer:
-      - mm_sign: [G,B]
+      - route_sign: [G,B]
   - station_code: [A3]
     station_code_2: [nil]
     name: UCHQ East
     name_zh: 聯總東
     transfer:
-      - mm_sign: [S]
+      - route_sign: [S]
   - station_code: [Acomu4]
     station_code_2: [Aex4]
     name: Mirai City Airport
     name_zh: 美來城市空港
     transfer:
-      - mm_sign: [V]
+      - route_sign: [V]
   - station_code: [Acomu5]
     station_code_2: [Aex5]
     name: UCHQ North
     name_zh: 聯總北
     transfer:
-      - mm_sign: [B,D]
+      - route_sign: [B,D]
     last_station: true
 custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/airportline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:69px bottom}.station-code-bg{background-image:url(/img/bg/airportline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:69px}.station-code-bg-last{background-image:url(/img/bg/airportline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:69px top}.station-code-bg-express-first{background-image:url(/img/bg/airportexpress.png);background-repeat:no-repeat;background-size:7px 50%;background-position:56px bottom}.station-code-bg-express-last{background-image:url(/img/bg/airportexpress.png);background-repeat:no-repeat;background-size:7px 50%;background-position:56px top}.station-code-bg-express,.express-route-bypass{background-image:url(/img/bg/airportexpress.png);background-repeat:no-repeat;background-size:7px 101%;background-position:56px}
 weight: 4

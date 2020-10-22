@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,cityloopline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF8C00;border-bottom: 4px solid #FF8C00;padding:2px 0;"
-  - mm_sign: [C]
+  - route_sign: [C]
   - heading: Overview
   - cols_2:
     - title: Type

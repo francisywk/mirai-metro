@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,victoryline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #651A9E;border-bottom: 4px solid #651A9E;padding:2px 0;"
-  - mm_sign: [V]
+  - route_sign: [V]
   - heading: Overview
   - cols_2:
     - title: Type

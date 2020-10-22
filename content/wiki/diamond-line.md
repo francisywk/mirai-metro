@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,diamondline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #33CDFB;border-bottom: 4px solid #33CDFB;padding:2px 0;"
-  - mm_sign: [D]
+  - route_sign: [D]
   - heading: Overview
   - cols_2:
     - title: Type

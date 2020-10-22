@@ -53,8 +53,8 @@
                 {{ end }}
               </div>
               <div class="col-2">
-                {{ if .mm_sign }}
-                  {{ partial "mm_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
+                {{ if .route_sign }}
+                  {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
                 {{ end }}
               </div>
               <div class="col-2">
@@ -88,9 +88,9 @@
                 {{ end }}
               </div>
               <div class="col-12 mt-2">
-                {{ $rs := .mm_sign }}
+                {{ $rs := .route_sign }}
                 {{ range $.Site.Data.service_status.route }}
-                  {{ if eq .mm_sign $rs }}
+                  {{ if eq .route_sign $rs }}
                     <small>
                       {{ if eq .status "Limited" }}
                         <i class="fas fa-circle text-warning"></i>
@@ -128,7 +128,7 @@
                 <div class="col-12">
                   <p class="font-weight-bold mb-2">Walking distance to<br>&#x25B8; <a href="/station/{{ anchorize .station }}">{{ .station }}</a></p>
                   <p class="mb-2">Available transfers:</p>
-                  {{ partial "mm_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
+                  {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
                 </div>
               </div>
             </div>
@@ -165,8 +165,8 @@
                 <td class="w-60">
                   {{ range . }}
                     <div class="mb-1">
-                      &#x25B8;&nbsp;{{ partial "mm_sign/small.html" (dict "context" . "hover" true "vertical" false "data_placement" "left") }}
-                      &nbsp;<span class="text-monospace">XYZ:&nbsp;{{ delimit .xyz ", " }}</span>
+                      &#x25B8;&nbsp;{{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false "data_placement" "left") }}
+                      &nbsp;<span class="text-monospace">{{ delimit .xyz ", " }}</span>
                     </div>
                   {{ end }}
                 </td>

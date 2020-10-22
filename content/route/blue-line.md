@@ -1,46 +1,46 @@
 ---
 title: Blue Line
 title_zh: 藍綫
-mm_sign: [B]
+route_sign: [B]
 branch_line: true
 stations:
   - station_code: [B1]
     name: Victory Bay
     name_zh: 勝利灣
     transfer: 
-      - mm_sign: [V]
+      - route_sign: [V]
     first_station: true
   - station_code: [B3]
     name: UCHQ North
     name_zh: 聯總北
     transfer: 
-      - mm_sign: [Ac,D]
+      - route_sign: [Ac,D]
   - station_code: [B4]
     name: UCHQ South
     name_zh: 聯總南
     transfer: 
-      - mm_sign: [G,A]
+      - route_sign: [G,A]
   - station_code: [B5]
     name: Mugen
     name_zh: 無限
     transfer: 
-      - mm_sign: [V,W,D,P]
+      - route_sign: [V,W,D,P]
   - station_code: [B6]
     name: Paradise Falls
     name_zh: 仙境瀑布
     transfer:
-      - mm_sign: [R]
+      - route_sign: [R]
   - station_code: [B7]
     name: Zero Zero
     name_zh: 零零
     transfer:
-      - mm_sign: [W]
+      - route_sign: [W]
     branch_first: true
   - station_code: [B8]
     name: City Farm
     name_zh: 城中農場
     transfer:
-      - mm_sign: [G,P]
+      - route_sign: [G,P]
     branch_last: true
   - station_code: [B9]
     name: Hell's Gate

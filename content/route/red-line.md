@@ -1,14 +1,14 @@
 ---
 title: Red Line
 title_zh: 紅綫
-mm_sign: [R]
+route_sign: [R]
 branch_line: false
 stations:
   - station_code: [R2]
     name: Miraibridge
     name_zh: 美來橋
     transfer: 
-      - mm_sign: [C,S]
+      - route_sign: [C,S]
     first_station: true
   - station_code: [R3]
     name: Fhoenix Hill
@@ -17,22 +17,22 @@ stations:
     name: Paradise Falls
     name_zh: 仙境瀑布
     transfer: 
-      - mm_sign: [B]
+      - route_sign: [B]
   - station_code: [R5]
     name: Under the Falls
     name_zh: 瀑布下
     transfer: 
-      - mm_sign: [W,P]
+      - route_sign: [W,P]
   - station_code: [R6]
     name: Downtown Core
     name_zh: 市中心
     transfer: 
-      - mm_sign: [G,W]
+      - route_sign: [G,W]
   - station_code: [R7]
     name: Cavehaven
     name_zh: 旗喜雲
     transfer: 
-      - mm_sign: [G,P]
+      - route_sign: [G,P]
   - station_code: [R8]
     name: Dimension Hill
     name_zh: 維度山

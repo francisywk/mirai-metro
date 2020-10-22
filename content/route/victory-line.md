@@ -1,30 +1,30 @@
 ---
 title: Victory Line
 title_zh: 勝利綫
-mm_sign: [V]
+route_sign: [V]
 branch_line: false
 stations:
   - station_code: [V1]
     name: Mugen
     name_zh: 無限
     transfer:
-      - mm_sign: [B,W,D,P]
+      - route_sign: [B,W,D,P]
     first_station: true
   - station_code: [V2]
     name: Bottomvalley
     name_zh: 山底谷
     transfer:
-      - mm_sign: [G]
+      - route_sign: [G]
   - station_code: [V3]
     name: Redhill Spring
     name_zh: 紅山泉
     transfer:
-      - mm_sign: [S]
+      - route_sign: [S]
   - station_code: [V4]
     name: Mirai City Airport
     name_zh: 美來城市空港
     transfer:
-      - mm_sign: [Ac]
+      - route_sign: [Ac]
   - station_code: [V5]
     name: Logsmead
     name_zh: 樂米町
@@ -38,7 +38,7 @@ stations:
     name: Victory Bay
     name_zh: 勝利灣
     transfer:
-      - mm_sign: [B]
+      - route_sign: [B]
   - station_code: [V9]
     name: Moon Lake
     name_zh: 月湖

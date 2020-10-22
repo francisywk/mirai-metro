@@ -3,16 +3,16 @@ title: Mount Onsnow station
 station_code: [W10,S6]
 station_name_en: Mount Onsnow
 station_name_zh: 雪藏山
-mm_sign: [W,S]
+route_sign: [W,S]
 adjacent_stations:
-  - mm_sign: [W]
+  - route_sign: [W]
     preceding:
       - station: W9-Zero Zero
         next: anti-clockwise
     following:
       - station: W1-Winterland
         next: clockwise
-  - mm_sign: [S]
+  - route_sign: [S]
     following:
       - station: S7-Miraibridge
         towards: Redhill Spring
@@ -23,9 +23,9 @@ location_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,right 145px}
 address: [Zero Zero, Big Snow, City of Mirai, United Cities]
 coordinate:
-  - mm_sign: [W]
+  - route_sign: [W]
     xyz: [103,66,-87]
-  - mm_sign: [S]
+  - route_sign: [S]
     xyz: [103,66,-92]
 nearby_attraction: [Polar Bear Breeding Centre, Mirai Central Library, United Cities Gene Vault]
 connecting_station: false

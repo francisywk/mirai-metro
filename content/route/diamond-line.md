@@ -1,35 +1,35 @@
 ---
 title: Diamond Line
 title_zh: 鑽石綫
-mm_sign: [D]
+route_sign: [D]
 branch_line: false
 stations:
   - station_code: [D1]
     name: UCHQ North
     name_zh: 聯總北
     transfer:
-      - mm_sign: [B,Ac]
+      - route_sign: [B,Ac]
     first_station: true
   - station_code: [D2]
     name: Berryhills
     name_zh: 啤梨山
     transfer:
-      - mm_sign: [C]
+      - route_sign: [C]
   - station_code: [D3]
     name: Mirai
     name_zh: 美來
     transfer:
-      - mm_sign: [G,Ac,C]
+      - route_sign: [G,Ac,C]
   - station_code: [D4]
     name: Mugen
     name_zh: 無限
     transfer:
-      - mm_sign: [B,V,W,P]
+      - route_sign: [B,V,W,P]
   - station_code: [D5]
     name: Downtown East
     name_zh: 市中心東
     transfer:
-      - mm_sign: [W,C]
+      - route_sign: [W,C]
   - station_code: [D6]
     name: Diamond Hill
     name_zh: 鑽石山

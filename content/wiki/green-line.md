@@ -10,7 +10,7 @@ keywords: [mirai,miraimetro,route,greenline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #0F7F12;border-bottom: 4px solid #0F7F12;padding:2px 0;"
-  - mm_sign: [G]
+  - route_sign: [G]
   - heading: Overview
   - cols_2:
     - title: Type

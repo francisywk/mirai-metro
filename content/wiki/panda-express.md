@@ -11,7 +11,7 @@ notice: This article is about the rapid transit line in Mirai. For the American 
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #50C878;border-bottom: 4px solid #50C878;padding:2px 0;"
-  - mm_sign: [P]
+  - route_sign: [P]
   - heading: Overview
   - cols_2:
     - title: Type

@@ -3,23 +3,23 @@ title: Winterland station
 station_code: [G3,W1,C1]
 station_name_en: Winterland
 station_name_zh: 冬地
-mm_sign: [G,W,C]
+route_sign: [G,W,C]
 adjacent_stations:
-  - mm_sign: [G]
+  - route_sign: [G]
     preceding:
       - station: G2-Uptown Cross
         next: clockwise
     following:
       - station: G4-City Farm
         next: anti-clockwise
-  - mm_sign: [W]
+  - route_sign: [W]
     preceding:
       - station: W10-Mount Onsnow
         next: anti-clockwise
     following:
       - station: W2-Uptown Cross
         next: clockwise
-  - mm_sign: [C]
+  - route_sign: [C]
     preceding:
       - station: C6-Mount Austin
         next: anti-clockwise
@@ -33,11 +33,11 @@ location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/waterfallline.png),url(/img/bg/cityloopline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Winterland, City Loop, City of Mirai, United Cities]
 coordinate:
-  - mm_sign: [G]
+  - route_sign: [G]
     xyz: [194,56,-108]
-  - mm_sign: [W]
+  - route_sign: [W]
     xyz: [194,56,-104]
-  - mm_sign: [C]
+  - route_sign: [C]
     xyz: [194,50,-140]
 nearby_attraction: [Winter Wonderland]
 connecting_station: false

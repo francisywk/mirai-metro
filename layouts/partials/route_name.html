@@ -1,0 +1,27 @@
+{{ with . }}
+{{ with .route_name }}
+  {{ range . }}
+    {{ if eq . "R" }}
+      <span>Red Line</span>
+    {{ else if eq . "G" }}
+      <span>Green Line</span>
+    {{ else if eq . "B" }}
+      <span>Blue Line</span>
+    {{ else if eq . "A" }}
+      <span>Airport Line</span>
+    {{ else if eq . "V" }}
+      <span>Victory Line</span>
+    {{ else if eq . "W" }}
+      <span>Waterfall Line</span>
+    {{ else if eq . "C" }}
+      <span>City Loop Line</span>
+    {{ else if eq . "D" }}
+      <span>Diamond Line</span>
+    {{ else if eq . "P" }}
+      <span>Panda Express</span>
+    {{ else if eq . "S" }}
+      <span>Big Snow Line</span>
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}

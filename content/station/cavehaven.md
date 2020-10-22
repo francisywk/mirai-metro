@@ -3,23 +3,23 @@ title: Cavehaven station
 station_code: [R7,G7,P2]
 station_name_en: Cavehaven
 station_name_zh: 旗喜雲
-mm_sign: [R,G,P]
+route_sign: [R,G,P]
 adjacent_stations:
-  - mm_sign: [R]
+  - route_sign: [R]
     preceding:
       - station: R6-Downtown Core
         towards: Fhoenix Hill
     following:
       - station: R8-Dimension Hill
         towards: Dimension Hill
-  - mm_sign: [G]
+  - route_sign: [G]
     preceding:
       - station: G6-Downtown Core
         next: clockwise
     following:
       - station: G8-Bottomvalley
         next: anti-clockwise
-  - mm_sign: [P]
+  - route_sign: [P]
     preceding:
       - station: P1-Panda Museum
         towards: Panda Museum
@@ -33,11 +33,11 @@ location_zh: 南美來雅
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/greenline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Cavehaven, La Miraiya, City of Mirai, United Cities]
 coordinate:
-  - mm_sign: [R]
+  - route_sign: [R]
     xyz: [417,58,114]
-  - mm_sign: [G]
+  - route_sign: [G]
     xyz: [422,58,114]
-  - mm_sign: [P]
+  - route_sign: [P]
     xyz: [427,58,114]
 nearby_attraction: []
 connecting_station: false

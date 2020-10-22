@@ -3,9 +3,9 @@ title: {{ replace .Name "-" " " | title }} station
 station_code: []
 station_name_en: {{ replace .Name "-" " " | title }}
 station_name_zh: 
-mm_sign: []
+route_sign: []
 adjacent_stations:
-  - mm_sign: []
+  - route_sign: []
     preceding:
       - station: 
         towards: 
@@ -19,7 +19,7 @@ location_zh:
 jumbotron_style: 
 address: [{{ replace .Name "-" " " | title }}, City of Mirai, United Cities]
 coordinate:
-  - mm_sign: []
+  - route_sign: []
     xyz: [0,0,0]
 nearby_attraction: []
 connecting_station: false

@@ -10,7 +10,7 @@ keywords: [mirai,miraimetro,route,blueline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #0433ff;border-bottom: 4px solid #0433ff;padding:2px 0;"
-  - mm_sign: [B]
+  - route_sign: [B]
   - heading: Overview
   - cols_2:
     - title: Type

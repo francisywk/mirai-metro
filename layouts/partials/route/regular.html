@@ -5,8 +5,8 @@
         {{ with .Params }}
           <li class="nav-item text-center border d-inline-flex">
             <a class="btn nav-link active px-0 py-3 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
-              {{ if .mm_sign }}
-                {{ partial "mm_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
+              {{ if .route_sign }}
+                {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
               {{ end }}
               <p class="small text-primary mt-05 mb-0">{{ .Title }}<br>{{ .title_zh }}</p>
             </a>
@@ -17,8 +17,8 @@
         {{ with .Params }}
           <li class="nav-item text-center border border-left-0 d-inline-flex">
             <a class="btn nav-link px-0 py-3 w-100" data-toggle="tab" href="#{{ anchorize .Title }}-tab">
-              {{ if .mm_sign }}
-                {{ partial "mm_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
+              {{ if .route_sign }}
+                {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
               {{ end }}
               <p class="small text-primary mt-05 mb-0">{{ .Title }}<br>{{ .title_zh }}</p>
             </a>
@@ -32,8 +32,8 @@
           <div class="tab-pane fade show active" id="{{ anchorize .Title }}-tab">
             <div class="pl-4">
               <div class="d-inline-block align-middle mr-2">
-                {{ if .mm_sign }}
-                  {{ partial "mm_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+                {{ if .route_sign }}
+                  {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
                 {{ end }}
               </div>
               <div class="d-inline-block align-middle">
@@ -73,8 +73,8 @@
           <div class="tab-pane fade" id="{{ $.Scratch.Get "line-title" }}-tab">
             <div class="pl-4">
               <div class="d-inline-block align-middle mr-2">
-                {{ if .mm_sign }}
-                  {{ partial "mm_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
+                {{ if .route_sign }}
+                  {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
                 {{ end }}
               </div>
               <div class="d-inline-block align-middle">

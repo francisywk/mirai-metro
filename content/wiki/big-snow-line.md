@@ -9,7 +9,7 @@ keywords: [mirai,miraimetro,route,bigsnowline]
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #FF80A9;border-bottom: 4px solid #FF80A9;padding:2px 0;"
-  - mm_sign: [S]
+  - route_sign: [S]
   - heading: Overview
   - cols_2:
     - title: Type
@@ -130,8 +130,8 @@ The following is a list of planned stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-sl rounded-circle">S5</span>
         </td>
-        <td>{{< wiki/link station="Acabelle" >}}</td>
-        <td>阿卡貝</td>
+        <td>{{< wiki/link station="Flimbees" >}}</td>
+        <td>飛林蜂</td>
         <td></td>
       </tr>
       <tr>
