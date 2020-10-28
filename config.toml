@@ -56,7 +56,7 @@ disableKinds = ["taxonomy","term"]
     weight = 4
   [[menu.main]]
     name = "Travel Guide"
-    pre = "fas fa-info fa-fw"
+    pre = "fas fa-book fa-fw"
     url = "/guide"
     weight = 5
   [[menu.main]]

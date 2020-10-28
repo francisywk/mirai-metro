@@ -35,7 +35,7 @@ quick_facts:
     - title: Operator
       content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Conduction system
-      content: Automated
+      content: Manual control
     - title: Character
       content: Underground
     - title: Rolling stock

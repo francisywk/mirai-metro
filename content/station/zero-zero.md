@@ -23,8 +23,8 @@ adjacent_stations:
     following:
       - station: W10-Mount Onsnow
         next: clockwise
-alternate_station_name_en: Centre of The Grid
-alternate_station_name_zh: 世格中心
+alternate_station_name_en: Monument
+alternate_station_name_zh: 紀念碑
 location_en: Big Snow
 location_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/blueline.png),url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px;background-position:0 100px,right 130px,0 160px}

@@ -23,23 +23,31 @@
             <ul class="nav flex-column">
               {{ range .Site.Menus.main }}
                 <li class="nav-item">
-                  <a class="nav-link py-15" href="{{ .URL }}">
+                  <a class="nav-link py-1" href="{{ .URL }}">
                     <i class="{{ .Pre }}"></i>
                     <span class="pl-1">{{ .Name }}</span>
                   </a>
                 </li>
               {{ end }}
             </ul>
-            <h5 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">Print/export</h5>
-            <hr class="my-0">
-            <ul class="nav flex-column mb-2">
-              <li class="nav-item">
-                <a class="nav-link py-15" href="javascript:window.print()">
-                  <i class="fas fa-print fa-fw"></i>
-                  Print this page
-                </a>
-              </li>
-            </ul>
+            {{ if and (eq .Kind "page") (ne .Params.category "special") }}
+              <h5 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">Tools</h5>
+              <hr class="mt-0 mb-2">
+              <ul class="nav flex-column mb-2">
+                <li class="nav-item">
+                  <a class="nav-link py-1" href="javascript:window.print()">
+                    <i class="fas fa-print fa-fw"></i>
+                    Print this page
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a role="button" class="nav-link text-primary py-0" data-toggle="modal" data-target="#pageInfo">
+                    <i class="fas fa-info-circle fa-fw"></i>
+                    Page information
+                  </a>
+                </li>
+              </ul>
+            {{ end }}
           </div>
         </div>
       </nav>
@@ -52,6 +60,61 @@
     <div class="alert alert-secondary mb-0 py-2 rounded-0" role="alert">
       <div class="container px-1 px-md-3">
         <i class="fas fa-edit pr-2"></i>Last updated <span class="render_timeago font-weight-bold" datetime="{{ dateFormat "2006-01-02 15:04:05 UTC" .Lastmod.UTC }}"></span><span class="d-none d-md-inline"> on {{ dateFormat "2 January 2006, at 15:04 (MST)" .Lastmod.UTC }}</span>.
+      </div>
+    </div>
+    <div class="modal fade" id="pageInfo" tabindex="-1" role="dialog" aria-labelledby="pageInfoLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title font-weight-bold mb-0" id="pageInfoLabel">Information for "{{ .Page.Title }}"</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body bg-light">
+            <div class="container-fluid">
+              <form>
+                {{ with .Page }}
+                  <div class="form-row">
+                    <div class="form-group col-md-6">
+                      <label for="form-title">Display title</label>
+                      <input type="text" class="form-control" id="form-title" value="{{ .Title }}" readonly>
+                    </div>
+                    {{ with .Params.LinkTitle }}
+                      <div class="form-group col-md-6">
+                        <label for="form-alternate-title">Alternate title</label>
+                        <input type="text" class="form-control" id="form-alternate-title" value="{{ . }}" readonly>
+                      </div>
+                    {{ end }}
+                    <div class="form-group col-md-6">
+                      <label for="form-creation-date">Date of page creation</label>
+                      {{ $creationDate := dateFormat "15:04, 2 January 2006" .Date.UTC }}
+                      <input type="text" class="form-control" id="form-creation-date" value="{{ $creationDate }}" readonly>
+                    </div>
+                    <div class="form-group col-md-6">
+                      <label for="form-last-modify">Date of latest edit</label>
+                      {{ $lastModDate := dateFormat "15:04, 2 January 2006" .Lastmod.UTC }}
+                      <input type="text" class="form-control" id="form-last-modify" value="{{ $lastModDate }}" readonly>
+                    </div>
+                    <div class="form-group col-md-6">
+                      <label for="form-word-count">Page length (word count)</label>
+                      <input type="text" class="form-control" id="form-word-count" value="{{ lang.NumFmt 0 (.WordCount) }}" readonly>
+                    </div>
+                    {{ with .Keywords }}
+                      <div class="form-group col-md-6">
+                        <label for="form-keywords">Page keywords</label>
+                        <input type="text" class="form-control" id="form-keywords" value="{{ delimit . ", " }}" readonly>
+                      </div>
+                    {{ end }}
+                  </div>
+                {{ end }}
+              </form>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+          </div>
+        </div>
       </div>
     </div>
   {{ end }}

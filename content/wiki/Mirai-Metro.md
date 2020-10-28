@@ -126,7 +126,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           Dimension Hill
         </td>
         <td>11 August 2015</td>
-        <td>6</td>
+        <td>7</td>
         <td>0.544</td>
         <td rowspan="8">Manual control</td>
       </tr>
@@ -226,7 +226,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>8 March 2017</td>
         <td>6</td>
         <td>0.674</td>
-        <td rowspan="2">Automated</td>
+        <td>Automated</td>
       </tr>
       <tr>
         <td>{{< wiki/mm-sign route="P" >}}</td>
@@ -239,6 +239,21 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           Oasis Point
         </td>
         <td>27 July 2020</td>
+        <td>5</td>
+        <td>-</td>
+        <td rowspan="2">Manual control</td>
+      </tr>
+      <tr>
+        <td>{{< wiki/mm-sign route="S" >}}</td>
+        <td>{{< wiki/link route="S" >}}</td>
+        <td>大雪綫</td>
+        <td>
+          Mount Onsnow
+        </td>
+        <td>
+          Redhill Spring
+        </td>
+        <td>8 October 2020</td>
         <td>5</td>
         <td>-</td>
       </tr>
