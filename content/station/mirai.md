@@ -22,14 +22,14 @@ adjacent_stations:
         towards: UCHQ North
   - route_sign: [C]
     preceding:
-      - station: C3-Berryview
+      - station: C3-Berryhills
         next: anti-clockwise
     following:
       - station: C5-Downtown East
         next: clockwise
   - route_sign: [D]
     preceding:
-      - station: D2-Berryview
+      - station: D2-Berryhills
         towards: UCHQ North
     following:
       - station: D4-Mugen

@@ -14,7 +14,7 @@ adjacent_stations:
       - station: C1-Winterland
         next: anti-clockwise
     following:
-      - station: C3-Berryview
+      - station: C3-Berryhills
         next: clockwise
   - route_sign: [S]
     preceding:

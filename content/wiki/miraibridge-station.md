@@ -42,7 +42,7 @@ quick_facts:
 
 **Miraibridge** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來橋, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Kìuh*) is a [Mirai Metro](/wiki/mirai-metro "Mirai Metro") station in the Winterland area of City Loop district. It is an infill station for the {{< wiki/link route="C" >}} and interchange with the {{< wiki/link route="R" >}} and the {{< wiki/link route="S" >}}. It officially opened on 8 October 2020.
 
-The station is named after the [bridge](https://en.wikipedia.org/wiki/Bridge "Bridge") of the same name which linked Winterland with Berryview above the frozen River Down.
+The station is named after the [bridge](https://en.wikipedia.org/wiki/Bridge "Bridge") of the same name which linked Winterland with Berryhills above the frozen River Down.
 
 <br>
 
@@ -100,7 +100,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
         </td>
         <td class="cityloopline"></td>
         <td>
-          {{< wiki/link station="Berryview" >}}
+          {{< wiki/link station="Berryhills" >}}
           <p class="small font-italic mb-0">Next clockwise</p>
         </td>
       </tr>

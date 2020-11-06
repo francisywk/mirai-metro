@@ -64,7 +64,7 @@ The Diamond Line runs parallel above the Stationfront Boulevard within the City 
 
 The Diamond Line was previously called the Mirai SkyCart. Owned and operated by the Mirai SkyCart Company, the system was opened on 8 March 2017, making it the second system and the fourth railway transit line to enter service in the United Cities. The system was not a part of the then [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") system, it was operated as an independent and separated network instead.
 
-The initial route features 4 stations spanned from {{< wiki/link station="Berryview" >}} to {{< wiki/link station="Downtown East" >}}.
+The initial route features 4 stations spanned from {{< wiki/link station="Berryhills" >}} to {{< wiki/link station="Downtown East" >}}.
 
 <br>
 
@@ -93,7 +93,7 @@ With the use of [Command Block](https://minecraft.gamepedia.com/Command_Block "C
 Each station of the Diamond Line with the exception of Mirai and Diamond Hill stations features a unique theme.
 
 - UCHQ North ([Savanna](https://minecraft.gamepedia.com/Savanna "Savanna"))
-- Berryview ([Ocean Monument](https://minecraft.gamepedia.com/Ocean_Monument "Ocean Monument"))
+- Berryhills ([Ocean Monument](https://minecraft.gamepedia.com/Ocean_Monument "Ocean Monument"))
 - Mugen ([Jungle](https://minecraft.gamepedia.com/Jungle "Jungle"))
 - Downtown East ([End City](https://minecraft.gamepedia.com/End_City "End City"))
 
@@ -138,7 +138,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D2</span>
         </td>
-        <td>{{< wiki/link station="Berryview" >}}</td>
+        <td>{{< wiki/link station="Berryhills" >}}</td>
         <td>啤梨山</td>
         <td>
           {{< wiki/mm-sign route="C" >}}

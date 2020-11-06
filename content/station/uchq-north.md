@@ -23,7 +23,7 @@ adjacent_stations:
   - route_sign: [D]
     preceding:
     following:
-      - station: D2-Berryview
+      - station: D2-Berryhills
         towards: Diamond Hill
 alternate_station_name_en: 
 alternate_station_name_zh: 

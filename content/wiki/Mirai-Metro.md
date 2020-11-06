@@ -281,7 +281,7 @@ Major interchange stations, connecting three or more Mirai Metro lines, include 
 
 Other interchange stations connecting two Mirai Metro lines are:
 
-- Berryview
+- Berryhills
 - Downtown Core
 - Mirai Airport T1
 - Mirai Airport T2
