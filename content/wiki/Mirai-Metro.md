@@ -236,7 +236,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           Cavehaven
         </td>
         <td>
-          Oasis Point
+          Evergreen Point
         </td>
         <td>27 July 2020</td>
         <td>5</td>
@@ -248,7 +248,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="S" >}}</td>
         <td>大雪綫</td>
         <td>
-          Mount Onsnow
+          Onsnow Hill
         </td>
         <td>
           Redhill Spring
@@ -281,7 +281,7 @@ Major interchange stations, connecting three or more Mirai Metro lines, include 
 
 Other interchange stations connecting two Mirai Metro lines are:
 
-- Berryhills
+- Berryview
 - Downtown Core
 - Mirai Airport T1
 - Mirai Airport T2

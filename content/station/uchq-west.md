@@ -15,7 +15,7 @@ adjacent_stations:
   - route_sign: [S]
     preceding:
       - station: S7-Miraibridge
-        towards: Mount Onsnow
+        towards: Onsnow Hill
     following:
       - station: S9-UCHQ East
         towards: Redhill Spring

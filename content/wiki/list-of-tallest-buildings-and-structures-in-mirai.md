@@ -47,7 +47,7 @@ This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tal
         </td>
         <td>157 / 515</td>
         <td>Office</td>
-        <td>Berryhills</td>
+        <td>Berryview</td>
       </tr>
       <tr>
         <td>3</td>

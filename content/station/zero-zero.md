@@ -18,10 +18,10 @@ adjacent_stations:
         towards: City Farm
   - route_sign: [W]
     preceding:
-      - station: W8-Oasis Point
+      - station: W8-Evergreen Point
         next: anti-clockwise
     following:
-      - station: W10-Mount Onsnow
+      - station: W10-Onsnow Hill
         next: clockwise
 alternate_station_name_en: Monument
 alternate_station_name_zh: 紀念碑

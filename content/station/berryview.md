@@ -1,8 +1,8 @@
 ---
-title: Berryhills station
+title: Berryview station
 station_code: [C3,D2]
-station_name_en: Berryhills
-station_name_zh: 啤梨山
+station_name_en: Berryview
+station_name_zh: 啤梨景
 route_sign: [C,D]
 adjacent_stations:
   - route_sign: [C]
@@ -24,7 +24,7 @@ alternate_station_name_zh: 聯合貿易中心
 location_en: City Loop
 location_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/cityloopline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
-address: [Berryhills, City Loop, City of Mirai, United Cities]
+address: [Berryview, City Loop, City of Mirai, United Cities]
 coordinate:
   - route_sign: [C]
     xyz: [315,50,-140]

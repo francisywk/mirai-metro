@@ -71,38 +71,38 @@
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
-          <div class="modal-body bg-light">
+          <div class="modal-body">
             <div class="container-fluid">
               <form>
                 {{ with .Page }}
                   <div class="form-row">
                     <div class="form-group col-md-6">
-                      <label for="form-title">Display title</label>
+                      <label for="form-title" class="text-dark font-weight-bold">Display title</label>
                       <input type="text" class="form-control" id="form-title" value="{{ .Title }}" readonly>
                     </div>
                     {{ with .Params.LinkTitle }}
                       <div class="form-group col-md-6">
-                        <label for="form-alternate-title">Alternate title</label>
+                        <label for="form-alternate-title" class="text-dark font-weight-bold">Alternate title</label>
                         <input type="text" class="form-control" id="form-alternate-title" value="{{ . }}" readonly>
                       </div>
                     {{ end }}
                     <div class="form-group col-md-6">
-                      <label for="form-creation-date">Date of page creation</label>
+                      <label for="form-creation-date" class="text-dark font-weight-bold">Date of page creation</label>
                       {{ $creationDate := dateFormat "15:04, 2 January 2006" .Date.UTC }}
                       <input type="text" class="form-control" id="form-creation-date" value="{{ $creationDate }}" readonly>
                     </div>
                     <div class="form-group col-md-6">
-                      <label for="form-last-modify">Date of latest edit</label>
+                      <label for="form-last-modify" class="text-dark font-weight-bold">Date of latest edit</label>
                       {{ $lastModDate := dateFormat "15:04, 2 January 2006" .Lastmod.UTC }}
                       <input type="text" class="form-control" id="form-last-modify" value="{{ $lastModDate }}" readonly>
                     </div>
                     <div class="form-group col-md-6">
-                      <label for="form-word-count">Page length (word count)</label>
+                      <label for="form-word-count" class="text-dark font-weight-bold">Page length (word count)</label>
                       <input type="text" class="form-control" id="form-word-count" value="{{ lang.NumFmt 0 (.WordCount) }}" readonly>
                     </div>
                     {{ with .Keywords }}
                       <div class="form-group col-md-6">
-                        <label for="form-keywords">Page keywords</label>
+                        <label for="form-keywords" class="text-dark font-weight-bold">Page keywords</label>
                         <input type="text" class="form-control" id="form-keywords" value="{{ delimit . ", " }}" readonly>
                       </div>
                     {{ end }}
@@ -112,7 +112,7 @@
             </div>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Close</button>
           </div>
         </div>
       </div>

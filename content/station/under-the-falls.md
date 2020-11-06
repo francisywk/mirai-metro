@@ -25,7 +25,7 @@ adjacent_stations:
         towards: Panda Museum
     following:
       - station: P5-City Farm
-        towards: Oasis Point
+        towards: Evergreen Point
 alternate_station_name_en: Paradise Falls South
 alternate_station_name_zh: 仙境瀑布南
 location_en: City Loop

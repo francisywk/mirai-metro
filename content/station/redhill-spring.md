@@ -15,7 +15,7 @@ adjacent_stations:
   - route_sign: [S]
     preceding:
       - station: S9-UCHQ East
-        towards: Mount Onsnow
+        towards: Onsnow Hill
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: Redstone Valley

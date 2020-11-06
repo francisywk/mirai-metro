@@ -14,12 +14,12 @@ adjacent_stations:
       - station: C1-Winterland
         next: anti-clockwise
     following:
-      - station: C3-Berryhills
+      - station: C3-Berryview
         next: clockwise
   - route_sign: [S]
     preceding:
-      - station: S6-Mount Onsnow
-        towards: Mount Onsnow
+      - station: S6-Onsnow Hill
+        towards: Onsnow Hill
     following:
       - station: S8-UCHQ West
         towards: Redhill Spring

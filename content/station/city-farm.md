@@ -21,8 +21,8 @@ adjacent_stations:
       - station: P4-Under the Falls
         towards: Panda Museum
     following:
-      - station: P6-Oasis Point
-        towards: Oasis Point
+      - station: P6-Evergreen Point
+        towards: Evergreen Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: City Loop

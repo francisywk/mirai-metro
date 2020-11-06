@@ -15,7 +15,7 @@ adjacent_stations:
   - route_sign: [S]
     preceding:
       - station: S7-UCHQ West
-        towards: Mount Onsnow
+        towards: Onsnow Hill
     following:
       - station: S10-Redhill Spring
         towards: Redhill Spring

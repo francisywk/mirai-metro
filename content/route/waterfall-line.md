@@ -35,8 +35,8 @@ stations:
     transfer:
       - route_sign: [R,G]
   - station_code: [W8]
-    name: Oasis Point
-    name_zh: 綠洲角
+    name: Evergreen Point
+    name_zh: 常綠角
     transfer:
       - route_sign: [P]
   - station_code: [W9]
@@ -45,7 +45,7 @@ stations:
     transfer:
       - route_sign: [B]
   - station_code: [W10]
-    name: Mount Onsnow
+    name: Onsnow Hill
     name_zh: 雪藏山
     transfer:
       - route_sign: [S]

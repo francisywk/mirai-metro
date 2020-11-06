@@ -5,7 +5,7 @@ route_sign: [S]
 branch_line: false
 stations:
   - station_code: [S6]
-    name: Mount Onsnow
+    name: Onsnow Hill
     name_zh: 雪藏山
     transfer:
       - route_sign: [W]

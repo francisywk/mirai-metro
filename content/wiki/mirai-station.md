@@ -53,7 +53,7 @@ quick_facts:
       content: 6 November 2016
 ---
 
-**Mirai** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih*), alternate station name **Mugen Mirai**, is a station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is a major transit and [terminus](https://en.wikipedia.org/wiki/Train_station#Terminus "Terminal station") station of the [Airport Line](/wiki/airport-line "Airport Line") and [Green Line](/wiki/green-line "Green Line"). Located between the divisions of Berryhills and Mugen, the station is sandwiched between the [Mirai Tower](/wiki/mirai-tower "Mirai Tower") and [One Union Trade Centre](/wiki/union-trade-centre "Union Trade Centre") (UTC), the tallest and second tallest building in the The Grid. The station was opened in 2016.
+**Mirai** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih*), alternate station name **Mugen Mirai**, is a station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is a major transit and [terminus](https://en.wikipedia.org/wiki/Train_station#Terminus "Terminal station") station of the [Airport Line](/wiki/airport-line "Airport Line") and [Green Line](/wiki/green-line "Green Line"). Located between the divisions of Berryview and Mugen, the station is sandwiched between the [Mirai Tower](/wiki/mirai-tower "Mirai Tower") and [One Union Trade Centre](/wiki/union-trade-centre "Union Trade Centre") (UTC), the tallest and second tallest building in the The Grid. The station was opened in 2016.
 
 The station is connected to [Mugen](/wiki/mugen-station "Mugen station") station by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
 
@@ -140,7 +140,7 @@ Mirai station is served by the following lines of Mirai Metro:
       </tr>
       <tr>
         <td>
-          {{< wiki/link station="Berryhills" >}}
+          {{< wiki/link station="Berryview" >}}
           <p class="small font-italic mb-0">Next anti-clockwise</p>
         </td>
         <td class="cityloopline"></td>
@@ -158,7 +158,7 @@ Mirai station is served by the following lines of Mirai Metro:
       </tr>
       <tr>
         <td>
-          {{< wiki/link station="Berryhills" >}}
+          {{< wiki/link station="Berryview" >}}
           <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
         </td>
         <td class="diamondline"></td>

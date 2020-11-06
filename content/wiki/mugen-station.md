@@ -185,7 +185,7 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="pandaexpress"></td>
         <td>
           {{< wiki/link station="Under the Falls" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Oasis Point" >}}</p>
+          <p class="small font-italic mb-0">towards {{< wiki/link station="Evergreen Point" >}}</p>
         </td>
       </tr>
     </tbody>

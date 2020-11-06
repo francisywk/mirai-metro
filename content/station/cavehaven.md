@@ -25,7 +25,7 @@ adjacent_stations:
         towards: Panda Museum
     following:
       - station: P3-Mugen
-        towards: Oasis Point
+        towards: Evergreen Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
 location_en: La Miraiya

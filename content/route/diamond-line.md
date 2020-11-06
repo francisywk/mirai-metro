@@ -11,7 +11,7 @@ stations:
       - route_sign: [B,Ac]
     first_station: true
   - station_code: [D2]
-    name: Berryhills
+    name: Berryview
     name_zh: 啤梨山
     transfer:
       - route_sign: [C]

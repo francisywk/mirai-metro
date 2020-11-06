@@ -58,7 +58,7 @@ The **City Loop Line** (Code **C**) is one of the 9 [rapid transit](https://en.w
 
 ---
 
-- 8 October 2020: Miraibridge [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Winterland and Berryhills.
+- 8 October 2020: Miraibridge [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Winterland and Berryview.
 
 <br>
 
@@ -113,7 +113,7 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C3</span>
         </td>
-        <td>{{< wiki/link station="Berryhills" >}}</td>
+        <td>{{< wiki/link station="Berryview" >}}</td>
         <td>啤梨山</td>
         <td>
           {{< wiki/mm-sign route="D" >}}

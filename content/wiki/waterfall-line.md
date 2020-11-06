@@ -72,7 +72,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
     </thead>
     <tbody>
       <tr class="alert-secondary">
-        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Onsnow" >}} (anti-clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Onsnow Hill" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -156,8 +156,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
-        <td>{{< wiki/link station="Oasis Point" >}}</td>
-        <td>綠洲角</td>
+        <td>{{< wiki/link station="Evergreen Point" >}}</td>
+        <td>常綠角</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -177,7 +177,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
-        <td>{{< wiki/link station="Mount Onsnow" >}}</td>
+        <td>{{< wiki/link station="Onsnow Hill" >}}</td>
         <td>雪藏山</td>
         <td>
           {{< wiki/mm-sign route="S" >}}
