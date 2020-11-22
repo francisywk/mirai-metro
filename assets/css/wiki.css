@@ -122,6 +122,14 @@ section section {
   margin: 0 auto 1.5rem;
 }
 
+#wiki-content p, #wiki-content table, #wiki-content li {
+  font-size: .875rem;
+}
+
+#wiki-content p {
+  margin-bottom: .875rem;
+}
+
 a.missing {
   color: #ba0000;
 }

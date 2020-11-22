@@ -6,7 +6,7 @@ description: Mirai Metro interchange station in City Loop, Mirai
 date: 2020-08-29T01:16:58+08:00
 draft: false
 category: miraimetro
-keywords: [mirai,miraimetro,station,cityloopline,bigsnowline]
+keywords: [mirai,miraimetro,station,redline,cityloopline,bigsnowline]
 see_also: true
 quick_facts:
   - station_code: [R2,C2,S7]
@@ -20,7 +20,7 @@ quick_facts:
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Line(s)
       content: "
-        <div class='route-sign-xs redline mr-15 mb-1'>C</div><a href='/wiki/red-line' title='Red Line'>Red Line</a><br>
+        <div class='route-sign-xs redline mr-15 mb-1'>R</div><a href='/wiki/red-line' title='Red Line'>Red Line</a><br>
         <div class='route-sign-xs cityloopline mr-15 mb-1'>C</div><a href='/wiki/city-loop-line' title='City Loop Line'>City Loop Line</a><br>
         <div class='route-sign-xs bigsnowline mr-15'>S</div><a href='/wiki/big-snow-line' title='Big Snow Line'>Big Snow Line</a>
       "

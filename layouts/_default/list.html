@@ -1,5 +1,13 @@
 {{ define "main" }}
 <div class="container pt-5">
   {{ partial "header.html" . }}
+  <ul>
+    {{ range .Pages.ByDate.Reverse }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <p class="small">{{ dateFormat "2 January 2006" .Date }}</p>
+      </li>  
+    {{ end }}
+  </ol>
 </div>
 {{ end }}

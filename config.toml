@@ -55,13 +55,18 @@ disableKinds = ["taxonomy","term"]
     url = "/station"
     weight = 4
   [[menu.main]]
-    name = "Travel Guide"
+    name = "News"
+    pre = "fas fa-newspaper fa-fw"
+    url = "/news"
+    weight = 6
+  [[menu.main]]
+    name = "Guide"
     pre = "fas fa-book fa-fw"
     url = "/guide"
-    weight = 5
+    weight = 7
   [[menu.main]]
     name = "Wiki"
     pre = "fas fa-globe fa-fw rotate-350"
     url = "/wiki"
-    weight = 6
+    weight = 8
 

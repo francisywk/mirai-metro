@@ -61,10 +61,10 @@
         </div>
       {{ end }}
     {{ end }}
-    <div class="row justify-content-center mx-md-0 text-center">
+    <div class="row justify-content-center mx-md-0 py-5 text-center">
       {{ range after 1 .Site.Menus.main }}
-        <div class="col-6 col-md-4 p-1 p-md-2">
-          <a href="{{ .URL }}" class="btn btn-light py-4 py-lg-5 w-100 text-miraimetro" role="button">
+        <div class="col-6 col-md-4 p-1 p-md-2 p-lg-3">
+          <a href="{{ .URL }}" class="btn btn-light py-4 w-100 text-miraimetro rounded-lg" role="button">
             <div class="d-lg-none">
               <span class="fa-stack fa-3x">
                 <i class="far fa-circle fa-stack-2x text-mirai"></i>
@@ -72,12 +72,12 @@
               </span>
             </div>
             <div class="d-none d-lg-block">
-              <span class="fa-stack fa-4x">
+              <span class="fa-stack fa-5x">
                 <i class="far fa-circle fa-stack-2x text-mirai"></i>
                 <i class="{{ .Pre }} fa-stack-1x"></i>
               </span>
             </div>
-            <p class="font-weight-bold mb-0 pt-2"><i class="fas fa-angle-right text-miraimetro">&nbsp;</i>{{ .Name }}</p>
+            <p class="h6 font-weight-bold mb-0 pt-2 pt-lg-3">{{ .Name }}</p>
           </a>
         </div>
       {{ end }}
@@ -93,12 +93,14 @@
         <div class="col-12 col-lg-8">
           <table class="table table-borderless">
             <tbody>
-              <tr class="row border-bottom">
-                <td class="col-4 text-right">7 June 2018</td>
-                <td class="col-8">
-                  <a href="">Celebrating Mirai Metro's 3<sup>rd</sup> Anniversary of operation</a>
-                </td>
-              </tr>
+              {{ range first 3 (where .Site.RegularPages "Section" "==" "news").ByDate.Reverse }}
+                <tr class="row border-bottom">
+                  <td class="col-4 text-right">{{ dateFormat "2 Jan 2006" .Date }}</td>
+                  <td class="col-8">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                  </td>
+                </tr>
+              {{ end }}
             </tbody>
           </table>
         </div>
