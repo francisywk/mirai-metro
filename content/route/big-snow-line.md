@@ -31,6 +31,6 @@ stations:
     transfer:
       - route_sign: [V]
     last_station: true
-custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:62px bottom}.station-code-bg{background-image:url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:62px}.station-code-bg-last{background-image:url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:62px top}
+custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:64px bottom}.station-code-bg{background-image:url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:64px}.station-code-bg-last{background-image:url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:64px top}
 weight: 10
 ---

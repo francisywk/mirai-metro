@@ -40,10 +40,9 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid mt-4">
+  <div class="container mt-4">
     {{ with .Params.alert }}
       {{ range . }}
-      <div class="container">
         <div class="alert alert-warning border border-warning text-center rounded py-1 d-none d-md-block w-90 mx-auto" role="alert">
           <span class="fa-stack fa-2x align-middle">
             <i class="fas fa-certificate fa-stack-2x text-danger"></i>
@@ -60,12 +59,11 @@
             {{ end }}
           </div>
         </div>
-      </div>
       {{ end }}
     {{ end }}
-    <div class="row mx-md-0 text-center">
+    <div class="row justify-content-center mx-md-0 text-center">
       {{ range after 1 .Site.Menus.main }}
-        <div class="col-6 col-md-4 col-xl p-1 p-md-2">
+        <div class="col-6 col-md-4 p-1 p-md-2">
           <a href="{{ .URL }}" class="btn btn-light py-4 py-lg-5 w-100 text-miraimetro" role="button">
             <div class="d-lg-none">
               <span class="fa-stack fa-3x">
@@ -79,7 +77,7 @@
                 <i class="{{ .Pre }} fa-stack-1x"></i>
               </span>
             </div>
-            <p class="font-weight-bold mb-0 pt-2">{{ .Name }}</p>
+            <p class="font-weight-bold mb-0 pt-2"><i class="fas fa-angle-right text-miraimetro">&nbsp;</i>{{ .Name }}</p>
           </a>
         </div>
       {{ end }}
@@ -88,7 +86,7 @@
   <article class="bg-light my-4 py-5">
     <div class="container">
       <div class="text-right">
-        <i class="fas fa-angle-right text-miraimetro"></i>&nbsp;<a href="/news">View all</a>
+        <i class="fas fa-angle-right text-miraimetro">&nbsp;</i><a href="/news">View all</a>
       </div>
       <h4 class="text-center font-weight-bold">News</h4>
       <div class="row mx-0">

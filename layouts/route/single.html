@@ -95,7 +95,7 @@
                       </td>
                     {{ end }}
                   {{ end }}
-                  <td>&#x25B8;&nbsp;<a href="/station/{{ anchorize .name }}">{{ .name }}<br><span class="pl-3 small text-dark">{{ .name_zh }}</span></a></td>
+                  <td><span class="text-dark">&#x25B8;&nbsp;</span><a href="/station/{{ anchorize .name }}">{{ .name }}<br><span class="pl-3 small text-dark">{{ .name_zh }}</span></a></td>
                   <td class="text-right">
                     {{ with .transfer }}
                       {{ range . }}
@@ -126,7 +126,7 @@
                       {{ end }}
                     </div>
                     <div class="media-body small align-self-center">
-                      <i class="fas fa-angle-right">&nbsp;</i><a href="{{ .RelPermalink }}" class="stretched-link"><span>{{ .Title }}</span></a>
+                      <span class="text-dark">&#x25B8;&nbsp;</span><a href="{{ .RelPermalink }}" class="stretched-link"><span>{{ .Title }}</span></a>
                     </div>
                   </div>
                 </div>
