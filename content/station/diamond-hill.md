@@ -11,10 +11,10 @@ adjacent_stations:
         towards: UCHQ North
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: La Miraiya
-location_zh: 南美來雅
+location_en: La Mirai
+location_zh: 南美來
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:50% 10px;background-position:left 130px}
-address: [Diamond Hill, La Miraiya, City of Mirai, United Cities]
+address: [Diamond Hill, La Mirai, City of Mirai, United Cities]
 coordinate:
   - route_sign: [D]
     xyz: ["258/259",73,242]

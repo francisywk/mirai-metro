@@ -18,6 +18,7 @@
   overflow-x: hidden;
   overflow-y: auto;
   /* Scrollable contents if viewport is shorter than content. */
+  font-size: .875rem;
 }
 
 @supports ((position: -webkit-sticky) or (position: sticky)) {

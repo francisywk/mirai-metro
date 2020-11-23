@@ -28,10 +28,10 @@ adjacent_stations:
         towards: Evergreen Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: La Miraiya
-location_zh: 南美來雅
+location_en: Miraiya Valley
+location_zh: 美來雅山谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/greenline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
-address: [Cavehaven, La Miraiya, City of Mirai, United Cities]
+address: [Cavehaven, Miraiya Valley, City of Mirai, United Cities]
 coordinate:
   - route_sign: [R]
     xyz: [417,58,114]

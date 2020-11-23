@@ -151,7 +151,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
-        <td>La Miraiya</td>
+        <td>La Mirai</td>
       </tr>
       <tr>
         <td>

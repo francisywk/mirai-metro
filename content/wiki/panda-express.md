@@ -112,7 +112,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>{{< wiki/link station="Panda Museum" >}}</td>
         <td>熊貓博物館</td>
         <td></td>
-        <td>La Miraiya</td>
+        <td>La Mirai</td>
       </tr>
       <tr>
         <td colspan="7" class="alert-success font-weight-bold">
@@ -131,7 +131,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}
         </td>
-        <td>La Miraiya</td>
+        <td>La Mirai</td>
       </tr>
       <tr>
         <td>●</td>

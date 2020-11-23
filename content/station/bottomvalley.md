@@ -21,10 +21,10 @@ adjacent_stations:
         towards: Moon Lake
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Redstone Valley
-location_zh: 紅石谷
+location_en: Miraiya Valley
+location_zh: 美來雅山谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
-address: [Bottomvalley, Redstone Valley, City of Mirai, United Cities]
+address: [Bottomvalley, Miraiya Valley, City of Mirai, United Cities]
 coordinate:
   - route_sign: [G]
     xyz: [432,57,12]

@@ -494,9 +494,12 @@ ul {
   color: black;
   font-size: 1rem;
   font-weight: 900;
-  padding: 0px 3px 1px 3px;
+  padding: 0;
   display: inline-block;
+  text-align: center;
   vertical-align: middle;
+  width: 39px;
+  height: 39px;
 }
 
 .station-code-dd {
@@ -506,25 +509,32 @@ ul {
 
 .station-code-sm {
   font-size: 0.8125rem;
-  padding: 0px 2.25px 1px 2.25px;
+  padding: 1px 0 0;
+  width: 35px;
+  height: 35px;
 }
 
 .station-code-sm-dd {
   font-size: 0.6875rem;
-  padding: 2px 0.3px;
+  padding: 2px 0 0;
+  width: 35px;
+  height: 35px;
 }
 
 .station-code-xs {
   font-size: 0.5625rem;
   padding: 0;
   border-width: 5px !important;
-  min-width: 23px;
+  width: 23.5px;
+  height: 23.5px;
 }
 
 .station-code-xl {
   font-size: 1.5rem;
   padding: 0px 4px 1px 4px;
   border-width: 10px !important;
+  width: 57px;
+  height: 57px;
 }
 
 .redline,
@@ -570,6 +580,8 @@ ul {
 .station-code-ac {
   box-shadow: 0 0 0 3.5px #ff40ff, 0 0 0 7px #ab2fa1;
   margin: 7px;
+  width: 21px;
+  height: 21px;
 }
 
 .airportline,

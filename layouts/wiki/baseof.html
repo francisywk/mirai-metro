@@ -23,9 +23,9 @@
             <ul class="nav flex-column">
               {{ range .Site.Menus.main }}
                 <li class="nav-item">
-                  <a class="nav-link py-1" href="{{ .URL }}">
+                  <a class="nav-link pt-0 pb-1" href="{{ .URL }}">
                     <i class="{{ .Pre }}"></i>
-                    <span class="pl-1">{{ .Name }}</span>
+                    {{ .Name }}
                   </a>
                 </li>
               {{ end }}
@@ -35,13 +35,13 @@
               <hr class="mt-0 mb-2">
               <ul class="nav flex-column mb-2">
                 <li class="nav-item">
-                  <a class="nav-link py-1" href="javascript:window.print()">
+                  <a class="nav-link pt-0 pb-1" href="javascript:window.print()">
                     <i class="fas fa-print fa-fw"></i>
                     Print this page
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a role="button" class="nav-link text-primary py-0" data-toggle="modal" data-target="#pageInfo">
+                  <a role="button" class="nav-link text-primary pt-0 pb-1" data-toggle="modal" data-target="#pageInfo">
                     <i class="fas fa-info-circle fa-fw"></i>
                     Page information
                   </a>

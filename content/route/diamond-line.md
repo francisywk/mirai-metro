@@ -34,6 +34,6 @@ stations:
     name: Diamond Hill
     name_zh: 鑽石山
     last_station: true
-custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:51px bottom}.station-code-bg{background-image:url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:51px}.station-code-bg-last{background-image:url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:51px top}
+custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:52px bottom}.station-code-bg{background-image:url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:52px}.station-code-bg-last{background-image:url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:52px top}
 weight: 8
 ---

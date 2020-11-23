@@ -191,7 +191,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td></td>
         <td>1 May 2019</td>
         <td>Underground</td>
-        <td>La Miraiya</td>
+        <td>La Mirai</td>
       </tr>
     </tbody>
   </table>

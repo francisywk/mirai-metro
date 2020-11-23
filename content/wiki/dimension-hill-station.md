@@ -33,14 +33,14 @@ quick_facts:
   - heading: Other information
   - cols_2:
     - title: Website
-      content: "[https://miraimetro.netlify.app/station/miraibridge/](/station/dimension-hill)"
+      content: "[https://miraimetro.netlify.app/station/dimension-hill/](/station/dimension-hill)"
   - heading: History
   - cols_2:
     - title: Opened
       content: 1 August 2015
 ---
 
-**Dimension Hill** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 維度山, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Wàih douh sāan*), alternate station name **Old Portal**, is a [Mirai Metro](/wiki/mirai-metro "Mirai Metro") station in Dimension Hill, in the Miraiya Highlands district, in Mirai. The station is the terminus of the of the {{< wiki/link route="R" >}} and the next station towards City Loop is {{< wiki/link station="Cavehaven" >}}.
+**Dimension Hill** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 維度山, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Wàih douh sāan*), alternate station name **Old Portal**, is a [Mirai Metro](/wiki/mirai-metro "Mirai Metro") station in Dimension Hill, in the Miraiya Highlands district, in Mirai. The station is the terminus of the of the {{< wiki/link route="R" >}} and the next station towards City Loop is {{< wiki/link station="Cavehaven" >}} station.
 
 The station is also known as Old Portal as this station once served the former main Mirai [nether portal](https://minecraft.gamepedia.com/Nether_portal "Nether portal") entrance. The portal was replaced by a new one located in Dark Forest which is served by {{< wiki/link station="Hell's Gate" >}} station on the {{< wiki/link route="B" >}}.
 
@@ -73,7 +73,7 @@ The station is also known as Old Portal as this station once served the former m
           {{< wiki/link route="R" >}}
         </td>
         <td class="redline"></td>
-        <td>-</td>
+        <td class="font-italic">Terminus</td>
       </tr>
     </tbody>
   </table>

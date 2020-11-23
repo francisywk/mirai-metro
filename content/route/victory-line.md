@@ -43,6 +43,6 @@ stations:
     name: Moon Lake
     name_zh: 月湖
     last_station: true
-custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:50px bottom}.station-code-bg{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:50px}.station-code-bg-last{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:50px top}
+custom_style: table{margin:0 auto}.station-code-bg-first{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:51px bottom}.station-code-bg{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:51px}.station-code-bg-last{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:7px 50%;background-position:51px top}
 weight: 5
 ---

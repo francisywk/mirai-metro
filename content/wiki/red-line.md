@@ -174,7 +174,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
-        <td>La Miraiya</td>
+        <td>La Mirai</td>
       </tr>
       <tr>
         <td>
