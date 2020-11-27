@@ -663,12 +663,12 @@ ul {
 }
 
 .bigsnowline,
-.sl span {
+.bsl span {
   background-color: #ff80a9;
   color: white;
 }
 
-.station-code-sl {
+.station-code-bsl {
   border: 7px solid #ff80a9;
 }
 

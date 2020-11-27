@@ -90,7 +90,7 @@ The following is a list of planned stations of the Big Snow Line.
       <tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S1</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S1</span>
         </td>
         <td>{{< wiki/link station="Logsmead" >}}</td>
         <td>樂米町</td>
@@ -101,7 +101,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S2</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S2</span>
         </td>
         <td>{{< wiki/link station="Roubay Road" >}}</td>
         <td>進灣道</td>
@@ -111,7 +111,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S3</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S3</span>
         </td>
         <td>{{< wiki/link station="Westmead" >}}</td>
         <td>西米町</td>
@@ -120,7 +120,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S4</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S4</span>
         </td>
         <td>{{< wiki/link station="Frozenwell" >}}</td>
         <td>冰水井</td>
@@ -128,7 +128,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S5</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S5</span>
         </td>
         <td>{{< wiki/link station="Flimbees" >}}</td>
         <td>飛林蜂</td>
@@ -141,7 +141,7 @@ The following is a list of planned stations of the Big Snow Line.
       <tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S6</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
         </td>
         <td>{{< wiki/link station="Onsnow Hill" >}}</td>
         <td>雪藏山</td>
@@ -152,7 +152,7 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S7</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S7</span>
         </td>
         <td>{{< wiki/link station="Miraibridge" >}}</td>
         <td>美來橋</td>
@@ -164,18 +164,18 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S8</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S8</span>
         </td>
         <td>{{< wiki/link station="UCHQ West" >}}</td>
         <td>聯總西</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
         </td>
-        <td rowspan="4">Redstone Valley</td>
+        <td rowspan="2">Redstone Valley</td>
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-sl rounded-circle">S9</span>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S9</span>
         </td>
         <td>{{< wiki/link station="UCHQ East" >}}</td>
         <td>聯總東</td>
@@ -185,13 +185,14 @@ The following is a list of planned stations of the Big Snow Line.
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm-dd station-code-sl rounded-circle">S10</span>
+          <span class="station-code station-code-sm-dd station-code-bsl rounded-circle">S10</span>
         </td>
         <td>{{< wiki/link station="Redhill Spring" >}}</td>
         <td>紅山泉</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
+        <td>Miraiya Valley</td>
       </tr>
     </tbody>
   </table>

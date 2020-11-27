@@ -104,7 +104,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
-        <td rowspan="2">Redstone Valley</td>
+        <td>Miraiya Valley</td>
       </tr>
       <tr>
         <td>
@@ -115,6 +115,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           {{< wiki/mm-sign route="Ac" >}}
         </td>
+        <td>Redstone Valley</td>
       </tr>
       <tr>
         <td>

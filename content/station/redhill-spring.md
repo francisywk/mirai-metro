@@ -18,10 +18,10 @@ adjacent_stations:
         towards: Onsnow Hill
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Miraiya Highlands
-location_zh: 美來雅高原
+location_en: Miraiya Valley
+location_zh: 美來雅山谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/victoryline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,left 145px}
-address: [Redhill Spring, Miraiya Highlands, City of Mirai, United Cities]
+address: [Redhill Spring, Miraiya Valley, City of Mirai, United Cities]
 coordinate:
   - route_sign: [V]
     xyz: [547,57,-17]

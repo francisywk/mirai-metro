@@ -149,7 +149,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td class="font-italic">{{< wiki/link station="Mount Austin" >}}</td>
         <td class="font-italic">柯士甸山</td>
         <td>
-          Infill station <span class="small font-italic">(March 2021)</span>
+          Infill station <span class="small font-italic">(December 2020)</span>
         </td>
       </tr>
       <tr>

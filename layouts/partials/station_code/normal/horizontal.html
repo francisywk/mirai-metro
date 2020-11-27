@@ -2,9 +2,9 @@
   {{ if in . "R" }}
     <span class="station-code station-code-rl rounded-circle">{{ . }}</span>
   {{ else if in . "G" }}
-    <span class="station-code {{ if eq (len .) 3 }}station-code-dd{{ end }} station-code-gl rounded-circle">{{ . }}</span>
+    <span class="station-code{{ if eq (len .) 3 }} station-code-dd{{ end }} station-code-gl rounded-circle">{{ . }}</span>
   {{ else if in . "B" }}
-    <span class="station-code {{ if eq (len .) 3 }}station-code-dd{{ end }} station-code-bl rounded-circle">{{ . }}</span>
+    <span class="station-code{{ if eq (len .) 3 }} station-code-dd{{ end }} station-code-bl rounded-circle">{{ . }}</span>
   {{ else if in . "Acomu" }}
     <span class="station-code station-code-al rounded-circle">A{{ slicestr . 5 6 }}</span>
   {{ else if in . "Aex" }}
@@ -18,7 +18,7 @@
   {{ else if in . "V" }}
     <span class="station-code station-code-vl rounded-circle">{{ . }}</span>
   {{ else if in . "W" }}
-    <span class="station-code {{ if eq (len .) 3 }}station-code-dd{{ end }} station-code-wl rounded-circle">{{ . }}</span>
+    <span class="station-code{{ if eq (len .) 3 }} station-code-dd{{ end }} station-code-wl rounded-circle">{{ . }}</span>
   {{ else if in . "C" }}
     <span class="station-code station-code-cl rounded-circle">{{ . }}</span>
   {{ else if in . "D" }}
@@ -26,7 +26,7 @@
   {{ else if in . "P" }}
     <span class="station-code station-code-pe rounded-circle">{{ . }}</span>
   {{ else if in . "S" }}
-    <span class="station-code {{ if eq (len .) 3 }}station-code-dd{{ end }} station-code-sl rounded-circle">{{ . }}</span>
+    <span class="station-code{{ if eq (len .) 3 }} station-code-dd{{ end }} station-code-bsl rounded-circle">{{ . }}</span>
   {{ else if in . "I" }}
     <span class="station-code station-code-il rounded-circle">{{ . }}</span>
   {{ else if in . "nil" }}

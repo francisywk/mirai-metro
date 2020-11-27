@@ -131,7 +131,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}
         </td>
-        <td>La Mirai</td>
+        <td>Miraiya Valley</td>
       </tr>
       <tr>
         <td>●</td>
