@@ -17,13 +17,13 @@ quick_facts:
     - title: System
       content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
     - title: Status
-      content: Operational<br>Under construction (Miraibridge infill station)
+      content: Operational
     - title: Locale
       content: City Loop, Mirai
     - title: Termini
       content: "[Winterland](/wiki/winterland-station 'Winterland station') (loop)"
     - title: Stations
-      content: 5 (Operational)<br>1 (Under construction)
+      content: 6
     - title: Colour on map
       content: "Orange - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(255,140,0)"
   - heading: Operation
@@ -75,7 +75,7 @@ The following is a list of the stations on the City Loop Line.
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer / Note</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -150,6 +150,7 @@ The following is a list of the stations on the City Loop Line.
         <td>柯士甸山</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="W" >}}
         </td>
       </tr>
       <tr class="alert-secondary">

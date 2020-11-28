@@ -21,7 +21,7 @@ quick_facts:
     - title: Termini
       content: "[Winterland](/wiki/winterland-station 'Winterland station') (loop line)"
     - title: Stations
-      content: 9 (Operational)<br>1 (Planned)
+      content: 10
     - title: Colour on map
       content: "Yellow - [rgb](https://en.wikipedia.org/wiki/RGB_color_model 'RGB color model')(254,223,0)"
   - heading: Operation
@@ -49,6 +49,14 @@ quick_facts:
 ---
 
 The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of the metro after the [Green Line](/wiki/green-line "Green Line"). The line gained its nomenclature from the Paradise Falls district it passes through and the line visually resembles the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model") on the network map.
+
+<br>
+
+#### History
+
+---
+
+- 1 December 2020: Mount Austin [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Evergreen Point.
 
 <br>
 
@@ -142,14 +150,15 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           {{< wiki/mm-sign route="G" >}}
         </td>
       </tr>
-      <tr class="alert-warning">
+      <tr>
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W7<span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Mount Austin" >}}</td>
-        <td class="font-italic">柯士甸山</td>
+        <td>{{< wiki/link station="Mount Austin" >}}</td>
+        <td>柯士甸山</td>
         <td>
-          Infill station <span class="small font-italic">(December 2020)</span>
+          {{< wiki/mm-sign route="G" >}}
+          {{< wiki/mm-sign route="C" >}}
         </td>
       </tr>
       <tr>

@@ -18,7 +18,7 @@ stations:
     name: Winterland
     name_zh: 冬地
     transfer:
-      - route_sign: [C,W]
+      - route_sign: [W,C]
   - station_code: [G4]
     name: City Farm
     name_zh: 城中農場
@@ -28,7 +28,7 @@ stations:
     name: Mount Austin
     name_zh: 柯士甸山
     transfer:
-      - route_sign: [C]
+      - route_sign: [W,C]
   - station_code: [G6]
     name: Downtown Core
     name_zh: 市中心

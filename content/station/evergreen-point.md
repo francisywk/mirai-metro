@@ -7,7 +7,7 @@ route_sign: [W,P]
 adjacent_stations:
   - route_sign: [W]
     preceding:
-      - station: W6-Downtown Core
+      - station: W7-Mount Austin
         next: anti-clockwise
     following:
       - station: W9-Zero Zero

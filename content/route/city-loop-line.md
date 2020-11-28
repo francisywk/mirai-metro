@@ -33,7 +33,7 @@ stations:
     name: Mount Austin
     name_zh: 柯士甸山
     transfer:
-      - route_sign: [G]
+      - route_sign: [G,W]
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/cityloopline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:56px}
 weight: 7
 ---

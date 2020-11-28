@@ -34,6 +34,11 @@ stations:
     name_zh: 市中心
     transfer:
       - route_sign: [R,G]
+  - station_code: [W7]
+    name: Mount Austin
+    name_zh: 柯士甸山
+    transfer:
+      - route_sign: [G,C]
   - station_code: [W8]
     name: Evergreen Point
     name_zh: 常綠角

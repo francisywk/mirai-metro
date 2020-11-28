@@ -105,8 +105,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>{{< wiki/link station="Winterland" >}}</td>
         <td>冬地</td>
         <td>
-          {{< wiki/mm-sign route="C" >}}
           {{< wiki/mm-sign route="W" >}}
+          {{< wiki/mm-sign route="C" >}}
         </td>
       </tr>
       <tr>
@@ -127,6 +127,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>{{< wiki/link station="Mount Austin" >}}</td>
         <td>柯士甸山</td>
         <td>
+          {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="C" >}}
         </td>
       </tr>

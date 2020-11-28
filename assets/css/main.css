@@ -504,19 +504,19 @@ ul {
 
 .station-code-dd {
   font-size: 0.8125rem;
-  padding: 3px 1px 3px 1px;
+  padding: 3px 1px;
 }
 
 .station-code-sm {
   font-size: 0.8125rem;
-  padding: 1px 0 0;
+  padding: 1px 0;
   width: 35px;
   height: 35px;
 }
 
 .station-code-sm-dd {
   font-size: 0.6875rem;
-  padding: 2px 0 0;
+  padding: 2px 0;
   width: 35px;
   height: 35px;
 }

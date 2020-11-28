@@ -61,6 +61,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 
 ---
 
+- 11 August 2015: The line began operation.
+- 8 March 2017: The line extended to {{< wiki/link station="Dimension Hill" >}} from Downtown Core station.
 - 9 August 2020: Cavehaven [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Dimension Hill.
 - 8 October 2020: The line extended to {{< wiki/link station="Miraibridge" >}} from Paradise Falls station.
 
@@ -72,12 +74,12 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-800 text-center">
-    <thead class="thead-light">
+    <thead class="redline">
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfers</th>
-        <th rowspan="2"><a href="/wiki/districts-of-mirai">District</a></th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
         <th rowspan="2">Opening date</th>
       </tr>
       <tr>
@@ -90,11 +92,11 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
         </td>
-        <td>{{< wiki/link station="Dirt Fortress" >}}</td>
-        <td>泥堡</td>
+        <td class="font-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
+        <td class="font-italic">泥堡</td>
         <td></td>
         <td>Big Snow</td>
-        <td>
+        <td class="font-italic">
           <span class="small">By January 2021</span>
         </td>
       </tr>

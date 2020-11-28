@@ -24,7 +24,7 @@ adjacent_stations:
       - station: W5-Downtown East
         next: anti-clockwise
     following:
-      - station: W8-Evergreen Point
+      - station: W7-Mount Austin
         next: clockwise
 alternate_station_name_en: City Hall
 alternate_station_name_zh: 市政廳
