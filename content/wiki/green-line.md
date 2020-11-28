@@ -58,7 +58,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
 ---
 
 <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
+  <table class="table table-sm table-bordered table-800 text-center">
     <thead class="greenline">
       <tr>
         <th rowspan="2">Code</th>

@@ -11,8 +11,8 @@ adjacent_stations:
         towards: Evergreen Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: La Mirai
-location_zh: 南美來
+district_en: La Mirai
+district_zh: 南美來
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:50% 10px;background-position:right 130px}
 address: [Mirai Panda Protected Area, La Mirai, City of Mirai, United Cities]
 nearby_attraction: []

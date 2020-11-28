@@ -28,8 +28,8 @@ adjacent_stations:
         towards: UCHQ North
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Redstone Valley
-location_zh: 紅石谷
+district_en: Redstone Valley
+district_zh: 紅石谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/blueline.png),url(/img/bg/airportline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [United Cities Headquarters, Redstone Valley, City of Mirai, United Cities]
 coordinate:

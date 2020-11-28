@@ -11,8 +11,8 @@ adjacent_stations:
         towards: Mugen
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Victory Bay
-location_zh: 勝利灣
+district_en: Victory Bay
+district_zh: 勝利灣
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:50% 10px;background-position:left 130px}
 address: [Moon Lake, Victory Bay, City of Mirai, United Cities]
 coordinate:

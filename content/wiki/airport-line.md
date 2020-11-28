@@ -64,7 +64,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
 - Express trains stop at stations marked \" ● \" and pass those marked \" \| \".
 
  <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
+  <table class="table table-sm table-bordered table-800 text-center">
     <thead class="airportcomposite2">
       <tr>
         <th colspan="2" class="border-bottom-0">Service</th>

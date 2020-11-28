@@ -27,8 +27,8 @@ adjacent_stations:
         towards: Diamond Hill
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Redstone Valley
-location_zh: 紅石谷
+district_en: Redstone Valley
+district_zh: 紅石谷
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/airportline.png),url(/img/bg/airportexpress.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,50% 10px,50% 10px;background-position:0 85px,left 115px,left 145px,right 175px}
 address: [United Cities Headquarters, Redstone Valley, City of Mirai, United Cities]
 coordinate:

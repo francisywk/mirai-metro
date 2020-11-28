@@ -28,8 +28,8 @@ adjacent_stations:
         towards: Evergreen Point
 alternate_station_name_en: Paradise Falls South
 alternate_station_name_zh: 仙境瀑布南
-location_en: City Loop
-location_zh: 三環
+district_en: City Loop
+district_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/waterfallline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}
 address: [Paradise Falls, City Loop, City of Mirai, United Cities]
 coordinate:

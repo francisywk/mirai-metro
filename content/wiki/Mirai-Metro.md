@@ -103,7 +103,7 @@ Mirai Metro is made up of 8 lines that are currently operational on 8.1 kilometr
 The lines are ordered based on the time that the lines are opened. Oldest lines are listed first, before newer lines with the exception of the original RGB lines and the medium-capacity Diamond line. The Blue Line is actually the first line to be built on the metro followed by Red Line.
 
 <div class="table-responsive">
-  <table class="table table-bordered table-700 text-center">
+  <table class="table table-bordered table-800 text-center">
     <thead class="thead-light">
       <tr>
         <th colspan="3">Line</th>

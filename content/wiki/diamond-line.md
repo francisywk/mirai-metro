@@ -104,7 +104,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
 ---
 
 <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
+  <table class="table table-sm table-bordered table-800 text-center">
     <thead class="diamondline">
       <tr>
         <th rowspan="2">Code</th>

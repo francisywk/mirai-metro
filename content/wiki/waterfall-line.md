@@ -57,7 +57,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
 ---
 
 <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
+  <table class="table table-sm table-bordered table-800 text-center">
     <thead class="waterfallline">
       <tr>
         <th rowspan="2">Code</th>

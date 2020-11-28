@@ -2,10 +2,12 @@
 <div class="container">
   {{ partial "breadcrumb.html" . }}
   {{ with .Params }}
-    <div class="text-center mb-3">
+    <div class="text-center my-3">
       {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
-      <h4 class="mt-1 mb-0 stylised-name-en-zh">{{ .Title }}</h4>
-      <h5 class="mb-0 stylised-name-en-zh font-weight-bold">{{ .title_zh }}</h5>
+      <div class="d-inline-block text-left align-top pl-1 lh-10">
+        <span class="h5 stylised-name-en-zh">{{ .Title }}</span><br>
+        <span class="h6 stylised-name-en-zh">{{ .title_zh }}</span>
+      </div>
     </div>
     <div class="alert alert-secondary small mb-4 py-2 rounded-0" role="alert">
       <div class="row">
@@ -118,9 +120,9 @@
           {{ range where $.Site.RegularPages "Section" "==" "route" }}
             {{ if ne .Title $.Title }}
               <div class="col mb-2 pl-0 pr-2">
-                <div class="card bg-light border-0 rounded-0 px-25 py-2">
+                <div class="card bg-light border-0 rounded-0 px-3 py-2">
                   <div class="media">
-                    <div class="align-self-center pr-25">
+                    <div class="align-self-center pr-2">
                       {{ with .Params  }}
                         {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
                       {{ end }}

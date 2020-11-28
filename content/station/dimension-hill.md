@@ -11,8 +11,8 @@ adjacent_stations:
         towards: Fhoenix Hill
 alternate_station_name_en: Old Portal
 alternate_station_name_zh: 舊門關
-location_en: Miraiya Highlands
-location_zh: 美來雅高原
+district_en: Miraiya Highlands
+district_zh: 美來雅高原
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png);background-repeat:no-repeat;background-size:50% 10px;background-position:left 130px}
 address: [Dimension Hill, Miraiya Highlands, City of Mirai, United Cities]
 coordinate:

@@ -21,8 +21,8 @@ adjacent_stations:
         towards: Diamond Hill
 alternate_station_name_en: Union Trade Centre
 alternate_station_name_zh: 聯合貿易中心
-location_en: City Loop
-location_zh: 三環
+district_en: City Loop
+district_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/cityloopline.png),url(/img/bg/diamondline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [Berryhills, City Loop, City of Mirai, United Cities]
 coordinate:

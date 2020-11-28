@@ -39,8 +39,8 @@ adjacent_stations:
         towards: Evergreen Point
 alternate_station_name_en: Mugen Mirai
 alternate_station_name_zh: 無限美來
-location_en: City Loop
-location_zh: 三環
+district_en: City Loop
+district_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png),url(/img/bg/victoryline.png),url(/img/bg/waterfallline.png),url(/img/bg/diamondline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px,100% 10px;background-position:0 70px,right 100px,0 130px,0 160px,0 190px}
 address: [Mugen, City Loop, City of Mirai, United Cities]
 coordinate:

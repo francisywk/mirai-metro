@@ -69,7 +69,7 @@ The line was named after the Big Snow district, which the line passes and with t
 The following is a list of planned stations of the Big Snow Line.
 
 <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
+  <table class="table table-sm table-bordered table-800 text-center">
     <thead class="bigsnowline">
       <tr>
         <th rowspan="2">Code</th>

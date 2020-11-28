@@ -18,7 +18,8 @@
   overflow-x: hidden;
   overflow-y: auto;
   /* Scrollable contents if viewport is shorter than content. */
-  font-size: .875rem;
+  max-width: 300px;
+  margin: 0 auto;
 }
 
 @supports ((position: -webkit-sticky) or (position: sticky)) {
@@ -69,7 +70,7 @@
 
 #table-of-contents ol li {
   counter-increment: item;
-  padding: .2rem;
+  padding: 0.2rem;
 }
 
 #table-of-contents ol li:before {
@@ -101,13 +102,14 @@ section section {
 }
 
 #infobar {
-  max-width: 400px;
+  min-width: 310px;
+  max-width: 335px;
 }
 
 #infobar p,
 .side-table,
 .table-wiki-bottom {
-  font-size: 0.8125rem;
+  font-size: 0.875rem;
 }
 
 .wiki-title,
@@ -121,14 +123,6 @@ section section {
 
 #wiki-content hr {
   margin: 0 auto 1.5rem;
-}
-
-#wiki-content p, #wiki-content table, #wiki-content li {
-  font-size: .875rem;
-}
-
-#wiki-content p {
-  margin-bottom: .875rem;
 }
 
 a.missing {

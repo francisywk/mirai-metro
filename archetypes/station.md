@@ -14,8 +14,8 @@ adjacent_stations:
         towards: 
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: 
-location_zh: 
+district_en: 
+district_zh: 
 jumbotron_style: 
 address: [{{ replace .Name "-" " " | title }}, City of Mirai, United Cities]
 coordinate:

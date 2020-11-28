@@ -21,8 +21,8 @@ adjacent_stations:
         towards: Moon Lake
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Miraiya Valley
-location_zh: 美來雅山谷
+district_en: Miraiya Valley
+district_zh: 美來雅山腳
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
 address: [Bottomvalley, Miraiya Valley, City of Mirai, United Cities]
 coordinate:

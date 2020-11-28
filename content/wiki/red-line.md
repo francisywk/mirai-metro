@@ -71,13 +71,14 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 ---
 
 <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
-    <thead class="redline">
+  <table class="table table-sm table-bordered table-800 text-center">
+    <thead class="thead-light">
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfer / Note</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Transfers</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai">District</a></th>
+        <th rowspan="2">Opening date</th>
       </tr>
       <tr>
         <th>English</th>
@@ -85,25 +86,16 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td colspan="5" class="alert-warning font-weight-bold">
-          Phase 3 <span class="small font-italic font-weight-bold">(approved, to be ready by June 2021)</span>
-        </td>
-      </tr>
-      <tr>
+      <tr class="alert-warning">
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
         </td>
         <td>{{< wiki/link station="Dirt Fortress" >}}</td>
         <td>泥堡</td>
-        <td>
-          <span class="small font-italic">By June 2021</span>
-        </td>
+        <td></td>
         <td>Big Snow</td>
-      </tr>
-      <tr>
-        <td colspan="5" class="alert-success font-weight-bold">
-          Phase 2 <span class="small font-italic font-weight-bold">(operational, since 8 October 2020)</span>
+        <td>
+          <span class="small">By January 2021</span>
         </td>
       </tr>
       <tr>
@@ -116,12 +108,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           {{< wiki/mm-sign route="C" >}}
           {{< wiki/mm-sign route="S" >}}
         </td>
-        <td>City Loop</td>
-      </tr>
-      <tr>
-        <td colspan="5" class="alert-success font-weight-bold">
-          Phase 1 <span class="small font-italic font-weight-bold">(operational, since 11 August 2015)</span>
-        </td>
+        <td rowspan="5">City Loop</td>
+        <td>8 October 2020</td>
       </tr>
       <tr>
         <td>
@@ -130,7 +118,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>{{< wiki/link station="Fhoenix Hill" >}}</td>
         <td>飛利斯山</td>
         <td></td>
-        <td rowspan="4">City Loop</td>
+        <td rowspan="2">11 August 2015</td>
       </tr>
       <tr>
         <td>
@@ -152,6 +140,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
+        <td>11 September 2018</td>
       </tr>
       <tr>
         <td>
@@ -163,6 +152,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="W" >}}
         </td>
+        <td>11 August 2015</td>
       </tr>
       <tr>
         <td>
@@ -175,6 +165,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           {{< wiki/mm-sign route="P" >}}
         </td>
         <td>Miraiya Valley</td>
+        <td>9 August 2020</td>
       </tr>
       <tr>
         <td>
@@ -183,32 +174,28 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>{{< wiki/link station="Dimension Hill" >}}</td>
         <td>維度山</td>
         <td></td>
-        <td>Miraiya Highlands</td>
+        <td rowspan="2hugo new">Miraiya Highlands</td>
+        <td>8 March 2017</td>
       </tr>
-      <tr>
-        <td colspan="5" class="alert-warning font-weight-bold">
-          Phase 3 <span class="small font-italic font-weight-bold">(approved, to be ready by June 2021)</span>
-        </td>
-      </tr>
-      <tr>
+      <tr class="alert-warning">
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R9<span>
         </td>
         <td>{{< wiki/link station="Observatory" >}}</td>
         <td>天文台</td>
-        <td rowspan="2"><span class="small font-italic">By June 2021</span></td>
-        <td>Miraiya Highlands</td>
+        <td></td>
+        <td rowspan="2"><span class="small">By June 2021</span></td>
       </tr>
-      <tr>
+      <tr class="alert-warning">
         <td>
           <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10<span>
         </td>
         <td>{{< wiki/link station="Redhill Spring" >}}</td>
         <td>紅山泉</td>
-        <!-- <td>
+        <td>
           {{< wiki/mm-sign route="V" >}}
           {{< wiki/mm-sign route="S" >}}
-        </td> -->
+        </td>
         <td>Miraiya Valley</td>
       </tr>
     </tbody>

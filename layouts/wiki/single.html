@@ -1,10 +1,10 @@
 {{ define "main" }}
   {{ partial "breadcrumb.html" . }}
   {{ with .Params }}
-    <div class="pt-lg-3">
-      <h3 class="wiki-title mb-1">{{ .Title }}</h3>
+    <div>
+      <h3 class="wiki-title mb-05">{{ .Title }}</h3>
       {{ with .Description }}
-        <p class="small mb-2">{{ . }}</p>
+        <p class="small text-muted mb-2">{{ . }}</p>
       {{ end }}
       <hr class="mt-0">
       {{ with .notice }}
@@ -15,7 +15,7 @@
     </div>
     {{ if .quick_facts }}
       <div class="row">
-        <div class="col-lg-3 order-lg-12 mx-auto ml-lg-auto mr-lg-0 mb-4 mb-lg-0" id="infobar">
+        <div class="col-lg-auto order-lg-12 mx-auto ml-lg-auto mr-lg-0 mb-4 mb-lg-0" id="infobar">
           <button class="btn btn-block bg-miraimetro2 rounded-0 font-weight-bold text-left d-lg-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">
             Quick Facts: <span class="font-weight-normal text-secondary">
               {{ range .quick_facts }}
@@ -139,7 +139,7 @@
             {{ end }}
           </div>
         </div>
-        <div class="col-lg-9 order-lg-1" id="wiki-content">
+        <div class="col-lg order-lg-1" id="wiki-content">
           {{ with $.Content }}
             {{ . }}
           {{ end }}

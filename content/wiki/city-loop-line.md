@@ -69,7 +69,7 @@ The **City Loop Line** (Code **C**) is one of the 9 [rapid transit](https://en.w
 The following is a list of the stations on the City Loop Line.
 
 <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
+  <table class="table table-sm table-bordered table-800 text-center">
     <thead class="cityloopline">
       <tr>
         <th rowspan="2">Code</th>

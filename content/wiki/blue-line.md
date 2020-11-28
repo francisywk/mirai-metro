@@ -72,7 +72,7 @@ The **Blue Line** (code **B**) is the first line in Mirai's [rapid transit](http
 The following is a list of the stations on the Blue Line.
 
 <div class="table-responsive">
-  <table class="table table-sm table-bordered table-700 text-center">
+  <table class="table table-sm table-bordered table-800 text-center">
     <thead class="blueline">
       <tr>
         <th rowspan="2">Code</th>

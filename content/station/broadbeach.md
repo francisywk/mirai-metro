@@ -14,8 +14,8 @@ adjacent_stations:
         towards: Moon Lake
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Victory Bay
-location_zh: 勝利灣
+district_en: Victory Bay
+district_zh: 勝利灣
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/victoryline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 130px}
 address: [Broadbeach, Victory Bay, City of Mirai, United Cities]
 coordinate:

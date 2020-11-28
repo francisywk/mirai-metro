@@ -11,8 +11,8 @@ adjacent_stations:
         towards: Victory Bay
 alternate_station_name_en: 
 alternate_station_name_zh: 
-location_en: Spawn Chunk
-location_zh: 出世點區塊
+district_en: Spawn Chunk
+district_zh: 出世點區塊
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/blueline.png);background-repeat:no-repeat;background-size:50% 10px;background-position:left 130px}
 address: [Spawn, Spawn Chunk, City of Mirai, United Cities]
 coordinate:

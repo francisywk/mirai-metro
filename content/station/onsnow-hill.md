@@ -18,8 +18,8 @@ adjacent_stations:
         towards: Redhill Spring
 alternate_station_name_en: Winterland West
 alternate_station_name_zh: 冬地西
-location_en: Big Snow
-location_zh: 大雪
+district_en: Big Snow
+district_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,right 145px}
 address: [Zero Zero, Big Snow, City of Mirai, United Cities]
 coordinate:
