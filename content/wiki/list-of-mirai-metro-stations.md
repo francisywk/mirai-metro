@@ -2,7 +2,7 @@
 title: "List of Mirai Metro stations"
 description: 
 date: 2020-09-28T18:06:23+08:00
-draft: true
+draft: false
 category: miraimetro
 keywords: []
 notice: ""

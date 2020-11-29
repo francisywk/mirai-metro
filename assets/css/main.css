@@ -797,6 +797,10 @@ ul {
   min-width: 900px;
 }
 
+.table-1000 {
+  min-width: 1000px;
+}
+
 .jumbotron {
   border-radius: 0;
 }

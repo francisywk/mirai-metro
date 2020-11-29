@@ -25,7 +25,7 @@ quick_facts:
         <th>Class</th>
         <th>District</th>
         <th>Chinese</th>
-        <th colspan="2" class="text-left">Wards</th>
+        <th colspan="2" class="text-left">Administrative whugo ards</th>
       </tr>
     </thead>
     <tbody>

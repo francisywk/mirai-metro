@@ -76,6 +76,8 @@ The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese
 
 Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/mirai-regional-railway "Mirai Regional Railway"), the metro provides urban rail transportation service for the nation's capital.
 
+As of November 2020, the network encompasses 8.1 kilometres (5.1 mi) of route on [narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Narrow-gauge railway'), with [33 stations](/wiki/list-of-mirai-metro-stations "List of Mirai Metro stations") in operation, spread across 10 lines set in a [complex-grid topology](https://en.wikipedia.org/wiki/Rapid_transit#Network_topologies "Rapid transit network topologies").
+
 <br>
 
 {{< toc >}}
@@ -87,8 +89,9 @@ Before Mirai Metro underwent rapid expansion, the network only consists of three
 ---
 
 - 7 June 2015: Mirai RGB started operation with Zero Zero to Paradise Falls section of Blue Line enters service.
-- 5 October 2019: Hell Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") was opened on the Blue Line between Zero Zero and Spawn.
+- 5 October 2019: Hell's Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") was opened on the Blue Line between Zero Zero and Spawn.
 - 27 July 2020: Phase 1 of [Panda Express](/wiki/panda-express) line opened to the public.
+- 8 October 2020: Phase 1 of {{< wiki/link route="S" >}} began operation.
 
 <br>
 
@@ -123,7 +126,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           Fhoenix Hill
         </td>
         <td>
-          Dimension Hill
+          {{< wiki/link station="Dimension Hill" >}}
         </td>
         <td>11 August 2015</td>
         <td>7</td>
@@ -221,7 +224,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           UCHQ North
         </td>
         <td>
-          Diamond Hill
+          {{< wiki/link station="Diamond Hill" >}}
         </td>
         <td>8 March 2017</td>
         <td>6</td>
