@@ -26,7 +26,7 @@ stations:
       - route_sign: [B,V,D,P]
   - station_code: [W5]
     name: Downtown East
-    name_zh: 市中心東
+    name_zh: 下環東
     transfer:
       - route_sign: [C,D]
   - station_code: [W6]
@@ -40,8 +40,8 @@ stations:
     transfer:
       - route_sign: [G,C]
   - station_code: [W8]
-    name: Outlands
-    name_zh: 常綠角
+    name: Outlands South
+    name_zh: 外環南
     transfer:
       - route_sign: [P]
   - station_code: [W9]
@@ -50,8 +50,8 @@ stations:
     transfer:
       - route_sign: [B]
   - station_code: [W10]
-    name: Winterland West
-    name_zh: 冬地西
+    name: Outlands North
+    name_zh: 外環北
     transfer:
       - route_sign: [S]
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:51px}

@@ -136,7 +136,7 @@ The following is a list of the stations on the City Loop Line.
           <span class="station-code station-code-sm station-code-cl rounded-circle">C5</span>
         </td>
         <td>{{< wiki/link station="Downtown East" >}}</td>
-        <td>市中心東</td>
+        <td>下環東</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="D" >}}

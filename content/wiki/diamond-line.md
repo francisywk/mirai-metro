@@ -177,7 +177,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
           <span class="station-code station-code-sm station-code-dl rounded-circle">D5</span>
         </td>
         <td>{{< wiki/link station="Downtown East" >}}</td>
-        <td>市中心東</td>
+        <td>下環東</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="C" >}}

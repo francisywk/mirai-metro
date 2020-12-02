@@ -30,7 +30,7 @@ quick_facts:
     </thead>
     <tbody>
       <tr>
-        <td rowspan="5">CBD<br>核心商業區</td>
+        <td rowspan="6">CBD<br>核心商業區</td>
         <td rowspan="3">City Loop</td>
         <td rowspan="3">三環區</td>
         <td class="text-left">Uptown<br>上環</td>
@@ -57,17 +57,24 @@ quick_facts:
         </td>
       </tr>
       <tr>
-        <td rowspan="2">Victory Bay</td>
-        <td rowspan="2">勝利灣區</td>
+        <td rowspan="3">Victory Bay</td>
+        <td rowspan="3">勝利灣區</td>
         <td class="text-left">Bay Area<br>灣區</td>
         <td class="text-left">
           <li>Broadbeach</li>
           <li>Marine Park</li>
         </td>
       </tr>
+      <tr>
         <td class="text-left">Lakes by the Bay<br>湖區</td>
         <td class="text-left">
           <li>Moon Lake</li>
+        </td>
+      </tr>
+      <tr>
+        <td class="text-left">Islands<br>島區</td>
+        <td class="text-left">
+          <li>Big Foot Island</li>
         </td>
       </tr>
       <tr>

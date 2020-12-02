@@ -239,7 +239,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           Cavehaven
         </td>
         <td>
-          Outlands
+          Outlands South
         </td>
         <td>27 July 2020</td>
         <td>5</td>
@@ -251,7 +251,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="S" >}}</td>
         <td>大雪綫</td>
         <td>
-          Winterland West
+          Outlands North
         </td>
         <td>
           Redhill Spring

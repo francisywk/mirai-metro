@@ -26,7 +26,7 @@ stations:
       - route_sign: [G,Ac,D]
   - station_code: [C5]
     name: Downtown East
-    name_zh: 市中心東
+    name_zh: 下環東
     transfer:
       - route_sign: [W,D]
   - station_code: [C6]

@@ -20,7 +20,7 @@ quick_facts:
     - title: Location
       content: City Loop, Mirai
     - title: Operated by
-      content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')<br>[Mirai Regional Railway](/wiki/mirai-regional-railway 'Mirai Regional Railway')"
+      content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Line(s)
       content: "
         <div class='route-sign-xs greenline mr-15 mb-1'>G</div><a href='/wiki/green-line' title='Green Line'>Green Line</a><br>

@@ -29,8 +29,8 @@ stations:
     transfer:
       - route_sign: [G,B]
   - station_code: [P6]
-    name: Outlands
-    name_zh: 常綠角
+    name: Outlands South
+    name_zh: 外環南
     transfer:
       - route_sign: [W]
     last_station: true

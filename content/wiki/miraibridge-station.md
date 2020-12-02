@@ -17,7 +17,7 @@ quick_facts:
     - title: Location
       content: City Loop, Mirai
     - title: Operated by
-      content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
+      content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Line(s)
       content: "
         <div class='route-sign-xs redline mr-15 mb-1'>R</div><a href='/wiki/red-line' title='Red Line'>Red Line</a><br>
@@ -40,9 +40,19 @@ quick_facts:
       content: 8 October 2020
 ---
 
-**Miraibridge** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來橋, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Kìuh*) is a [Mirai Metro](/wiki/mirai-metro "Mirai Metro") station in the Winterland area of City Loop district. It is an infill station for the {{< wiki/link route="C" >}} and interchange with the {{< wiki/link route="R" >}} and the {{< wiki/link route="S" >}}. It officially opened on 8 October 2020.
+**Miraibridge** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來橋, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Kìuh*) is a [Mirai Metro](/wiki/mirai-metro "Mirai Metro") interchange station on the {{< wiki/link route="Red" >}}, {{< wiki/link route="City Loop" >}}, and {{< wiki/link route="Big Snow" >}} lines, located in Winterland, City Loop. The station opened simultaneously on all three lines in conjunction with the opening of the {{< wiki/link route="S" >}} on 8 October 2020.
 
 The station is named after the [bridge](https://en.wikipedia.org/wiki/Bridge "Bridge") of the same name which linked Winterland with Berryhills above the frozen River Down.
+
+<br>
+
+#### History
+
+---
+
+Miraibridge station was initially planned as an interchange station for the City Loop Line and Big Snow Line, before the Red Line extension was proposed. The proposal was to extend the Red Line from its current northern terminus at {{< wiki/link station="Fhoenix Hill station" >}} to {{< wiki/link station="Dirt Fortress" >}} and connect with the City Loop and Big Snow lines at this station. On the City Loop line, the station will be an [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") built between {{< wiki/link station="Winterland" >}} and {{< wiki/link station="Berryhills" >}} stations.
+
+The station was officially opened on 8 October 2020 across all there lines in conjunction with the opening of the Big Snow Line.
 
 <br>
 
@@ -106,7 +116,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
       </tr>
       <tr>
         <td>
-          {{< wiki/link station="Winterland West" >}}
+          {{< wiki/link station="Outlands North" >}}
           <p class="small font-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
         </td>
         <td class="bigsnowline"></td>

@@ -17,7 +17,7 @@ adjacent_stations:
       - station: W6-Downtown Core
         next: anti-clockwise
     following:
-      - station: W8-Outlands
+      - station: W8-Outlands South
         next: clockwise
   - route_sign: [C]
     preceding:
@@ -27,7 +27,7 @@ adjacent_stations:
       - station: C1-Winterland
         next: clockwise
 alternate_station_name_en: Downtown West
-alternate_station_name_zh: 市中心西
+alternate_station_name_zh: 下環西
 district_en: City Loop
 district_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/waterfallline.png),url(/img/bg/cityloopline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 100px,0 130px,0 160px}

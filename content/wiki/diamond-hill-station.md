@@ -17,7 +17,7 @@ quick_facts:
     - title: Location
       content: La Mirai, Mirai
     - title: Operated by
-      content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
+      content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Line(s)
       content: "
         <div class='route-sign-xs diamondline mr-15 mb-1'>D</div><a href='/wiki/diamond-line' title='Diamond Line'>Diamond Line</a>

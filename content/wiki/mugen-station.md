@@ -20,7 +20,7 @@ quick_facts:
     - title: Location
       content: City Loop, Mirai
     - title: Operated by
-      content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')<br>[Mirai Regional Railway](/wiki/mirai-regional-railway 'Mirai Regional Railway')"
+      content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Line(s)
       content: "
         <div class='route-sign-xs blueline mr-15 mb-1'>B</div><a href='/wiki/blue-line' title='Blue Line'>Blue Line</a><br>
@@ -185,7 +185,7 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="pandaexpress"></td>
         <td>
           {{< wiki/link station="Under the Falls" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Outlands" >}}</p>
+          <p class="small font-italic mb-0">towards {{< wiki/link station="Outlands South" >}}</p>
         </td>
       </tr>
     </tbody>

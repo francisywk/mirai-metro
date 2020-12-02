@@ -5,8 +5,8 @@ route_sign: [S]
 branch_line: false
 stations:
   - station_code: [S6]
-    name: Winterland West
-    name_zh: 冬地西
+    name: Outlands North
+    name_zh: 外環北
     transfer:
       - route_sign: [W]
     first_station: true

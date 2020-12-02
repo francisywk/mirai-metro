@@ -18,10 +18,10 @@ adjacent_stations:
         towards: City Farm
   - route_sign: [W]
     preceding:
-      - station: W8-Outlands
+      - station: W8-Outlands South
         next: anti-clockwise
     following:
-      - station: W10-Winterland West
+      - station: W10-Outlands North
         next: clockwise
 alternate_station_name_en: Centre of The Grid
 alternate_station_name_zh: 世格中心

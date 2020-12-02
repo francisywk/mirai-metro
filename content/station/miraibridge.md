@@ -18,8 +18,8 @@ adjacent_stations:
         next: clockwise
   - route_sign: [S]
     preceding:
-      - station: S6-Winterland West
-        towards: Winterland West
+      - station: S6-Outlands North
+        towards: Outlands North
     following:
       - station: S8-UCHQ West
         towards: Redhill Spring

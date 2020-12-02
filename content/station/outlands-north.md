@@ -1,8 +1,8 @@
 ---
-title: Winterland West station
+title: Outlands North station
 station_code: [W10,S6]
-station_name_en: Winterland West
-station_name_zh: 冬地西
+station_name_en: Outlands North
+station_name_zh: "外環<span class='font-noto-serif-sc'>北</span>"
 route_sign: [W,S]
 adjacent_stations:
   - route_sign: [W]
@@ -16,8 +16,8 @@ adjacent_stations:
     following:
       - station: S7-Miraibridge
         towards: Redhill Spring
-alternate_station_name_en: 
-alternate_station_name_zh: 
+alternate_station_name_en: Winterland West
+alternate_station_name_zh: 冬地西
 district_en: Big Snow
 district_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/bigsnowline.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,right 145px}

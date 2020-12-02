@@ -19,7 +19,7 @@ quick_facts:
     - title: Location
       content: Miraiya Highlands, Mirai
     - title: Operated by
-      content: "[Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
+      content: "[CART Corporation](/wiki/cart-corporation 'CART Corporation')"
     - title: Line(s)
       content: "
         <div class='route-sign-xs redline mr-15 mb-1'>R</div><a href='/wiki/red-line' title='Red Line'>Red Line</a>

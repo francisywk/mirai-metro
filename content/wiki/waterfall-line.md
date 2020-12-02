@@ -56,7 +56,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
 
 ---
 
-- 1 December 2020: Mount Austin [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Outlands.
+- 1 December 2020: Mount Austin [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Outlands South.
 
 <br>
 
@@ -80,7 +80,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
     </thead>
     <tbody>
       <tr class="alert-secondary">
-        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Winterland West" >}} (anti-clockwise) ↑ —</td>
+        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Outlands North" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -133,7 +133,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           <span class="station-code station-code-sm station-code-wl rounded-circle">W5<span>
         </td>
         <td>{{< wiki/link station="Downtown East" >}}</td>
-        <td>市中心東</td>
+        <td>下環東</td>
         <td>
           {{< wiki/mm-sign route="C" >}}
           {{< wiki/mm-sign route="D" >}}
@@ -165,8 +165,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
-        <td>{{< wiki/link station="Outlands" >}}</td>
-        <td>常綠角</td>
+        <td>{{< wiki/link station="Outlands South" >}}</td>
+        <td>外環南</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -186,8 +186,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
-        <td>{{< wiki/link station="Winterland West" >}}</td>
-        <td>冬地西</td>
+        <td>{{< wiki/link station="Outlands North" >}}</td>
+        <td>外環北</td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
