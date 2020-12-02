@@ -6,6 +6,7 @@ date: 2020-08-10T17:40:55+08:00
 draft: false
 category: miraimetro
 keywords: [mirai,miraimetro,route,diamondline]
+notice: "This article is about the former rapid transit line in Mirai before merging with the [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB'). For the current rapid transit system, see [Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #33CDFB;border-bottom: 4px solid #33CDFB;padding:2px 0;"
@@ -46,7 +47,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Diamond Line** (Code **D**), previously known as the Mirai SkyCart, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") servicing Mirai, United Cities. It is the fourth rail transit line and the first [fully automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") rail system in the United Cities. The line is coloured **<span class="text-dl">Light Blue</span>** on the official network map.
+The **Diamond Line** (Code **D**), previously known as the **Mirai SkyCart**, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") servicing Mirai, United Cities. It is the fourth rail transit line and the first [fully automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") rail system in the United Cities. The line is coloured **<span class="text-dl">Light Blue</span>** on the official network map.
 
 The Diamond Line runs parallel above the Stationfront Boulevard within the City Loop, and run through Mirai station building and the One Union Trade Centre. Prior to the extension to {{< wiki/link station="Diamond Hill" >}} station, the line was entirely elevated and was the only one in the system that did so.
 

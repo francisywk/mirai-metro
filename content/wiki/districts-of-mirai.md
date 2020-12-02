@@ -4,13 +4,13 @@ description: 10 administrative divisions of Mirai
 date: 2020-11-27T23:06:30+08:00
 draft: false
 category: others
-keywords: []
+keywords: [mirai, united cities]
 notice: ""
 see_also: true
 quick_facts:
 ---
 
-[Mirai](/wiki/mirai), the capital of [United Cities](/wiki/united-cities), is divided into **10 districts**, which are further subdivided into administrative wards. 
+[Mirai](/wiki/mirai "Mirai"), the capital of [United Cities](/wiki/united-cities "United Cities"), is divided into **10 districts**, which are further subdivided into administrative wards. 
 
 <br>
 
@@ -25,7 +25,7 @@ quick_facts:
         <th>Class</th>
         <th>District</th>
         <th>Chinese</th>
-        <th colspan="2" class="text-left">Administrative whugo ards</th>
+        <th colspan="2" class="text-left">Administrative wards</th>
       </tr>
     </thead>
     <tbody>
@@ -76,7 +76,7 @@ quick_facts:
         <td>大雪區</td>
         <td colspan="2" class="text-left">
           <li>Zero Zero</li>
-          <li>Evergreen Point</li>
+          <li>Outlands</li>
         </td>
       </tr>
       <tr>

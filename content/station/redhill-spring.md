@@ -15,7 +15,7 @@ adjacent_stations:
   - route_sign: [S]
     preceding:
       - station: S9-UCHQ East
-        towards: Onsnow Hill
+        towards: Winterland West
 alternate_station_name_en: 
 alternate_station_name_zh: 
 district_en: Miraiya Valley

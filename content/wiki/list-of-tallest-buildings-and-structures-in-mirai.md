@@ -4,7 +4,8 @@ description: Mirai Metro Wiki list article
 date: 2020-07-06T21:10:59+08:00
 draft: false
 category: others
-keywords: ["mirai"]
+keywords: [mirai,buildings]
+see_also: true
 ---
 
 The City of Mirai has dozens of completed tall structures, with the majority of it are located in City Loop, one of the CBDs of Mirai. The Mirai Tower located in Mugen currently holds the title of the tallest building in The Grid. Other prominent structures in Mirai's skyline include Freedom Tower and The Void. This list ranks tallest buildings and structures in City of Mirai, United Cities by height.
@@ -152,3 +153,9 @@ This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tal
     </tbody>
   </table>
 </div>
+
+<br>
+
+#### See also
+
+---

@@ -40,7 +40,7 @@ stations:
     transfer:
       - route_sign: [G,C]
   - station_code: [W8]
-    name: Evergreen Point
+    name: Outlands
     name_zh: 常綠角
     transfer:
       - route_sign: [P]
@@ -50,8 +50,8 @@ stations:
     transfer:
       - route_sign: [B]
   - station_code: [W10]
-    name: Onsnow Hill
-    name_zh: 雪藏山
+    name: Winterland West
+    name_zh: 冬地西
     transfer:
       - route_sign: [S]
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:51px}

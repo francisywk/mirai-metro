@@ -106,7 +106,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
       </tr>
       <tr>
         <td>
-          {{< wiki/link station="Onsnow Hill" >}}
+          {{< wiki/link station="Winterland West" >}}
           <p class="small font-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
         </td>
         <td class="bigsnowline"></td>

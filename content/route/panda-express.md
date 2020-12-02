@@ -29,7 +29,7 @@ stations:
     transfer:
       - route_sign: [G,B]
   - station_code: [P6]
-    name: Evergreen Point
+    name: Outlands
     name_zh: 常綠角
     transfer:
       - route_sign: [W]
