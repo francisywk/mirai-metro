@@ -63,15 +63,16 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
 - Commuter trains stop at all stations.
 - Express trains stop at stations marked \" ● \" and pass those marked \" \| \".
 
- <div class="table-responsive">
+<div class="table-responsive">
   <table class="table table-sm table-bordered table-800 text-center">
     <thead class="airportcomposite2">
       <tr>
         <th colspan="2" class="border-bottom-0">Service</th>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfer</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Transfers</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>
@@ -98,6 +99,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
           {{< wiki/mm-sign route="C" >}}
           {{< wiki/mm-sign route="D" >}}
         </td>
+        <td rowspan="5">2 May 2018</td>
         <td>City Loop</td>
       </tr>
       <tr>
@@ -153,7 +155,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
       </tr>
     </tbody>
   </table>
- </div>
+</div>
 
  <br>
 

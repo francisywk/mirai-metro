@@ -53,6 +53,13 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
 
 <br>
 
+#### History
+
+---
+
+- 30 September 2018: Bottomvalley [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and UCHQ South station.
+- 27 July 2020: Cavehaven infill station opened between Bottomvalley and UCHQ South station.
+
 #### Station list
 
 ---
@@ -63,8 +70,9 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfer</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Transfers</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -73,7 +81,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
     </thead>
     <tbody>
       <tr class="alert-secondary">
-        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="UCHQ West" >}} (clockwise) ↑ —</td>
+        <td colspan="6">— ↑ loop line - towards {{< wiki/link station="UCHQ West" >}} (clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -86,6 +94,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="C" >}}
           {{< wiki/mm-sign route="D" >}}
         </td>
+        <td rowspan="6">6 November 2016</td>
         <td rowspan="6">City Loop</td>
       </tr>
       <tr>
@@ -152,6 +161,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
+        <td> 27 July 2020</td>
         <td>Miraiya Valley</td>
       </tr>
       <tr>
@@ -163,6 +173,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
+        <td>30 September 2018</td>
         <td rowspan="3">Redstone Valley</td>
       </tr>
       <tr>
@@ -175,6 +186,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="B" >}}
           {{< wiki/mm-sign route="A" >}}
         </td>
+        <td>1 April 2018</td>
       </tr>
       <tr>
         <td>
@@ -185,9 +197,10 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
+        <td>24 November 2016</td>
       </tr>
       <tr class="alert-secondary">
-        <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Mirai" >}} (anti-clockwise) ↓ —</td>
+        <td colspan="6">— ↓ loop line - towards {{< wiki/link station="Mirai" >}} (anti-clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>

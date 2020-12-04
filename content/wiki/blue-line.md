@@ -77,8 +77,9 @@ The following is a list of the stations on the Blue Line.
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfer / Note</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Transfers</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -95,17 +96,19 @@ The following is a list of the stations on the Blue Line.
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
+        <td>23 July 2016</td>
         <td>Victory Bay</td>
       </tr>
-      <tr class="alert-warning">
-        <td>
+      <tr>
+        <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bl rounded-circle">B2</span>
         </td>
         <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
         <td class="font-italic">進灣道</td>
         <td>
-          Infill station <span class="small font-italic">(December 2021)</span>
+          {{< wiki/mm-sign route="S" >}}
         </td>
+        <td>December 2021</td>
         <td>Mob Forest</td>
       </tr>
       <tr>
@@ -118,6 +121,7 @@ The following is a list of the stations on the Blue Line.
           {{< wiki/mm-sign route="Ac" >}}
           {{< wiki/mm-sign route="D" >}}
         </td>
+        <td>7 May 2016</td>
         <td rowspan="2">Redstone Valley</td>
       </tr>
       <tr>
@@ -130,6 +134,7 @@ The following is a list of the stations on the Blue Line.
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="A" >}}
         </td>
+        <td>1 April 2018</td>
       </tr>
       <tr>
         <td>
@@ -143,6 +148,7 @@ The following is a list of the stations on the Blue Line.
           {{< wiki/mm-sign route="D" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
+        <td>28 April 2016</td>
         <td rowspan="2">City Loop</td>
       </tr>
       <tr>
@@ -154,6 +160,7 @@ The following is a list of the stations on the Blue Line.
         <td>
           {{< wiki/mm-sign route="R" >}}
         </td>
+        <td rowspan="2">7 June 2015</td>
       </tr>
       <tr>
         <td>
@@ -173,6 +180,7 @@ The following is a list of the stations on the Blue Line.
         <td>{{< wiki/link station="Hell's Gate" >}}</td>
         <td>地獄門</td>
         <td></td>
+        <td>5 October 2019</td>
         <td>Dark Forest</td>
       </tr>
       <tr>
@@ -182,10 +190,11 @@ The following is a list of the stations on the Blue Line.
         <td>{{< wiki/link station="Spawn" >}}</td>
         <td>生成</td>
         <td></td>
+        <td>29 March 2019</td>
         <td>Spawn Chunk</td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-secondary font-weight-bold">
+        <td colspan="6" class="alert-secondary font-weight-bold">
           Spur line from {{< wiki/link station="Zero Zero" >}} station
         </td>
       </tr>
@@ -199,6 +208,7 @@ The following is a list of the stations on the Blue Line.
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
+        <td>6 November 2016</td>
         <td>City Loop</td>
       </tr>
     </tbody>

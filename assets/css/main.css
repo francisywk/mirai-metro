@@ -422,34 +422,28 @@ body {
   font-family: "Source Code Pro", monospace !important;
 }
 
-.route-sign-mrr1 {
+.route-sign-mrr {
+  font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace!important;
   display: inline-block;
+  font-size: 0.85rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 1px 4px !important;
+}
+
+.mrr1 {
   background-color: #008080;
   color: white;
-  font-size: 1rem;
-  font-weight: bold;
-  text-align: center;
-  padding: 1px 4px !important;
 }
 
-.route-sign-mrr2 {
-  display: inline-block;
+.mrr2 {
   background-color: #a0522d;
   color: white;
-  font-size: 1rem;
-  font-weight: bold;
-  text-align: center;
-  padding: 1px 4px !important;
 }
 
-.route-sign-mrr3 {
-  display: inline-block;
+.mrr3 {
   background-color: #cea3d9;
   color: white;
-  font-size: 1rem;
-  font-weight: bold;
-  text-align: center;
-  padding: 1px 4px !important;
 }
 
 ul {

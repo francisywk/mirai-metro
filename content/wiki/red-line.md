@@ -79,8 +79,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfers</th>
-        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
         <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -88,17 +88,15 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       </tr>
     </thead>
     <tbody>
-      <tr class="alert-warning">
-        <td>
+      <tr>
+        <td class="alert-warning">
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
         </td>
         <td class="font-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
         <td class="font-italic">泥堡</td>
         <td></td>
+        <td>January 2021</td>
         <td>Big Snow</td>
-        <td class="font-italic">
-          <span class="small">By January 2021</span>
-        </td>
       </tr>
       <tr>
         <td>
@@ -110,8 +108,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           {{< wiki/mm-sign route="C" >}}
           {{< wiki/mm-sign route="S" >}}
         </td>
-        <td rowspan="5">City Loop</td>
         <td>8 October 2020</td>
+        <td rowspan="5">City Loop</td>
       </tr>
       <tr>
         <td>
@@ -141,8 +139,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="P" >}}
-        </td>
         <td>11 September 2018</td>
+        </td>
       </tr>
       <tr>
         <td>
@@ -153,8 +151,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="W" >}}
+        <td>30 June 2016</td>
         </td>
-        <td>11 August 2015</td>
       </tr>
       <tr>
         <td>
@@ -166,8 +164,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
-        <td>Miraiya Valley</td>
         <td>9 August 2020</td>
+        <td>Miraiya Valley</td>
       </tr>
       <tr>
         <td>
@@ -176,24 +174,24 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>{{< wiki/link station="Dimension Hill" >}}</td>
         <td>維度山</td>
         <td></td>
-        <td rowspan="2hugo new">Miraiya Highlands</td>
         <td>8 March 2017</td>
+        <td rowspan="2hugo new">Miraiya Highlands</td>
       </tr>
-      <tr class="alert-warning">
-        <td>
+      <tr>
+        <td class="alert-warning">
           <span class="station-code station-code-sm station-code-rl rounded-circle">R9<span>
         </td>
         <td>{{< wiki/link station="Observatory" >}}</td>
-        <td>天文台</td>
+        <td class="font-italic">天文台</td>
         <td></td>
-        <td rowspan="2"><span class="small">By June 2021</span></td>
+        <td rowspan="2">June 2021</td>
       </tr>
-      <tr class="alert-warning">
-        <td>
+      <tr>
+        <td class="alert-warning">
           <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10<span>
         </td>
         <td>{{< wiki/link station="Redhill Spring" >}}</td>
-        <td>紅山泉</td>
+        <td class="font-italic">紅山泉</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
           {{< wiki/mm-sign route="S" >}}
