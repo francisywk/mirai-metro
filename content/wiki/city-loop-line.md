@@ -74,7 +74,8 @@ The following is a list of the stations on the City Loop Line.
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfer / Note</th>
+        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Opening date</th>
         <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
@@ -84,7 +85,7 @@ The following is a list of the stations on the City Loop Line.
     </thead>
     <tbody>
       <tr class="alert-secondary">
-        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Mount Austin" >}} (anti-clockwise) ↑ —</td>
+        <td colspan="6">— ↑ loop line - towards {{< wiki/link station="Mount Austin" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -96,6 +97,7 @@ The following is a list of the stations on the City Loop Line.
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="W" >}}
         </td>
+        <td>31 August 2018</td>
         <td rowspan="6">City Loop</td>
       </tr>
       <tr>
@@ -108,6 +110,7 @@ The following is a list of the stations on the City Loop Line.
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="S" >}}
         </td>
+        <td>8 October 2020</td>
       </tr>
       <tr>
         <td>
@@ -118,6 +121,7 @@ The following is a list of the stations on the City Loop Line.
         <td>
           {{< wiki/mm-sign route="D" >}}
         </td>
+        <td rowspan="4">31 August 2018</td>
       </tr>
       <tr>
         <td>
@@ -154,7 +158,7 @@ The following is a list of the stations on the City Loop Line.
         </td>
       </tr>
       <tr class="alert-secondary">
-        <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
+        <td colspan="6">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>

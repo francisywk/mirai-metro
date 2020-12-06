@@ -1,0 +1,11 @@
+{{ with .Get "route" }}
+  {{ if eq . "MRR1" }}
+    <div class="route-sign-mrr mrr1">
+      <a href="/wiki/mrr-line-1" title="MRR Line 1" class="text-reset text-decoration-none">MRR1</a>
+    </div>
+  {{ else if eq . "MRR2" }}
+    <div class="route-sign-mrr mrr2">
+      <a href="/wiki/mrr-line-2" title="MRR Line 2" class="text-reset text-decoration-none">MRR2</a>
+    </div>
+  {{ end }}
+{{ end }}

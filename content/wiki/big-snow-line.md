@@ -58,7 +58,7 @@ The line was named after the Big Snow district, which the line passes and with t
 
 ---
 
-- Phase 1 section of the line between Outlands North and Redhill Spring opened to the public on 8 October 2020 two months ahead of schedule.
+- Phase 1 section of the line between Outlands North and Redhill Spring opened to the public two months ahead of schedule on 8 October 2020.
 
 <br>
 
@@ -75,7 +75,8 @@ The following is a list of future and operational stations of the Big Snow Line.
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -84,7 +85,7 @@ The following is a list of future and operational stations of the Big Snow Line.
     </thead>
     <tbody>
       <tr>
-        <td colspan="5" class="alert-warning font-weight-bold">
+        <td colspan="6" class="alert-warning font-weight-bold">
           Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by December 2021)</span>
         </td>
       <tr>
@@ -92,19 +93,20 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S1</span>
         </td>
-        <td>{{< wiki/link station="Logsmead" >}}</td>
-        <td>樂米町</td>
+        <td class="font-italic">{{< wiki/link station="Logsmead" >}}</td>
+        <td class="font-italic">樂米町</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
+        <td rowspan="5">December 2021</td>
         <td rowspan="2">Mob Forest</td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S2</span>
         </td>
-        <td>{{< wiki/link station="Roubay Road" >}}</td>
-        <td>進灣道</td>
+        <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
+        <td class="font-italic">進灣道</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
@@ -113,8 +115,8 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S3</span>
         </td>
-        <td>{{< wiki/link station="Westmead" >}}</td>
-        <td>西米町</td>
+        <td class="font-italic">{{< wiki/link station="Westmead" >}}</td>
+        <td class="font-italic">西米町</td>
         <td></td>
         <td rowspan="3">Big Snow</td>
       </tr>
@@ -122,20 +124,20 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S4</span>
         </td>
-        <td>{{< wiki/link station="Frozenwell" >}}</td>
-        <td>冰水井</td>
+        <td class="font-italic">{{< wiki/link station="Frozenwell" >}}</td>
+        <td class="font-italic">冰水井</td>
         <td></td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S5</span>
         </td>
-        <td>{{< wiki/link station="Flimbees" >}}</td>
-        <td>飛林蜂</td>
+        <td class="font-italic">{{< wiki/link station="Flimbees" >}}</td>
+        <td class="font-italic">飛林蜂</td>
         <td></td>
       </tr>
       <tr>
-        <td colspan="5" class="alert-success font-weight-bold">
+        <td colspan="6" class="alert-success font-weight-bold">
           Phase 1 <span class="small font-italic font-weight-bold">(operational, since 8 October 2020)</span>
         </td>
       <tr>
@@ -148,6 +150,7 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>
+        <td rowspan="5">8 October 2020</td>
         <td>Big Snow</td>
       </tr>
       <tr>

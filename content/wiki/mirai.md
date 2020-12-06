@@ -1,6 +1,6 @@
 ---
 title: "Mirai"
-description: 
+description: Capital and largest city of United Cities
 date: 2020-11-30T00:50:40+08:00
 draft: false
 category: others

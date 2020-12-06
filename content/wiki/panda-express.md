@@ -29,7 +29,7 @@ quick_facts:
   - heading: Operation
   - cols_2:
     - title: Planned opening
-      content: "<b>Phase 2</b>: 2021<br><b>Phase 3</b>: 2023"
+      content: "<b>Phase 2</b>: Late 2021<br><b>Phase 3</b>: Mid 2023"
     - title: Opened
       content: "<b>Phase 1</b>: 27 July 2020"
     - title: Operator
@@ -84,7 +84,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>
@@ -99,8 +100,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
     </thead>
     <tbody>
       <tr>
-        <td colspan="7" class="alert-warning font-weight-bold">
-          Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by 2021)</span>
+        <td colspan="8" class="alert-warning font-weight-bold">
+          Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by late 2021)</span>
         </td>
       </tr>
       <tr>
@@ -109,13 +110,14 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
         </td>
-        <td>{{< wiki/link station="Panda Museum" >}}</td>
-        <td>熊貓博物館</td>
+        <td class="font-italic">{{< wiki/link station="Panda Museum" >}}</td>
+        <td class="font-italic">熊貓博物館</td>
         <td></td>
+        <td>Late 2021</td>
         <td>La Mirai</td>
       </tr>
       <tr>
-        <td colspan="7" class="alert-success font-weight-bold">
+        <td colspan="8" class="alert-success font-weight-bold">
           Phase 1 <span class="small font-italic font-weight-bold">(operational, since 27 July 2020)</span>
         </td>
       </tr>
@@ -131,6 +133,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}
         </td>
+        <td rowspan="5">27 July 2020</td>
         <td>Miraiya Valley</td>
       </tr>
       <tr>
@@ -189,8 +192,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>Big Snow</td>
       </tr>
       <tr>
-        <td colspan="7" class="alert-danger font-weight-bold">
-          Phase 3 <span class="small font-italic font-weight-bold">(planned, to be ready by 2023)</span>
+        <td colspan="8" class="alert-danger font-weight-bold">
+          Phase 3 <span class="small font-italic font-weight-bold">(planned, to be ready by mid 2023)</span>
         </td>
       </tr>
       <tr>
@@ -199,9 +202,10 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
-        <td>{{< wiki/link station="Mirai Zoo" >}}</td>
-        <td>動物園</td>
+        <td class="font-italic">{{< wiki/link station="Mirai Zoo" >}}</td>
+        <td class="font-italic">動物園</td>
         <td></td>
+        <td>Mid 2023</td>
         <td>Southwest Valley</td>
       </tr>
     </tbody>

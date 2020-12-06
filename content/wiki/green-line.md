@@ -70,7 +70,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfers</th>
+        <th rowspan="2">Transfer</th>
         <th rowspan="2">Opening date</th>
         <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
@@ -162,7 +162,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="P" >}}
         </td>
         <td> 27 July 2020</td>
-        <td>Miraiya Valley</td>
+        <td rowspan="2">Miraiya Valley</td>
       </tr>
       <tr>
         <td>
@@ -173,8 +173,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
-        <td>30 September 2018</td>
-        <td rowspan="3">Redstone Valley</td>
+        <td>4 June 2019</td>
       </tr>
       <tr>
         <td>
@@ -187,6 +186,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
           {{< wiki/mm-sign route="A" >}}
         </td>
         <td>1 April 2018</td>
+        <td rowspan="2">Redstone Valley</td>
       </tr>
       <tr>
         <td>

@@ -70,7 +70,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <th colspan="2" class="border-bottom-0">Service</th>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfers</th>
+        <th rowspan="2">Transfer</th>
         <th rowspan="2">Opening date</th>
         <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>

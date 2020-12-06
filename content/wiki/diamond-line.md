@@ -100,7 +100,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
 
 <br>
 
-#### List of stations
+#### Station list
 
 ---
 
@@ -111,9 +111,9 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
-        <th rowspan="2">Opened</th>
-        <th rowspan="2">Type</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
+        <th rowspan="2">Structure type</th>
       </tr>
       <tr>
         <th>English</th>
@@ -132,8 +132,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
           {{< wiki/mm-sign route="Ac" >}}
         </td>
         <td>1 April 2019</td>
-        <td rowspan="5">Elevated</td>
         <td>Redstone Valley</td>
+        <td rowspan="5">Elevated</td>
       </tr>
       <tr>
         <td>
@@ -144,7 +144,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           {{< wiki/mm-sign route="C" >}}
         </td>
-        <td rowspan="4">8 March 2017<br><small class="font-italic">(Mirai RGB)</small></td>
+        <td rowspan="4">8 March 2017<br><small class="font-italic">(Mirai SkyCart)</small></td>
         <td rowspan="4">City Loop</td>
       </tr>
       <tr>
@@ -191,8 +191,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>鑽石山</td>
         <td></td>
         <td>1 May 2019</td>
-        <td>Underground</td>
         <td>La Mirai</td>
+        <td>Underground</td>
       </tr>
     </tbody>
   </table>

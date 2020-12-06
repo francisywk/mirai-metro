@@ -63,7 +63,8 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -83,7 +84,8 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
           {{< wiki/mm-sign route="D" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
-        <td rowspan="2">City Loop</td>
+        <td rowspan="3">4 June 2019</td>
+        <td>City Loop</td>
       </tr>
       <tr>
         <td>
@@ -94,6 +96,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           {{< wiki/mm-sign route="G" >}}
         </td>
+        <td rowspan="2">Miraiya Valley</td>
       </tr>
       <tr>
         <td>
@@ -104,7 +107,6 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
-        <td>Miraiya Valley</td>
       </tr>
       <tr>
         <td>
@@ -115,6 +117,7 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           {{< wiki/mm-sign route="Ac" >}}
         </td>
+        <td rowspan="6">30 September 2018</td>
         <td>Redstone Valley</td>
       </tr>
       <tr>

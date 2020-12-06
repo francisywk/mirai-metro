@@ -78,7 +78,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfers</th>
+        <th rowspan="2">Transfer</th>
         <th rowspan="2">Opening date</th>
         <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
@@ -89,7 +89,12 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
     </thead>
     <tbody>
       <tr>
-        <td class="alert-warning">
+        <td colspan="8" class="alert-warning font-weight-bold">
+          Approved <span class="small font-italic font-weight-bold">(to be ready by January 2021)</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
         </td>
         <td class="font-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
@@ -97,6 +102,11 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td></td>
         <td>January 2021</td>
         <td>Big Snow</td>
+      </tr>
+      <tr>
+        <td colspan="8" class="alert-success font-weight-bold">
+          Operational <span class="small font-italic font-weight-bold">(since 11 August 2015)</span>
+        </td>
       </tr>
       <tr>
         <td>
@@ -175,19 +185,25 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>維度山</td>
         <td></td>
         <td>8 March 2017</td>
-        <td rowspan="2hugo new">Miraiya Highlands</td>
+        <td>Miraiya Highlands</td>
       </tr>
       <tr>
-        <td class="alert-warning">
+        <td colspan="8" class="alert-danger font-weight-bold">
+          Planned <span class="small font-italic font-weight-bold">(to be ready by early 2022)</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R9<span>
         </td>
         <td>{{< wiki/link station="Observatory" >}}</td>
         <td class="font-italic">天文台</td>
         <td></td>
-        <td rowspan="2">June 2021</td>
+        <td rowspan="2">Early 2022</td>
+        <td>Miraiya Highlands</td>
       </tr>
       <tr>
-        <td class="alert-warning">
+        <td>
           <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10<span>
         </td>
         <td>{{< wiki/link station="Redhill Spring" >}}</td>

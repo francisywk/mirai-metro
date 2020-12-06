@@ -70,8 +70,9 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
       <tr>
         <th rowspan="2">Code</th>
         <th colspan="2" class="border-bottom-0">Name</th>
-        <th rowspan="2">Transfer / Note</th>
-        <th rowspan="2">Location</th>
+        <th rowspan="2">Transfer</th>
+        <th rowspan="2">Opening date</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-black">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -80,7 +81,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
     </thead>
     <tbody>
       <tr class="alert-secondary">
-        <td colspan="5">— ↑ loop line - towards {{< wiki/link station="Outlands North" >}} (anti-clockwise) ↑ —</td>
+        <td colspan="6">— ↑ loop line - towards {{< wiki/link station="Outlands North" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -92,6 +93,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="C" >}}
         </td>
+        <td>1 April 2019</td>
         <td rowspan="7">City Loop</td>
       </tr>
       <tr>
@@ -103,6 +105,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           {{< wiki/mm-sign route="G" >}}
         </td>
+        <td rowspan="2">25 July 2018</td>
       </tr>
       <tr>
         <td>
@@ -127,6 +130,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           {{< wiki/mm-sign route="D" >}}
           {{< wiki/mm-sign route="P" >}}
         </td>
+        <td rowspan="2">11 September 2018</td>
       </tr>
       <tr>
         <td>
@@ -149,6 +153,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}
         </td>
+        <td>1 April 2019</td>
       </tr>
       <tr>
         <td>
@@ -160,6 +165,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="C" >}}
         </td>
+        <td>1 December 2020</td>
       </tr>
       <tr>
         <td>
@@ -170,6 +176,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
+        <td>6 May 2019</td>
         <td rowspan="3">Big Snow</td>
       </tr>
       <tr>
@@ -181,6 +188,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
+        <td rowspan="2">1 April 2019</td>
       </tr>
       <tr>
         <td>
@@ -193,7 +201,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         </td>
       </tr>
       <tr class="alert-secondary">
-        <td colspan="5">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
+        <td colspan="6">— ↓ loop line - towards {{< wiki/link station="Winterland" >}} (clockwise) ↓ —</td>
       </tr>
     </tbody>
   </table>
