@@ -116,8 +116,8 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C3</span>
         </td>
-        <td>{{< wiki/link station="Berryhills" >}}</td>
-        <td>啤梨山</td>
+        <td>{{< wiki/link station="Berryhills" alternate="Union Trade Centre" >}}</td>
+        <td>啤梨山<p class="small mb-0">(聯合貿易中心)</p></td>
         <td>
           {{< wiki/mm-sign route="D" >}}
         </td>
@@ -127,8 +127,8 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C4</span>
         </td>
-        <td>{{< wiki/link station="Mirai" >}}</td>
-        <td>美來</td>
+        <td>{{< wiki/link station="Mirai" alternate="Mugen Mirai" >}}</td>
+        <td>美來<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="Ac" >}}
@@ -150,8 +150,8 @@ The following is a list of the stations on the City Loop Line.
         <td>
           <span class="station-code station-code-sm station-code-cl rounded-circle">C6</span>
         </td>
-        <td>{{< wiki/link station="Mount Austin" >}}</td>
-        <td>柯士甸山</td>
+        <td>{{< wiki/link station="Mount Austin" alternate="Downtown West" >}}</td>
+        <td>柯士甸山<p class="small mb-0">(下環西)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="W" >}}

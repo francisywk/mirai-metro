@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line, following the [Blue Line](/wiki/blue-line "Blue Line") and [Red Line](/wiki/red-line "Red Line") of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") as well as the line with the most stations. The Green Line is also the only line that provides interchange with all other Mirai Metro lines.
+The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line, following the [Blue Line](/wiki/blue-line "Blue Line") and [Red Line](/wiki/red-line "Red Line") of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first fully-underground line and the first [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The Green Line is also the only line that provides interchange with all other Mirai Metro lines.
 
 <br>
 
@@ -87,8 +87,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G1</span>
         </td>
-        <td>{{< wiki/link station="Mirai" >}}</td>
-        <td>美來</td>
+        <td>{{< wiki/link station="Mirai" alternate="Mugen Mirai" >}}</td>
+        <td>美來<p class="small mb-0">(無限美來)</td>
         <td>
           {{< wiki/mm-sign route="Ac" >}}
           {{< wiki/mm-sign route="C" >}}
@@ -101,8 +101,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G2</span>
         </td>
-        <td>{{< wiki/link station="Uptown Cross" >}}</td>
-        <td>上環十字</td>
+        <td>{{< wiki/link station="Uptown Cross" alternate="Uptown Underpass" >}}</td>
+        <td>上環十字<p class="small mb-0">(上環地下道)</p></td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>
@@ -133,8 +133,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G5</span>
         </td>
-        <td>{{< wiki/link station="Mount Austin" >}}</td>
-        <td>柯士甸山</td>
+        <td>{{< wiki/link station="Mount Austin" alternate="Downtown West" >}}</td>
+        <td>柯士甸山<p class="small mb-0">(下環西)</p></td>
         <td>
           {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="C" >}}
@@ -144,8 +144,8 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G6</span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" >}}</td>
-        <td>市中心</td>
+        <td>{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
+        <td>市中心<p class="small mb-0">(市政廳)</p></td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="W" >}}

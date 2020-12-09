@@ -142,8 +142,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P3</span>
         </td>
-        <td>{{< wiki/link station="Mugen" >}}</td>
-        <td>無限</td>
+        <td>{{< wiki/link station="Mugen" alternate="Mugen Mirai" >}}</td>
+        <td>無限<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="B" >}}
           {{< wiki/mm-sign route="V" >}}
@@ -158,8 +158,8 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P4</span>
         </td>
-        <td>{{< wiki/link station="Under the Falls" >}}</td>
-        <td>瀑布下</td>
+        <td>{{< wiki/link station="Under the Falls" alternate="Paradise Falls South" >}}</td>
+        <td>瀑布下<p class="small mb-0">(仙境瀑布南)</p></td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="W" >}}
@@ -185,7 +185,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>外環南</td>
+        <td>環外南</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

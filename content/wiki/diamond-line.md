@@ -112,8 +112,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <th colspan="2" class="border-bottom-0">Name</th>
         <th rowspan="2">Transfer</th>
         <th rowspan="2">Opening date</th>
-        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
         <th rowspan="2">Structure type</th>
+        <th rowspan="2"><a href="/wiki/districts-of-mirai" class="text-white">District</a></th>
       </tr>
       <tr>
         <th>English</th>
@@ -132,15 +132,15 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
           {{< wiki/mm-sign route="Ac" >}}
         </td>
         <td>1 April 2019</td>
-        <td>Redstone Valley</td>
         <td rowspan="5">Elevated</td>
+        <td>Redstone Valley</td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D2</span>
         </td>
-        <td>{{< wiki/link station="Berryhills" >}}</td>
-        <td>啤梨山</td>
+        <td>{{< wiki/link station="Berryhills" alternate="Union Trade Centre" >}}</td>
+        <td>啤梨山<p class="small mb-0">(聯合貿易中心)</p></td>
         <td>
           {{< wiki/mm-sign route="C" >}}
         </td>
@@ -151,8 +151,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D3</span>
         </td>
-        <td>{{< wiki/link station="Mirai" >}}</td>
-        <td>美來</td>
+        <td>{{< wiki/link station="Mirai" alternate="Mugen Mirai" >}}</td>
+        <td>美來<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="Ac" >}}
@@ -163,8 +163,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           <span class="station-code station-code-sm station-code-dl rounded-circle">D4</span>
         </td>
-        <td>{{< wiki/link station="Mugen" >}}</td>
-        <td>無限</td>
+        <td>{{< wiki/link station="Mugen" alternate="Mugen Mirai" >}}</td>
+        <td>無限<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="B" >}}
           {{< wiki/mm-sign route="V" >}}
@@ -191,8 +191,8 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>鑽石山</td>
         <td></td>
         <td>1 May 2019</td>
-        <td>La Mirai</td>
         <td>Underground</td>
+        <td>La Mirai</td>
       </tr>
     </tbody>
   </table>

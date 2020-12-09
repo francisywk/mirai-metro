@@ -92,8 +92,8 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-ac rounded-circle">A1</span>
         </td>
-        <td>{{< wiki/link station="Mirai" >}}</td>
-        <td>美來</td>
+        <td>{{< wiki/link station="Mirai" alternate="Mugen Mirai" >}}</td>
+        <td>美來<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="C" >}}

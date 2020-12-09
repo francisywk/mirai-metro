@@ -76,8 +76,8 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V1</span>
         </td>
-        <td>{{< wiki/link station="Mugen" >}}</td>
-        <td>無限</td>
+        <td>{{< wiki/link station="Mugen" alternate="Mugen Mirai" >}}</td>
+        <td>無限<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="B" >}}
           {{< wiki/mm-sign route="W" >}}
@@ -150,8 +150,8 @@ The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/
         <td>
           <span class="station-code station-code-sm station-code-vl rounded-circle">V8</span>
         </td>
-        <td>{{< wiki/link station="Victory Bay" >}}</td>
-        <td>勝利灣</td>
+        <td>{{< wiki/link station="Victory Bay" alternate="Mirai North" >}}</td>
+        <td>勝利灣<p class="small mb-0">(美來北)</p></td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>

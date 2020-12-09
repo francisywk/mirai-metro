@@ -28,7 +28,7 @@ alternate_station_name_zh:
 district_en: City Loop
 district_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/greenline.png),url(/img/bg/blueline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px,100% 10px;background-position:0 100px,left 130px,0 160px}
-address: [City Farm, City Loop, City of Mirai, United Cities]
+address: [First Plains, City Loop, City of Mirai, United Cities]
 coordinate:
   - route_sign: [G]
     xyz: [149,56,29]

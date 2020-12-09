@@ -91,8 +91,8 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B1</span>
         </td>
-        <td>{{< wiki/link station="Victory Bay" >}}</td>
-        <td>勝利灣</td>
+        <td>{{< wiki/link station="Victory Bay" alternate="Mirai North" >}}</td>
+        <td>勝利灣<p class="small mb-0">(美來北)</p></td>
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
@@ -140,8 +140,8 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B5</span>
         </td>
-        <td>{{< wiki/link station="Mugen" >}}</td>
-        <td>無限</td>
+        <td>{{< wiki/link station="Mugen" alternate="Mugen Mirai" >}}</td>
+        <td>無限<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="V" >}}
           {{< wiki/mm-sign route="W" >}}
@@ -155,8 +155,8 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B6</span>
         </td>
-        <td>{{< wiki/link station="Paradise Falls" >}}</td>
-        <td>仙境瀑布</td>
+        <td>{{< wiki/link station="Paradise Falls" alternate="Red House" >}}</td>
+        <td>仙境瀑布<p class="small mb-0">(市長官邸)</p></td>
         <td>
           {{< wiki/mm-sign route="R" >}}
         </td>
@@ -166,8 +166,8 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B7</span>
         </td>
-        <td>{{< wiki/link station="Zero Zero" >}}</td>
-        <td>零零</td>
+        <td>{{< wiki/link station="Zero Zero" alternate="Centre of The Grid" >}}</td>
+        <td>零零<p class="small mb-0">(世格中心)</p></td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>
@@ -177,8 +177,8 @@ The following is a list of the stations on the Blue Line.
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B9</span>
         </td>
-        <td>{{< wiki/link station="Hell's Gate" >}}</td>
-        <td>地獄門</td>
+        <td>{{< wiki/link station="Hell's Gate" alternate="Mirai Nether Portal" >}}</td>
+        <td>地獄門<p class="small mb-0">(美來下界傳送門)</p></td>
         <td></td>
         <td>5 October 2019</td>
         <td>Dark Forest</td>

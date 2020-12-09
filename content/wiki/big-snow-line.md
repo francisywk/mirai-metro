@@ -145,8 +145,8 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
         </td>
-        <td>{{< wiki/link station="Outlands North" >}}</td>
-        <td>外環北</td>
+        <td>{{< wiki/link station="Outlands North" alternate="Central Library" >}}</td>
+        <td>環外北<p class="small mb-0">(中央圖書館)</p></td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

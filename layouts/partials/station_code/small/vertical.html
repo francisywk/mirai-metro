@@ -8,7 +8,7 @@
       <span class="station-code station-code-sm{{ if eq (len .) 3 }}-dd{{ end }} station-code-bl rounded-circle my-05">{{ . }}</span>
     {{ else if in . "A" }}
       {{ if (or (eq . "A1") (eq . "A4") (eq . "A5")) }}
-        <span class="station-code station-code-sm station-code-ac rounded-circle my-05">{{ . }}</span>
+        <span class="station-code station-code-sm station-code-ac-sm rounded-circle my-05">{{ . }}</span>
       {{ else }}
         <span class="station-code station-code-sm station-code-al rounded-circle my-05">{{ . }}</span>
       {{ end }}

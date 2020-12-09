@@ -48,3 +48,12 @@
     <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
   {{ end }}
 {{ end }}
+{{ with .Get "alternate" }}
+  <p class="small mb-0">(
+    {{- if and (eq . "Mugen Mirai") (eq . "Mirai North") -}}
+      <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
+    {{- else -}}
+      <a href="/wiki/{{ anchorize ($.Get "station") }}-station" title="{{ ($.Get "station") }} station">{{ . }}</a>
+    {{- end -}}
+  )</p>
+{{ end }}

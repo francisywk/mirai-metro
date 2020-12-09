@@ -1,5 +1,6 @@
 ---
-title: "Mirai Regional Railway"
+title: "MRR"
+linktitle: Mirai Regional Railway (MRR)
 description: Mirai Capital Area express rail network
 date: 2020-07-09T23:04:50+08:00
 draft: false

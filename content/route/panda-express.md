@@ -30,7 +30,7 @@ stations:
       - route_sign: [G,B]
   - station_code: [P6]
     name: Outlands South
-    name_zh: 外環南
+    name_zh: 環外南
     transfer:
       - route_sign: [W]
     last_station: true

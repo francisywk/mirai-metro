@@ -2,7 +2,7 @@
 title: Outlands South station
 station_code: [W8,P6]
 station_name_en: Outlands South
-station_name_zh: 外環南
+station_name_zh: 環外南
 route_sign: [W,P]
 adjacent_stations:
   - route_sign: [W]

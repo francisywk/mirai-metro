@@ -32,7 +32,7 @@ quick_facts:
       <tr>
         <td rowspan="6">CBD<br>核心商業區</td>
         <td rowspan="3">City Loop</td>
-        <td rowspan="3">三環區</td>
+        <td rowspan="3">三環</td>
         <td class="text-left">Uptown<br>上環</td>
         <td class="text-left">
           <li>Fhoenix Hill</li>
@@ -43,7 +43,7 @@ quick_facts:
       <tr>
         <td class="text-left">Midtown<br>中環</td>
         <td class="text-left">
-          <li>City Farm</li>
+          <li>First Plains</li>
           <li>Paradise Falls</li>
           <li>Mugen</li>
         </td>
@@ -58,7 +58,7 @@ quick_facts:
       </tr>
       <tr>
         <td rowspan="3">Victory Bay</td>
-        <td rowspan="3">勝利灣區</td>
+        <td rowspan="3">勝利灣</td>
         <td class="text-left">Bay Area<br>灣區</td>
         <td class="text-left">
           <li>Broadbeach</li>
@@ -80,7 +80,7 @@ quick_facts:
       <tr>
         <td rowspan="3">Neighbourhood<br>郊區</td>
         <td>Big Snow</td>
-        <td>大雪區</td>
+        <td>大雪</td>
         <td colspan="2" class="text-left">
           <li>Zero Zero</li>
           <li>Outlands</li>
@@ -88,7 +88,7 @@ quick_facts:
       </tr>
       <tr>
         <td>Redstone Valley</td>
-        <td>紅石谷區</td>
+        <td>紅石谷</td>
         <td colspan="2" class="text-left">
           <li>United Cities Headquarters</li>
           <li>Mirai City Airport</li>
@@ -96,7 +96,7 @@ quick_facts:
       </tr>
       <tr>
         <td>Miraiya Valley</td>
-        <td>美來雅山腳區</td>
+        <td>美來雅山腳</td>
         <td colspan="2" class="text-left">
           <li>Bottomvalley</li>
           <li>Cavehaven</li>
@@ -106,14 +106,14 @@ quick_facts:
       <tr>
         <td rowspan="2">Town<br>鎮</td>
         <td>Miraiya Highlands</td>
-        <td>美來雅高原區</td>
+        <td>美來雅高原</td>
         <td colspan="2" class="text-left">
           <li>Dimension Hill</li>
         </td>
       </tr>
       <tr>
         <td>La Mirai</td>
-        <td>南美來區</td>
+        <td>南美來</td>
         <td colspan="2" class="text-left">
           <li>Diamond Hill</li>
         </td>
@@ -121,21 +121,21 @@ quick_facts:
       <tr>
         <td rowspan="3">Village<br>村</td>
         <td>Mob Forest</td>
-        <td>摩寶森林區</td>
+        <td>摩寶森林</td>
         <td colspan="2" class="text-left">
           <li>Logsmead</li>
         </td>
       </tr>
       <tr>
         <td>Dark Forest</td>
-        <td>黑森林區</td>
+        <td>黑森林</td>
         <td colspan="2" class="text-left">
           <li>Hell's Gate</li>
         </td>
       </tr>
       <tr>
         <td>Spawn Chunk</td>
-        <td>出世點區塊區</td>
+        <td>出世點區塊</td>
         <td colspan="2" class="text-left">
           <li>Spawn</li>
         </td>

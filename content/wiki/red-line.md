@@ -134,8 +134,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R4<span>
         </td>
-        <td>{{< wiki/link station="Paradise Falls" >}}</td>
-        <td>仙境瀑布</td>
+        <td>{{< wiki/link station="Paradise Falls" alternate="Red House" >}}</td>
+        <td>仙境瀑布<p class="small mb-0">(市長官邸)</p></td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
@@ -144,8 +144,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R5<span>
         </td>
-        <td>{{< wiki/link station="Under the Falls" >}}</td>
-        <td>瀑布下</td>
+        <td>{{< wiki/link station="Under the Falls" alternate="Paradise Falls South" >}}</td>
+        <td>瀑布下<p class="small mb-0">(仙境瀑布南)</p></td>
         <td>
           {{< wiki/mm-sign route="W" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -156,8 +156,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R6<span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" >}}</td>
-        <td>市中心</td>
+        <td>{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
+        <td>市中心<p class="small mb-0">(市政廳)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="W" >}}
@@ -181,8 +181,8 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R8<span>
         </td>
-        <td>{{< wiki/link station="Dimension Hill" >}}</td>
-        <td>維度山</td>
+        <td>{{< wiki/link station="Dimension Hill" alternate="Old Portal" >}}</td>
+        <td>維度山<p class="small mb-0">(舊門關)</p></td>
         <td></td>
         <td>8 March 2017</td>
         <td>Miraiya Highlands</td>

@@ -904,7 +904,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>外環南</td>
+        <td>環外南</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -931,7 +931,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
         <td>{{< wiki/link station="Outlands North" >}}</td>
-        <td>外環北</td>
+        <td>環外北</td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
@@ -1281,7 +1281,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>外環南</td>
+        <td>環外南</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>
@@ -1390,7 +1390,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
         </td>
         <td>{{< wiki/link station="Outlands North" >}}</td>
-        <td>外環北</td>
+        <td>環外北</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

@@ -41,7 +41,7 @@ stations:
       - route_sign: [G,C]
   - station_code: [W8]
     name: Outlands South
-    name_zh: 外環南
+    name_zh: 環外南
     transfer:
       - route_sign: [P]
   - station_code: [W9]
@@ -51,7 +51,7 @@ stations:
       - route_sign: [B]
   - station_code: [W10]
     name: Outlands North
-    name_zh: 外環北
+    name_zh: 環外北
     transfer:
       - route_sign: [S]
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:51px}

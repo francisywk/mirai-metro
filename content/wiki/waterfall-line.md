@@ -100,8 +100,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W2<span>
         </td>
-        <td>{{< wiki/link station="Uptown Cross" >}}</td>
-        <td>上環十字</td>
+        <td>{{< wiki/link station="Uptown Cross" alternate="Uptown Underpass" >}}</td>
+        <td>上環十字<p class="small mb-0">(上環地下道)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
         </td>
@@ -111,8 +111,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W3<span>
         </td>
-        <td>{{< wiki/link station="Under the Falls" >}}</td>
-        <td>瀑布下</td>
+        <td>{{< wiki/link station="Under the Falls" alternate="Paradise Falls South" >}}</td>
+        <td>瀑布下<p class="small mb-0">(仙境瀑布南)</p></td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="P" >}}
@@ -122,8 +122,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W4<span>
         </td>
-        <td>{{< wiki/link station="Mugen" >}}</td>
-        <td>無限</td>
+        <td>{{< wiki/link station="Mugen" alternate="Mugen Mirai" >}}</td>
+        <td>無限<p class="small mb-0">(無限美來)</p></td>
         <td>
           {{< wiki/mm-sign route="B" >}}
           {{< wiki/mm-sign route="V" >}}
@@ -147,8 +147,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W6<span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" >}}</td>
-        <td>市中心</td>
+        <td>{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
+        <td>市中心<p class="small mb-0">(市政廳)</p></td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}
@@ -159,8 +159,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W7<span>
         </td>
-        <td>{{< wiki/link station="Mount Austin" >}}</td>
-        <td>柯士甸山</td>
+        <td>{{< wiki/link station="Mount Austin" alternate="Downtown West" >}}</td>
+        <td>柯士甸山<p class="small mb-0">(下環西)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="C" >}}
@@ -172,7 +172,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>外環南</td>
+        <td>環外南</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -183,8 +183,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W9<span>
         </td>
-        <td>{{< wiki/link station="Zero Zero" >}}</td>
-        <td>零零</td>
+        <td>{{< wiki/link station="Zero Zero" alternate="Centre of The Grid" >}}</td>
+        <td>零零<p class="small mb-0">(世格中心)</p></td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
@@ -194,8 +194,8 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
         <td>
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
-        <td>{{< wiki/link station="Outlands North" >}}</td>
-        <td>外環北</td>
+        <td>{{< wiki/link station="Outlands North" alternate="Central Library" >}}</td>
+        <td>環外北<p class="small mb-0">(中央圖書館)</p></td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>

@@ -20,7 +20,7 @@ adjacent_stations:
       - station: B7-Zero Zero
         towards: Spawn
 alternate_station_name_en: Red House
-alternate_station_name_zh: 紅屋
+alternate_station_name_zh: 市長官邸
 district_en: City Loop
 district_zh: 三環
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/redline.png),url(/img/bg/blueline.png);background-repeat:no-repeat;background-size:100% 10px;background-position:0 115px,0 145px}
