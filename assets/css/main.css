@@ -611,6 +611,10 @@ ul {
   color: white;
 }
 
+.text-vl {
+  color: #651a9e;
+}
+
 .station-code-vl {
   border: 7px solid #651a9e;
 }

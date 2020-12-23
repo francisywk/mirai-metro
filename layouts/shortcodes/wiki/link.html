@@ -1,59 +1,73 @@
-{{ with .Get "route" }}
-  {{ if eq . "R" }}
+{{- with .Get "route" -}}
+  {{- if eq . "R" -}}
     <a href="/wiki/red-line" title="Red Line (Mirai Metro)">Red Line</a>
-  {{ else if eq . "Red" }}
+  {{- else if eq . "Red" -}}
     <a href="/wiki/red-line" title="Red Line (Mirai Metro)">Red</a>
-  {{ else if eq . "G" }}
+  {{- else if eq . "G" -}}
     <a href="/wiki/green-line" title="Green Line (Mirai Metro)">Green Line</a>
-  {{ else if eq . "Green" }}
+  {{- else if eq . "Green" -}}
     <a href="/wiki/green-line" title="Green Line (Mirai Metro)">Green</a>
-  {{ else if eq . "B" }}
+  {{- else if eq . "B" -}}
     <a href="/wiki/blue-line" title="Blue Line (Mirai Metro)">Blue Line</a>
-  {{ else if eq . "Blue" }}
+  {{- else if eq . "Blue" -}}
     <a href="/wiki/blue-line" title="Blue Line (Mirai Metro)">Blue</a>
-  {{ else if eq . "A" }}
+  {{- else if eq . "A" -}}
     <a href="/wiki/airport-line" title="Airport Line (Mirai Metro)">Airport Line</a>
-  {{ else if eq . "Airport" }}
+  {{- else if eq . "Airport" -}}
     <a href="/wiki/airport-line" title="Airport Line (Mirai Metro)">Airport</a>
-  {{ else if eq . "V" }}
+  {{- else if eq . "V" -}}
     <a href="/wiki/victory-line" title="Victory Line">Victory Line</a>
-  {{ else if eq . "Victory" }}
+  {{- else if eq . "Victory" -}}
     <a href="/wiki/victory-line" title="Victory Line">Victory</a>
-  {{ else if eq . "W" }}
+  {{- else if eq . "W" -}}
     <a href="/wiki/waterfall-line" title="Waterfall Line">Waterfall Line</a>
-  {{ else if eq . "Waterfall" }}
+  {{- else if eq . "Waterfall" -}}
     <a href="/wiki/waterfall-line" title="Waterfall Line">Waterfall</a>
-  {{ else if eq . "C" }}
+  {{- else if eq . "C" -}}
     <a href="/wiki/city-loop-line" title="City Loop Line">City Loop Line</a>
-  {{ else if eq . "City Loop" }}
+  {{- else if eq . "City Loop" -}}
     <a href="/wiki/city-loop-line" title="City Loop Line">City Loop</a>
-  {{ else if eq . "D" }}
+  {{- else if eq . "D" -}}
     <a href="/wiki/diamond-line" title="Diamond Line">Diamond Line</a>
-  {{ else if eq . "Diamond" }}
+  {{- else if eq . "Diamond" -}}
     <a href="/wiki/diamond-line" title="Diamond Line">Diamond</a>
-  {{ else if eq . "P" }}
+  {{- else if eq . "P" -}}
     <a href="/wiki/panda-express" title="Panda Express">Panda Express</a>
-  {{ else if eq . "Panda Express" }}
+  {{- else if eq . "Panda Express" -}}
     <a href="/wiki/panda-express" title="Panda Express">Panda Express</a>
-  {{ else if eq . "S" }}
+  {{- else if eq . "S" -}}
     <a href="/wiki/big-snow-line" title="Big Snow Line">Big Snow Line</a>
-  {{ else if eq . "Big Snow" }}
+  {{- else if eq . "Big Snow" -}}
     <a href="/wiki/big-snow-line" title="Big Snow Line">Big Snow</a>
-  {{ end }}
-{{ end }}
-{{ with .Get "station" }}
-  {{ if in . " station" }}
-    <a href="/wiki/{{ anchorize . }}" title="{{ . }}">{{ . }}</a>
-  {{ else }}
-    <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
-  {{ end }}
-{{ end }}
-{{ with .Get "alternate" }}
+  {{- end -}}
+{{- end -}}
+{{- with .Get "station" -}}
+  {{- $fileURL := printf "/content/wiki/%s-station.md" (anchorize .) -}}
+  {{- if in . " station" -}}
+    {{- if (fileExists (printf "%s" $fileURL) ) -}}
+      <a href="{{ . }}" title="{{ . }}">{{ . }}</a>
+    {{ else }}
+      <a href="javascript:void(0)" title="{{ . }} (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
+    {{ end }}
+  {{- else -}}
+    {{- if (fileExists (printf "%s" $fileURL) ) -}}
+      <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
+    {{- else -}}
+      <a href="javascript:void(0)" title="{{ . }} station (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with .Get "alternate" -}}
+  {{- $fileURL := printf "/content/wiki/%s-station.md" (anchorize ($.Get "station")) -}}
   <p class="small mb-0">(
     {{- if and (eq . "Mugen Mirai") (eq . "Mirai North") -}}
       <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
     {{- else -}}
-      <a href="/wiki/{{ anchorize ($.Get "station") }}-station" title="{{ ($.Get "station") }} station">{{ . }}</a>
+      {{- if (fileExists (printf "%s" $fileURL) ) -}}
+        <a href="/wiki/{{ anchorize ($.Get "station") }}-station" title="{{ ($.Get "station") }} station">{{ . }}</a>
+      {{- else -}}
+        <a href="javascript:void(0)" title="{{ ($.Get "station") }} station (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
+      {{- end -}}
     {{- end -}}
   )</p>
-{{ end }}
+{{- end -}}

@@ -90,7 +90,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>●</td>
         <td>●</td>
         <td>
-          <span class="station-code station-code-sm station-code-ac rounded-circle">A1</span>
+          <span class="station-code station-code-sm station-code-ac-sm rounded-circle">A1</span>
         </td>
         <td>{{< wiki/link station="Mirai" alternate="Mugen Mirai" >}}</td>
         <td>美來<p class="small mb-0">(無限美來)</p></td>
@@ -132,7 +132,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>●</td>
         <td>●</td>
         <td>
-          <span class="station-code station-code-sm station-code-ac rounded-circle">A4</span>
+          <span class="station-code station-code-sm station-code-ac-sm rounded-circle">A4</span>
         </td>
         <td>{{< wiki/link station="Mirai City Airport" >}}</td>
         <td>美來城市空港</td>
@@ -144,7 +144,7 @@ The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/
         <td>●</td>
         <td>●</td>
         <td>
-          <span class="station-code station-code-sm station-code-ac rounded-circle">A5</span>
+          <span class="station-code station-code-sm station-code-ac-sm rounded-circle">A5</span>
         </td>
         <td>{{< wiki/link station="UCHQ North" >}}</td>
         <td>聯總北</td>

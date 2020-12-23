@@ -196,7 +196,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R9<span>
         </td>
-        <td>{{< wiki/link station="Observatory" >}}</td>
+        <td class="font-italic">{{< wiki/link station="Observatory" >}}</td>
         <td class="font-italic">天文台</td>
         <td></td>
         <td rowspan="2">Early 2022</td>
@@ -206,7 +206,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
         <td>
           <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10<span>
         </td>
-        <td>{{< wiki/link station="Redhill Spring" >}}</td>
+        <td class="font-italic">{{< wiki/link station="Redhill Spring" >}}</td>
         <td class="font-italic">紅山泉</td>
         <td>
           {{< wiki/mm-sign route="V" >}}

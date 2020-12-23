@@ -550,7 +550,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
     <tbody>
       <tr>
         <td class="alert-success">
-          <span class="station-code station-code-sm station-code-ac rounded-circle">A1</span>
+          <span class="station-code station-code-sm station-code-ac-sm rounded-circle">A1</span>
         </td>
         <td>{{< wiki/link station="Mirai" >}}</td>
         <td>美來</td>
@@ -594,7 +594,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
       </tr>
       <tr>
         <td class="alert-success">
-          <span class="station-code station-code-sm station-code-ac rounded-circle">A4</span>
+          <span class="station-code station-code-sm station-code-ac-sm rounded-circle">A4</span>
         </td>
         <td>{{< wiki/link station="Mirai City Airport" >}}</td>
         <td>美來城市空港</td>
@@ -608,7 +608,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
       </tr>
       <tr>
         <td class="alert-success">
-          <span class="station-code station-code-sm station-code-ac rounded-circle">A5</span>
+          <span class="station-code station-code-sm station-code-ac-sm rounded-circle">A5</span>
         </td>
         <td>{{< wiki/link station="UCHQ North" >}}</td>
         <td>聯總北</td>

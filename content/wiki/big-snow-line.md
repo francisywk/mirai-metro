@@ -8,7 +8,7 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,bigsnowline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #FF80A9;border-bottom: 4px solid #FF80A9;padding:2px 0;"
+  - title_style: "border-bottom: 7px solid #FF80A9;"
   - route_sign: [S]
   - heading: Overview
   - cols_2:
