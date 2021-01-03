@@ -8,6 +8,9 @@
         <p class="small">{{ dateFormat "2 January 2006" .Date }}</p>
       </li>  
     {{ end }}
-  </ol>
+  </ul>
+  {{ with .Content }}
+    {{ . }}
+  {{ end }}
 </div>
 {{ end }}

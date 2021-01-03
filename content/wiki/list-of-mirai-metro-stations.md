@@ -1293,8 +1293,8 @@ All stations on the network are being maintained and operated by the [CART Corpo
         <td class="alert-danger">
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Mirai Zoo" >}}</td>
-        <td class="font-italic">動物園</td>
+        <td class="font-italic">{{< wiki/link station="Snowtrees" >}}</td>
+        <td class="font-italic">雪林</td>
         <td></td>
         <td>Mid 2023</td>
         <td>Southwest Valley</td>
