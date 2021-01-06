@@ -48,7 +48,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the second [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of the metro after the [Green Line](/wiki/green-line "Green Line"). The line gained its nomenclature from the Paradise Falls district it passes through and the line visually resembles the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model") on the network map.
+The **Waterfall Line** (Code **W**) is a {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line of the {{< wiki/link "Mirai Metro" >}}. It is the second {{< wiki/external-link domain="wikipedia" text="loop line" link="Circle_route" title="Circle route" >}} of the metro after the {{< wiki/link route="G" >}}. The line gained its nomenclature from the Paradise Falls district it passes through and the line visually resembles the {{< wiki/external-link domain="wikipedia" text="waterfall model" link="Waterfall_model" title="Waterfall model" >}} on the network map.
 
 <br>
 
@@ -56,7 +56,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
 
 ---
 
-- 1 December 2020: Mount Austin [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Outlands South.
+- 1 December 2020: Mount Austin {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and Outlands South.
 
 <br>
 
@@ -172,7 +172,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>環外南</td>
+        <td>外環南</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -195,7 +195,7 @@ The **Waterfall Line** (Code **W**) is a [rapid transit](https://en.wikipedia.or
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
         <td>{{< wiki/link station="Outlands North" alternate="Central Library" >}}</td>
-        <td>環外北<p class="small mb-0">(中央圖書館)</p></td>
+        <td>外環北<p class="small mb-0">(中央圖書館)</p></td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>

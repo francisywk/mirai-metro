@@ -72,11 +72,11 @@ names_transcriptions:
         content: Měilái Dìtiě
 ---
 
-The **Mirai Metro** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來地鐵, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih Deihtit*), formerly known as [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") and abbreviated as **MM**, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system serving [City of Mirai](/wiki/Mirai "Mirai"), [United Cities](/wiki/united-cities "United Cities"). It is operated by [CART Corporation](/wiki/cart-corporation "CART Corporation"), a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
+The **Mirai Metro** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 美來地鐵, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Méihlòih Deihtit*), formerly known as {{< wiki/link "Mirai RGB" >}} and abbreviated as **MM**, is a {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} system serving {{< wiki/link text="City of Mirai" title="Mirai" >}}, {{< wiki/link "United Cities" >}}. It is operated by {{< wiki/link "CART Corporation" >}}, a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
 
-Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the [Mirai Regional Railway](/wiki/mirai-regional-railway "Mirai Regional Railway") (MRR), the metro provides urban rail transportation service for the nation's capital.
+Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the {{< wiki/link text="Mirai Regional Railway" title="MRR" >}} (MRR), the metro provides urban rail transportation service for the nation's capital.
 
-As of November 2020, the network encompasses 8.1 kilometres (5.1 mi) of route on [narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Narrow-gauge railway'), with [33 stations](/wiki/list-of-mirai-metro-stations "List of Mirai Metro stations") in operation, spread across ten lines set in a [circle-radial topology](https://en.wikipedia.org/wiki/Rapid_transit#Network_topologies "Rapid transit network topologies").
+As of November 2020, the network encompasses 8.1 kilometres (5.1 mi) of route on {{< wiki/external-link domain="wikipedia" text="narrow gauge" link="Narrow-gauge-railway" title="Narrow gauge railway" >}}, with {{< wiki/link text="33 stations" title="List of Mirai Metro stations" >}} in operation, spread across ten lines set in a {{< wiki/external-link domain="wikipedia" text="circle-radial topology" link="Rapid_transit#Network_topologies" title="Rapid transit#Network topologies" >}}.
 
 <br>
 
@@ -88,8 +88,8 @@ As of November 2020, the network encompasses 8.1 kilometres (5.1 mi) of route on
 
 ---
 
-- 7 June 2015: [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") began operation between Zero Zero and Paradise Falls section of the {{< wiki/link route="B" >}}.
-- 5 October 2019: Hell's Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") was opened on the {{< wiki/link route="B" >}} between Zero Zero and Spawn.
+- 7 June 2015: {{< wiki/link "Mirai RGB" >}} began operation between Zero Zero and Paradise Falls section of the {{< wiki/link route="B" >}}.
+- 5 October 2019: Hell's Gate {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} was opened on the {{< wiki/link route="B" >}} between Zero Zero and Spawn.
 - 27 July 2020: Phase 1 of {{< wiki/link route="P" >}} line opened to the public.
 - 8 October 2020: Phase 1 of {{< wiki/link route="S" >}} began operation, along with {{< wiki/link station="Miraibridge" >}} infill station opened on the {{< wiki/link route="R" >}} and {{< wiki/link route="C" >}}.
 

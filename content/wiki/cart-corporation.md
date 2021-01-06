@@ -48,7 +48,7 @@ names_transcriptions:
         content: Shì Qū Dìtiě Yǒuxiàn Gōngsī
 ---
 
-**CART Corporation Limited** is a United Cities state-owned public transportation company. The company was once known as **City Area Rapid Transit Corporation** before changing to its current name. It operates the [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai, and will be the operator of [Orinoco Flow](/wiki/orinoco-flow "Orinoco Flow") in Orinoco City, and New Mirai's [New Mirai Metro](/wiki/new-mirai-metro "New Mirai Metro") once construction is completed and begin service.
+**CART Corporation Limited** is a United Cities state-owned public transportation company. The company was once known as **City Area Rapid Transit Corporation** before changing to its current name. It operates the {{< wiki/link "Mirai Metro" >}} in Mirai, and will be the operator of {{< wiki/link "Orinoco Flow" >}} in Orinoco City once construction is completed and begin service.
 
 <br>
 
@@ -60,9 +60,9 @@ names_transcriptions:
 
 ---
 
-The **City Area Rapid Transit Corporation** (市區地鐵公司) was established on 1 February 2015 as a government-owned [statutory corporation](https://en.wikipedia.org/wiki/Statutory_corporation "Statutory corporation") to study, build, and operate mass rapid transit systems for cities in the country that needed such system to meet its growing transportation needs.
+The **City Area Rapid Transit Corporation** (市區地鐵公司) was established on 1 February 2015 as a government-owned {{< wiki/external-link domain="wikipedia" text="statutory corporation" link="Statutory_corporation" title="Statutory corporation" >}} to study, build, and operate mass rapid transit systems for cities in the country that needed such system to meet its growing transportation needs.
 
-Mirai was selected as the first city in United Cities to have a metro system. The proposed system was called [Mirai RGB](/wki/mirai-rgb "Mirai RGB"), the former name of the current [Mirai Metro](/wiki/mirai-metro "Mirai Metro").
+Mirai was selected as the first city in United Cities to have a metro system. The proposed system was called {{< wiki/link "Mirai RGB" >}}, the former name of the current {{< wiki/link "Mirai Metro" >}}.
 
 <BR>
 
@@ -72,11 +72,8 @@ Mirai was selected as the first city in United Cities to have a metro system. Th
 
 ##### Mirai
 
-- [Mirai Metro](/wiki/mirai-metro "Mirai Metro") *(formerly [Mirai RGB](/wiki/mirai-rgb "Mirai RGB"))*
-
-
-##### New Mirai
-
-
+- {{< wiki/link "Mirai Metro" >}} *(formerly {{< wiki/link "Mirai RGB" >}})*
 
 ##### Orinoco City
+
+- {{< wiki/link "Orinoco Flow" >}}

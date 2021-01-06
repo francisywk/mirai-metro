@@ -2,7 +2,7 @@
 title: Outlands North station
 station_code: [W10,S6]
 station_name_en: Outlands North
-station_name_zh: "環外<span class='font-noto-serif-sc'>北</span>"
+station_name_zh: "外環<span class='font-noto-serif-sc'>北</span>"
 route_sign: [W,S]
 adjacent_stations:
   - route_sign: [W]

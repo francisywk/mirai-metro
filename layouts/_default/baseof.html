@@ -2,14 +2,14 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{ partial "head.html" . }}
 <body id="page-top">
-  {{ partial "navbar.html" . }}
+  {{ partialCached "navbar.html" . .Section }}
   {{ block "main" . }}{{ end }}
   {{ if (or (eq .Section "route") (eq .Section "station")) }}
     {{ if eq .Kind "section" }}
-      {{ partial "about-station-code.html" . }}
+      {{ partialCached "about-station-code.html" . }}
     {{ end }}
   {{ end }}
-  {{ partial "footer.html" . }}
-  {{ partial "scripts.html" . }}
+  {{ partialCached "footer.html" . }}
+  {{ partialCached "scripts.html" . .Section }}
 </body>
 </html>

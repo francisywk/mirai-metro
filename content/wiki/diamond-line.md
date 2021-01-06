@@ -6,7 +6,7 @@ date: 2020-08-10T17:40:55+08:00
 draft: false
 category: miraimetro
 keywords: [mirai,miraimetro,route,diamondline]
-notice: "This article is about the former rapid transit line in Mirai before merging with the [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB'). For the current rapid transit system, see [Mirai Metro](/wiki/mirai-metro 'Mirai Metro')"
+notice: "This article is about the rapid transit line on the [Mirai Metro](/wiki/mirai-metro 'Mirai Metro'). For the previous rapid transit system in which this line is a part of before merging with the [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB'), see [Mirai SkyCart](/wiki/mirai-skycart 'Mirai SkyCart')."
 see_also: true
 quick_facts:
   - title_style: "border-top: 4px solid #33CDFB;border-bottom: 4px solid #33CDFB;padding:2px 0;"
@@ -47,9 +47,9 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Diamond Line** (Code **D**), previously known as the **Mirai SkyCart**, is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") servicing Mirai, United Cities. It is the fourth rail transit line and the first [fully automated and control-free](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") rail system in the United Cities. The line is coloured **<span class="text-dl">Light Blue</span>** on the official network map.
+The **Diamond Line** (Code **D**), previously known as the {{< wiki/link "Mirai SkyCart" >}}, is a {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line of {{< wiki/link "Mirai Metro" >}} servicing Mirai, United Cities. It is the fourth rail transit line and the first {{< wiki/external-link domain="wikipedia" text="fully automated and control-free" link="Automatic_train_operation" title="Automatic train operation" >}} rail system in the United Cities. The line is coloured **<span class="text-dl">Light Blue</span>** on the official network map.
 
-The Diamond Line runs parallel above the Stationfront Boulevard within the City Loop, and run through Mirai station building and the One Union Trade Centre. Prior to the extension to {{< wiki/link station="Diamond Hill" >}} station, the line was entirely elevated and was the only one in the system that did so.
+The Diamond Line runs parallel above the Stationfront Boulevard within the City Loop, and run through {{< wiki/link station="Mirai station" >}} building and the One Union Trade Centre. Prior to the extension to {{< wiki/link station="Diamond Hill" >}} station, the line was entirely elevated and was the only one in the system that did so.
 
 <br>
 
@@ -63,7 +63,7 @@ The Diamond Line runs parallel above the Stationfront Boulevard within the City 
 
 ##### Mirai SkyCart
 
-The Diamond Line was previously called the Mirai SkyCart. Owned and operated by the Mirai SkyCart Company, the system was opened on 8 March 2017, making it the second system and the fourth railway transit line to enter service in the United Cities. The system was not a part of the then [Mirai RGB](/wiki/mirai-rgb "Mirai RGB") system, it was operated as an independent and separated network instead.
+The Diamond Line was previously called the Mirai SkyCart. Owned and operated by the Mirai SkyCart Company, the system was opened on 8 March 2017, making it the second system and the fourth railway transit line to enter service in the United Cities. The system was not a part of the then {{< wiki/link "Mirai RGB" >}} system, it was operated as an independent and separated network instead.
 
 The initial route features 4 stations spanned from {{< wiki/link station="Berryhills" >}} to {{< wiki/link station="Downtown East" >}}.
 
@@ -81,9 +81,9 @@ In 2019, Diamond Line was extended northward to {{< wiki/link station="UCHQ Nort
 
 ##### Conversion to automatic operation
 
-As part of the extension project, the line was also converted to [fully automated](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") operation. The automation system deployed is a custom [command](https://minecraft.gamepedia.com/Commands "Commands") system inspired and modified from FlashTeens [Minecart Railway Builder Tool](https://github.com/flashteens/FTMCRailBuilder13) datapack.
+As part of the extension project, the line was also converted to {{< wiki/external-link domain="wikipedia" text="fully automated" link="Automatic_train_operation" title="Automatic train operation" >}} operation. The automation system deployed is a custom {{< wiki/external-link domain="mcwiki" text="command" link="Commands" title="Commands" >}} system inspired and modified from FlashTeens {{< wiki/external-link text="FTMC Railway Builder Tool" link="https://github.com/flashteens/FTMCRailBuilder13" title="GitHub: flashteens/FTMCRailBuilder13" >}} datapack.
 
-With the use of [Command Block](https://minecraft.gamepedia.com/Command_Block "Command Block"), riders can choose the desired heading direction before taking the train, and the [minecart](https://minecraft.gamepedia.com/Minecart "Minecart") will be launched automatically heading the selected direction (either north, south, east, or west).
+With the use of {{< wiki/external-link domain="mcwiki" text="Command Block" link="Command_Block" title="Command Block" >}}, riders can choose the desired heading direction before taking the train, and the {{< wiki/external-link domain="mcwiki" text="minecart" link="Minecart" title="Minecart" >}} will be launched automatically heading the selected direction (either north, south, east, or west).
 
 <br>
 
@@ -93,10 +93,10 @@ With the use of [Command Block](https://minecraft.gamepedia.com/Command_Block "C
 
 Each station of the Diamond Line with the exception of Mirai and Diamond Hill stations features a unique theme.
 
-- UCHQ North ([Savanna](https://minecraft.gamepedia.com/Savanna "Savanna"))
-- Berryhills ([Ocean Monument](https://minecraft.gamepedia.com/Ocean_Monument "Ocean Monument"))
-- Mugen ([Jungle](https://minecraft.gamepedia.com/Jungle "Jungle"))
-- Downtown East ([End City](https://minecraft.gamepedia.com/End_City "End City"))
+- UCHQ North ({{< wiki/external-link domain="mcwiki" text="Savanna" link="Savanna" title="Savanna" >}})
+- Berryhills ({{< wiki/external-link domain="mcwiki" text="Ocean Monument" link="Ocean_Monument" title="Ocean Monument" >}})
+- Mugen ({{< wiki/external-link domain="mcwiki" text="Jungle" link="Jungle" title="Jungle" >}})
+- Downtown East ({{< wiki/external-link domain="mcwiki" text="End City" link="End_City" title="End City" >}})
 
 <br>
 

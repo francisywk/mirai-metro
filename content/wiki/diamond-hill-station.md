@@ -38,7 +38,7 @@ quick_facts:
       content: 1 May 2019
 ---
 
-**Diamond Hill** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 鑽石山, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Jyun sehk sāan*) is a [Mirai Metro]() station located in Diamond Hill, La Mirai. It is a terminus station on the {{< wiki/link route="D" >}} and the next station is {{< wiki/link station="Downtown East" >}} heading north.
+**Diamond Hill** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 鑽石山, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Jyun sehk sāan*) is a {{< wiki/link "Mirai Metro" >}} station located in Diamond Hill, La Mirai. It is a terminus station on the {{< wiki/link route="D" >}} and the next station is {{< wiki/link station="Downtown East" >}} heading north.
 
 <br>
 

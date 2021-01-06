@@ -40,9 +40,9 @@ quick_facts:
       content: 1 August 2015
 ---
 
-**Dimension Hill** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 維度山, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Wàih douh sāan*), alternate station name **Old Portal**, is a [Mirai Metro](/wiki/mirai-metro "Mirai Metro") station in Dimension Hill, in the Miraiya Highlands district, in Mirai. The station is the terminus of the of the {{< wiki/link route="R" >}} and the next station towards City Loop is {{< wiki/link station="Cavehaven" >}} station.
+**Dimension Hill** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 維度山, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Wàih douh sāan*), alternate station name **Old Portal**, is a {{< wiki/link "Mirai Metro" >}} station in Dimension Hill, in the Miraiya Highlands district, in Mirai. The station is the terminus of the of the {{< wiki/link route="R" >}} and the next station towards City Loop is {{< wiki/link station="Cavehaven" >}} station.
 
-The station is also known as Old Portal as this station once served the former main Mirai [nether portal](https://minecraft.gamepedia.com/Nether_portal "Nether portal") entrance. The portal was replaced by a new one located in Dark Forest which is served by {{< wiki/link station="Hell's Gate" >}} station on the {{< wiki/link route="B" >}}.
+The station is also known as Old Portal as this station once served the former main Mirai {{< wiki/external-link domain="wikipedia" text="nether portal" link="Nether_portal" title="Nether portal" >}} entrance. The portal was replaced by a new one located in Dark Forest which is served by {{< wiki/link station="Hell's Gate" >}} station on the {{< wiki/link route="B" >}}.
 
 <br>
 

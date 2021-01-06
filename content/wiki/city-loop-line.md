@@ -50,7 +50,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **City Loop Line** (Code **C**) is one of the 9 [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the third [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") on the network as well as the only line that run entirely within the City Loop.
+The **City Loop Line** (Code **C**) is one of the 9 {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} lines of the {{< wiki/link "Mirai Metro" >}}. It is the third {{< wiki/external-link domain="wikipedia" text="loop line" link="Circle_route" title="Circle route" >}} on the network as well as the only line that run entirely within the City Loop.
 
 <br>
 
@@ -58,7 +58,7 @@ The **City Loop Line** (Code **C**) is one of the 9 [rapid transit](https://en.w
 
 ---
 
-- 8 October 2020: Miraibridge [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Winterland and Berryhills.
+- 8 October 2020: Miraibridge {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Winterland and Berryhills.
 
 <br>
 

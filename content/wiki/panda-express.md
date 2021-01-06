@@ -50,7 +50,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") lines of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is colour-coded **<span class="text-pe">Lime</span>** on the network map. It is the second [fully automatic](https://en.wikipedia.org/wiki/Automatic_train_operation "Automatic train operation") line of the system. When all 3 phases of the line are constructed, it will have non-stop express service between Snowtrees and Panda Museum, and will become the second line in the network to have an express service.
+The **Panda Express** (Code **P**) is one of the {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} lines of the {{< wiki/link "Mirai Metro" >}}. The line is colour-coded **<span class="text-pe">Lime</span>** on the network map. It is the second {{< wiki/external-link domain="wikipedia" text="fully automatic" link="Automatic_train_operation" title="Automatic train operation" >}} line of the system. When all 3 phases of the line are constructed, it will have non-stop express service between Snowtrees and Panda Museum, and will become the second line in the network to have an express service.
 
 <br>
 
@@ -185,7 +185,7 @@ The **Panda Express** (Code **P**) is one of the [rapid transit](https://en.wiki
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>環外南</td>
+        <td>外環南</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

@@ -48,7 +48,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Victory Line** (Code **V**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai, United Cities. It connects Mugen with Moon Lake. At 1.3 kilometres (0.8 mi), it is the second longest line on the network. The line is coloured **<span class="text-vl">Purple</span>** on the official network map.
+The **Victory Line** (Code **V**) is a {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line of {{< wiki/link "Mirai Metro" >}} in Mirai, United Cities. It connects Mugen with Moon Lake. At 1.3 kilometres (0.8 mi), it is the second longest line on the network. The line is coloured **<span class="text-vl">Purple</span>** on the official network map.
 
 <br>
 

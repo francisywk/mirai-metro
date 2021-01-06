@@ -1,6 +1,6 @@
 {{ $related := .Site.RegularPages.Related . | first 3 }}
 {{ with $related }}
-  <ul class="pl-4">
+  <ul class="pl-4 mb-0">
     {{ range .ByTitle }}
       <li class="mb-1">
         <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>

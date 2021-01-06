@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line in operation of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The line is the shortest in operation currently on the network.
+The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line in operation of the {{< wiki/link "Mirai Metro" >}}. The line is the shortest in operation currently on the network.
 
 <br>
 
@@ -63,7 +63,7 @@ The **Red Line** (Code **R**) is the second [rapid transit](https://en.wikipedia
 
 - 11 August 2015: The line began operation.
 - 8 March 2017: The line extended to {{< wiki/link station="Dimension Hill" >}} from Downtown Core station.
-- 9 August 2020: Cavehaven [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and Dimension Hill.
+- 9 August 2020: Cavehaven {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and Dimension Hill.
 - 8 October 2020: The line extended to {{< wiki/link station="Miraibridge" >}} from Paradise Falls station.
 
 <br>

@@ -10,15 +10,17 @@ see_also: true
 quick_facts:
 ---
 
-The [Mirai Metro](/wiki/mirai-metro "Mirai Metro") [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") system of [City of Mirai](/wiki/mirai "Mirai"), encompasses 10 rail lines and 41 stations. As of November 2020, there are 33 stations currently open, with eight as yet unopened. The following list sorts the stations according to their service line including unopened stations.
+The {{< wiki/link "Mirai Metro" >}} {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} system of {{< wiki/link text="City of Mirai" title="Mirai" >}}, encompasses 10 rail lines and 41 stations. As of November 2020, there are 33 stations currently open, with eight as yet unopened. The following list sorts the stations according to their service line including unopened stations.
 
-All stations on the network are being maintained and operated by the [CART Corporation](/wiki/cart-corporation "CART Corporation").
+All stations on the network are being maintained and operated by the {{< wiki/link "CART Corporation" >}}.
 
-<span class="border border-dark alert-success px-25 py-1"></span>&nbsp;: In operation
+- <span class="border border-dark alert-success px-25 py-1"></span>&nbsp;: In operation
 
-<span class="border border-dark alert-warning px-25 py-1"></span>&nbsp;: Approved / Under construction
+- <span class="border border-dark alert-warning px-25 py-1"></span>&nbsp;: Approved / Under construction
 
-<span class="border border-dark alert-danger px-25 py-1"></span>&nbsp;: Planned
+- <span class="border border-dark alert-danger px-25 py-1"></span>&nbsp;: Planned
+
+<br>
 
 {{< toc >}}
 
@@ -904,7 +906,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>環外南</td>
+        <td>外環南</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -931,7 +933,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
         <td>{{< wiki/link station="Outlands North" >}}</td>
-        <td>環外北</td>
+        <td>外環北</td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
@@ -1281,7 +1283,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
         <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>環外南</td>
+        <td>外環南</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>
@@ -1390,7 +1392,7 @@ All stations on the network are being maintained and operated by the [CART Corpo
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
         </td>
         <td>{{< wiki/link station="Outlands North" >}}</td>
-        <td>環外北</td>
+        <td>外環北</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

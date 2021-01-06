@@ -53,9 +53,9 @@ quick_facts:
       content: 7 June 2015
 ---
 
-**Mugen** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 無限, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Mòuhhaahn*), alternate station name **Mugen Mirai**, is a station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is a major transit station and [terminus](https://en.wikipedia.org/wiki/Train_station#Terminus "Terminal station") station of the {{< wiki/link route="V" >}}. Located within the divisions of Mugen, the station is one of the first stations of Mirai Metro when it opened in 2015, and it located underneath the [Mirai Tower](/wiki/mirai-tower "Mirai Tower"), the tallest building in the The Grid. In addition of serving the [megatall](https://en.wikipedia.org/wiki/Skyscraper "Skyscraper") building, the station also serves many skyscrapers within the vicinity of the station.
+**Mugen** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 無限, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Mòuhhaahn*), alternate station name **Mugen Mirai**, is a station of {{< wiki/link "Mirai Metro" >}} in Mirai's City Loop CBD. It is a major transit station and {{< wiki/external-link domain="wikipedia" text="terminus" link="Train_station#Terminus" title="Train station#Terminal station" >}} station of the {{< wiki/link route="V" >}}. Located within the divisions of Mugen, the station is one of the first stations of Mirai Metro when it opened in 2015, and the station is located underneath {{< wiki/link "Mirai Tower" >}}, the tallest building in the {{< wiki/link "The Grid" >}}. In addition of serving the {{< wiki/external-link domain="wikipedia" text="megatall" link="Skyscraper" title="Skyscraper" >}} building, the station also serves many skyscrapers within the vicinity of the station.
 
-The station is connected to {{< wiki/link station="Mirai" >}} station by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
+The station is connected to {{< wiki/link station="Mirai station" >}} by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
 
 <br>
 
@@ -79,11 +79,11 @@ The Mugen station is connecting to
 
 Mugen station is served by the following lines of Mirai Metro:
 
-- [Blue Line](/wiki/blue-line "Blue Line")
-- [Victory Line](/wiki/victory-line "Victory Line")
-- [Waterfall Line](/wiki/waterfall-line "Waterfall Line")
-- [Diamond Line](/wiki/diamond-line "Diamond Line")
-- [Panda Express](/wiki/panda-express "Panda Express")
+- {{< wiki/link route="B" >}}
+- {{< wiki/link route="V" >}}
+- {{< wiki/link route="W" >}}
+- {{< wiki/link route="D" >}}
+- {{< wiki/link route="P" >}}
 
 <br>
 

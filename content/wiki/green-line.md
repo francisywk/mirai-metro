@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line, following the [Blue Line](/wiki/blue-line "Blue Line") and [Red Line](/wiki/red-line "Red Line") of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It is the first fully-underground line and the first [loop line](https://en.wikipedia.org/wiki/Circle_route "Circle route") of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The Green Line is also the only line that provides interchange with all other Mirai Metro lines.
+The **Green Line** (Code **G**) is Mirai's third {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line, following the {{< wiki/link route="B" >}} and {{< wiki/link route="R" >}} of the {{< wiki/link "Mirai Metro" >}}. It is the first fully-underground line and the first {{< wiki/external-link domain="wikipedia" text="loop line" link="Circle_route" title="Circle route" >}} of {{< wiki/link "Mirai Metro" >}}. The Green Line is also the only line that provides interchange with all other Mirai Metro lines.
 
 <br>
 
@@ -57,7 +57,7 @@ The **Green Line** (Code **G**) is Mirai's third [rapid transit](https://en.wiki
 
 ---
 
-- 30 September 2018: Bottomvalley [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Downtown Core and UCHQ South station.
+- 30 September 2018: Bottomvalley {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and UCHQ South station.
 - 27 July 2020: Cavehaven infill station opened between Bottomvalley and UCHQ South station.
 
 #### Station list

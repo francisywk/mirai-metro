@@ -53,9 +53,9 @@ quick_facts:
       content: 6 November 2016
 ---
 
-**Mirai** ([Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters "Traditional Chinese characters"): 美來, [Cantonese Yale](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese "Yale romanization of Cantonese"): *Méihlòih*), alternate station name **Mugen Mirai**, is a station of [Mirai Metro](/wiki/mirai-metro "Mirai Metro") in Mirai's City Loop CBD. It is a major transit and [terminus](https://en.wikipedia.org/wiki/Train_station#Terminus "Terminal station") station of the [Airport Line](/wiki/airport-line "Airport Line") and [Green Line](/wiki/green-line "Green Line"). Located between the divisions of Berryhills and Mugen, the station is sandwiched between the [Mirai Tower](/wiki/mirai-tower "Mirai Tower") and [One Union Trade Centre](/wiki/union-trade-centre "Union Trade Centre") (UTC), the tallest and second tallest building in the The Grid. The station was opened in 2016.
+**Mirai** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 美來, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Méihlòih*), alternate station name **Mugen Mirai**, is a station of {{< wiki/link "Mirai Metro" >}} in Mirai's City Loop CBD. It is a major transit and {{< wiki/external-link domain="wikipedia" text="terminus" link="Train_station#Terminus" title="Train station#Terminal station" >}} station of the {{< wiki/link route="A" >}} and {{< wiki/link route="G" >}}. Located between the divisions of Berryhills and Mugen, the station is sandwiched between the {{< wiki/link "Mirai Tower" >}} and {{< wiki/link text="One Union Trade Centre" title="Union Trade Centre" >}} (1UTC), the tallest and second tallest building in the The Grid. The station was opened in 2016.
 
-The station is connected to [Mugen](/wiki/mugen-station "Mugen station") station by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
+The station is connected to {{< wiki/link station="Mugen" >}} station by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
 
 <br>
 
@@ -69,10 +69,10 @@ The station is connected to [Mugen](/wiki/mugen-station "Mugen station") station
 
 Mirai station is served by the following lines of Mirai Metro:
 
-- [Green Line](/wiki/green-line "Green Line")
-- [Airport Line](/wiki/airport-line "Airport Line")
-- [City Loop Line](/wiki/city-loop-line "City Loop Line")
-- [Diamond Line](/wiki/diamond-line "Diamond Line")
+- {{< wiki/link route="G" >}}
+- {{< wiki/link route="A" >}}
+- {{< wiki/link route="C" >}}
+- {{< wiki/link route="D" >}}
 
 <br>
 

@@ -15,9 +15,9 @@ $(document).ready(function () {
     }).catch(function () { })
   }
   function readWeather(d) {
-    var celcius = Math.round(parseFloat(d.main.temp) - 273.15);
+    var celsius = Math.round(parseFloat(d.main.temp) - 273.15);
     var fahrenheit = Math.round(((parseFloat(d.main.temp) - 273.15) * 1.8) + 32);
-    tempC.innerHTML = celcius;
+    tempC.innerHTML = celsius;
     tempF.innerHTML = fahrenheit;
     $('#tempC').removeClass("invisible");
     $('#tempF').removeClass("invisible");

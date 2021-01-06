@@ -10,4 +10,4 @@ see_also: false
 quick_facts:
 ---
 
-**Mirai**, officially **City of Mirai**, is the capital and largest city of the [United Cities](/wiki/united-cities "United Cities").
+**Mirai**, officially **City of Mirai**, is the capital and largest city of the {{< wiki/link "United Cities" >}}.

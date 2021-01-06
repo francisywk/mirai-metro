@@ -1,3 +1,20 @@
+{{- if .Get 0  -}}
+  {{- with .Get 0 -}}
+    {{- $fileURL := printf "/content/wiki/%s.md" (anchorize .) -}}
+    {{- if (fileExists (printf "%s" $fileURL) ) -}}
+      <a href="/wiki/{{ anchorize . }}" title="{{ . }}">{{ . }}</a>
+    {{- else -}}
+      <a href="javascript:void(0)" title="{{ . }} (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
+    {{- end -}}
+  {{- end -}}
+{{- else if and (.Get "text") (.Get "title") -}}
+  {{- $fileURL := printf "/content/wiki/%s.md" (anchorize (.Get `title`)) -}}
+  {{- if (fileExists (printf "%s" $fileURL) ) -}}
+    <a href="/wiki/{{ anchorize (.Get `title`) }}" title="{{ .Get `title` }}">{{ .Get "text" }}</a>
+  {{- else -}}
+    <a href="javascript:void(0)" title="{{ .Get `title` }} (page does not exists)" class="text-danger" aria-disabled="true">{{ .Get "text" }}</a>
+  {{- end -}}
+{{- end -}}
 {{- with .Get "route" -}}
   {{- if eq . "R" -}}
     <a href="/wiki/red-line" title="Red Line (Mirai Metro)">Red Line</a>
@@ -42,14 +59,15 @@
   {{- end -}}
 {{- end -}}
 {{- with .Get "station" -}}
-  {{- $fileURL := printf "/content/wiki/%s-station.md" (anchorize .) -}}
   {{- if in . " station" -}}
+    {{- $fileURL := printf "/content/wiki/%s.md" (anchorize .) -}}
     {{- if (fileExists (printf "%s" $fileURL) ) -}}
-      <a href="{{ . }}" title="{{ . }}">{{ . }}</a>
+      <a href="/wiki/{{ anchorize . }}" title="{{ . }}">{{ . }}</a>
     {{ else }}
       <a href="javascript:void(0)" title="{{ . }} (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
     {{ end }}
   {{- else -}}
+    {{- $fileURL := printf "/content/wiki/%s-station.md" (anchorize .) -}}
     {{- if (fileExists (printf "%s" $fileURL) ) -}}
       <a href="/wiki/{{ anchorize . }}-station" title="{{ . }} station">{{ . }}</a>
     {{- else -}}
@@ -66,7 +84,7 @@
       {{- if (fileExists (printf "%s" $fileURL) ) -}}
         <a href="/wiki/{{ anchorize ($.Get "station") }}-station" title="{{ ($.Get "station") }} station">{{ . }}</a>
       {{- else -}}
-        <a href="javascript:void(0)" title="{{ ($.Get "station") }} station (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
+        <a href="javascript:void(0)" title="{{ ($.Get `station`) }} station (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
       {{- end -}}
     {{- end -}}
   )</p>

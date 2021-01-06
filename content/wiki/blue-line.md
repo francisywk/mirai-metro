@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Blue Line** (code **B**) is the first line in Mirai's [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") network and, at 1.7 km (1.06 mi), it is the longest line of [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). It includes a total of 9 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and the Spawn Chunk districts. The line is also the first and only line in the entire system to have a [spur line](https://en.wikipedia.org/wiki/Branch_line "Branch line") from the {{< wiki/link station="Zero Zero station" >}} on the [main line](https://en.wikipedia.org/wiki/Main_line_(railway) "Main line").
+The **Blue Line** (code **B**) is the first line in Mirai's {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} network and, at 1.7 km (1.06 mi), it is the longest line of {{< wiki/link "Mirai Metro" >}}. It includes a total of 9 stations serving the Victory Bay, Redstone Valley, City Loop, Big Snow, and the Spawn Chunk districts. The line is also the first and only line in the entire system to have a {{< wiki/external-link domain="wikipedia" text="spur line" link="Branch_line" title="Branch line" >}} from the {{< wiki/link station="Zero Zero station" >}} on the {{< wiki/external-link domain="wikipedia" text="main line" link="Main_line_(railway)" title="Main line (railway)" >}}.
 
 <br>
 
@@ -61,7 +61,7 @@ The **Blue Line** (code **B**) is the first line in Mirai's [rapid transit](http
 
 ---
 
-- 5 October 2019: Hell's Gate [infill station](https://en.wikipedia.org/wiki/Infill_station "Infill station") opened between Zero Zero and Spawn.
+- 5 October 2019: Hell's Gate {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Zero Zero and Spawn.
 
 <br>
 

@@ -49,7 +49,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Airport Line** (Code **A**) is a [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line in the [Mirai Metro](/wiki/mirai-metro "Mirai Metro") system. It links City Loop CBD with the Mirai City Airport and the United Cities Headquarters in Redstone Valley. It is the only line in the system that offers express through service, and, with a total of 5 stations, it is the line with the least amount of stations on the network.
+The **Airport Line** (Code **A**) is a {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line in the {{< wiki/link "Mirai Metro" >}} system. It links City Loop CBD with the Mirai City Airport and the United Cities Headquarters in Redstone Valley. It is the only line in the system that offers express through service, and, with a total of 5 stations, it is the line with the least amount of stations on the network.
 
 <br>
 

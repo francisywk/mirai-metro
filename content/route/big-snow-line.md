@@ -6,7 +6,7 @@ branch_line: false
 stations:
   - station_code: [S6]
     name: Outlands North
-    name_zh: 環外北
+    name_zh: 外環北
     transfer:
       - route_sign: [W]
     first_station: true

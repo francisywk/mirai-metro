@@ -10,7 +10,7 @@ see_also: true
 quick_facts:
 ---
 
-[Mirai](/wiki/mirai "Mirai"), the capital of [United Cities](/wiki/united-cities "United Cities"), is divided into **10 districts**, which are further subdivided into administrative wards. 
+{{< wiki/link "Mirai" >}}, the capital of {{< wiki/link "United Cities" >}}, is divided into **10 districts**, which are further subdivided into administrative wards. 
 
 <br>
 

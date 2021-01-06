@@ -48,7 +48,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is the tenth [rapid transit](https://en.wikipedia.org/wiki/Rapid_transit "Rapid transit") line of the [Mirai Metro](/wiki/mirai-metro "Mirai Metro"). The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley to be constructed in two phases. Phase 1 of the line began operation on 8 October 2020 between Outlands North and Redhill Spring. The remainder second phase of the line is expected to be completed by late 2021.
+The **Big Snow Line** (Code **S**) is the tenth {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line of the {{< wiki/link "Mirai Metro" >}}. The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley to be constructed in two phases. Phase 1 of the line began operation on 8 October 2020 between Outlands North and Redhill Spring. The remainder second phase of the line is expected to be completed by late 2021.
 
 The line was named after the Big Snow district, which the line passes and with the most stations being located there. On the network map, the line is shown using the color **<span class="text-bsl">Pink</span>**, and its stations are given numbers using the letter \"S\".
 
@@ -146,7 +146,7 @@ The following is a list of future and operational stations of the Big Snow Line.
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
         </td>
         <td>{{< wiki/link station="Outlands North" alternate="Central Library" >}}</td>
-        <td>環外北<p class="small mb-0">(中央圖書館)</p></td>
+        <td>外環北<p class="small mb-0">(中央圖書館)</p></td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

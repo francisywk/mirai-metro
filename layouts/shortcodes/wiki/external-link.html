@@ -1,0 +1,7 @@
+{{- if eq (.Get "domain") "wikipedia" -}}
+  <a href="https://en.wikipedia.org/wiki/{{ .Get `link` }}" title="Wikipedia: {{ .Get `title` }}" rel="external noopener noreferrer">{{ .Get "text" }}</a>
+{{- else if eq (.Get "domain") "mcwiki" -}}
+  <a href="https://minecraft.gamepedia.com/{{ .Get `link` }}" title="Minecraft Wiki: {{ .Get `title` }}" rel="external noopener noreferrer">{{ .Get "text" }}</a>
+{{- else -}}
+  <a href="{{ .Get `link` | safeURL }}" title="{{ .Get `title` }}" rel="external noopener noreferrer">{{ .Get "text" }}</a>
+{{- end -}}
