@@ -29,22 +29,22 @@ quick_facts:
 names_transcriptions:
   - heading: CART Corporation
   - cols_2:
-      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
+      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Wikipedia: Traditional Chinese characters')"
         content: 市區地鐵有限公司
-      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
+      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Wikipedia: Simplified Chinese characters')"
         content: 市区地铁有限公司
       - title: Literal meaning
         content: Urban Area Subway Corporation Limited
   - transcriptions:
     - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
     - cols_2:
-      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
+      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Wikipedia: Yale romanization of Cantonese')"
         content: Síh Kēui Deihtit Yáuhhaahn Gūngsī
-      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
+      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Wikipedia: Jyutping')"
         content: Si5 Keoi1 Dei6tit3 Jau5haan6 Gung1si1
-    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
+    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Wikipedia: Standard Chinese')"
     - cols_2:
-      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
+      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Wikipedia: Pinyin')"
         content: Shì Qū Dìtiě Yǒuxiàn Gōngsī
 ---
 

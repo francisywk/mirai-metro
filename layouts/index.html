@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="container-fluid py-5 text-center bg-miraimetro text-light" id="home-banner">
     <div class="container" id="home-banner-container">
-      <h1 class="display-5 display-lg-4 font-weight-bold mb-0 pb-4">Welcome to Mirai Metro</h1>
+      <h1 class="display-5 display-lg-4 font-weight-bold mb-0 pb-45">Welcome to Mirai Metro</h1>
       <h5 class="font-weight-bold m-0 py-4">
         <span class="invisible" id="currentTime">7 June 2015&nbsp;&nbsp;&nbsp;&nbsp;15:08:11</span>
       </h5>
@@ -19,7 +19,7 @@
         </div>
       </div>
       <div>
-        <h5 class="pt-5 font-weight-bold">Popular Stations</h5>
+        <h5 class="pt-45 font-weight-bold">Popular Stations</h5>
         <div class="nav-scroller">
           <nav class="nav nav-justified">
             {{ range where .Site.Pages.ByTitle "Section" "station" }}

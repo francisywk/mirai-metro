@@ -20,7 +20,7 @@ quick_facts:
     - title: Locale
       content: "[Mirai Capital Area](/wiki/mirai-capital-area 'Mirai Capital Area')"
     - title: Transit type
-      content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')/[Commuter rail](https://en.wikipedia.org/wiki/Commuter_rail 'Commuter rail')"
+      content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Wikipedia: Rapid transit')/[Commuter rail](https://en.wikipedia.org/wiki/Commuter_rail 'Commuter rail')"
     - title: Number of lines
       content: 2
     - title: Website
@@ -35,10 +35,10 @@ quick_facts:
   - cols_2:
     - title: No. of tracks
       content: 2
-    - title: "[Track gauge](https://en.wikipedia.org/wiki/Track_gauge 'Track gauge')"
-      content: "750 mm (2 ft ​5<sup>1</sup>/<sub>2</sub> in)<br>[narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Narrow-gauge railway')"
-    - title: "[Electrification](https://en.wikipedia.org/wiki/Railway_electrification_system 'Railway electrification system')"
-      content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
+    - title: "[Track gauge](https://en.wikipedia.org/wiki/Track_gauge 'Wikipedia: Track gauge')"
+      content: "750 mm (2 ft ​5<sup>1</sup>/<sub>2</sub> in)<br>[narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Wikipedia: Narrow-gauge railway')"
+    - title: "[Electrification](https://en.wikipedia.org/wiki/Railway_electrification_system 'Wikipedia: Railway electrification system')"
+      content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Minecraft Wiki: Powered Rail')"
     - title: Operating speed
       content: 41 km/h (25 mph)
     - title: Top speed

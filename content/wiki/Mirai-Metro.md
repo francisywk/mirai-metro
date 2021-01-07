@@ -14,13 +14,13 @@ quick_facts:
   - heading: Overview
   - cols_2:
     - title: Native name
-      content: 美來地鐵
+      content: "美來地鐵 ([Chinese](https://en.wikipedia.org/wiki/Chinese_language 'Wikipedia: Chinese language'))"
     - title: Owner
       content: Mirai City Government
     - title: Locale
       content: "[City of Mirai](/wiki/city-of-mirai 'Mirai')"
     - title: Transit type
-      content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Rapid transit')"
+      content: "[Rapid transit](https://en.wikipedia.org/wiki/Rapid_transit 'Wikipedia: Rapid transit')"
     - title: Number of lines
       content: 10
     - title: Number of stations
@@ -39,10 +39,10 @@ quick_facts:
   - cols_2:
     - title: System length
       content: 8.1 km (5.1 mi)
-    - title: "[Track gauge](https://en.wikipedia.org/wiki/Track_gauge 'Track gauge')"
-      content: "750 mm (2 ft ​5<sup>1</sup>/<sub>2</sub> in)<br>[narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Narrow-gauge railway')"
-    - title: "[Electrification](https://en.wikipedia.org/wiki/Railway_electrification_system 'Railway electrification system')"
-      content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Powered Rail')"
+    - title: "[Track gauge](https://en.wikipedia.org/wiki/Track_gauge 'Wikipedia: Track gauge')"
+      content: "750 mm (2 ft ​5<sup>1</sup>/<sub>2</sub> in)<br>[narrow gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway 'Wikipedia: Narrow-gauge railway')"
+    - title: "[Electrification](https://en.wikipedia.org/wiki/Railway_electrification_system 'Wikipedia: Railway electrification system')"
+      content: "[Powered Rail](https://minecraft.gamepedia.com/Powered_Rail 'Minecraft Wiki: Powered Rail')"
     - title: Average speed
       content: 28.8 km/h (18 mph)
     - title: Top speed
@@ -55,24 +55,24 @@ quick_facts:
 names_transcriptions:
   - heading: Mirai Metro
   - cols_2:
-      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Traditional Chinese characters')"
+      - title: "[Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters 'Wikipedia: Traditional Chinese characters')"
         content: 美來地鐵
-      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Simplified Chinese characters')"
+      - title: "[Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters 'Wikipedia: Simplified Chinese characters')"
         content: 美来地铁
   - transcriptions:
     - language: "[Yue: Cantonese](https://en.wikipedia.org/wiki/Cantonese 'Cantonese')"
     - cols_2:
-      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Yale romanization of Cantonese')"
+      - title: "[Yale Romanization](https://en.wikipedia.org/wiki/Yale_romanization_of_Cantonese 'Wikipedia: Yale romanization of Cantonese')"
         content: Méihlòih Deihtit
-      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Jyutping')"
+      - title: "[Jyutping](https://en.wikipedia.org/wiki/Jyutping 'Wikipedia: Jyutping')"
         content: Mei5loi4 Dei6tit3
-    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Standard Chinese')"
+    - language: "[Standard Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese 'Wikipedia: Standard Chinese')"
     - cols_2:
-      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Pinyin')"
+      - title: "[Hanyu Pinyin](https://en.wikipedia.org/wiki/Hanyu_Pinyin 'Wikipedia: Pinyin')"
         content: Měilái Dìtiě
 ---
 
-The **Mirai Metro** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 美來地鐵, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Méihlòih Deihtit*), formerly known as {{< wiki/link "Mirai RGB" >}} and abbreviated as **MM**, is a {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} system serving {{< wiki/link text="City of Mirai" title="Mirai" >}}, {{< wiki/link "United Cities" >}}. It is operated by {{< wiki/link "CART Corporation" >}}, a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
+The **Mirai Metro** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 美來地鐵, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Méihlòih Deihtit*), formerly known as {{< wiki/link "Mirai RGB" >}} and commonly referred to as the **Metro**, is a {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} system serving {{< wiki/link text="City of Mirai" title="Mirai" >}}, {{< wiki/link "United Cities" >}}. It is operated by {{< wiki/link "CART Corporation" >}}, a wholly owned subsidiary of Ministry of Transport (MoT) of Government of the United Cities. Opened in 2015, Mirai Metro is the first and oldest public transit system in the United Cities. It is operational 24 hours a day, 365 days a year.
 
 Before Mirai Metro underwent rapid expansion, the network only consists of three lines which gave the metro its former name, the Mirai RGB as it is made up of the Red, Green, and Blue lines. Together with the {{< wiki/link text="Mirai Regional Railway" title="MRR" >}} (MRR), the metro provides urban rail transportation service for the nation's capital.
 
