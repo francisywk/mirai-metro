@@ -95,7 +95,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R1<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R1</span>
         </td>
         <td class="font-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
         <td class="font-italic">泥堡</td>
@@ -110,7 +110,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R2<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R2</span>
         </td>
         <td>{{< wiki/link station="Miraibridge" >}}</td>
         <td>美來橋</td>
@@ -123,7 +123,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R3<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R3</span>
         </td>
         <td>{{< wiki/link station="Fhoenix Hill" >}}</td>
         <td>飛利斯山</td>
@@ -132,7 +132,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R4<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R4</span>
         </td>
         <td>{{< wiki/link station="Paradise Falls" alternate="Red House" >}}</td>
         <td>仙境瀑布<p class="small mb-0">(市長官邸)</p></td>
@@ -142,7 +142,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R5<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R5</span>
         </td>
         <td>{{< wiki/link station="Under the Falls" alternate="Paradise Falls South" >}}</td>
         <td>瀑布下<p class="small mb-0">(仙境瀑布南)</p></td>
@@ -154,7 +154,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R6<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R6</span>
         </td>
         <td>{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
         <td>市中心<p class="small mb-0">(市政廳)</p></td>
@@ -166,7 +166,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R7<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R7</span>
         </td>
         <td>{{< wiki/link station="Cavehaven" >}}</td>
         <td>旗喜雲</td>
@@ -179,7 +179,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R8<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R8</span>
         </td>
         <td>{{< wiki/link station="Dimension Hill" alternate="Old Portal" >}}</td>
         <td>維度山<p class="small mb-0">(舊門關)</p></td>
@@ -194,7 +194,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R9<span>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R9</span>
         </td>
         <td class="font-italic">{{< wiki/link station="Observatory" >}}</td>
         <td class="font-italic">天文台</td>
@@ -204,7 +204,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10<span>
+          <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10</span>
         </td>
         <td class="font-italic">{{< wiki/link station="Redhill Spring" >}}</td>
         <td class="font-italic">紅山泉</td>
