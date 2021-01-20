@@ -15,7 +15,7 @@ adjacent_stations:
   - route_sign: [S]
     preceding:
       - station: S7-UCHQ West
-        towards: Outlands North
+        towards: Wontana
     following:
       - station: S10-Redhill Spring
         towards: Redhill Spring

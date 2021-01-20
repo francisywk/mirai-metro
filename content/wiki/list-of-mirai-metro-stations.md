@@ -437,8 +437,8 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         <td>
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10</span>
         </td>
-        <td rowspan="2">{{< wiki/link station="Outlands North" alternate="Central Library" >}}</td>
-        <td rowspan="2">外環北<p class="small mb-0">(中央圖書館)</p></td>
+        <td rowspan="2">{{< wiki/link station="Wontana" alternate="Central Library" >}}</td>
+        <td rowspan="2">雲大拿<p class="small mb-0">(中央圖書館)</p></td>
         <td>{{< wiki/mm-sign route="W" >}}</td>
         <td>1 April 2019</td>
         <td rowspan="2">Big Snow</td>
@@ -456,8 +456,8 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         <td>
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10</span>
         </td>
-        <td rowspan="2">{{< wiki/link station="Outlands South" >}}</td>
-        <td rowspan="2">外環南</td>
+        <td rowspan="2">{{< wiki/link station="Evergreen Point" >}}</td>
+        <td rowspan="2">常青角</td>
         <td>{{< wiki/mm-sign route="W" >}}</td>
         <td>6 May 2019</td>
         <td rowspan="2">Big Snow</td>

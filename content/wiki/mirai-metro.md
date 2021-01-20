@@ -123,7 +123,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="R" >}}</td>
         <td>紅綫</td>
         <td>
-          Fhoenix Hill
+          {{< wiki/link station="Fhoenix Hill" >}}
         </td>
         <td>
           {{< wiki/link station="Dimension Hill" >}}
@@ -150,10 +150,10 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="B" >}}</td>
         <td>藍綫</td>
         <td>
-          Victory Bay
+          {{< wiki/link station="Victory Bay" >}}
         </td>
         <td>
-          Spawn
+          {{< wiki/link station="Spawn" >}}
         </td>
         <td>7 June 2015</td>
         <td>9</td>
@@ -167,7 +167,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           {{< wiki/link station="Mirai" >}}
         </td>
         <td rowspan="2">
-          UCHQ North
+          {{< wiki/link station="UCHQ North" >}}
         </td>
         <td>
           2 May 2018
@@ -187,10 +187,10 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="V" >}}</td>
         <td>勝利綫</td>
         <td>
-          Mugen
+          {{< wiki/link station="Mugen" >}}
         </td>
         <td>
-          Moon Lake
+          {{< wiki/link station="Moon Lake" >}}
         </td>
         <td>30 September 2018</td>
         <td>9</td>
@@ -201,7 +201,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="W" >}}</td>
         <td>瀑布綫</td>
         <td colspan="2" rowspan="2">
-          Winterland
+          {{< wiki/link station="Winterland" >}}
           <p class="small font-italic mb-0">(loop line)</p>
         </td>
         <td>25 July 2018</td>
@@ -221,7 +221,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="D" >}}</td>
         <td>鑽石綫</td>
         <td>
-          UCHQ North
+          {{< wiki/link station="UCHQ North" >}}
         </td>
         <td>
           {{< wiki/link station="Diamond Hill" >}}
@@ -236,10 +236,10 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="P" >}}</td>
         <td>熊貓快綫</td>
         <td>
-          Cavehaven
+          {{< wiki/link station="Cavehaven" >}}
         </td>
         <td>
-          Outlands South
+          {{< wiki/link station="Evergreen Point" >}}
         </td>
         <td>27 July 2020</td>
         <td>5</td>
@@ -251,10 +251,10 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="S" >}}</td>
         <td>大雪綫</td>
         <td>
-          Outlands North
+          {{< wiki/link station="Wontana" >}}
         </td>
         <td>
-          Redhill Spring
+          {{< wiki/link station="Redhill Spring" >}}
         </td>
         <td>8 October 2020</td>
         <td>5</td>
@@ -268,9 +268,9 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
 
 ##### Stations
 
-<p class="pl-3 font-italic">
-  See also: List of Mirai Metro stations
-</p>
+{{< wiki/note >}}
+  See also: {{< wiki/link "List of Mirai Metro stations" >}}
+{{< /wiki/note >}}
 
 There are a total of 22 "unique" stations (i.e., counting interchange/connecting stations served by multiple lines only once) on the Mirai Metro network. There are a total of 15 interchange stations, provide connections to Mirai Metro lines or other railway networks such as MRR.
 

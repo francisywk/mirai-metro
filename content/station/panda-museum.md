@@ -8,7 +8,7 @@ adjacent_stations:
   - route_sign: [P]
     following:
       - station: P2-Cavehaven
-        towards: Outlands South
+        towards: Evergreen Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
 district_en: La Mirai

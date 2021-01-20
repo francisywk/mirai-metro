@@ -19,7 +19,7 @@ quick_facts:
     - title: Status
       content: "<b>Phase 1</b>: Operational<br><b>Phase 2</b>: Approved"
     - title: Termini
-      content: "[Logsmead](/wiki/logsmead-station 'Logsmead station') (after December 2021)<br>[Outlands North](/wiki/outlands-north-station 'Outlands North station') (until December 2021)<br>[Redhill Spring](/wiki/redhill-spring-station 'Redhill Spring station')"
+      content: "[Logsmead](/wiki/logsmead-station 'Logsmead station') (after December 2021)<br>[Wontana](/wiki/outlands-north-station 'Wontana station') (until December 2021)<br>[Redhill Spring](/wiki/redhill-spring-station 'Redhill Spring station')"
     - title: Stations
       content: 5 (operational)<br>5 (approved)
     - title: Colour on map
@@ -48,7 +48,7 @@ quick_facts:
       content: 28.8 km/h (18 mph)
 ---
 
-The **Big Snow Line** (Code **S**) is the tenth {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line of the {{< wiki/link "Mirai Metro" >}}. The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley to be constructed in two phases. Phase 1 of the line began operation on 8 October 2020 between Outlands North and Redhill Spring. The remainder second phase of the line is expected to be completed by late 2021.
+The **Big Snow Line** (Code **S**) is the tenth {{< wiki/external-link domain="wikipedia" text="rapid transit" link="Rapid_transit" title="Rapid transit" >}} line of the {{< wiki/link "Mirai Metro" >}}. The planned route is from Logsmead in Mob Forest to Redhill Spring in Redstone Valley to be constructed in two phases. Phase 1 of the line began operation on 8 October 2020 between Wontana and Redhill Spring. The remainder second phase of the line is expected to be completed by late 2021.
 
 The line was named after the Big Snow district, which the line passes and with the most stations being located there. On the network map, the line is shown using the color **<span class="text-bsl">Pink</span>**, and its stations are given numbers using the letter \"S\".
 
@@ -58,7 +58,7 @@ The line was named after the Big Snow district, which the line passes and with t
 
 ---
 
-- Phase 1 section of the line between Outlands North and Redhill Spring opened to the public two months ahead of schedule on 8 October 2020.
+- Phase 1 section of the line between Wontana and Redhill Spring opened to the public two months ahead of schedule on 8 October 2020.
 
 <br>
 
@@ -145,8 +145,8 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
         </td>
-        <td>{{< wiki/link station="Outlands North" alternate="Central Library" >}}</td>
-        <td>外環北<p class="small mb-0">(中央圖書館)</p></td>
+        <td>{{< wiki/link station="Wontana" alternate="Central Library" >}}</td>
+        <td>雲大拿<p class="small mb-0">(中央圖書館)</p></td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

@@ -56,7 +56,7 @@ The **Waterfall Line** (Code **W**) is a {{< wiki/external-link domain="wikipedi
 
 ---
 
-- 1 December 2020: Mount Austin {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and Outlands South.
+- 1 December 2020: Mount Austin {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and Evergreen Point.
 
 <br>
 
@@ -81,7 +81,7 @@ The **Waterfall Line** (Code **W**) is a {{< wiki/external-link domain="wikipedi
     </thead>
     <tbody>
       <tr class="alert-secondary">
-        <td colspan="6">— ↑ loop line - towards {{< wiki/link station="Outlands North" >}} (anti-clockwise) ↑ —</td>
+        <td colspan="6">— ↑ loop line - towards {{< wiki/link station="Wontana" >}} (anti-clockwise) ↑ —</td>
       </tr>
       <tr>
         <td>
@@ -171,8 +171,8 @@ The **Waterfall Line** (Code **W**) is a {{< wiki/external-link domain="wikipedi
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
-        <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>外環南</td>
+        <td>{{< wiki/link station="Evergreen Point" >}}</td>
+        <td>常青角</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -194,8 +194,8 @@ The **Waterfall Line** (Code **W**) is a {{< wiki/external-link domain="wikipedi
         <td>
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
-        <td>{{< wiki/link station="Outlands North" alternate="Central Library" >}}</td>
-        <td>外環北<p class="small mb-0">(中央圖書館)</p></td>
+        <td>{{< wiki/link station="Wontana" alternate="Central Library" >}}</td>
+        <td>雲大拿<p class="small mb-0">(中央圖書館)</p></td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>

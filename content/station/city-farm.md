@@ -21,8 +21,8 @@ adjacent_stations:
       - station: P4-Under the Falls
         towards: Panda Museum
     following:
-      - station: P6-Outlands South
-        towards: Outlands South
+      - station: P6-Evergreen Point
+        towards: Evergreen Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
 district_en: City Loop

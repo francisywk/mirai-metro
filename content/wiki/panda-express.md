@@ -21,7 +21,7 @@ quick_facts:
     - title: Status
       content: "<b>Phase 1</b>: Operational<br><b>Phase 2</b>: Approved<br><b>Phase 3</b>: Planned"
     - title: Termini
-      content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum station')<br>[Outlands South](/wiki/outlands-south-station 'Outlands South station')"
+      content: "[Panda Museum](/wiki/panda-museum-station 'Panda Museum station')<br>[Evergreen Point](/wiki/outlands-south-station 'Evergreen Point station')"
     - title: Stations
       content: 5 (Operational)<br>2 (Future)
     - title: Colour on map
@@ -62,7 +62,7 @@ The **Panda Express** (Code **P**) is one of the {{< wiki/external-link domain="
 
 ---
 
-- Phase 1 of the line between Cavehaven and Outlands South opened to the public on 27 July 2020.
+- Phase 1 of the line between Cavehaven and Evergreen Point opened to the public on 27 July 2020.
 
 <br>
 
@@ -184,8 +184,8 @@ The **Panda Express** (Code **P**) is one of the {{< wiki/external-link domain="
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
-        <td>{{< wiki/link station="Outlands South" >}}</td>
-        <td>外環南</td>
+        <td>{{< wiki/link station="Evergreen Point" >}}</td>
+        <td>常青角</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

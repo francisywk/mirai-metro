@@ -25,7 +25,7 @@ adjacent_stations:
         towards: Panda Museum
     following:
       - station: P3-Mugen
-        towards: Outlands South
+        towards: Evergreen Point
 alternate_station_name_en: 
 alternate_station_name_zh: 
 district_en: Miraiya Valley

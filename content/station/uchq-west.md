@@ -15,7 +15,7 @@ adjacent_stations:
   - route_sign: [S]
     preceding:
       - station: S7-Miraibridge
-        towards: Outlands North
+        towards: Wontana
     following:
       - station: S9-UCHQ East
         towards: Redhill Spring

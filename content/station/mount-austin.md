@@ -17,7 +17,7 @@ adjacent_stations:
       - station: W6-Downtown Core
         next: anti-clockwise
     following:
-      - station: W8-Outlands South
+      - station: W8-Evergreen Point
         next: clockwise
   - route_sign: [C]
     preceding:

@@ -36,7 +36,7 @@ adjacent_stations:
         towards: Panda Museum
     following:
       - station: P4-Under the Falls
-        towards: Outlands South
+        towards: Evergreen Point
 alternate_station_name_en: Mugen Mirai
 alternate_station_name_zh: 無限美來
 district_en: City Loop

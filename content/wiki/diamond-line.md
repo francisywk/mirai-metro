@@ -63,6 +63,10 @@ The Diamond Line runs parallel above the Stationfront Boulevard within the City 
 
 ##### Mirai SkyCart
 
+{{< wiki/note >}}
+  Main article: {{< wiki/link "Mirai SkyCart" >}}
+{{< /wiki/note >}}
+
 The Diamond Line was previously called the Mirai SkyCart. Owned and operated by the Mirai SkyCart Company, the system was opened on 8 March 2017, making it the second system and the fourth railway transit line to enter service in the United Cities. The system was not a part of the then {{< wiki/link "Mirai RGB" >}} system, it was operated as an independent and separated network instead.
 
 The initial route features 4 stations spanned from {{< wiki/link station="Berryhills" >}} to {{< wiki/link station="Downtown East" >}}.
