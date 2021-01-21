@@ -1,6 +1,5 @@
 ---
 title: "City Loop Line"
-title_zh: 三環綫
 description: Rapid transit line in Mirai
 date: 2020-08-09T03:02:53+08:00
 draft: false
@@ -8,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,cityloopline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #FF8C00;border-bottom: 4px solid #FF8C00;padding:2px 0;"
+  - title:
+    - en: City Loop Line
+      zh: 三環綫
+      style: "border-top: 4px solid #FF8C00;border-bottom: 4px solid #FF8C00;padding:2px 0;"
   - route_sign: [C]
   - heading: Overview
   - cols_2:

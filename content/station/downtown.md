@@ -1,8 +1,8 @@
 ---
-title: Downtown Core station
+title: Downtown station
 station_code: [R6,G6,W6]
-station_name_en: Downtown Core
-station_name_zh: 市中心
+station_name_en: Downtown
+station_name_zh: 下環
 route_sign: [R,G,W]
 adjacent_stations:
   - route_sign: [R]

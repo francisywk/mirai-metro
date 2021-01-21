@@ -1,7 +1,5 @@
 ---
 title: "Mirai station"
-linktitle: Mirai
-title_zh: 美來
 description: Mirai Metro interchange station in City Loop, Mirai
 date: 2020-08-15T06:31:57+08:00
 draft: false
@@ -10,6 +8,9 @@ keywords: [mirai,miraimetro,station,greenline,airportline,cityloopline,diamondli
 notice: "This article is about the metro station in Mirai, United Cities. For the similarly named MRR station, see [Mugen Mirai station](/wiki/mugen-mirai-station 'Mugen Mirai station'). For the nearby connected station, see [Mugen station](/wiki/mugen-station 'Mugen station')."
 see_also: true
 quick_facts:
+  - title:
+    - en: Mirai
+      zh: 美來
   - station_code: [G1,A1,C4,D3]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"

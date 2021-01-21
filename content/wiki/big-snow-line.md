@@ -1,6 +1,5 @@
 ---
 title: "Big Snow Line"
-title_zh: 大雪綫
 description: Rapid transit line in Mirai
 date: 2020-07-31T05:08:26+08:00
 draft: false
@@ -8,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,bigsnowline]
 see_also: true
 quick_facts:
-  - title_style: "border-bottom: 7px solid #FF80A9;"
+  - title:
+    - en: Big Snow Line
+      zh: 大雪綫
+      style: "border-top: 4px solid #FF80A9;border-bottom: 4px solid #FF80A9;padding:2px 0;"
   - route_sign: [S]
   - heading: Overview
   - cols_2:

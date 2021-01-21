@@ -175,32 +175,6 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
       </tr>
       <tr>
         <td>
-          <span class="station-code station-code-sm station-code-rl rounded-circle">R6</span>
-        </td>
-        <td rowspan="3">{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
-        <td rowspan="3">市中心<p class="small mb-0">(市政廳)</p></td>
-        <td>{{< wiki/mm-sign route="R" >}}</td>
-        <td>30 June 2016</td>
-        <td rowspan="3">City Loop</td>
-        <td rowspan="3">DTC</td>
-        <td rowspan="3"></td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm station-code-gl rounded-circle">G6</span>
-        </td>
-        <td>{{< wiki/mm-sign route="G" >}}</td>
-        <td>6 November 2016</td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm station-code-wl rounded-circle">W6</span>
-        </td>
-        <td>{{< wiki/mm-sign route="W" >}}</td>
-        <td>1 April 2019</td>
-      </tr>
-      <tr>
-        <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W5</span>
         </td>
         <td rowspan="3">{{< wiki/link station="Downtown East" >}}</td>
@@ -224,6 +198,51 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         </td>
         <td>{{< wiki/mm-sign route="D" >}}</td>
         <td>8 March 2017</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-rl rounded-circle">R6</span>
+        </td>
+        <td rowspan="3">{{< wiki/link station="Downtown" alternate="City Hall" >}}</td>
+        <td rowspan="3">下環<p class="small mb-0">(市政廳)</p></td>
+        <td>{{< wiki/mm-sign route="R" >}}</td>
+        <td>30 June 2016</td>
+        <td rowspan="3">City Loop</td>
+        <td rowspan="3">DTC</td>
+        <td rowspan="3"></td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-gl rounded-circle">G6</span>
+        </td>
+        <td>{{< wiki/mm-sign route="G" >}}</td>
+        <td>6 November 2016</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-wl rounded-circle">W6</span>
+        </td>
+        <td>{{< wiki/mm-sign route="W" >}}</td>
+        <td>1 April 2019</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10</span>
+        </td>
+        <td rowspan="2">{{< wiki/link station="Evergreen Point" >}}</td>
+        <td rowspan="2">常青角</td>
+        <td>{{< wiki/mm-sign route="W" >}}</td>
+        <td>6 May 2019</td>
+        <td rowspan="2">Big Snow</td>
+        <td rowspan="2">EVG</td>
+        <td rowspan="2"></td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
+        </td>
+        <td>{{< wiki/mm-sign route="P" >}}</td>
+        <td>27 July 2020</td>
       </tr>
       <tr>
         <td>
@@ -429,44 +448,6 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P3</span>
-        </td>
-        <td>{{< wiki/mm-sign route="P" >}}</td>
-        <td>27 July 2020</td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10</span>
-        </td>
-        <td rowspan="2">{{< wiki/link station="Wontana" alternate="Central Library" >}}</td>
-        <td rowspan="2">雲大拿<p class="small mb-0">(中央圖書館)</p></td>
-        <td>{{< wiki/mm-sign route="W" >}}</td>
-        <td>1 April 2019</td>
-        <td rowspan="2">Big Snow</td>
-        <td rowspan="2">OLN</td>
-        <td rowspan="2"></td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
-        </td>
-        <td>{{< wiki/mm-sign route="S" >}}</td>
-        <td>8 October 2020</td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10</span>
-        </td>
-        <td rowspan="2">{{< wiki/link station="Evergreen Point" >}}</td>
-        <td rowspan="2">常青角</td>
-        <td>{{< wiki/mm-sign route="W" >}}</td>
-        <td>6 May 2019</td>
-        <td rowspan="2">Big Snow</td>
-        <td rowspan="2">OLS</td>
-        <td rowspan="2"></td>
-      </tr>
-      <tr>
-        <td>
-          <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
         <td>{{< wiki/mm-sign route="P" >}}</td>
         <td>27 July 2020</td>
@@ -702,6 +683,25 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
       </tr>
       <tr>
         <td>
+          <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10</span>
+        </td>
+        <td rowspan="2">{{< wiki/link station="Wontana" alternate="Central Library" >}}</td>
+        <td rowspan="2">雲大拿<p class="small mb-0">(中央圖書館)</p></td>
+        <td>{{< wiki/mm-sign route="W" >}}</td>
+        <td>1 April 2019</td>
+        <td rowspan="2">Big Snow</td>
+        <td rowspan="2">WTN</td>
+        <td rowspan="2"></td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
+        </td>
+        <td>{{< wiki/mm-sign route="S" >}}</td>
+        <td>8 October 2020</td>
+      </tr>
+      <tr>
+        <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B7</span>
         </td>
         <td rowspan="2">{{< wiki/link station="Zero Zero" alternate="Centre of The Grid" >}}</td>
@@ -800,6 +800,18 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S2</span>
         </td>
         <td>{{< wiki/mm-sign route="S" >}}</td>
+      </tr>
+      <tr>
+        <td>
+          <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
+        </td>
+        <td class="font-italic">{{< wiki/link station="Snowtrees" >}}</td>
+        <td class="font-italic">雪林</td>
+        <td>{{< wiki/mm-sign route="P" >}}</td>
+        <td>Mid 2023</td>
+        <td>Big Snow</td>
+        <td>STR</td>
+        <td></td>
       </tr>
     </tbody>
   </table>

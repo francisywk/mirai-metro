@@ -1,6 +1,5 @@
 ---
 title: "Victory Line"
-title_zh: 勝利綫
 description: Rapid transit line in Mirai
 date: 2020-08-11T00:16:46+08:00
 draft: false
@@ -8,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,victoryline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #651A9E;border-bottom: 4px solid #651A9E;padding:2px 0;"
+  - title:
+    - en: Victory Line
+      zh: 勝利綫
+      style: "border-top: 4px solid #651A9E;border-bottom: 4px solid #651A9E;padding:2px 0;"
   - route_sign: [V]
   - heading: Overview
   - cols_2:

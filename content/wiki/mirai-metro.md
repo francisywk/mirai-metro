@@ -8,6 +8,8 @@ keywords: [cartcorporation,mirai,miraimetro,mirairgb]
 notice: "This article is about the rapid transit system in Mirai. For the system that Mirai Metro previously known as, see [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB')."
 see_also: true
 quick_facts:
+  - title:
+    - en: Mirai Metro
   - image: 
     - link: "/img/mirai_metro.png"
       width: 90px
@@ -285,7 +287,7 @@ Major interchange stations, connecting three or more Mirai Metro lines, include 
 Other interchange stations connecting two Mirai Metro lines are:
 
 - Berryhills
-- Downtown Core
+- Downtown
 - Mirai Airport T1
 - Mirai Airport T2
 - Mount Austin

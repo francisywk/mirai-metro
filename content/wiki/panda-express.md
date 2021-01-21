@@ -1,7 +1,5 @@
 ---
 title: "Panda Express (Mirai Metro)"
-linktitle: Panda Express
-title_zh: 熊貓快綫
 description: Rapid transit line in Mirai
 date: 2020-07-27T19:43:49+08:00
 draft: false
@@ -10,7 +8,10 @@ keywords: [mirai,miraimetro,route,pandaexpress]
 notice: This article is about the rapid transit line in Mirai. For the American fast food restaurant chain, see [Panda Express](https://en.wikipedia.org/wiki/Panda_Express 'Panda Express').
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #50C878;border-bottom: 4px solid #50C878;padding:2px 0;"
+  - title:
+    - en: Panda Express
+      zh: 熊貓快綫
+      style: "border-top: 4px solid #50C878;border-bottom: 4px solid #50C878;padding:2px 0;"
   - route_sign: [P]
   - heading: Overview
   - cols_2:

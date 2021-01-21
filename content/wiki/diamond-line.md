@@ -1,6 +1,5 @@
 ---
 title: "Diamond Line"
-title_zh: 鑽石綫
 description: Rapid transit line in Mirai
 date: 2020-08-10T17:40:55+08:00
 draft: false
@@ -9,7 +8,10 @@ keywords: [mirai,miraimetro,route,diamondline]
 notice: "This article is about the rapid transit line on the [Mirai Metro](/wiki/mirai-metro 'Mirai Metro'). For the previous rapid transit system in which this line is a part of before merging with the [Mirai RGB](/wiki/mirai-rgb 'Mirai RGB'), see [Mirai SkyCart](/wiki/mirai-skycart 'Mirai SkyCart')."
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #33CDFB;border-bottom: 4px solid #33CDFB;padding:2px 0;"
+  - title:
+    - en: Diamond Line
+      zh: 鑽石綫
+      style: "border-top: 4px solid #33CDFB;border-bottom: 4px solid #33CDFB;padding:2px 0;"
   - route_sign: [D]
   - heading: Overview
   - cols_2:

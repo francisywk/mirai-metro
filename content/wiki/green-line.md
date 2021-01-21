@@ -1,7 +1,5 @@
 ---
 title: "Green Line (Mirai Metro)"
-linktitle: Green Line
-title_zh: 綠綫
 description: Rapid transit line in Mirai
 date: 2020-08-11T01:44:20+08:00
 draft: false
@@ -9,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,greenline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #0F7F12;border-bottom: 4px solid #0F7F12;padding:2px 0;"
+  - title:
+    - en: Green Line
+      zh: 綠綫
+      style: "border-top: 4px solid #0F7F12;border-bottom: 4px solid #0F7F12;padding:2px 0;"
   - route_sign: [G]
   - heading: Overview
   - cols_2:
@@ -57,7 +58,7 @@ The **Green Line** (Code **G**) is Mirai's third {{< wiki/external-link domain="
 
 ---
 
-- 30 September 2018: Bottomvalley {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and UCHQ South station.
+- 30 September 2018: Bottomvalley {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown and UCHQ South station.
 - 27 July 2020: Cavehaven infill station opened between Bottomvalley and UCHQ South station.
 
 #### Station list
@@ -144,8 +145,8 @@ The **Green Line** (Code **G**) is Mirai's third {{< wiki/external-link domain="
         <td>
           <span class="station-code station-code-sm station-code-gl rounded-circle">G6</span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
-        <td>市中心<p class="small mb-0">(市政廳)</p></td>
+        <td>{{< wiki/link station="Downtown" alternate="City Hall" >}}</td>
+        <td>下環<p class="small mb-0">(市政廳)</p></td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="W" >}}

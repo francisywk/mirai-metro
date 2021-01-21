@@ -8,6 +8,8 @@ keywords: [unitedcities,cartcorporation]
 notice:
 see_also: false
 quick_facts:
+  - title:
+    - en: CART Corporation
   - image: 
     - link: "/img/CART.jpg"
       width: 160px

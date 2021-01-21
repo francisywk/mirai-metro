@@ -7,14 +7,14 @@ route_sign: [R,G,P]
 adjacent_stations:
   - route_sign: [R]
     preceding:
-      - station: R6-Downtown Core
+      - station: R6-Downtown
         towards: Fhoenix Hill
     following:
       - station: R8-Dimension Hill
         towards: Dimension Hill
   - route_sign: [G]
     preceding:
-      - station: G6-Downtown Core
+      - station: G6-Downtown
         next: clockwise
     following:
       - station: G8-Bottomvalley

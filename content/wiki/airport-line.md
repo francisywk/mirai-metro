@@ -1,7 +1,5 @@
 ---
 title: "Airport Line (Mirai Metro)"
-linktitle: Airport Line
-title_zh: 空港綫
 description: Rapid transit line in Mirai
 date: 2020-08-10T02:11:42+08:00
 draft: false
@@ -9,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,airportline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #FF40FF;border-bottom: 4px solid #AB2FA1;padding:2px 0;"
+  - title:
+    - en: Airport Line
+      zh: 空港綫
+      style: "border-top: 4px solid #FF40FF;border-bottom: 4px solid #AB2FA1;padding:2px 0;"
   - route_sign: [Ac,A,Ax]
   - heading: Overview
   - cols_2:

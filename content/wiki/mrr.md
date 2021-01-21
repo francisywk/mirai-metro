@@ -1,6 +1,5 @@
 ---
 title: "MRR"
-linktitle: Mirai Regional Railway (MRR)
 description: Mirai Capital Area express rail network
 date: 2020-07-09T23:04:50+08:00
 draft: false
@@ -8,6 +7,8 @@ category: others
 keywords: [mirai]
 notice: "This article is about the suburban commuter/rapid transit network in Mirai. For the company that operates it, see [MRR Corporation](/wiki/mrr-corporation 'MRR Corporation')."
 quick_facts:
+  - title:
+    - en: Mirai Regional Railway (MRR)
   - image: 
     - link: "/img/MRR_Corp.png"
       width: 90px

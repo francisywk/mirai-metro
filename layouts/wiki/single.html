@@ -29,20 +29,14 @@
           </button>
           <div class="collapse d-md-block" id="quickfacts">
             <div class="container bg-light border">
-              {{ range first 1 .quick_facts }}
-                <h6 class="text-center font-weight-bold mt-2 mb-0" {{ with .title_style}}style="{{ . | safeCSS }}"{{ end }}>
-                  {{ with $.LinkTitle }}
-                    {{ . }}
-                  {{ else }}
-                    {{ $.Title }}
-                  {{ end }}
-                  <br>
-                  {{ with $.Params.title_zh }}
-                    <span class="font-weight-normal">{{ . }}</span>
-                  {{ end }}
-                </h6>
-              {{ end }}
               {{ range .quick_facts }}
+                {{ with .title }}
+                  {{ range . }}
+                    <h6 class="text-center font-weight-bold mt-2 mb-0"{{ with .style }} style="{{ safeCSS . }}"{{ end }}>
+                      {{ .en }}<br><span class="font-weight-normal">{{ .zh }}</span>
+                    </h6>
+                  {{ end }}
+                {{ end }}
                 {{ with .image }}
                   {{ range . }}
                     <img src="{{ .link }}" class="img-fluid mx-auto my-2 d-block" style="width:{{ .width }}">

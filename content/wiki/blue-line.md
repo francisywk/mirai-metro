@@ -1,7 +1,5 @@
 ---
 title: "Blue Line (Mirai Metro)"
-linktitle: Blue Line
-title_zh: 藍綫
 description: Rapid transit line in Mirai
 date: 2020-07-10T00:47:27+08:00
 draft: false
@@ -9,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,blueline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #0433ff;border-bottom: 4px solid #0433ff;padding:2px 0;"
+  - title:
+    - en: Blue Line
+      zh: 藍綫
+      style: "border-top: 4px solid #0433ff;border-bottom: 4px solid #0433ff;padding:2px 0;"
   - route_sign: [B]
   - heading: Overview
   - cols_2:

@@ -1,7 +1,5 @@
 ---
 title: "Mugen station"
-linktitle: Mugen
-title_zh: 無限
 description: Mirai Metro interchange station in City Loop, Mirai
 date: 2020-08-20T02:08:50+08:00
 draft: false
@@ -10,6 +8,9 @@ keywords: [mirai,miraimetro,station,blueline,victoryline,waterfallline,diamondli
 notice: "This article is about the metro station in Mirai, United Cities. For the similarly named MRR station, see [Mugen Mirai station](/wiki/mugen-mirai-station 'Mugen Mirai station'). For the nearby connected station, see [Mirai station](/wiki/mirai-station 'Mirai station')."
 see_also: true
 quick_facts:
+  - title:
+    - en: Mugen
+      zh: 無限
   - station_code: [B5,V1,W4,D4,P3]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"

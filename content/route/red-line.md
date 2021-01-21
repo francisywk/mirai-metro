@@ -24,8 +24,8 @@ stations:
     transfer: 
       - route_sign: [W,P]
   - station_code: [R6]
-    name: Downtown Core
-    name_zh: 市中心
+    name: Downtown
+    name_zh: 下環
     transfer: 
       - route_sign: [G,W]
   - station_code: [R7]

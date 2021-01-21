@@ -1,7 +1,5 @@
 ---
 title: "Dimension Hill station"
-linktitle: Dimension Hill
-title_zh: 維度山
 description: Mirai Metro station in Miraiya Highlands, Mirai
 date: 2020-11-23T02:05:44+08:00
 draft: false
@@ -9,6 +7,9 @@ category: miraimetro
 keywords: [mirai,miraimetro,station,redline]
 see_also: true
 quick_facts:
+  - title:
+    - en: Dimension Hill
+      zh: 維度山
   - station_code: [R8]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"

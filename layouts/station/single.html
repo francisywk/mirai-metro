@@ -189,7 +189,7 @@
               {{ end }}
             </tr>
             {{ range where $.Site.RegularPages "Section" "==" "wiki" }}
-              {{ if eq .Title $.Title }}
+              {{ if in .Title $.Title }}
                 <tr>
                   <th scope="col" class="bg-light w-40 text-center align-middle">Wiki</th>
                   <td>

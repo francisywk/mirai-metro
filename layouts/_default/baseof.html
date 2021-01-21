@@ -2,7 +2,7 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{ partial "head.html" . }}
 <body id="page-top">
-  {{ partialCached "navbar.html" . .Section }}
+  {{ partialCached "navbar.html" . .Section .Name }}
   {{ block "main" . }}{{ end }}
   {{ if (or (eq .Section "route") (eq .Section "station")) }}
     {{ if eq .Kind "section" }}

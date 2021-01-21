@@ -1,7 +1,6 @@
 ---
 title: "Diamond Hill station (Mirai Metro)"
-linktitle: Diamond Hill
-title_zh: 鑽石山
+
 description: Mirai Metro station in La Mirai, Mirai
 date: 2020-11-23T23:23:49+08:00
 draft: false
@@ -9,6 +8,9 @@ category: miraimetro
 keywords: [mirai,miraimetro,station,diamondline]
 see_also: true
 quick_facts:
+  - title:
+    - en: Diamond Hill
+      zh: 鑽石山
   - station_code: [D6]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"

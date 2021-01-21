@@ -10,7 +10,7 @@ adjacent_stations:
       - station: R4-Paradise Falls
         towards: Fhoenix Hill
     following:
-      - station: R6-Downtown Core
+      - station: R6-Downtown
         towards: Dimension Hill
   - route_sign: [W]
     preceding:

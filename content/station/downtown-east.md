@@ -10,7 +10,7 @@ adjacent_stations:
       - station: W4-Mugen
         next: anti-clockwise
     following:
-      - station: W6-Downtown Core
+      - station: W6-Downtown
         next: clockwise
   - route_sign: [C]
     preceding:

@@ -10,11 +10,11 @@ adjacent_stations:
       - station: G4-City Farm
         next: clockwise
     following:
-      - station: G6-Downtown Core
+      - station: G6-Downtown
         next: anti-clockwise
   - route_sign: [W]
     preceding:
-      - station: W6-Downtown Core
+      - station: W6-Downtown
         next: anti-clockwise
     following:
       - station: W8-Evergreen Point

@@ -1,6 +1,5 @@
 ---
 title: "Waterfall Line"
-title_zh: 瀑布綫
 description: Rapid transit line in Mirai
 date: 2020-08-12T03:55:29+08:00
 draft: false
@@ -8,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,waterfallline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #FEDF00;border-bottom: 4px solid #FEDF00;padding:2px 0;"
+  - title:
+    - en: Waterfall Line
+      zh: 瀑布綫
+      style: "border-top: 4px solid #FEDF00;border-bottom: 4px solid #FEDF00;padding:2px 0;"
   - route_sign: [W]
   - heading: Overview
   - cols_2:
@@ -56,7 +58,7 @@ The **Waterfall Line** (Code **W**) is a {{< wiki/external-link domain="wikipedi
 
 ---
 
-- 1 December 2020: Mount Austin {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and Evergreen Point.
+- 1 December 2020: Mount Austin {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown and Evergreen Point.
 
 <br>
 
@@ -147,8 +149,8 @@ The **Waterfall Line** (Code **W**) is a {{< wiki/external-link domain="wikipedi
         <td>
           <span class="station-code station-code-sm station-code-wl rounded-circle">W6<span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
-        <td>市中心<p class="small mb-0">(市政廳)</p></td>
+        <td>{{< wiki/link station="Downtown" alternate="City Hall" >}}</td>
+        <td>下環<p class="small mb-0">(市政廳)</p></td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}

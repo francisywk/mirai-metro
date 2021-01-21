@@ -99,8 +99,8 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm station-code-rl rounded-circle">R6</span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" >}}</td>
-        <td>市中心</td>
+        <td>{{< wiki/link station="Downtown" >}}</td>
+        <td>下環</td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="W" >}}
@@ -262,8 +262,8 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm station-code-gl rounded-circle">G6</span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" >}}</td>
-        <td>市中心</td>
+        <td>{{< wiki/link station="Downtown" >}}</td>
+        <td>下環</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="W" >}}
@@ -862,8 +862,8 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm station-code-wl rounded-circle">W6<span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" >}}</td>
-        <td>市中心</td>
+        <td>{{< wiki/link station="Downtown" >}}</td>
+        <td>下環</td>
         <td>
           {{< wiki/mm-sign route="R" >}}
           {{< wiki/mm-sign route="G" >}}
@@ -897,7 +897,7 @@ quick_facts:
         </td>
         <td>6 May 2019</td>
         <td rowspan="3">Big Snow</td>
-        <td>OLS</td>
+        <td>EVG</td>
         <td></td>
       </tr>
       <tr>
@@ -922,7 +922,7 @@ quick_facts:
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
-        <td>OLN</td>
+        <td>WTN</td>
         <td></td>
       </tr>
     </tbody>
@@ -1273,7 +1273,7 @@ quick_facts:
           {{< wiki/mm-sign route="W" >}}
         </td>
         <td>Big Snow</td>
-        <td>OLS</td>
+        <td>EVG</td>
         <td></td>
       </tr>
       <tr>
@@ -1383,7 +1383,7 @@ quick_facts:
         </td>
         <td rowspan="5">8 October 2020</td>
         <td>Big Snow</td>
-        <td>OLN</td>
+        <td>WTN</td>
       </tr>
       <tr>
         <td class="alert-success">

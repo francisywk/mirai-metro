@@ -1,7 +1,5 @@
 ---
 title: "Red Line (Mirai Metro)"
-linktitle: Red Line
-title_zh: 紅綫
 description: Rapid transit line in Mirai
 date: 2020-08-09T23:19:57+08:00
 draft: false
@@ -9,7 +7,10 @@ category: miraimetro
 keywords: [mirai,miraimetro,route,redline]
 see_also: true
 quick_facts:
-  - title_style: "border-top: 4px solid #FF2600;border-bottom: 4px solid #FF2600;padding:2px 0;"
+  - title:
+    - en: Red Line
+      zh: 紅綫
+      style: "border-top: 4px solid #FF2600;border-bottom: 4px solid #FF2600;padding:2px 0;"
   - route_sign: [R]
   - heading: Overview
   - cols_2:
@@ -62,8 +63,8 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
 ---
 
 - 11 August 2015: The line began operation.
-- 8 March 2017: The line extended to {{< wiki/link station="Dimension Hill" >}} from Downtown Core station.
-- 9 August 2020: Cavehaven {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown Core and Dimension Hill.
+- 8 March 2017: The line extended to {{< wiki/link station="Dimension Hill" >}} from Downtown station.
+- 9 August 2020: Cavehaven {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown and Dimension Hill.
 - 8 October 2020: The line extended to {{< wiki/link station="Miraibridge" >}} from Paradise Falls station.
 
 <br>
@@ -156,8 +157,8 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R6</span>
         </td>
-        <td>{{< wiki/link station="Downtown Core" alternate="City Hall" >}}</td>
-        <td>市中心<p class="small mb-0">(市政廳)</p></td>
+        <td>{{< wiki/link station="Downtown" alternate="City Hall" >}}</td>
+        <td>下環<p class="small mb-0">(市政廳)</p></td>
         <td>
           {{< wiki/mm-sign route="G" >}}
           {{< wiki/mm-sign route="W" >}}

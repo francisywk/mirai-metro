@@ -88,7 +88,7 @@ This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tal
         </td>
         <td>67 / 220</td>
         <td>Mixed</td>
-        <td>Downtown Core</td>
+        <td>Downtown</td>
       </tr>
       <tr>
         <td>7</td>
@@ -128,7 +128,7 @@ This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tal
         </td>
         <td>37.5 / 123</td>
         <td>Fire department</td>
-        <td>Downtown Core</td>
+        <td>Downtown</td>
       </tr>
       <tr>
         <td>11</td>

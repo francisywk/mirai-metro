@@ -30,8 +30,8 @@ stations:
     transfer:
       - route_sign: [W,C]
   - station_code: [G6]
-    name: Downtown Core
-    name_zh: 市中心
+    name: Downtown
+    name_zh: 下環
     transfer:
       - route_sign: [R,W]
   - station_code: [G7]

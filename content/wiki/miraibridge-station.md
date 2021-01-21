@@ -1,7 +1,5 @@
 ---
 title: "Miraibridge station"
-linktitle: Miraibridge
-title_zh: 美來橋
 description: Mirai Metro interchange station in City Loop, Mirai
 date: 2020-08-29T01:16:58+08:00
 draft: false
@@ -9,6 +7,9 @@ category: miraimetro
 keywords: [mirai,miraimetro,station,redline,cityloopline,bigsnowline]
 see_also: true
 quick_facts:
+  - title:
+    - en: Miraibridge
+      zh: 美來橋
   - station_code: [R2,C2,S7]
   - cols_1:
     - content: "<div class='text-center'><span>Mirai Metro rapid transit station</span></div>"
