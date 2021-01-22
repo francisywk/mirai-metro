@@ -8,7 +8,7 @@ adjacent_stations:
   - route_sign: [R]
     preceding:
       - station: R6-Downtown
-        towards: Fhoenix Hill
+        towards: Miraibridge
     following:
       - station: R8-Dimension Hill
         towards: Dimension Hill
@@ -25,7 +25,7 @@ adjacent_stations:
         towards: Panda Museum
     following:
       - station: P3-Mugen
-        towards: Evergreen Point
+        towards: Evergreen
 alternate_station_name_en: 
 alternate_station_name_zh: 
 district_en: Miraiya Valley
