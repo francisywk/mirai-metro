@@ -1,7 +1,7 @@
 ---
-title: Fhoenix Hill station
+title: Fhoenix Peak station
 station_code: [R3]
-station_name_en: Fhoenix Hill
+station_name_en: Fhoenix Peak
 station_name_zh: 飛利斯山
 route_sign: [R]
 adjacent_stations:

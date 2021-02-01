@@ -5,8 +5,8 @@ route_sign: [S]
 branch_line: false
 stations:
   - station_code: [S6]
-    name: Wontana
-    name_zh: 雲大拿
+    name: Wontana Hill
+    name_zh: 雲大拿山
     transfer:
       - route_sign: [W]
     first_station: true

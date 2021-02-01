@@ -15,7 +15,7 @@ adjacent_stations:
   - route_sign: [S]
     preceding:
       - station: S7-UCHQ West
-        towards: Wontana
+        towards: Wontana Hill
     following:
       - station: S10-Redhill Spring
         towards: Redhill Spring

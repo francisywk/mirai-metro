@@ -29,8 +29,8 @@ stations:
     transfer:
       - route_sign: [G,B]
   - station_code: [P6]
-    name: Evergreen Point
-    name_zh: 常青角
+    name: Evergreen
+    name_zh: 常青
     transfer:
       - route_sign: [W]
     last_station: true
