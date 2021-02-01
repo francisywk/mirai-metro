@@ -7,7 +7,7 @@
         {{ with .Params }}
           {{ if .popular }}
             <div class="col-12 col-md-6 col-xl-4 my-2 p-xl-0 pr-xl-3">
-              <a href="/station/{{ anchorize .station_name_en }}" class="text-dark">
+              <a href="{{ anchorize .station_name_en }}" class="text-dark">
                 <div class="station-banner text-center mx-auto shadow-none pb-0">
                   <div class="mb-1">
                     {{ partial "station_code/small/horizontal.html" . }}
@@ -47,7 +47,7 @@
                   {{ partial "station_code/small/horizontal.html" . }}
                 </td>
                 <td>
-                  <a href="/station/{{ anchorize .station_name_en }}">
+                  <a href="{{ anchorize .station_name_en }}">
                     {{ .station_name_en }}<br><span class="small text-dark">{{ plainify .station_name_zh }}</span>
                   </a>
                 </td>
