@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).on("turbolinks:load", function () {
   // Get current weather
   getWeather(1850147);
 
@@ -31,13 +31,13 @@ $(document).ready(function () {
   // });
 
   // Toggle navbar transparency
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > 15) {
-      $('.navbar').removeClass('navbar-transparent pt-4');
-    } else {
-      $('.navbar').addClass('navbar-transparent pt-4');
-    }
-  });
+  // $(window).scroll(function () {
+  //   if ($(this).scrollTop() > 15) {
+  //     $('.navbar').removeClass('navbar-transparent pt-4');
+  //   } else {
+  //     $('.navbar').addClass('navbar-transparent pt-4');
+  //   }
+  // });
 
   // Get the current date and time
   function update() {

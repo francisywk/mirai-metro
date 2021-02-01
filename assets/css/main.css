@@ -53,7 +53,7 @@ body {
 }
 
 #home-banner-container {
-  margin: 100px auto 0 auto;
+  margin: 80px auto 50px auto;
 }
 
 #home-banner-container h1,
@@ -353,11 +353,11 @@ body {
   color: #44617f !important;
 }
 
-#mainNav {
+/* #mainNav {
   -webkit-transition: padding-top 0.4s;
   -moz-transition: padding-top 0.4s;
   transition: padding-top 0.4s;
-}
+} */
 
 .arr-right .breadcrumb-item + .breadcrumb-item::before {
   content: "›";
@@ -967,4 +967,8 @@ span.line {
   text-align: center;
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
+}
+
+.turbolinks-progress-bar {
+  visibility: hidden;
 }
