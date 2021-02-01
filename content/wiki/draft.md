@@ -65,7 +65,7 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm station-code-rl rounded-circle">R3</span>
         </td>
-        <td>{{< wiki/link station="Fhoenix Hill" >}}</td>
+        <td>{{< wiki/link station="Fhoenix Peak" >}}</td>
         <td>飛利斯山</td>
         <td></td>
         <td rowspan="2">11 August 2015</td>
@@ -890,8 +890,8 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm station-code-wl rounded-circle">W8<span>
         </td>
-        <td>{{< wiki/link station="Evergreen Point" >}}</td>
-        <td>常青角</td>
+        <td>{{< wiki/link station="Evergreen" >}}</td>
+        <td>常青</td>
         <td>
           {{< wiki/mm-sign route="P" >}}
         </td>
@@ -917,8 +917,8 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm-dd station-code-wl rounded-circle">W10<span>
         </td>
-        <td>{{< wiki/link station="Wontana" >}}</td>
-        <td>雲大拿</td>
+        <td>{{< wiki/link station="Wontana Hill" >}}</td>
+        <td>雲大拿山</td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
@@ -1267,8 +1267,8 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm station-code-pe rounded-circle">P6</span>
         </td>
-        <td>{{< wiki/link station="Evergreen Point" >}}</td>
-        <td>常青角</td>
+        <td>{{< wiki/link station="Evergreen" >}}</td>
+        <td>常青</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>
@@ -1376,8 +1376,8 @@ quick_facts:
         <td class="alert-success">
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S6</span>
         </td>
-        <td>{{< wiki/link station="Wontana" >}}</td>
-        <td>雲大拿</td>
+        <td>{{< wiki/link station="Wontana Hill" >}}</td>
+        <td>雲大拿山</td>
         <td>
           {{< wiki/mm-sign route="W" >}}
         </td>

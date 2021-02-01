@@ -18,10 +18,10 @@ adjacent_stations:
         towards: City Farm
   - route_sign: [W]
     preceding:
-      - station: W8-Evergreen Point
+      - station: W8-Evergreen
         next: anti-clockwise
     following:
-      - station: W10-Wontana
+      - station: W10-Wontana Hill
         next: clockwise
 alternate_station_name_en: Centre of The Grid
 alternate_station_name_zh: 世格中心

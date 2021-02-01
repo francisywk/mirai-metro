@@ -17,7 +17,7 @@ adjacent_stations:
       - station: W6-Downtown
         next: anti-clockwise
     following:
-      - station: W8-Evergreen Point
+      - station: W8-Evergreen
         next: clockwise
   - route_sign: [C]
     preceding:

@@ -51,7 +51,7 @@ The station is named after the {{< wiki/external-link domain="wikipedia" text="b
 
 ---
 
-Miraibridge station was initially planned as an interchange station for the City Loop Line and Big Snow Line, before the Red Line extension was proposed. The proposal was to extend the Red Line from its current northern terminus at {{< wiki/link station="Fhoenix Hill station" >}} to {{< wiki/link station="Dirt Fortress" >}} and connect with the City Loop and Big Snow lines at this station. On the City Loop line, the station will be an {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} built between {{< wiki/link station="Winterland" >}} and {{< wiki/link station="Berryhills" >}} stations.
+Miraibridge station was initially planned as an interchange station for the City Loop Line and Big Snow Line, before the Red Line extension was proposed. The proposal was to extend the Red Line from its current northern terminus at {{< wiki/link station="Fhoenix Peak station" >}} to {{< wiki/link station="Dirt Fortress" >}} and connect with the City Loop and Big Snow lines at this station. On the City Loop line, the station will be an {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} built between {{< wiki/link station="Winterland" >}} and {{< wiki/link station="Berryhills" >}} stations.
 
 The station was officially opened on 8 October 2020 across all there lines in conjunction with the opening of the Big Snow Line.
 
@@ -93,7 +93,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
         </td>
         <td class="redline"></td>
         <td>
-          {{< wiki/link station="Fhoenix Hill" >}}
+          {{< wiki/link station="Fhoenix Peak" >}}
           <p class="small font-italic mb-0">towards {{< wiki/link station="Dimension Hill" >}}</p>
         </td>
       </tr>
@@ -117,7 +117,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
       </tr>
       <tr>
         <td>
-          {{< wiki/link station="Wontana" >}}
+          {{< wiki/link station="Wontana Hill" >}}
           <p class="small font-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
         </td>
         <td class="bigsnowline"></td>
