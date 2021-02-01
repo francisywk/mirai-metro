@@ -7,8 +7,8 @@ route_sign: [R,B]
 adjacent_stations:
   - route_sign: [R]
     preceding:
-      - station: R3-Fhoenix Peak
-        towards: Miraibridge
+      - station: R3-Fhoenix Hill
+        towards: Fhoenix Hill
     following:
       - station: R5-Under the Falls
         towards: Dimension Hill

@@ -54,7 +54,7 @@ quick_facts:
       content: 7 June 2015
 ---
 
-**Mugen** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 無限, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Mòuhhaahn*), alternate station name **Mugen Mirai**, is a major interchange station of {{< wiki/link "Mirai Metro" >}} in Mirai's City Loop CBD. It is a major transit station and {{< wiki/external-link domain="wikipedia" text="terminus" link="Train_station#Terminus" title="Train station#Terminal station" >}} station of the {{< wiki/link route="V" >}}. Located within the divisions of Mugen, the station is one of the first stations of Mirai Metro when it opened in 2015, and the station is located underneath {{< wiki/link "Mirai Tower" >}}, the tallest building in the {{< wiki/link "The Grid" >}}. In addition of serving the {{< wiki/external-link domain="wikipedia" text="megatall" link="Skyscraper" title="Skyscraper" >}} building, the station also serves many skyscrapers within the vicinity of the station.
+**Mugen** ({{< wiki/external-link domain="wikipedia" text="Chinese" link="Traditional_Chinese_characters" title="Traditional Chinese characters" >}}: 無限, {{< wiki/external-link domain="wikipedia" text="Cantonese Yale" link="Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese" >}}: *Mòuhhaahn*), alternate station name **Mugen Mirai**, is a station of {{< wiki/link "Mirai Metro" >}} in Mirai's City Loop CBD. It is a major transit station and {{< wiki/external-link domain="wikipedia" text="terminus" link="Train_station#Terminus" title="Train station#Terminal station" >}} station of the {{< wiki/link route="V" >}}. Located within the divisions of Mugen, the station is one of the first stations of Mirai Metro when it opened in 2015, and the station is located underneath {{< wiki/link "Mirai Tower" >}}, the tallest building in the {{< wiki/link "The Grid" >}}. In addition of serving the {{< wiki/external-link domain="wikipedia" text="megatall" link="Skyscraper" title="Skyscraper" >}} building, the station also serves many skyscrapers within the vicinity of the station.
 
 The station is connected to {{< wiki/link station="Mirai station" >}} by underground pedestrian walkway. The walk between the two stations typically takes less than a minute. Some sections of the tunnels are equipped with moving walkways.
 
@@ -186,7 +186,7 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="pandaexpress"></td>
         <td>
           {{< wiki/link station="Under the Falls" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Evergreen" >}}</p>
+          <p class="small font-italic mb-0">towards {{< wiki/link station="Evergreen Point" >}}</p>
         </td>
       </tr>
     </tbody>

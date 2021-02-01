@@ -11,7 +11,7 @@ stations:
       - route_sign: [C,S]
     first_station: true
   - station_code: [R3]
-    name: Fhoenix Peak
+    name: Fhoenix Hill
     name_zh: 飛利斯山
   - station_code: [R4]
     name: Paradise Falls

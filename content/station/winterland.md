@@ -14,7 +14,7 @@ adjacent_stations:
         next: anti-clockwise
   - route_sign: [W]
     preceding:
-      - station: W10-Wontana Hill
+      - station: W10-Wontana
         next: anti-clockwise
     following:
       - station: W2-Uptown Cross

@@ -125,7 +125,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="R" >}}</td>
         <td>紅綫</td>
         <td>
-          {{< wiki/link station="Fhoenix Peak" >}}
+          {{< wiki/link station="Fhoenix Hill" >}}
         </td>
         <td>
           {{< wiki/link station="Dimension Hill" >}}
@@ -241,7 +241,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
           {{< wiki/link station="Cavehaven" >}}
         </td>
         <td>
-          {{< wiki/link station="Evergreen" >}}
+          {{< wiki/link station="Evergreen Point" >}}
         </td>
         <td>27 July 2020</td>
         <td>5</td>
@@ -253,7 +253,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>{{< wiki/link route="S" >}}</td>
         <td>大雪綫</td>
         <td>
-          {{< wiki/link station="Wontana Hill" >}}
+          {{< wiki/link station="Wontana" >}}
         </td>
         <td>
           {{< wiki/link station="Redhill Spring" >}}

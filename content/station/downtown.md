@@ -8,7 +8,7 @@ adjacent_stations:
   - route_sign: [R]
     preceding:
       - station: R5-Under the Falls
-        towards: Miraibridge
+        towards: Fhoenix Hill
     following:
       - station: R7-Cavehaven
         towards: Dimension Hill

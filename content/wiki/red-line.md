@@ -21,7 +21,7 @@ quick_facts:
     - title: Status
       content: Operational
     - title: Termini
-      content: "[Miraibridge](/wiki/miraibridge-station 'Miraibridge station')<br>[Dimension Hill](/wiki/dimension-hill-station 'Dimension Hill station')"
+      content: "[Fhoenix Hill](/wiki/fhoenix-hill-station 'Fhoenix Hill station')<br>[Dimension Hill](/wiki/dimension-hill-station 'Dimension Hill station')"
     - title: Stations
       content: 6 (Operational)<br>3 (Under construction)
     - title: Colour on map
@@ -63,9 +63,9 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
 ---
 
 - 11 August 2015: The line began operation.
-- 8 March 2017: The line extended to {{< wiki/link station="Dimension Hill" >}} from {{< wiki/link station="Downtown station" >}}.
-- 9 August 2020: {{< wiki/link station="Cavehaven" >}} {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown and Dimension Hill.
-- 8 October 2020: The line extended to {{< wiki/link station="Miraibridge" >}} from {{< wiki/link station="Paradise Falls station" >}}.
+- 8 March 2017: The line extended to {{< wiki/link station="Dimension Hill" >}} from Downtown station.
+- 9 August 2020: Cavehaven {{< wiki/external-link domain="wikipedia" text="infill station" link="Infill_station" title="Infill station" >}} opened between Downtown and Dimension Hill.
+- 8 October 2020: The line extended to {{< wiki/link station="Miraibridge" >}} from Paradise Falls station.
 
 <br>
 
@@ -126,7 +126,7 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R3</span>
         </td>
-        <td>{{< wiki/link station="Fhoenix Peak" >}}</td>
+        <td>{{< wiki/link station="Fhoenix Hill" >}}</td>
         <td>飛利斯山</td>
         <td></td>
         <td rowspan="2">11 August 2015</td>

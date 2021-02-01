@@ -1,8 +1,8 @@
 ---
-title: Evergreen station
+title: Evergreen Point station
 station_code: [W8,P6]
-station_name_en: Evergreen
-station_name_zh: 常青
+station_name_en: Evergreen Point
+station_name_zh: 常青角
 route_sign: [W,P]
 adjacent_stations:
   - route_sign: [W]
@@ -21,7 +21,7 @@ alternate_station_name_zh:
 district_en: Big Snow
 district_zh: 大雪
 jumbotron_style: .station-jumbotron{background-image:url(/img/bg/waterfallline.png),url(/img/bg/pandaexpress.png);background-repeat:no-repeat;background-size:100% 10px,50% 10px;background-position:0 115px,left 145px}
-address: [Evergreen, Big Snow, City of Mirai, United Cities]
+address: [Evergreen Point, Big Snow, City of Mirai, United Cities]
 coordinate:
   - route_sign: [W]
     xyz: [96,52,63]

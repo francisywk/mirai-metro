@@ -40,8 +40,8 @@ stations:
     transfer:
       - route_sign: [G,C]
   - station_code: [W8]
-    name: Evergreen
-    name_zh: 常青
+    name: Evergreen Point
+    name_zh: 常青角
     transfer:
       - route_sign: [P]
   - station_code: [W9]
@@ -50,8 +50,8 @@ stations:
     transfer:
       - route_sign: [B]
   - station_code: [W10]
-    name: Wontana Hill
-    name_zh: 雲大拿山
+    name: Wontana
+    name_zh: 雲大拿
     transfer:
       - route_sign: [S]
 custom_style: table{margin:0 auto}.station-code-bg{background-image:url(/img/bg/waterfallline.png);background-repeat:no-repeat;background-size:7px 101%;background-position:51px}

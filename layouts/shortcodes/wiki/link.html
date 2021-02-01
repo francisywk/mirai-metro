@@ -63,9 +63,9 @@
     {{- $fileURL := printf "/wiki/%s.md" (anchorize .) -}}
     {{- if $.Site.GetPage (printf "%s" $fileURL) -}}
       <a href="/wiki/{{ anchorize . }}" title="{{ . }}">{{ . }}</a>
-    {{- else -}}
+    {{ else }}
       <a href="javascript:void(0)" title="{{ . }} (page does not exists)" class="text-danger" aria-disabled="true">{{ . }}</a>
-    {{- end -}}
+    {{ end }}
   {{- else -}}
     {{- $fileURL := printf "/wiki/%s-station.md" (anchorize .) -}}
     {{- if $.Site.GetPage (printf "%s" $fileURL) -}}

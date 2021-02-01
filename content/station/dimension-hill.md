@@ -8,7 +8,7 @@ adjacent_stations:
   - route_sign: [R]
     preceding:
       - station: R7-Cavehaven
-        towards: Miraibridge
+        towards: Fhoenix Hill
 alternate_station_name_en: Old Portal
 alternate_station_name_zh: 舊門關
 district_en: Miraiya Highlands

@@ -8,7 +8,7 @@ adjacent_stations:
   - route_sign: [R]
     preceding:
       - station: R4-Paradise Falls
-        towards: Miraibridge
+        towards: Fhoenix Hill
     following:
       - station: R6-Downtown
         towards: Dimension Hill
@@ -25,7 +25,7 @@ adjacent_stations:
         towards: Panda Museum
     following:
       - station: P5-City Farm
-        towards: Evergreen
+        towards: Evergreen Point
 alternate_station_name_en: Paradise Falls South
 alternate_station_name_zh: 仙境瀑布南
 district_en: City Loop

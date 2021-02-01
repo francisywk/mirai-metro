@@ -7,7 +7,7 @@ route_sign: [R,C,S]
 adjacent_stations:
   - route_sign: [R]
     following:
-      - station: R3-Fhoenix Peak
+      - station: R3-Fhoenix Hill
         towards: Dimension Hill
   - route_sign: [C]
     preceding:
@@ -18,8 +18,8 @@ adjacent_stations:
         next: clockwise
   - route_sign: [S]
     preceding:
-      - station: S6-Wontana Hill
-        towards: Wontana Hill
+      - station: S6-Wontana
+        towards: Wontana
     following:
       - station: S8-UCHQ West
         towards: Redhill Spring
