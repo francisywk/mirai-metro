@@ -23,6 +23,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, shrink-to-fit=yes">
   {{ hugo.Generator }}
   <meta name="copyright" content="{{ .Site.Copyright }}">
+  <link rel="canonical" href="{{ .Permalink }}">
   {{/* Preload fonts */}}
   {{ if eq .Section "station" }}
     <link rel="preload" href="/fonts/P22-Underground-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
