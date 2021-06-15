@@ -5,39 +5,39 @@
   </div>
   <hr class="mt-0">
   <table class="table table-sm table-bordered" style="max-width: 500px;">
-    <tr class="thead-light">
+    <tr class="table-secondary">
       <th colspan="2" class="text-center">Mirai Metro statistics</th>
     </tr>
     <tr>
       <td>Routes / lines</td>
-      <td class="text-right">{{ len (where .Site.RegularPages "Section" "==" "route") }}</td>
+      <td class="text-end">{{ len (where .Site.RegularPages "Section" "==" "route") }}</td>
     </tr>
     <tr>
       <td>Stations</td>
-      <td class="text-right">{{ len (where .Site.RegularPages "Section" "==" "station") }}</td>
+      <td class="text-end">{{ len (where .Site.RegularPages "Section" "==" "station") }}</td>
     </tr>
-    <tr class="thead-light">
+    <tr class="table-secondary">
       <th colspan="2" class="text-center">Page statistics</th>
     </tr>
     <tr>
       <td>
         <a href="../all-pages">Content pages</a>
       </td>
-      <td class="text-right">{{ len (where (where .Site.RegularPages "Section" "==" "wiki") ".Params.category" "!=" "special") }}</td>
+      <td class="text-end">{{ len (where (where .Site.RegularPages "Section" "==" "wiki") ".Params.category" "!=" "special") }}</td>
     </tr>
     <tr>
       <td>
         <a href="../all-pages">Pages</a>
         <br><small>(All pages in this site including non-wiki pages)</small>
       </td>
-      <td class="text-right">{{ len .Site.Pages }}</td>
+      <td class="text-end">{{ len .Site.Pages }}</td>
     </tr>
-    <tr class="thead-light">
+    <tr class="table-secondary">
       <th colspan="2" class="text-center">Other statistics</th>
     </tr>
     <tr>
       <td>Words in all content pages</td>
-      <td class="text-right">
+      <td class="text-end">
         {{ range where (where .Site.RegularPages "Section" "==" "wiki") ".Params.category" "!=" "special" }}
           {{ $.Scratch.Add "count" .WordCount }}
         {{ end }}
@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td>Average words per content page</td>
-      <td class="text-right">
+      <td class="text-end">
         {{ range where .Site.RegularPages "Section" "==" "wiki" }}
           {{ $.Scratch.Add "count" .WordCount }}
         {{ end }}

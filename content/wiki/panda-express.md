@@ -101,8 +101,8 @@ The **Panda Express** (Code **P**) is one of the {{< wiki/external-link domain="
     </thead>
     <tbody>
       <tr>
-        <td colspan="8" class="alert-warning font-weight-bold">
-          Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by late 2021)</span>
+        <td colspan="8" class="alert-warning fw-bold">
+          Phase 2 <span class="small fst-italic fw-bold">(approved, to be ready by late 2021)</span>
         </td>
       </tr>
       <tr>
@@ -111,15 +111,15 @@ The **Panda Express** (Code **P**) is one of the {{< wiki/external-link domain="
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Panda Museum" >}}</td>
-        <td class="font-italic">熊貓博物館</td>
+        <td class="fst-italic">{{< wiki/link station="Panda Museum" >}}</td>
+        <td class="fst-italic">熊貓博物館</td>
         <td></td>
         <td>Late 2021</td>
         <td>La Mirai</td>
       </tr>
       <tr>
-        <td colspan="8" class="alert-success font-weight-bold">
-          Phase 1 <span class="small font-italic font-weight-bold">(operational, since 27 July 2020)</span>
+        <td colspan="8" class="alert-success fw-bold">
+          Phase 1 <span class="small fst-italic fw-bold">(operational, since 27 July 2020)</span>
         </td>
       </tr>
       <tr>
@@ -193,8 +193,8 @@ The **Panda Express** (Code **P**) is one of the {{< wiki/external-link domain="
         <td>Big Snow</td>
       </tr>
       <tr>
-        <td colspan="8" class="alert-danger font-weight-bold">
-          Phase 3 <span class="small font-italic font-weight-bold">(planned, to be ready by mid 2023)</span>
+        <td colspan="8" class="alert-danger fw-bold">
+          Phase 3 <span class="small fst-italic fw-bold">(planned, to be ready by mid 2023)</span>
         </td>
       </tr>
       <tr>
@@ -203,8 +203,8 @@ The **Panda Express** (Code **P**) is one of the {{< wiki/external-link domain="
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Snowtrees" >}}</td>
-        <td class="font-italic">雪林</td>
+        <td class="fst-italic">{{< wiki/link station="Snowtrees" >}}</td>
+        <td class="fst-italic">雪林</td>
         <td></td>
         <td>Mid 2023</td>
         <td>Southwest Valley</td>

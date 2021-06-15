@@ -7,7 +7,7 @@
   <div class="py-3">
     <h5>Content pages <span class="badge badge-pill badge-danger">{{ len (where (where .Site.RegularPages "Section" "==" "wiki") ".Params.category" "!=" "special") }}</span></h5>
     <hr class="mt-0">
-    <ul class="row m-0 pl-4">
+    <ul class="row m-0 ps-4">
       {{ range where (where .Site.RegularPages.ByTitle "Section" "==" "wiki") ".Params.category" "!=" "special" }}
         <li class="col-12 col-md-6 col-xl-4 px-2">
           <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
@@ -18,7 +18,7 @@
   <div class="py-3">
     <h5>Pages <small>(All pages in this site including non-wiki pages)</small> <span class="badge badge-pill badge-danger">{{ len .Site.Pages }}</span></h5>
     <hr class="mt-0">
-    <ul class="row m-0 pl-4">
+    <ul class="row m-0 ps-4">
       {{ range .Site.Pages.ByTitle }}
         <li class="col-12 col-md-6 col-xl-4 px-2">
           <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>

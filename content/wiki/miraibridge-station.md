@@ -61,7 +61,7 @@ The station was officially opened on 8 October 2020 across all there lines in co
 
 ---
 
-The station only has a single entrance/exit point underneath the Miraibridge. 
+The station only has a single entrance/exit point underneath the Miraibridge.
 
 <br>
 
@@ -71,7 +71,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
 
 <div class="table-responsive">
   <table class="table table-bordered table-600 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th class="w-35">Preceding station</th>
         <th colspan="3">Route</th>
@@ -82,7 +82,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
       <tr>
         <td>
           {{< wiki/link station="Dirt Fortress" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Dirt Fortress" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Dirt Fortress" >}}</p>
         </td>
         <td class="redline"></td>
         <td>
@@ -94,13 +94,13 @@ The station only has a single entrance/exit point underneath the Miraibridge.
         <td class="redline"></td>
         <td>
           {{< wiki/link station="Fhoenix Peak" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Dimension Hill" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Dimension Hill" >}}</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Winterland" >}}
-          <p class="small font-italic mb-0">Next anti-clockwise</p>
+          <p class="small fst-italic mb-0">Next anti-clockwise</p>
         </td>
         <td class="cityloopline"></td>
         <td class="w-30">
@@ -112,13 +112,13 @@ The station only has a single entrance/exit point underneath the Miraibridge.
         <td class="cityloopline"></td>
         <td>
           {{< wiki/link station="Berryhills" >}}
-          <p class="small font-italic mb-0">Next clockwise</p>
+          <p class="small fst-italic mb-0">Next clockwise</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Wontana Hill" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
         </td>
         <td class="bigsnowline"></td>
         <td>
@@ -130,7 +130,7 @@ The station only has a single entrance/exit point underneath the Miraibridge.
         <td class="bigsnowline"></td>
         <td>
           {{< wiki/link station="UCHQ West" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ East" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="UCHQ East" >}}</p>
         </td>
       </tr>
     </tbody>

@@ -1,0 +1,12 @@
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+
+
+a,
+a:not([class]),
+.text-underline-hover {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

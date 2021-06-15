@@ -81,7 +81,7 @@ The initial route features 4 stations spanned from {{< wiki/link station="Berryh
 
 ##### Line extension
 
-In 2019, Diamond Line was extended northward to {{< wiki/link station="UCHQ North" >}} and southward to {{< wiki/link station="Diamond Hill" >}}, and was opened on 1 April 2019 and 1 May 2019 respectively. 
+In 2019, Diamond Line was extended northward to {{< wiki/link station="UCHQ North" >}} and southward to {{< wiki/link station="Diamond Hill" >}}, and was opened on 1 April 2019 and 1 May 2019 respectively.
 
 <br>
 
@@ -150,7 +150,7 @@ Each station of the Diamond Line with the exception of Mirai and Diamond Hill st
         <td>
           {{< wiki/mm-sign route="C" >}}
         </td>
-        <td rowspan="4">8 March 2017<br><small class="font-italic">(Mirai SkyCart)</small></td>
+        <td rowspan="4">8 March 2017<br><small class="fst-italic">(Mirai SkyCart)</small></td>
         <td rowspan="4">City Loop</td>
       </tr>
       <tr>

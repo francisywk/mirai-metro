@@ -533,7 +533,7 @@ ul {
 
 .redline,
 .rl span {
-  background-color: #ff2600;
+  background-color: #ff2600 !important;
   color: white;
 }
 
@@ -543,7 +543,7 @@ ul {
 
 .greenline,
 .gl span {
-  background-color: #0f7f12;
+  background-color: #0f7f12 !important;
   color: white;
 }
 
@@ -553,7 +553,7 @@ ul {
 
 .blueline,
 .bl span {
-  background-color: #0433ff;
+  background-color: #0433ff !important;
   color: white;
 }
 
@@ -587,7 +587,7 @@ ul {
 
 .airportline,
 .al span {
-  background-color: #ff40ff;
+  background-color: #ff40ff !important;
   color: white;
 }
 
@@ -597,7 +597,7 @@ ul {
 
 .airportexpress,
 .ax span {
-  background-color: #ab2fa1;
+  background-color: #ab2fa1 !important;
   color: white;
 }
 
@@ -607,7 +607,7 @@ ul {
 
 .victoryline,
 .vl span {
-  background-color: #651a9e;
+  background-color: #651a9e !important;
   color: white;
 }
 
@@ -621,7 +621,7 @@ ul {
 
 .waterfallline,
 .wl span {
-  background-color: #fedf00;
+  background-color: #fedf00 !important;
   color: black;
 }
 
@@ -631,7 +631,7 @@ ul {
 
 .cityloopline,
 .cl span {
-  background-color: #ff8c00;
+  background-color: #ff8c00 !important;
   color: white;
 }
 
@@ -641,7 +641,7 @@ ul {
 
 .diamondline,
 .dl span {
-  background-color: #33cdfb;
+  background-color: #33cdfb !important;
   color: white;
 }
 
@@ -655,7 +655,7 @@ ul {
 
 .pandaexpress,
 .pe span {
-  background-color: #50c878;
+  background-color: #50c878 !important;
   color: white;
 }
 
@@ -669,7 +669,7 @@ ul {
 
 .bigsnowline,
 .bsl span {
-  background-color: #ff80a9;
+  background-color: #ff80a9 !important;
   color: white;
 }
 
@@ -683,7 +683,7 @@ ul {
 
 .islandsline,
 .il span {
-  background-color: #0f798a;
+  background-color: #0f798a !important;
   color: white;
 }
 

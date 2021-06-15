@@ -90,23 +90,23 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
     </thead>
     <tbody>
       <tr>
-        <td colspan="8" class="alert-warning font-weight-bold">
-          Approved <span class="small font-italic font-weight-bold">(to be ready by January 2021)</span>
+        <td colspan="8" class="alert-warning fw-bold">
+          Approved <span class="small fst-italic fw-bold">(to be ready by January 2021)</span>
         </td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
-        <td class="font-italic">泥堡</td>
+        <td class="fst-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
+        <td class="fst-italic">泥堡</td>
         <td></td>
         <td>January 2021</td>
         <td>Big Snow</td>
       </tr>
       <tr>
-        <td colspan="8" class="alert-success font-weight-bold">
-          Operational <span class="small font-italic font-weight-bold">(since 11 August 2015)</span>
+        <td colspan="8" class="alert-success fw-bold">
+          Operational <span class="small fst-italic fw-bold">(since 11 August 2015)</span>
         </td>
       </tr>
       <tr>
@@ -189,16 +189,16 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
         <td>Miraiya Highlands</td>
       </tr>
       <tr>
-        <td colspan="8" class="alert-danger font-weight-bold">
-          Planned <span class="small font-italic font-weight-bold">(to be ready by early 2022)</span>
+        <td colspan="8" class="alert-danger fw-bold">
+          Planned <span class="small fst-italic fw-bold">(to be ready by early 2022)</span>
         </td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R9</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Observatory" >}}</td>
-        <td class="font-italic">天文台</td>
+        <td class="fst-italic">{{< wiki/link station="Observatory" >}}</td>
+        <td class="fst-italic">天文台</td>
         <td></td>
         <td rowspan="2">Early 2022</td>
         <td>Miraiya Highlands</td>
@@ -207,8 +207,8 @@ The **Red Line** (Code **R**) is the second {{< wiki/external-link domain="wikip
         <td>
           <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Redhill Spring" >}}</td>
-        <td class="font-italic">紅山泉</td>
+        <td class="fst-italic">{{< wiki/link station="Redhill Spring" >}}</td>
+        <td class="fst-italic">紅山泉</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
           {{< wiki/mm-sign route="S" >}}

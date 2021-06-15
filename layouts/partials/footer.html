@@ -1,6 +1,6 @@
 <div class="jumbotron bg-miraimetro text-white {{ if ne .Section "wiki" }}mt-5{{ end }} mb-0 pt-5" id="footer">
   <div class="container">
-    <h5 class="font-weight-bold mb-2">Service Status</h5>
+    <h5 class="fw-bold mb-2">Service Status</h5>
     <div class="row">
       {{ range .Site.Data.service_status.route }}
         <div class="col-4 col-md-2 text-center p-1 d-inline-flex">
@@ -26,7 +26,7 @@
         <p class="small mb-0 pt-2 d-none d-lg-block"><span class="datetime"></span>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-sync-alt fa-sm"></i><a href="javascript:history.go(0)" class="text-light">&nbsp;Update Status</a></p>
       </div>
       <div class="col-12 col-lg-6 pt-3 pt-lg-0">
-        <p class="small mb-0 pt-2 d-none d-lg-block text-right">
+        <p class="small mb-0 pt-2 d-none d-lg-block text-end">
           <a role="button" class="text-light" data-toggle="modal" data-target="#statusLegend">Legend</a>
         </p>
       </div>
@@ -49,7 +49,7 @@
       </div>
       <div class="col-12 col-lg-6 pt-3 pt-lg-0">
         {{ .Scratch.Set "siteInfoCreatedYear" (printf `%s–%s` (dateFormat "2006" (time .Site.Params.siteCreatedTime)) (now.Format "2006")) }}
-        <p class="small text-right">&copy;&nbsp;{{ .Scratch.Get "siteInfoCreatedYear" }}&nbsp;{{ .Site.Copyright }}</p>
+        <p class="small text-end">&copy;&nbsp;{{ .Scratch.Get "siteInfoCreatedYear" }}&nbsp;{{ .Site.Copyright }}</p>
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title font-weight-bold mb-0" id="statusLegendLabel">LEGEND</h5>
+        <h5 class="modal-title fw-bold mb-0" id="statusLegendLabel">LEGEND</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -80,7 +80,7 @@
                 {{ end }}
               </th>
               <td class="w-70">
-                <span class="font-weight-bold">{{ .name }} service</span><br>
+                <span class="fw-bold">{{ .name }} service</span><br>
                 <small class="text-secondary">{{ .description }}</small>
               </td>
             </tr>

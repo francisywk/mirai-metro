@@ -5,12 +5,12 @@
   {{ with .Params }}
     {{ partial "station-jumbotron.html" . }}
     <div class="container small">
-      <ul class="nav nav-pills nav-fill nav-justified border font-weight-bold mb-2">
+      <ul class="nav nav-pills nav-fill nav-justified border fw-bold mb-2">
         <li class="nav-item pill">
           <a class="nav-link active rounded-0 py-3" data-toggle="tab" href="#adjacent_stations">Adjacent stations</a>
         </li>
         {{ if .connecting_station }}
-          <li class="nav-item pill border-left border-right">
+          <li class="nav-item pill border-start border-end">
             <a class="nav-link rounded-0 py-3" data-toggle="tab" href="#connecting_station">Connecting station</a>
           </li>
         {{ end }}
@@ -126,7 +126,7 @@
             <div id="connecting_station" class="tab-pane fade text-center">
               <div class="row border mx-0 mb-2 py-3">
                 <div class="col-12">
-                  <p class="font-weight-bold mb-2">Walking distance to<br>&#x25B8; <a href="/station/{{ anchorize .station }}">{{ .station }}</a></p>
+                  <p class="fw-bold mb-2">Walking distance to<br>&#x25B8; <a href="/station/{{ anchorize .station }}">{{ .station }}</a></p>
                   <p class="mb-2">Available transfers:</p>
                   {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
                 </div>
@@ -166,7 +166,7 @@
                   {{ range . }}
                     <div class="mb-1">
                       &#x25B8;&nbsp;{{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false "data_placement" "left") }}
-                      &nbsp;<span class="text-monospace">{{ delimit .xyz ", " }}</span>
+                      &nbsp;<span class="font-monospace">{{ delimit .xyz ", " }}</span>
                     </div>
                   {{ end }}
                 </td>

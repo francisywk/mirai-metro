@@ -10,7 +10,7 @@ see_also: true
 quick_facts:
   - title:
     - en: Mirai Metro
-  - image: 
+  - image:
     - link: "/img/mirai_metro.png"
       width: 90px
   - heading: Overview
@@ -109,7 +109,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
 
 <div class="table-responsive">
   <table class="table table-bordered table-800 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th colspan="3">Line</th>
         <th colspan="2">Termini</th>
@@ -141,7 +141,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>綠綫</td>
         <td colspan="2">
           {{< wiki/link station="Mirai" >}}
-          <p class="small font-italic mb-0">(loop line)</p>
+          <p class="small fst-italic mb-0">(loop line)</p>
         </td>
         <td>6 November 2016</td>
         <td>10</td>
@@ -173,7 +173,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         </td>
         <td>
           2 May 2018
-          <p class="small font-italic mb-0">(Commuter service)</p>
+          <p class="small fst-italic mb-0">(Commuter service)</p>
         </td>
         <td rowspan="2">5</td>
         <td rowspan="2">0.592</td>
@@ -181,7 +181,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
       <tr>
         <td>
           16 August 2018
-          <p class="small font-italic mb-0">(Express service)</p>
+          <p class="small fst-italic mb-0">(Express service)</p>
         </td>
       </tr>
       <tr>
@@ -204,7 +204,7 @@ The lines are ordered based on the time that the lines are opened. Oldest lines 
         <td>瀑布綫</td>
         <td colspan="2" rowspan="2">
           {{< wiki/link station="Winterland" >}}
-          <p class="small font-italic mb-0">(loop line)</p>
+          <p class="small fst-italic mb-0">(loop line)</p>
         </td>
         <td>25 July 2018</td>
         <td>9</td>

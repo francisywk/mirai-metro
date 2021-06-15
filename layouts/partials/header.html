@@ -1,4 +1,4 @@
-<h1 class="font-weight-bold text-center">{{ .Title }}</h1>
+<h1 class="fw-bold text-center">{{ .Title }}</h1>
 {{ if .Description }}
   <hr>
   <p class="text-center">{{ .Description }}</p>
@@ -7,7 +7,7 @@
     <ol class="breadcrumb bg-transparent d-flex justify-content-center pt-4">
       {{ range .Params.submenu }}
         <li class="breadcrumb-item">
-          <i class="fas fa-angle-down d-inline lh-15"></i><a class="js-scroll-trigger d-inline pl-2" href="{{ . }}">{{ trim (humanize .) "#" | title }}</a>
+          <i class="fas fa-angle-down d-inline lh-15"></i><a class="js-scroll-trigger d-inline ps-2" href="{{ . }}">{{ trim (humanize .) "#" | title }}</a>
         </li>
       {{ end }}
     </ol>

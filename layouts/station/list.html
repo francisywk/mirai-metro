@@ -1,12 +1,12 @@
 {{ define "main" }}
   <div class="container pt-5">
     {{ partial "header.html" . }}
-    <h4 class="pt-5 pb-3 font-weight-bold text-center" id="popular_stations">Popular Stations</h4>
+    <h4 class="pt-5 pb-3 fw-bold text-center" id="popular_stations">Popular Stations</h4>
     <div class="row text-center mx-xl-0 mb-3" id="popular-stations">
       {{ range .Pages.ByTitle }}
         {{ with .Params }}
           {{ if .popular }}
-            <div class="col-12 col-md-6 col-xl-4 my-2 p-xl-0 pr-xl-3">
+            <div class="col-12 col-md-6 col-xl-4 my-2 p-xl-0 pe-xl-3">
               <a href="/station/{{ anchorize .station_name_en }}" class="text-dark">
                 <div class="station-banner text-center mx-auto shadow-none pb-0">
                   <div class="mb-1">
@@ -14,7 +14,7 @@
                   </div>
                   <h4 class="station-name-en mb-0">{{ .station_name_en }}</h4>
                   <h5 class="station-name-zh mb-0">{{ .station_name_zh }}</h5>
-                  <i class="fas fa-link fa-xs text-muted text-right d-block pr-3 pt-3"></i>
+                  <i class="fas fa-link fa-xs text-muted text-end d-block pe-3 pt-3"></i>
                 </div>
               </a>
             </div>
@@ -22,7 +22,7 @@
         {{ end }}
       {{ end }}
     </div>
-    <h4 class="pt-5 pb-3 font-weight-bold text-center" id="list_of_mirai_metro_stations">List of Mirai Metro Stations</h4>
+    <h4 class="pt-5 pb-3 fw-bold text-center" id="list_of_mirai_metro_stations">List of Mirai Metro Stations</h4>
     <p>List of {{ len (where .Site.RegularPages "Section" "==" "station") }} stations on Mirai Metro, including station code, lines serving the station, connections to other public transportation, and location.</p>
     <div class="form-group searchBar">
       <span class="fa fa-search form-control-feedback"></span>
@@ -30,7 +30,7 @@
     </div>
     <div class="table-responsive">
       <table class="table table-bordered table-800 mb-0">
-        <thead class="thead-light">
+        <thead class="table-secondary">
           <tr>
             <th>Station Code<br><small>車站編號</small></th>
             <th>Station Name<br><small>車站名稱</small></th>
@@ -62,7 +62,7 @@
             {{ end }}
           {{ end }}
         </tbody>
-        <thead class="thead-light">
+        <thead class="table-secondary">
           <tr>
             <th>Station Code<br><small>車站編號</small></th>
             <th>Station Name<br><small>車站名稱</small></th>

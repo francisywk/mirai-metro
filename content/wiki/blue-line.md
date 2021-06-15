@@ -104,8 +104,8 @@ The following is a list of the stations on the Blue Line.
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bl rounded-circle">B2</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
-        <td class="font-italic">進灣道</td>
+        <td class="fst-italic">{{< wiki/link station="Roubay Road" >}}</td>
+        <td class="fst-italic">進灣道</td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
@@ -195,7 +195,7 @@ The following is a list of the stations on the Blue Line.
         <td>Spawn Chunk</td>
       </tr>
       <tr>
-        <td colspan="6" class="alert-secondary font-weight-bold">
+        <td colspan="6" class="alert-secondary fw-bold">
           Spur line from {{< wiki/link station="Zero Zero" >}} station
         </td>
       </tr>

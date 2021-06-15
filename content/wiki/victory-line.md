@@ -170,8 +170,8 @@ The **Victory Line** (Code **V**) is a {{< wiki/external-link domain="wikipedia"
         <td>
           <span class="station-code station-code-sm-dd station-code-vl rounded-circle">V10</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Maliblue Island" >}}</td>
-        <td class="font-italic">馬里藍島</td>
+        <td class="fst-italic">{{< wiki/link station="Maliblue Island" >}}</td>
+        <td class="fst-italic">馬里藍島</td>
         <td></td>
         <td>June 2022</td>
       </tr>

@@ -20,7 +20,7 @@ This lists ranks Mirai's skyscrapers that stand at least 20 blocks or metres tal
 
 <div class="table-responsive">
   <table class="table table-bordered table-800">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th>Rank</th>
         <th>Name</th>

@@ -50,7 +50,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-bordered table-600 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th class="w-35">Preceding station</th>
         <th colspan="3">Route</th>
@@ -61,7 +61,7 @@ quick_facts:
       <tr>
         <td>
           {{< wiki/link station="Downtown East" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
         </td>
         <td class="diamondline"></td>
         <td class="w-30">
@@ -71,7 +71,7 @@ quick_facts:
           {{< wiki/link route="D" >}}
         </td>
         <td class="diamondline"></td>
-        <td class="font-italic">Terminus</td>
+        <td class="fst-italic">Terminus</td>
       </tr>
     </tbody>
   </table>

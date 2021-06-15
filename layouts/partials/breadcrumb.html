@@ -1,13 +1,13 @@
 <div>
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb arr-right small bg-transparent my-2 px-1">
+  <nav style="--bs-breadcrumb-divider: '›';" aria-label="breadcrumb">
+    <ol class="breadcrumb small pt-3 pb-2">
       {{ with .Parent }}
-      {{ if .IsHome }}
-      <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">Home</a></li>
-      {{ else }}
-      <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
-      <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-      {{ end }}
+        {{ if .IsHome }}
+          <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">Home</a></li>
+        {{ else }}
+          <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+          <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
       {{ end }}
       <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
     </ol>

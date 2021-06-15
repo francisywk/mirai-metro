@@ -10,7 +10,7 @@ see_also: true
 quick_facts:
 ---
 
-{{< wiki/link "Mirai" >}}, the capital of {{< wiki/link "United Cities" >}}, is divided into **10 districts**, which are further subdivided into administrative wards. 
+{{< wiki/link "Mirai" >}}, the capital of {{< wiki/link "United Cities" >}}, is divided into **10 districts**, which are further subdivided into administrative wards.
 
 <br>
 
@@ -20,7 +20,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-bordered table-800 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th>Class</th>
         <th>District</th>

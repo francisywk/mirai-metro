@@ -8,7 +8,7 @@ keywords: [mirai,miraimetro,station]
 notice: "For other uses, see [Downtown station (disambiguation)](https://en.wikipedia.org/wiki/Downtown_station_(disambiguation) 'Downtown station (disambiguation)')."
 see_also: true
 quick_facts:
-  - title: 
+  - title:
     - en: Downtown
       zh: 下環
   - station_code: [R6,G6,W6]
@@ -56,7 +56,7 @@ The station was first opened on the REL in 2016 when the line was extended south
 
 <div class="table-responsive">
   <table class="table table-bordered table-600 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th class="w-35">Preceding station</th>
         <th colspan="3">Route</th>
@@ -67,7 +67,7 @@ The station was first opened on the REL in 2016 when the line was extended south
       <tr>
         <td>
           {{< wiki/link station="Under the Falls" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Dirt Fortress" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Dirt Fortress" >}}</p>
         </td>
         <td class="redline"></td>
         <td class="w-30">
@@ -79,13 +79,13 @@ The station was first opened on the REL in 2016 when the line was extended south
         <td class="redline"></td>
         <td>
           {{< wiki/link station="Cavehaven" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Dimension Hill" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Dimension Hill" >}}</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Mount Austin" >}}
-          <p class="small font-italic mb-0">Next clockwise</p>
+          <p class="small fst-italic mb-0">Next clockwise</p>
         </td>
         <td class="greenline"></td>
         <td class="w-30">
@@ -97,13 +97,13 @@ The station was first opened on the REL in 2016 when the line was extended south
         <td class="greenline"></td>
         <td>
           {{< wiki/link station="Cavehaven" >}}
-          <p class="small font-italic mb-0">Next anti-clockwise</p>
+          <p class="small fst-italic mb-0">Next anti-clockwise</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Downtown East" >}}
-          <p class="small font-italic mb-0">Next anti-clockwise</p>
+          <p class="small fst-italic mb-0">Next anti-clockwise</p>
         </td>
         <td class="waterfallline"></td>
         <td class="w-30">
@@ -115,7 +115,7 @@ The station was first opened on the REL in 2016 when the line was extended south
         <td class="waterfallline"></td>
         <td>
           {{< wiki/link station="Mount Austin" >}}
-          <p class="small font-italic mb-0">Next clockwise</p>
+          <p class="small fst-italic mb-0">Next clockwise</p>
         </td>
       </tr>
     </tbody>

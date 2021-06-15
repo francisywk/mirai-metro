@@ -1,6 +1,6 @@
 ---
 title: "Draft"
-description: 
+description:
 date: 2021-01-11T00:15:33+08:00
 draft: true
 category:
@@ -21,7 +21,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-800 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2">Station name</th>
@@ -40,8 +40,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
-        <td class="font-italic">泥堡</td>
+        <td class="fst-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
+        <td class="fst-italic">泥堡</td>
         <td></td>
         <td>January 2021</td>
         <td>Big Snow</td>
@@ -137,8 +137,8 @@ quick_facts:
         <td class="alert-danger">
           <span class="station-code station-code-sm station-code-rl rounded-circle">R9</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Observatory" >}}</td>
-        <td class="font-italic">天文台</td>
+        <td class="fst-italic">{{< wiki/link station="Observatory" >}}</td>
+        <td class="fst-italic">天文台</td>
         <td></td>
         <td rowspan="2">Early 2022</td>
         <td>OBS</td>
@@ -147,8 +147,8 @@ quick_facts:
         <td class="alert-danger">
           <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Redhill Spring" >}}</td>
-        <td class="font-italic">紅山泉</td>
+        <td class="fst-italic">{{< wiki/link station="Redhill Spring" >}}</td>
+        <td class="fst-italic">紅山泉</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
           {{< wiki/mm-sign route="S" >}}
@@ -173,7 +173,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -343,7 +343,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -379,8 +379,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bl rounded-circle">B2</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
-        <td class="font-italic">進灣道</td>
+        <td class="fst-italic">{{< wiki/link station="Roubay Road" >}}</td>
+        <td class="fst-italic">進灣道</td>
         <td>
           {{< wiki/mm-sign route="S" >}}
         </td>
@@ -519,7 +519,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -623,7 +623,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -770,7 +770,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -942,7 +942,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -1059,7 +1059,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -1176,7 +1176,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -1196,8 +1196,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-pe rounded-circle">P1</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Panda Museum" >}}</td>
-        <td class="font-italic">熊貓博物館</td>
+        <td class="fst-italic">{{< wiki/link station="Panda Museum" >}}</td>
+        <td class="fst-italic">熊貓博物館</td>
         <td></td>
         <td>Late 2021</td>
         <td>La Mirai</td>
@@ -1280,8 +1280,8 @@ quick_facts:
         <td class="alert-danger">
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Snowtrees" >}}</td>
-        <td class="font-italic">雪林</td>
+        <td class="fst-italic">{{< wiki/link station="Snowtrees" >}}</td>
+        <td class="fst-italic">雪林</td>
         <td></td>
         <td>Mid 2023</td>
         <td>Southwest Valley</td>
@@ -1305,7 +1305,7 @@ quick_facts:
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-800 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2" class="border-bottom-0">Station name</th>
@@ -1324,8 +1324,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S1</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Logsmead" >}}</td>
-        <td class="font-italic">樂米町</td>
+        <td class="fst-italic">{{< wiki/link station="Logsmead" >}}</td>
+        <td class="fst-italic">樂米町</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
@@ -1337,8 +1337,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S2</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
-        <td class="font-italic">進灣道</td>
+        <td class="fst-italic">{{< wiki/link station="Roubay Road" >}}</td>
+        <td class="fst-italic">進灣道</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
@@ -1348,8 +1348,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S3</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Westmead" >}}</td>
-        <td class="font-italic">西米町</td>
+        <td class="fst-italic">{{< wiki/link station="Westmead" >}}</td>
+        <td class="fst-italic">西米町</td>
         <td></td>
         <td rowspan="3">Big Snow</td>
         <td>-</td>
@@ -1358,8 +1358,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S4</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Frozenwell" >}}</td>
-        <td class="font-italic">冰水井</td>
+        <td class="fst-italic">{{< wiki/link station="Frozenwell" >}}</td>
+        <td class="fst-italic">冰水井</td>
         <td></td>
         <td>-</td>
       </tr>
@@ -1367,8 +1367,8 @@ quick_facts:
         <td class="alert-warning">
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S5</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Flimbees" >}}</td>
-        <td class="font-italic">飛林蜂</td>
+        <td class="fst-italic">{{< wiki/link station="Flimbees" >}}</td>
+        <td class="fst-italic">飛林蜂</td>
         <td></td>
         <td>-</td>
       </tr>
@@ -1435,6 +1435,6 @@ quick_facts:
       </tr>
     </tbody>
   </table>
-</div> 
+</div>
 
 <br>

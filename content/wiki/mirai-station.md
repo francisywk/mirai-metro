@@ -82,7 +82,7 @@ Mirai station is served by the following lines of Mirai Metro:
 ---
 <div class="table-responsive">
   <table class="table table-bordered table-600 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th class="w-35">Preceding station</th>
         <th colspan="3">Route</th>
@@ -93,7 +93,7 @@ Mirai station is served by the following lines of Mirai Metro:
       <tr>
         <td>
           {{< wiki/link station="UCHQ West" >}}
-          <p class="small font-italic mb-0">Next clockwise</p>
+          <p class="small fst-italic mb-0">Next clockwise</p>
         </td>
         <td class="greenline"></td>
         <td class="w-30">
@@ -105,23 +105,23 @@ Mirai station is served by the following lines of Mirai Metro:
         <td class="greenline"></td>
         <td>
           {{< wiki/link station="Uptown Cross" >}}
-          <p class="small font-italic mb-0">Next anti-clockwise</p>
+          <p class="small fst-italic mb-0">Next anti-clockwise</p>
         </td>
       </tr>
       <tr>
-        <td rowspan="2" class="font-italic">Terminus</td>
+        <td rowspan="2" class="fst-italic">Terminus</td>
         <td class="airportexpress"></td>
         <td>
           <div class="mb-05">
             {{< wiki/mm-sign route="Ax" >}}
           </div>
           {{< wiki/link route="A" >}}
-          <p class="small font-italic mb-0">(Express)</p>
+          <p class="small fst-italic mb-0">(Express)</p>
         </td>
         <td class="airportexpress"></td>
         <td>
           {{< wiki/link station="Mirai City Airport" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
         </td>
       </tr>
       <tr>
@@ -131,18 +131,18 @@ Mirai station is served by the following lines of Mirai Metro:
             {{< wiki/mm-sign route="A" >}}
           </div>
           {{< wiki/link route="A" >}}
-          <p class="small font-italic mb-0">(Commuter)</p>
+          <p class="small fst-italic mb-0">(Commuter)</p>
         </td>
         <td class="airportline"></td>
         <td>
           {{< wiki/link station="UCHQ South" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Berryhills" >}}
-          <p class="small font-italic mb-0">Next anti-clockwise</p>
+          <p class="small fst-italic mb-0">Next anti-clockwise</p>
         </td>
         <td class="cityloopline"></td>
         <td>
@@ -154,13 +154,13 @@ Mirai station is served by the following lines of Mirai Metro:
         <td class="cityloopline"></td>
         <td>
           {{< wiki/link station="Downtown East" >}}
-          <p class="small font-italic mb-0">Next clockwise</p>
+          <p class="small fst-italic mb-0">Next clockwise</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Berryhills" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
         </td>
         <td class="diamondline"></td>
         <td>
@@ -172,7 +172,7 @@ Mirai station is served by the following lines of Mirai Metro:
         <td class="diamondline"></td>
         <td>
           {{< wiki/link station="Mugen" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Diamond Hill" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Diamond Hill" >}}</p>
         </td>
       </tr>
     </tbody>

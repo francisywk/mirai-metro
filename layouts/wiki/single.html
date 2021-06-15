@@ -8,16 +8,16 @@
       {{ end }}
       <hr class="mt-0">
       {{ with .notice }}
-        <p class="bg-miraimetro2 font-italic small p-2">
+        <p class="bg-miraimetro2 fst-italic small p-2">
           {{ . | markdownify }}
         </p>
       {{ end }}
     </div>
     {{ if .quick_facts }}
       <div class="clearfix">
-        <div class="float-md-right ml-md-3 ml-lg-4 mb-4" id="infobar">
-          <button class="btn btn-block bg-miraimetro2 rounded-0 font-weight-bold text-left d-md-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">
-            Quick Facts: <span class="font-weight-normal text-secondary">
+        <div class="float-md-end ms-md-3 ms-lg-4 mb-4" id="infobar">
+          <button class="btn btn-block bg-miraimetro2 rounded-0 fw-bold text-start d-md-none collapsed" id="btn-chevronupdown" type="button" data-toggle="collapse" data-target="#quickfacts" aria-expanded="false" aria-controls="quickfacts">
+            Quick Facts: <span class="fw-normal text-secondary">
               {{ range .quick_facts }}
                 {{ range .cols_2 }}
                   {{ $titles := print .title ", " }}
@@ -32,8 +32,8 @@
               {{ range .quick_facts }}
                 {{ with .title }}
                   {{ range . }}
-                    <h6 class="text-center font-weight-bold mt-2 mb-0"{{ with .style }} style="{{ safeCSS . }}"{{ end }}>
-                      {{ .en }}<br><span class="font-weight-normal">{{ .zh }}</span>
+                    <h6 class="text-center fw-bold mt-2 mb-0"{{ with .style }} style="{{ safeCSS . }}"{{ end }}>
+                      {{ .en }}<br><span class="fw-normal">{{ .zh }}</span>
                     </h6>
                   {{ end }}
                 {{ end }}
@@ -57,7 +57,7 @@
                   </div>
                 {{ end }}
                 {{ with .heading }}
-                  <p class="bg-miraimetro2 text-center font-weight-bold py-1 mb-2">{{ . }}</p>
+                  <p class="bg-miraimetro2 text-center fw-bold py-1 mb-2">{{ . }}</p>
                 {{ end }}
                 <div class="side-table">
                   {{ range .cols_1 }}
@@ -69,10 +69,10 @@
                   {{ end }}
                   {{ range .cols_2 }}
                     <div class="row mb-2">
-                      <div class="col-6 pr-15 font-weight-bold">
+                      <div class="col-6 pe-15 fw-bold">
                         {{ .title | markdownify }}
                       </div>
-                      <div class="col-6 pl-15 text-break">
+                      <div class="col-6 ps-15 text-break">
                         {{ .content | markdownify }}
                       </div>
                     </div>
@@ -84,7 +84,7 @@
               <div class="container bg-light border mt-3 p-2">
                 {{ range . }}
                   {{ with .heading }}
-                    <h6 class="alert-info text-black text-center font-weight-bold py-1">{{ . }}</h6>
+                    <h6 class="alert-info text-black text-center fw-bold py-1">{{ . }}</h6>
                   {{ end }}
                   {{ range .cols_2 }}
                     <div class="row mb-1">
@@ -99,7 +99,7 @@
                   {{ with .transcriptions }}
                     <div class="row">
                       <div class="col">
-                        <p class="alert-warning text-black font-weight-bold mb-0">
+                        <p class="alert-warning text-black fw-bold mb-0">
                           Transcriptions
                         </p>
                       </div>
@@ -107,7 +107,7 @@
                     {{ range . }}
                       <div class="row">
                         <div class="col text-center">
-                          <p class="alert-success font-weight-bold mb-1">
+                          <p class="alert-success fw-bold mb-1">
                             {{ .language | markdownify }}
                           </p>
                         </div>

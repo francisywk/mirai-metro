@@ -87,16 +87,16 @@ The following is a list of future and operational stations of the Big Snow Line.
     </thead>
     <tbody>
       <tr>
-        <td colspan="6" class="alert-warning font-weight-bold">
-          Phase 2 <span class="small font-italic font-weight-bold">(approved, to be ready by December 2021)</span>
+        <td colspan="6" class="alert-warning fw-bold">
+          Phase 2 <span class="small fst-italic fw-bold">(approved, to be ready by December 2021)</span>
         </td>
       <tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S1</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Logsmead" >}}</td>
-        <td class="font-italic">樂米町</td>
+        <td class="fst-italic">{{< wiki/link station="Logsmead" >}}</td>
+        <td class="fst-italic">樂米町</td>
         <td>
           {{< wiki/mm-sign route="V" >}}
         </td>
@@ -107,8 +107,8 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S2</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
-        <td class="font-italic">進灣道</td>
+        <td class="fst-italic">{{< wiki/link station="Roubay Road" >}}</td>
+        <td class="fst-italic">進灣道</td>
         <td>
           {{< wiki/mm-sign route="B" >}}
         </td>
@@ -117,8 +117,8 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S3</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Westmead" >}}</td>
-        <td class="font-italic">西米町</td>
+        <td class="fst-italic">{{< wiki/link station="Westmead" >}}</td>
+        <td class="fst-italic">西米町</td>
         <td></td>
         <td rowspan="3">Big Snow</td>
       </tr>
@@ -126,21 +126,21 @@ The following is a list of future and operational stations of the Big Snow Line.
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S4</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Frozenwell" >}}</td>
-        <td class="font-italic">冰水井</td>
+        <td class="fst-italic">{{< wiki/link station="Frozenwell" >}}</td>
+        <td class="fst-italic">冰水井</td>
         <td></td>
       </tr>
       <tr>
         <td>
           <span class="station-code station-code-sm station-code-bsl rounded-circle">S5</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Flimbees" >}}</td>
-        <td class="font-italic">飛林蜂</td>
+        <td class="fst-italic">{{< wiki/link station="Flimbees" >}}</td>
+        <td class="fst-italic">飛林蜂</td>
         <td></td>
       </tr>
       <tr>
-        <td colspan="6" class="alert-success font-weight-bold">
-          Phase 1 <span class="small font-italic font-weight-bold">(operational, since 8 October 2020)</span>
+        <td colspan="6" class="alert-success fw-bold">
+          Phase 1 <span class="small fst-italic fw-bold">(operational, since 8 October 2020)</span>
         </td>
       <tr>
       <tr>

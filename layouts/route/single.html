@@ -4,14 +4,14 @@
   {{ with .Params }}
     <div class="text-center my-3">
       {{ partial "route_sign/normal.html" (dict "context" . "hover" false "vertical" false) }}
-      <div class="d-inline-block text-left align-top pl-1 lh-10">
+      <div class="d-inline-block text-start align-top ps-1 lh-10">
         <span class="h5 stylised-name-en-zh">{{ .Title }}</span><br>
         <span class="h6 stylised-name-en-zh">{{ .title_zh }}</span>
       </div>
     </div>
     <div class="alert alert-secondary small mb-4 py-2 rounded-0" role="alert">
       <div class="row">
-        <div class="col-0 col-md-8 text-right order-md-last">
+        <div class="col-0 col-md-8 text-end order-md-last">
           <span class="d-none d-md-inline"><span class="datetime"></span>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-sm fa-sync-alt">&nbsp;</i><a href="javascript:history.go(0)" class="alert-link">Update Status</a></span>
         </div>
         <div class="col-12 col-md-4 text-center text-md-left order-md-first">
@@ -53,10 +53,10 @@
                   <th scope="col">Commuter<br><small>普通</small></th>
                   <th scope="col">Express<br><small>直達</small></th>
                 {{ else }}
-                  <th scope="col" class="{{ if .branch_line }}text-left pl-5{{ end }}">Code<br><small>站號</small></th>
+                  <th scope="col" class="{{ if .branch_line }}text-start ps-5{{ end }}">Code<br><small>站號</small></th>
                 {{ end }}
-                <th scope="col" class="text-left">Station<br><small>車站</small></th>
-                <th scope="col" class="text-right">Transfer<br><small>轉乘</small></th>
+                <th scope="col" class="text-start">Station<br><small>車站</small></th>
+                <th scope="col" class="text-end">Transfer<br><small>轉乘</small></th>
                 <th scope="col">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
               </tr>
             </thead>
@@ -77,7 +77,7 @@
                   {{ else }}
                     {{ $style = "station-code-bg" }}
                   {{ end }}
-                  <td class="{{ $style }} {{ if ne $.Params.branch_line true }}text-center{{ else }}pl-5{{ end }}">
+                  <td class="{{ $style }} {{ if ne $.Params.branch_line true }}text-center{{ else }}ps-5{{ end }}">
                     {{ with .station_code }}
                       {{ partial "station_code/normal/horizontal.html" . }}
                     {{ end }}
@@ -97,8 +97,8 @@
                       </td>
                     {{ end }}
                   {{ end }}
-                  <td><span class="text-dark">&#x25B8;&nbsp;</span><a href="/station/{{ anchorize .name }}">{{ .name }}<br><span class="pl-3 small text-dark">{{ .name_zh }}</span></a></td>
-                  <td class="text-right">
+                  <td><span class="text-dark">&#x25B8;&nbsp;</span><a href="/station/{{ anchorize .name }}">{{ .name }}<br><span class="ps-3 small text-dark">{{ .name_zh }}</span></a></td>
+                  <td class="text-end">
                     {{ with .transfer }}
                       {{ range . }}
                         {{ partial "route_sign/small.html" (dict "context" . "hover" true "vertical" false) }}
@@ -115,14 +115,14 @@
         </div>
       </div>
       <div class="col-12 col-lg-4 px-25">
-        <p class="lead font-weight-bold text-center mt-4 mt-lg-0 mb-1">Other routes</p>
+        <p class="lead fw-bold text-center mt-4 mt-lg-0 mb-1">Other routes</p>
         <div class="row row-cols-2 mx-0">
           {{ range where $.Site.RegularPages "Section" "==" "route" }}
             {{ if ne .Title $.Title }}
-              <div class="col mb-2 pl-0 pr-2">
+              <div class="col mb-2 ps-0 pe-2">
                 <div class="card bg-light border-0 rounded-0 px-3 py-2">
                   <div class="media">
-                    <div class="align-self-center pr-2">
+                    <div class="align-self-center pe-2">
                       {{ with .Params  }}
                         {{ partial "route_sign/small.html" (dict "context" . "hover" false "vertical" false) }}
                       {{ end }}

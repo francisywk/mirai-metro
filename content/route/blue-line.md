@@ -7,23 +7,23 @@ stations:
   - station_code: [B1]
     name: Victory Bay
     name_zh: 勝利灣
-    transfer: 
+    transfer:
       - route_sign: [V]
     first_station: true
   - station_code: [B3]
     name: UCHQ North
     name_zh: 聯總北
-    transfer: 
+    transfer:
       - route_sign: [Ac,D]
   - station_code: [B4]
     name: UCHQ South
     name_zh: 聯總南
-    transfer: 
+    transfer:
       - route_sign: [G,A]
   - station_code: [B5]
     name: Mugen
     name_zh: 無限
-    transfer: 
+    transfer:
       - route_sign: [V,W,D,P]
   - station_code: [B6]
     name: Paradise Falls

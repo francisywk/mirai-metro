@@ -6,6 +6,7 @@
 <script src="{{ $easing }}"></script>
 {{/*  Bootstrap JS  */}}
 {{ $bootstrap := "/js/bootstrap.bundle.min.js" | absURL }}
+{{/*  {{ $bootstrap := resources.Get "" }}  */}}
 <script src="{{ $bootstrap }}"></script>
 {{/*  Custom JS  */}}
 {{ $mainScript := resources.Get "/js/main.js" | minify }}

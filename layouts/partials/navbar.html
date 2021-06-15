@@ -9,17 +9,17 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav me-auto">
         {{ range .Site.Menus.main }}
           <li class="nav-item{{ if or (eq $.Title .Name) (eq $.Slug .Name) }} active{{ end }}">
-            <a class="nav-link{{ if or (eq $.Title .Name) (eq $.Slug .Name) }} font-weight-bold{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            <a class="nav-link{{ if or (eq $.Title .Name) (eq $.Slug .Name) }} fw-bold{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
           </li>
         {{ end }}
       </ul>
     </div>
     <div class="navbar-text d-none d-xl-block{{ if .IsHome }} bg-white px-2 rounded{{ end }}">
-      Connecting <span class="text-miraimetro font-weight-bold">Mirai</span>. Connecting <span
-        class="text-miraimetro font-weight-bold">Future</span>
+      Connecting <span class="text-miraimetro fw-bold">Mirai</span>. Connecting <span
+        class="text-miraimetro fw-bold">Future</span>
     </div>
   </div>
 </nav>

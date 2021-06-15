@@ -34,7 +34,7 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2">Station name</th>
@@ -731,7 +731,7 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
 
 <div class="table-responsive">
   <table class="table table-sm table-bordered table-1000 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th rowspan="2">Station code</th>
         <th colspan="2">Station name</th>
@@ -751,8 +751,8 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R1</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
-        <td class="font-italic">泥堡</td>
+        <td class="fst-italic">{{< wiki/link station="Dirt Fortress" >}}</td>
+        <td class="fst-italic">泥堡</td>
         <td>{{< wiki/mm-sign route="R" >}}</td>
         <td>January 2021</td>
         <td>Big Snow</td>
@@ -763,8 +763,8 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         <td>
           <span class="station-code station-code-sm station-code-rl rounded-circle">R9</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Observatory" >}}</td>
-        <td class="font-italic">天文台</td>
+        <td class="fst-italic">{{< wiki/link station="Observatory" >}}</td>
+        <td class="fst-italic">天文台</td>
         <td>{{< wiki/mm-sign route="R" >}}</td>
         <td>Early 2022</td>
         <td>Miraiya Highlands</td>
@@ -775,8 +775,8 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         <td>
           <span class="station-code station-code-sm-dd station-code-rl rounded-circle">R10</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Redhill Spring" >}}</td>
-        <td class="font-italic">紅山泉</td>
+        <td class="fst-italic">{{< wiki/link station="Redhill Spring" >}}</td>
+        <td class="fst-italic">紅山泉</td>
         <td>{{< wiki/mm-sign route="R" >}}</td>
         <td>Early 2022</td>
         <td>Miraiya Valley</td>
@@ -787,8 +787,8 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         <td>
           <span class="station-code station-code-sm station-code-bl rounded-circle">B2</span>
         </td>
-        <td  rowspan="2"class="font-italic">{{< wiki/link station="Roubay Road" >}}</td>
-        <td  rowspan="2"class="font-italic">進灣道</td>
+        <td  rowspan="2"class="fst-italic">{{< wiki/link station="Roubay Road" >}}</td>
+        <td  rowspan="2"class="fst-italic">進灣道</td>
         <td>{{< wiki/mm-sign route="B" >}}</td>
         <td rowspan="2">December 2021</td>
         <td rowspan="2">Mob Forest</td>
@@ -805,8 +805,8 @@ Listed for each of the 33 stations are the station code and name, line(s) servin
         <td>
           <span class="station-code station-code-sm station-code-pe rounded-circle">P7</span>
         </td>
-        <td class="font-italic">{{< wiki/link station="Snowtrees" >}}</td>
-        <td class="font-italic">雪林</td>
+        <td class="fst-italic">{{< wiki/link station="Snowtrees" >}}</td>
+        <td class="fst-italic">雪林</td>
         <td>{{< wiki/mm-sign route="P" >}}</td>
         <td>Mid 2023</td>
         <td>Big Snow</td>

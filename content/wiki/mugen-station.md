@@ -94,7 +94,7 @@ Mugen station is served by the following lines of Mirai Metro:
 
 <div class="table-responsive">
   <table class="table table-bordered table-600 text-center">
-    <thead class="thead-light">
+    <thead class="table-secondary">
       <tr>
         <th class="w-35">Preceding station</th>
         <th colspan="3">Route</th>
@@ -105,7 +105,7 @@ Mugen station is served by the following lines of Mirai Metro:
       <tr>
         <td>
           {{< wiki/link station="UCHQ South" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Victory Bay" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Victory Bay" >}}</p>
         </td>
         <td class="blueline"></td>
         <td class="w-30">
@@ -117,11 +117,11 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="blueline"></td>
         <td>
           {{< wiki/link station="Paradise Falls" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Spawn" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Spawn" >}}</p>
         </td>
       </tr>
       <tr>
-        <td class="font-italic">Terminus</td>
+        <td class="fst-italic">Terminus</td>
         <td class="victoryline"></td>
         <td>
           <div class="mb-05">
@@ -132,13 +132,13 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="victoryline"></td>
         <td>
           {{< wiki/link station="Bottomvalley" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Moon Lake" >}}</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Under the Falls" >}}
-          <p class="small font-italic mb-0">next anti-clockwise</p>
+          <p class="small fst-italic mb-0">next anti-clockwise</p>
         </td>
         <td class="waterfallline"></td>
         <td>
@@ -150,13 +150,13 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="waterfallline"></td>
         <td>
           {{< wiki/link station="Downtown East" >}}
-          <p class="small font-italic mb-0">next clockwise</p>
+          <p class="small fst-italic mb-0">next clockwise</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Mirai" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="UCHQ North" >}}</p>
         </td>
         <td class="diamondline"></td>
         <td>
@@ -168,13 +168,13 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="diamondline"></td>
         <td>
           {{< wiki/link station="Downtown East" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Diamond Hill" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Diamond Hill" >}}</p>
         </td>
       </tr>
       <tr>
         <td>
           {{< wiki/link station="Cavehaven" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Panda Museum" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Panda Museum" >}}</p>
         </td>
         <td class="pandaexpress"></td>
         <td>
@@ -186,7 +186,7 @@ Mugen station is served by the following lines of Mirai Metro:
         <td class="pandaexpress"></td>
         <td>
           {{< wiki/link station="Under the Falls" >}}
-          <p class="small font-italic mb-0">towards {{< wiki/link station="Evergreen" >}}</p>
+          <p class="small fst-italic mb-0">towards {{< wiki/link station="Evergreen" >}}</p>
         </td>
       </tr>
     </tbody>
